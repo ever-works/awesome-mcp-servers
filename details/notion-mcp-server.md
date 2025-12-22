@@ -1,20 +1,34 @@
 # Notion MCP Server
 
-[Notion MCP Server](https://www.claudemcp.com/servers/notion-mcp-server) is a server solution designed to enhance the functionality of Notion for teams, focusing on automation, integration, and improved performance for productivity and project tracking workflows.
+## Description
+Notion MCP Server is a Model Context Protocol (MCP) server that integrates with Notion, allowing language models (via MCP-compatible clients) to search, read, create, and update Notion pages and databases directly from a chat interface.
 
 ## Features
-- **Actionable Triggers:** Uses changes in Notion as triggers for automations across various tools and platforms.
-- **Automation Support:** Facilitates automation for knowledge management and project tracking by linking Notion activities to external tools.
-- **Seamless Integration:** Integrates smoothly with Notion, expanding its capabilities within a team's tool ecosystem.
-- **Improved Performance:** Offers faster data processing and optimized workflows for users relying on Notion.
-- **Reliability and Scalability:** Ensures stable connectivity and can scale to support teams of various sizes.
-- **Customization:** Provides options for customizing the integration and automation processes to fit specific workflow needs.
 
-## Category
-- Data Access Integration MCP Servers
+### Notion Integration
+- Connects to a Notion workspace via MCP
+- Exposes standardized tools for interacting with Notion content
+- Supports both pages and databases
 
-## Tags
-notion, automation, project-management, integration
+### Page Operations
+- Search across the Notion workspace
+- Create new pages with rich markdown content
+- Read page content with clean, structured formatting
+- Update existing pages
+- Add comments to pages
+- Retrieve existing comments from pages
+- Block-level operations on page content:
+  - Update individual blocks
+  - Delete individual blocks
+
+### Enhanced Markdown Support
+- Multiple heading levels (H1–H3)
+- Code blocks with language specification
+- Interactive todo items with checkbox states
+- Blockquotes with multi-line support
 
 ## Pricing
-- No pricing information is provided in the available content.
+- Free and open-source (MIT License)
+
+## License
+- MIT License

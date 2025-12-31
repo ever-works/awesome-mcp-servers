@@ -1,45 +1,93 @@
 # Linear MCP Server
 
-The Linear MCP server provides a standardized interface for AI models and agents to securely access and manage data from a Linear workspace.
+An MCP server that connects to Linear via API key, enabling issue tracking, project management, and sprint/bug workflows for software teams.
+
+## Overview
+
+- **Type:** MCP server / integration
+- **Category:** Project management MCP servers
+- **Authentication:** Linear API key
+- **MCP Server URL:** `https://mcp.pipedream.net/v2`
 
 ## Features
-- Standardized MCP server for interacting with Linear workspaces.
-- Secure access for AI models and agents to Linear data.
-- Supports listing, retrieving, creating, and updating core Linear resources:
-  - Comments
-  - Cycles
-  - Documents
-  - Issues
-  - Issue statuses
-  - Issue labels
-  - Projects
-  - Teams
-- Tools for both workspace-wide queries and user-specific views (e.g., issues assigned to the authenticated user).
 
-## Endpoints
-- `https://mcp.linear.app/mcp`
-- `https://mcp.linear.app/sse`
-- `mcp-remote`
+### Connectivity & Setup
+- Connects to a Linear workspace using an API key.
+- Single static MCP server URL that works for all clients.
+- Can be added to any compatible chat or MCP-enabled application.
 
-## Tools
-- `list_comments` — Retrieve a list of comments.
-- `create_comment` — Create a new comment.
-- `list_cycles` — Retrieve all cycles.
-- `get_document` — Retrieve a specific document.
-- `list_documents` — List all documents.
-- `get_issue` — Get details of a specific issue.
-- `list_issues` — List issues in the workspace.
-- `create_issue` — Create a new issue.
-- `update_issue` — Update an existing issue.
-- `list_issue_statuses` — Retrieve all available issue statuses.
-- `get_issue_status` — Retrieve details of a specific issue status.
-- `list_my_issues` — List issues assigned to the authenticated user.
-- `list_issue_labels` — Retrieve all available issue labels.
-- `list_projects` — List all projects.
-- `get_project` — Retrieve details of a specific project.
-- `create_project` — Create a new project.
-- `update_project` — Update an existing project.
-- `list_teams` — List all teams.
+### Issue Management
+- **Create Issue**
+  - Create new Linear issues.
+  - Required: team ID and title.
+  - Optional fields: description, assignee, project, state.
+  - Returns success status and full issue details.
+  - Authenticated via API key.
+
+- **Update Issue**
+  - Update existing Linear issues.
+  - Supports modifying:
+    - Title
+    - Description
+    - Assignee
+    - State
+    - Project
+    - Team
+    - Labels
+    - Priority
+    - Dates
+  - Returns updated issue details.
+  - Authenticated via API key.
+
+- **Get Issue**
+  - Retrieve a single issue by ID.
+  - Returns detailed issue data including:
+    - Title and description
+    - State
+    - Assignee
+    - Team
+    - Project
+    - Labels
+    - Timestamps
+  - Authenticated via API key.
+
+- **Search Issues**
+  - Search issues with multiple filters:
+    - Team
+    - Project
+    - Assignee
+    - Labels
+    - State
+    - Text query
+  - Supports:
+    - Pagination
+    - Ordering
+    - Inclusion of archived issues
+  - Returns an array of matching issues.
+  - Authenticated via API key.
+
+### Team & Project Management
+- **Get Teams**
+  - Retrieve all teams in a Linear workspace.
+  - Returns team objects with details such as ID, name, and key.
+  - Supports pagination with configurable limit.
+  - Authenticated via API key.
+
+- **List Projects**
+  - List projects in Linear.
+  - Uses API key authentication (via MCP server).
+
+- **Create Project**
+  - Create new projects in Linear.
+  - Uses API key authentication (via MCP server).
+
+## Use Cases
+
+- Manage software project issues (create, update, search) directly from MCP-enabled tools.
+- Inspect and retrieve detailed issue information by ID.
+- Browse and manage teams and projects within a Linear workspace.
+- Support sprint planning, bug tracking, and task management workflows through MCP actions.
 
 ## Pricing
-- Not specified in the provided documentation.
+
+- No pricing information is provided in the available content. Pricing, if applicable, would need to be checked on the provider’s site.

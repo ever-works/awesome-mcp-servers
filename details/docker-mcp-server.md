@@ -1,38 +1,43 @@
 # Docker MCP Server
 
-**Category:** Code Execution Automation MCP Servers  
-**Tags:** docker, code-execution, automation, mcp  
-**Source:** [Guide: Deploy a Production-Ready MCP Server Using Docker - Hawkdive.com](https://www.hawkdive.com/guide-deploy-a-production-ready-mcp-server-using-docker/)
+## Overview
+The Docker MCP Server (Docker Engine MCP Server) is an MCP (Model Context Protocol) server that exposes Docker Engine capabilities to MCP-compatible tools and chat clients. It enables programmatic management of Docker containers, images, and other engine operations through a standardized MCP interface.
 
----
-
-## Description
-
-Docker MCP Server is an implementation of the Model Context Protocol (MCP) that allows for secure execution and management of code and environments within Docker containers. It is designed to address common challenges in the deployment and use of AI-powered tools, particularly those that require isolation, automation, and multi-language support.
-
----
+- **Name:** Docker MCP Server (Docker Engine MCP Server)
+- **Category:** Cloud & DevOps – MCP Servers
+- **Brand:** Docker
+- **Source URL:** https://mcp.pipedream.com/app/docker_engine
+- **MCP Server URL:** `https://mcp.pipedream.net/v2`
 
 ## Features
+- **MCP-compatible Docker access**
+  - Provides an MCP Server endpoint for interacting with Docker Engine.
+  - Designed to be added directly to MCP-enabled chat clients and applications.
 
-- **Containerized Isolation:** Runs MCP tools inside Docker containers, isolating them from the host system and reducing security risks from AI tool execution.
-- **Multi-Language Support:** Supports tools written in different programming languages, such as Python and Node.js, without requiring manual environment management.
-- **Container Lifecycle Management:** Handles starting, stopping, and managing the lifecycle of containers for individual tools.
-- **Script Execution:** Enables execution of scripts and tools in a secure, sandboxed environment.
-- **MCP Gateway Functionality:** Acts as a gateway MCP server, allowing dynamic discovery and execution of a wide set of containerized tools without manual configuration changes.
-- **MCP Catalog Integration:** Integrates with a Docker MCP Catalog, enabling users to discover, add, and remove tools dynamically through a user interface similar to Docker Hub.
-- **Enhanced Security with Docker Secrets:** Leverages Docker Secrets to securely manage sensitive information (such as access tokens) within containers, ensuring secrets are only accessible to the intended tool and not exposed in configuration files.
-- **Compatibility:** Ensures compatibility with leading AI platforms and editors such as Claude, Cursor, OpenAI, and VS Code.
-- **Simplified Dependency Management:** Eliminates the need for developers to handle multiple language runtimes and dependencies directly on the host system.
-- **Centralized Tool Management:** Provides a single point of configuration and access for managing hundreds of MCP tools.
+- **Container management (via Docker Engine)**
+  - Supports managing Docker containers programmatically (e.g., create, start, stop, inspect, remove), as exposed through Docker Engine.
 
----
+- **Image management (via Docker Engine)**
+  - Enables operations on Docker images (e.g., pull, push, list, remove, inspect), through Docker Engine.
+
+- **Other engine operations**
+  - Gives tools access to additional Docker Engine capabilities (e.g., networks, volumes, and other engine-level operations) as supported by the underlying Docker Engine API.
+
+- **Static MCP server URL**
+  - Uses a single static base URL for all clients: `https://mcp.pipedream.net/v2`.
+  - Authentication is handled when you add the server to your specific application or client.
+
+- **Client-agnostic integration**
+  - Works with multiple MCP-compatible chat clients and applications.
+  - Documentation available per client (via the configuration page) for setup steps.
+
+- **Hosted by Pipedream Connect**
+  - The MCP server is operated and provided through Pipedream Connect’s infrastructure.
+
+## Integration
+- Add the MCP server URL `https://mcp.pipedream.net/v2` to your MCP-compatible chat client or app.
+- Follow client-specific instructions from the configuration documentation (linked on the source page).
+- Authenticate during setup within your client or application.
 
 ## Pricing
-
-No pricing information was provided in the source content.
-
----
-
-## Additional Notes
-
-Docker MCP Server addresses key challenges in the MCP ecosystem, including runtime management, security, discoverability, and trust, by leveraging Docker's isolation, secret management, and centralized catalog features.
+The provided content does not include any pricing or plan information for the Docker MCP Server. Pricing, if applicable, is not specified on the referenced page.

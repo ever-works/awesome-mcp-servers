@@ -1,45 +1,36 @@
-# Kubernetes MCP Server
+# kubernetes-mcp-server
 
-**Category:** Cloud DevOps MCP Servers  
-**Tags:** kubernetes, cloud-native, devops, monitoring
+**Category:** cloud-devops-mcp-servers  
+**Brand:** containers  
+**License:** Apache-2.0  
+**Source:** https://github.com/containers/kubernetes-mcp-server
 
-## Description
-Kubernetes MCP Server is a solution that enables LLMs to manage, monitor, and interact with Kubernetes clusters, supporting AI-assisted cloud infrastructure management. It connects to a Kubernetes cluster and allows command execution via CLI or integration with tools like Claude Desktop and mcp-chat.
+## Overview
+kubernetes-mcp-server is a Model Context Protocol (MCP) server that exposes Kubernetes and OpenShift clusters to MCP-compatible clients. It enables CRUD-style interaction with Kubernetes resources through the MCP interface, making it possible for tools and agents that speak MCP to discover, read, create, update, and delete cluster resources.
 
 ## Features
-- Connect to a Kubernetes cluster using the current kubectl context
-- List all pods, services, deployments, nodes, and namespaces in the cluster
-- Create, delete, and describe pods
-- Retrieve logs from pods (supports deployments, jobs, and label selectors)
-- Support for Helm v3:
-  - Install Helm charts with custom values
-  - Uninstall releases
-  - Upgrade existing releases
-  - Namespace and version specification support
-  - Support for custom repositories
-- `kubectl explain` and `kubectl api-resources` command support
-- Fetch Kubernetes events from the cluster
-- Port forwarding to pods
-- Choose namespace for subsequent commands (command memory)
-- CLI integration via mcp-chat or Claude Desktop
-- Local development support with hot reload, unit tests, and build scripts
-- SSE transport for advanced integrations
+- Implements a Model Context Protocol (MCP) server for Kubernetes.
+- Extended support for OpenShift clusters.
+- Provides CRUD operations for Kubernetes resources via MCP.
+- Designed to integrate with tools/agents that use MCP as a standard interface.
+- Open source, hosted on GitHub under the `containers` organization.
 
-## Architecture
-- Uses a request/response flow between client, transport layer, server, handler, Kubernetes manager, and the Kubernetes API
-- Supports both tool operations (like pod management) and resource queries via a modular handler design
-
-## Requirements
-- kubectl installed and configured with access to a Kubernetes cluster
-- Valid kubeconfig file with contexts
-- Helm v3 installed (optional if not using Helm features)
-
-## License
-MIT
+## Technical Details
+- Ecosystem: Kubernetes, OpenShift, cloud-native, container management.
+- Repository structure includes:
+  - `cmd/kubernetes-mcp-server` for the main server command.
+  - `charts/kubernetes-mcp-server` suggesting Helm chart packaging.
+  - `docs/` for project documentation.
+  - Additional directories for configuration, internal code, build, and evaluation assets.
 
 ## Pricing
-No pricing information provided. The project is open source and available under the MIT license.
+- Not specified; the project is open source under the Apache-2.0 license, with no pricing information provided in the available content.
 
-## Source
-[GitHub Repository](https://github.com/Flux159/mcp-server-kubernetes)
-[Package on npm](https://www.npmjs.com/package/mcp-server-kubernetes)
+## Tags
+- kubernetes  
+- cloud-native  
+- container-management
+
+## Images
+- Repository preview / Open Graph image:  
+  https://opengraph.githubassets.com/1/containers/kubernetes-mcp-server

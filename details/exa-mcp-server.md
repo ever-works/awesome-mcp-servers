@@ -1,49 +1,48 @@
-# exa-mcp-server
+# Exa MCP Server
 
-**Description:**
-Model Context Protocol (MCP) server that connects to Exa AI Search API, enabling real-time web search access for AI models within the MCP framework.
+**Category:** Web Search MCP Servers  
+**Website:** https://mcp.pipedream.com/app/metaphor
 
-**Source:** [GitHub - exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)
-
-**Category:** data-access-integration-mcp-servers
-
-**Tags:** mcp, web-search, ai-integration, real-time, api-integration
-
----
+## Description
+Exa MCP Server provides an embeddings-based, real-time AI search engine exposed via the Model Context Protocol (MCP). It enables MCP-compatible clients to perform semantic, AI-optimized web search and retrieve high-quality, structured content from live websites and search engine results.
 
 ## Features
-- **Real-time Web Search:** Enables AI assistants (such as Claude Desktop) to perform web searches using the Exa AI Search API, providing up-to-date information.
-- **Structured Search Results:** Returns search results with titles, URLs, and content snippets for easy consumption by AI models.
-- **Caching:** Caches recent searches for quick reference and efficiency.
-- **Rate Limiting & Error Handling:** Gracefully manages API rate limits and error cases.
-- **Real-time Crawling:** Supports live web crawling to fetch the latest content.
-- **Multiple Search Tools:**
-    - `web_search`: General-purpose real-time web search with optimized results and content extraction.
-    - `research_paper_search`: Focused search for academic papers and research content.
-    - `twitter_search`: Searches Twitter/X.com for tweets, profiles, and conversations.
-    - `company_research`: Crawls and gathers detailed information from company websites.
-    - `crawling`: Extracts content from specific URLs, including articles, PDFs, and web pages.
-    - `competitor_finder`: Identifies competitors for a given company by searching for similar businesses.
-- **Tool Selection:** Users can enable or disable specific search tools in the server configuration.
-- **Integration with Claude Desktop:** Easily integrates with Claude Desktop via configuration and supports developer mode options.
-- **Direct CLI Usage:** Can be run directly via `npx` or as a globally installed npm package.
-- **Testing Support:** Compatible with MCP Inspector for interactive testing and debugging.
-- **Open Source:** Licensed under the MIT license.
+- **MCP-Compatible Server**
+  - Static MCP server URL for all clients: `https://mcp.pipedream.net/v2`
+  - Can be added to any MCP-enabled chat or AI application.
 
-## Installation & Configuration
-- **Prerequisites:** Node.js (v18+), Claude Desktop, Exa API key, Git.
-- **Install via npm:** `npm install -g exa-mcp-server`
-- **Install via Smithery:** `npx -y @smithery/cli install exa --client claude`
-- **Manual installation:** Clone repo, install dependencies, build, and link globally.
-- **Configuration:** Edit `claude_desktop_config.json` to add Exa MCP server and specify API key and enabled tools.
+- **Embeddings-Based Web Search**
+  - Semantic search over web content using embeddings.
+  - Optimized to surface content suitable for AI consumption and reasoning.
 
-## Usage
-- Once configured, allows Claude Desktop to perform real-time web searches, research paper lookups, Twitter searches, company research, content extraction from URLs, and competitor analysis.
-- Results are formatted and returned to the AI assistant, with caching for efficiency.
+- **Real-Time AI Search Engine**
+  - Searches current web content rather than relying solely on static indexes.
+  - Useful for up-to-date information and live data retrieval.
+
+- **Web Crawling API**
+  - Crawl websites to access and analyze their content.
+  - Enables retrieval of page text and structures for downstream AI tasks.
+
+- **SERP (Search Engine Results Page) API**
+  - Access search engine results programmatically.
+  - Retrieve links and summaries for further crawling or analysis.
+
+- **Structured Content Extraction**
+  - Extracts structured representations from web pages and live data sources.
+  - Designed to provide machine-readable outputs for AI agents and workflows.
+
+- **Deep Research Tools**
+  - Supports multi-step or in-depth research flows across multiple pages and sources.
+  - Suitable for agentic research, summarization, and knowledge gathering.
+
+- **Hosted by Pipedream Connect**
+  - Managed MCP server infrastructure provided via Pipedream.
+  - Central configuration and usage via the Pipedream Connect platform.
+
+## Integration & Usage
+- Use the static URL `https://mcp.pipedream.net/v2` when configuring the MCP server in your client.
+- Authentication is performed when adding or configuring the server in your application.
+- Detailed setup and configuration instructions are available on the Pipedream **Configuration** page.
 
 ## Pricing
-No pricing information is provided in the available content (the software is open source and available under the MIT license).
-
----
-
-**License:** MIT
+The provided content does not list any pricing or plan details for Exa MCP Server.

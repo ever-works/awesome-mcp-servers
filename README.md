@@ -3096,6 +3096,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## File Management Mcp Servers
 
+- [vnsh-mcp](https://github.com/raullenchai/vnsh/tree/main/mcp) - Ephemeral encrypted file sharing for AI. Client-side AES-256 encryption, 24h auto-vaporization. Read vnsh URLs and share large outputs securely. ([Read more](https://vnsh.dev)) `mcp` `file-sharing` `encryption` `ephemeral`
 - [302 file parser mcp](https://smithery.ai/server/@302ai/302_file_parser_mcp) - An MCP server dedicated to parsing files for Claude Desktop, requiring a 302AI API key, showcasing the extensibility of MCP servers for file parsing and desktop application integration. ([Read more](/details/302-file-parser-mcp.md)) `mcp` `file-analysis` `file-management` `desktop`
 - [alexbakers/mcp-ipfs](https://github.com/alexbakers/mcp-ipfs) - MCP server for uploading and manipulating IPFS storage, allowing AI assistants or agents to interact with decentralized storage via the MCP protocol. ([Read more](/details/alexbakersmcp-ipfs.md)) `mcp` `ipfs` `decentralized-storage` `ai-integration`
 - [Azure Storage MCP Server](https://mcp.pipedream.com/app/azure_storage) - An MCP Server for Azure Storage, exposing operations on scalable, secure object storage and related services within the MCP environment. ([Read more](/details/azure-storage-mcp-server.md)) `azure` `storage` `cloud`

@@ -4229,3 +4229,11 @@ This work is licensed under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
+### OpenClaw MCP Ecosystem
+
+9 remote MCP servers on Cloudflare Workers. JSON toolkit, regex engine, color palette, timestamp converter, prompt enhancer, AI market intelligence, fortune, content publisher, AI tool comparison. All streamable-http, zero install.
+
+- **GitHub**: [yedanyagamiai-cmd/openclaw-mcp-servers](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers)
+- **Config**: `{"url":"https://json-toolkit-mcp.yagami8095.workers.dev/mcp"}`
+- **Registry**: `io.github.yedanyagamiai-cmd/openclaw-mcp-servers`

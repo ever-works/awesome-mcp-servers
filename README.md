@@ -716,6 +716,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [DealMachine MCP Server](https://mcp.pipedream.com/app/dealmachine) - An MCP server for DealMachine that surfaces its real estate investor tools for direct-to-seller marketing and deal discovery to MCP clients. ([Read more](/details/dealmachine-mcp-server.md)) `real-estate` `Marketing` `lead-generation`
 - [dealx/mcp-server](https://github.com/DealExpress/mcp-server) - MCP Server for the DealX platform, enabling integration and data retrieval in accordance with the MCP protocol. ([Read more](/details/dealxmcp-server.md)) `integration` `business` `platform` `open-source`
 - [DEAR Systems MCP Server](https://mcp.pipedream.com/app/dear) - An MCP Server that connects to DEAR Inventory (DEAR Systems), exposing inventory control, manufacturing, sales, shipping, and payment operations through the MCP interface. ([Read more](/details/dear-systems-mcp-server.md)) `inventory` `E Commerce` `orders`
+- [UserDispatch MCP Server](https://userdispatch.com) - An MCP server for collecting and managing user feedback from AI coding agents. Includes an embeddable feedback widget, submission triage tools, email reply drafting, and weekly digest generation. ([Read more](/details/userdispatch-mcp-server.md)) `customer-feedback` `mcp` `developer-tools`
 
 ## Code Execution & Automation Mcp Servers
 

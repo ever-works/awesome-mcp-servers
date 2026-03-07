@@ -1,43 +1,44 @@
-# Perplexity MCP Server
-
-**Category:** Web Search MCP Servers  
-**Brand:** Perplexity  
-**Website/Source:** https://github.com/ppl-ai/modelcontextprotocol
-
 ## Overview
-Perplexity MCP Server is the official Model Context Protocol (MCP) server implementation for the Perplexity API Platform. It connects AI assistants to Perplexity’s Sonar API to provide real-time, web-scale research and question answering.
 
-## Features
-- **Official Perplexity MCP implementation**
-  - Maintained by Perplexity for integrating the Perplexity API Platform with MCP-compatible AI assistants.
-- **Sonar API integration**
-  - Connects to Perplexity’s Sonar API to enable web-scale search and retrieval.
-  - Supports real-time research and question answering functionality for assistants.
-- **MCP server configuration**
-  - `server.json` configuration file for defining the MCP server’s behavior and capabilities.
-- **Docker support**
-  - `Dockerfile` and `DOCKER.md` included for containerized deployment.
-  - `.dockerignore` for optimized Docker builds.
-- **Node/TypeScript project setup**
-  - `src` directory for TypeScript source code.
-  - `tsconfig.json` for TypeScript configuration.
-  - `package.json` and `package-lock.json` for dependencies and scripts.
-- **Testing setup**
-  - `vitest.config.ts` indicating use of Vitest for automated testing.
-- **Integration metadata**
-  - `.claude-plugin` directory suggesting ready-to-use configuration for Claude-related tooling.
-  - `smithery.yaml` for integration or deployment tooling configuration.
-- **Open source licensing**
-  - `LICENSE` file included, clarifying open-source use and redistribution terms (see repository for exact license type).
+The Perplexity MCP Server enables AI assistants to access Perplexity's powerful search and reasoning capabilities directly within their workflows, using the Model Context Protocol (MCP), an open standard that connects AI assistants with external data sources and tools.
 
-## Pricing
-No pricing information is provided in the available content. The GitHub repository appears to be an open-source implementation; any usage costs would be determined by Perplexity’s underlying API pricing (not detailed here).
+## Official Implementation
 
-## Images & Branding
-- **Brand logo:** https://www.perplexity.ai/favicon-196x196.png  
-- **Image/preview:** https://www.perplexity.ai/og-image.png
+The official MCP server implementation for the Perplexity API Platform provides AI assistants with real-time web search, reasoning, and research capabilities through Sonar models and the Search API.
 
-## Tags
-- web-search  
-- question-answering  
-- ai-integration
+## Key Capabilities
+
+The Perplexity MCP Server offers several tools:
+
+### 1. Direct Web Search
+Direct web search using the Perplexity Search API returns ranked search results with titles, URLs, snippets, and metadata. Best for finding current information, news, facts, or specific web content.
+
+### 2. Conversational AI
+General-purpose conversational AI with real-time web search using the sonar-pro model. Best for quick questions, everyday searches, and conversational queries that benefit from web context.
+
+### 3. Deep Research
+Deep, comprehensive research using the sonar-deep-research model provides thorough analysis with citations. Best for complex topics requiring detailed investigation, comprehensive reports, and in-depth analysis.
+
+## Installation Options
+
+Users can get started instantly with one-click installers:
+- One-click configuration for Cursor
+- One-click configuration for VS Code
+- Manual configuration for other MCP clients
+
+## Perplexity as MCP Client
+
+Interestingly, Model Context Protocol servers also let you connect your tools and apps to answer questions on Perplexity, with Perplexity currently supporting local MCPs on the MacOS platform via the Mac App Store.
+
+## GitHub Repository
+
+Official implementation: github.com/perplexityai/modelcontextprotocol
+Community servers also available for various use cases.
+
+## Use Cases
+
+- Real-time web research within AI workflows
+- Fact-checking and verification
+- Deep topic analysis with citations
+- Current events and news research
+- Comprehensive report generation

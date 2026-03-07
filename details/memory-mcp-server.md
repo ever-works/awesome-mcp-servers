@@ -1,86 +1,57 @@
-## Memory MCP Server (Basic Memory)
+## Overview
 
-**Description**  
-Basic Memory is a knowledge management MCP server that lets AI assistants (e.g., Claude) build and maintain a persistent, local knowledge base. It saves conversations and notes as Markdown files on your machine and exposes tools over the Model Context Protocol so assistants can read, write, and organize this knowledge as a semantic graph over time.
+The Knowledge Graph Memory Server is an official, open-source MCP server provided by Anthropic that enables Claude to remember information about users across chats by maintaining a local knowledge graph. It stores entities, relations, and observations in a persistent format.
 
-**Provider:** Basic Machines  
-**Release date:** Mar 15, 2025  
-**Language:** Python  
-**Package:** [`basic-memory` on PyPI](https://pypi.org/project/basic-memory)  
-**Code:** [GitHub repository](https://github.com/basicmachines-co/basic-memory)  
-**Stats (from source):** ~80.9K downloads, ~2.2K stars
+## Core Components
 
----
+The system uses three main components:
 
-### Features
+### 1. Entities
+The primary nodes in the knowledge graph, each with:
+- Unique name (identifier)
+- Entity type (e.g., "person", "organization", "event")
+- List of observations
 
-#### Knowledge management & storage
-- Builds a **persistent knowledge base** from your interactions with Large Language Models.  
-- Saves conversations and notes as **Markdown files** on your local machine.  
-- Default storage directory: `~/basic-memory`.  
-- Supports building a **searchable semantic knowledge graph** that grows over time.  
-- AI assistants can **read from and write to** this knowledge base using MCP tools.
+### 2. Relations
+Always stored in active voice and describe how entities interact or relate to each other.
 
-#### MCP integration & clients
-- Implements the **Model Context Protocol (MCP)** so it can be used as a server by compatible clients.  
-- Supported / documented client setups:
-  - **Claude Desktop** via `claude_desktop_config.json` (`mcpServers.basic-memory`).  
-  - **VS Code** via User Settings JSON (`mcp.servers.basic-memory`) or workspace `.vscode/mcp.json`.  
-  - **Cursor / Claude Code** (generic MCP/CLI-based setup).  
-- Can be installed and auto-configured via **Smithery** for Claude (`npx @smithery/cli install @basicmachines-co/basic-memory --client claude`).
+### 3. Observations
+Discrete pieces of information about an entity:
+- Stored as strings
+- Attached to specific entities
+- Should be atomic (one fact per observation)
 
-#### Installation & CLI
-- **uv-based installation (recommended):**
-  - `uv tool install basic-memory` to install.  
-  - Run MCP server with: `uvx basic-memory mcp`.  
-- Exposes a CLI (`basic-memory`) with subcommands for sync and cloud operations.
+## Installation
 
-#### Basic usage patterns
-- Designed for **natural-language interaction** via your AI assistant, e.g.:
-  - Create notes: “Create a note about coffee brewing methods.”  
-  - Retrieve knowledge: “What do I know about pour over coffee?”  
-  - Search: “Find information about Ethiopian beans.”  
-- The assistant uses MCP tools behind the scenes to manage the underlying Markdown notes.
+The server can be installed using:
+```bash
+claude mcp add-json "memory" '{"command":"npx","args":["-y","@modelcontextprotocol/server-memory"]}'
+```
 
-#### Synchronization (local)
-- One-time local sync of the knowledge base:  
-  - `basic-memory sync`  
-- Real-time sync / watch mode (recommended):  
-  - `basic-memory sync --watch`  
-- Ensures the MCP server and file system stay consistent as content changes.
+## License
 
-#### Cloud features (optional add-on)
-If you subscribe to **Basic Memory Cloud**, additional CLI capabilities are available:
-- `basic-memory cloud login` – Authenticate with the cloud service.  
-- `basic-memory cloud sync` – Bidirectional synchronization between local and cloud knowledge base.  
-- `basic-memory cloud check` – Verify integrity and consistency of cloud data.  
-- `basic-memory cloud mount` – Mount cloud storage for direct access.
+The MCP server is licensed under the MIT License, meaning you are free to use, modify, and distribute the software.
 
-#### Multi-project support
-- Can scope knowledge to specific projects using the `--project` flag when starting the MCP server, e.g.:
-  - `"args": ["basic-memory", "mcp", "--project", "your-project-name"]`  
-- Allows separate, project-specific knowledge bases while using the same tool.
+## Official Repository
 
-#### Available MCP tools (Content Management)
-Once configured, Claude (or another MCP client) can use these tools:
-- `write_note(title, content, folder, tags)`  
-  - Create new notes or update existing notes.  
-  - Organize notes into folders and associate tags.
-- `read_note(identifier, page, page_size)`  
-  - Read notes by title or permalink.  
-  - Supports pagination via `page` and `page_size`.
-- `read_content(path)`  
-  - Read raw file content from a specified path within the knowledge base.
-- `view_note(identifier)`  
-  - View notes as formatted artifacts (for display in richer UIs).
-- `edit_note(identifier, operation, content)`  
-  - Incrementally modify notes using specific edit operations.  
-  - Suitable for fine-grained updates instead of full rewrites.
-- `move_note(identifier, destination_path)`  
-  - Move notes to different folders/paths, enabling reorganization of your knowledge structure.
+GitHub repository: github.com/modelcontextprotocol/servers/tree/main/src/memory
 
----
+## Key Features
 
-### Pricing
-- The source content does not specify pricing.  
-- Basic Memory itself is available as an open-source Python package; **Basic Memory Cloud** is an optional subscription service (pricing details not provided in the source).
+- **Persistent Memory**: Information persists across chat sessions
+- **Knowledge Graph Structure**: Organized, queryable knowledge representation
+- **Entity Relationships**: Track complex relationships between entities
+- **Atomic Observations**: Fine-grained fact storage
+- **Official Anthropic Support**: Maintained as part of the official MCP reference servers
+
+## Use Cases
+
+- User preference tracking across sessions
+- Building long-term AI assistant memory
+- Knowledge base construction
+- Relationship mapping
+- Context maintenance for personalized AI interactions
+
+## Integration
+
+Works with Claude Desktop and other MCP-compatible clients to provide persistent memory capabilities.

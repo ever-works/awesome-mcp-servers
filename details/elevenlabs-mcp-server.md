@@ -1,19 +1,42 @@
-# ElevenLabs MCP Server
+## Overview
 
-A Model Context Protocol (MCP) server that integrates with the ElevenLabs text-to-speech API, capable of generating full voiceovers with multiple voices.
+The official ElevenLabs MCP server is a local, open-source server that connects developers directly to the ElevenLabs AI audio platform. Whether you're using Claude, Cursor, or a custom script, you can build Conversational AI voice agents, perform outbound calls, transcribe speech, and generate audio - all with simple API calls.
 
-**Brand:** elevenlabs  \
-**Repository:** https://github.com/mamertofabian/elevenlabs-mcp-server
+## Key Features
 
-## Features
+- **Text-to-Speech**: Convert text to natural-sounding speech
+- **Voice Cloning**: Create custom voice models
+- **Audio Transcription**: Transcribe speech to text
+- **Voice Agents**: Build advanced voice agents that can perform outbound calls
+- **Complete Platform Access**: Access to the entire ElevenLabs AI audio platform via simple text prompts
 
-- MCP-compatible server for integrating ElevenLabs text-to-speech into MCP-based tools and workflows.
-- Supports generating full voiceovers from text using the ElevenLabs API.
-- Multiple voice support, allowing selection and use of different voices for synthesis.
-- Open-source codebase hosted on GitHub.
-- Includes a `clients/web-ui` directory, indicating an accompanying web UI client for interacting with the server.
+## Setup
+
+Getting started is straightforward:
+
+1. Get your API key from ElevenLabs (free tier includes 10k credits per month)
+2. Install uv (Python package manager)
+3. Configure Claude Desktop's config file to include the server settings with your API key
+
+## Example Use Cases
+
+- Create AI agents that speak like specific characters
+- Generate voice variations
+- Convert voice recordings
+- Create soundscapes
+- Transcribe speech and convert it back using unique voices for each person
+- Build conversational voice agents
+- Automated phone calls with AI voices
+
+## Integration
+
+The official GitHub repository is available at github.com/elevenlabs/elevenlabs-mcp, and the server integrates seamlessly with:
+- Claude Desktop
+- Cursor
+- Windsurf
+- OpenAI Agents
+- Any MCP-compatible client
 
 ## Pricing
 
-- Pricing details for this MCP server are not specified in the repository.  
-- Use of the ElevenLabs text-to-speech API may incur costs according to ElevenLabs’ own pricing and terms.
+Free tier available with 10,000 credits per month. Paid plans for higher usage.

@@ -1,69 +1,43 @@
-## Trello MCP Server
+## Overview
 
-**Category:** Project Management MCP Servers  
-**Source:** https://mcp.pipedream.com/app/trello
+Multiple MCP (Model Context Protocol) servers enable integration between Trello boards and AI assistants like Claude, providing comprehensive project management automation capabilities.
 
-Trello MCP Server is an MCP-compatible integration that connects Trello with MCP-enabled clients (such as ChatGPT), allowing you to manage Trello boards, cards, lists, and related objects directly from your MCP client.
+## Available Implementations
 
----
+### 1. mcp-server-trello (delorenj)
+A Model Context Protocol server that provides tools for interacting with Trello boards:
+- Full Trello Board Integration: Interact with cards, lists, and board activities
+- Complete Card Data Extraction: Fetch all card details including checklists, attachments, labels, members, and comments
+- Comment Management: Add, update, delete, and retrieve comments on cards
+- Dynamic board selection and workspace management
+- Built-in rate limiting and TypeScript implementation
 
-### Connection & Configuration
-- Static MCP server URL for all clients:
-  - `https://mcp.pipedream.net/v2`
-- Authentication occurs when adding the server to your MCP-compatible application.
-- Client-specific setup instructions available (e.g., ChatGPT / OpenAI) via the configuration guide.
+### 2. Trello MCP via Composio
+Trello MCP is a secure connection powered by Composio:
+- Features 344+ tools for project management automation
+- Easy setup for Claude Desktop and Cursor
+- Real-time access to cards, lists, and comments
 
----
+### 3. mcp-trello (Python)
+A Python-based Model Context Protocol server for Trello integration providing tools for managing boards, lists, and cards through the Trello API. Can be installed via pip.
 
-### Features
+### 4. Zapier Trello MCP
+Zapier Trello MCP lets you connect Trello's actions with any AI tool that supports MCP, all without managing integrations or writing glue code.
 
-#### General
-- MCP server interface for Trello’s REST API.
-- Enables Trello project management operations from within MCP-compatible chat or tooling environments.
-- Works with a single static server URL and per-client authentication.
+## Requirements
 
-#### Available Tools (Actions)
-The server exposes **28 Trello actions** as MCP tools. The page lists the following explicitly:
+All implementations require Trello API credentials:
+- API key
+- API token
 
-1. **Update Card**  
-   - Update an existing Trello card.
+## Use Cases
 
-2. **Search Members**  
-   - Search for Trello members.
+- Automated card creation and management
+- List organization and board setup
+- Comment posting and tracking
+- Task automation through AI
+- Project workflow management
 
-3. **Search Checklists**  
-   - Find a checklist on a specific board or card by name.
+## Integration
 
-4. **Search Cards**  
-   - Search for cards that match a specified query.
-
-5. **Search Boards**  
-   - Search for boards that match a specified query.
-
-6. **Rename List**  
-   - Rename an existing list.
-
-7. **Remove Card Label**  
-   - Remove a label from a card.
-
-8. **Move Card to List**  
-   - Move a card to a specified board/list pair.
-
-9. **Get List**  
-   - Retrieve information about a list.
-
-10. **Get Cards On A Board**  
-    - Get all open cards on a board.
-
-11. **Get Cards In A List**  
-    - List all cards in a list.
-
-12. **Get Card**  
-    - Retrieve a card by its ID.
-
-> Note: The page states that there are 28 actions available as tools; only the above subset is shown in the provided content.
-
----
-
-### Pricing
-No pricing information is provided in the supplied content.
+Works with Claude Desktop, Cursor, and other MCP-compatible AI assistants.

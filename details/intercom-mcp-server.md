@@ -1,69 +1,45 @@
-# Intercom MCP Server
-
-**Website:** https://www.intercom.com/  
-**MCP Listing:** https://www.pulsemcp.com/servers/intercom  
-**Category:** Messaging MCP Servers  
-**Brand:** Intercom  
-**Slug:** `intercom-mcp-server`  
-**Release Date:** May 1, 2025  
-**Estimated Visitors (All Time):** 16.3k (1k this week)  
-**Popularity Rank:** #755 overall (#369 this week)
-
 ## Overview
-The Intercom MCP Server exposes Intercom’s customer support and messaging capabilities to MCP-based agents via OAuth 2.1. It enables AI systems to securely access Intercom customer conversation data, user profiles, and tickets in real time for analysis, troubleshooting, and decision-making.
 
-## Features
-- **Intercom Data Access for AI Agents**  
-  - Securely exposes Intercom customer conversation data.  
-  - Provides access to user profiles.  
-  - Provides access to support tickets.  
-  - Enables real-time retrieval of Intercom data for pattern identification, issue troubleshooting, and business insights.
+MCP is a protocol that enables AI tools and applications to connect with Intercom's data and services in a secure, standardized way. The new Intercom MCP Server, powered by Cloudflare's infrastructure, lets external AI systems connect directly to your Intercom data – securely and in real time.
 
-- **MCP Integration**  
-  - Implements an MCP-compatible remote server endpoint for use by MCP clients and agents.  
-  - Official `server.json` definition available, including installation, configuration, and usage guidelines.  
-  - MCP identifier: `com.pulsemcp.mirror/intercom`.
+## Key Features
 
-- **Authentication**  
-  - Uses OAuth-based authentication (OAuth flow initiated when connecting).  
-  - No manual API key setup required in the MCP client.
+- **Structured Data Access**: Find and retrieve Intercom data (conversations, contacts, etc.)
+- **Tool Access**: Access specific tools and functionality provided by Intercom
+- **Context Maintenance**: Maintain context about your Intercom workspace when working with AI assistants
+- **Fin Integration**: Connect Fin with a wide range of tools through standardized setup
 
-- **Transport**  
-  - Uses Server-Sent Events (SSE) transport for streaming interactions (the original, now-deprecated SSE version in MCP).  
-  - Compatible with MCP clients that still support SSE-based servers.
+## Authentication Options
 
-- **Ecosystem & Metadata**  
-  - Tracked estimated visitors and popularity ranking across the MCP ecosystem.  
-  - Managed `server.json` temporarily by PulseMCP until the maintainer publishes to the official MCP registry.
+Supports two authentication approaches:
+1. **OAuth Flow (Recommended)**: Automatic browser-based authentication
+2. **Bearer Token**: Token-based authentication
 
-## Technical Details
-- **Remote Endpoint URL Pattern**  
-  - Base URL: `https://mcp.intercom.com/...`  
-  - This is the URL to use in MCP client configuration for the remote endpoint.
+## Configuration
 
-- **Server Definition**  
-  - `server.json` file provided in a standardized, official format defined by the MCP registry.  
-  - Includes installation instructions, configuration options, and usage guidelines (refer to the listing’s `server.json` link).
+Basic OAuth setup configuration:
+```json
+{
+  "mcpServers": {
+    "intercom": {
+      "command": "npx",
+      "args": ["mcp-remote", "https://mcp.intercom.com/mcp"]
+    }
+  }
+}
+```
 
-## Authentication
-- **Method:** OAuth 2.x (initiated on connection from MCP client).  
-- **Implication:** Users authenticate through an OAuth flow rather than supplying API keys directly.
+## Use Cases
 
-## Transport
-- **Protocol:** Server-Sent Events (SSE) for MCP communication.  
-- **Status:** SSE is noted as deprecated in favor of Streamable HTTP in newer MCP versions but still supported by this server.
+- **Fin AI Assistant**: Connect to MCP servers for quick integration with external tools
+- **Data Access**: Fin can access data and perform actions in external systems
+- **Customer Support Automation**: Automate responses and data retrieval
+- **Conversation Management**: Manage customer conversations through AI
 
-## Pricing
-- **Free Trial:** Available. The service or remote server offers a free trial period allowing limited-time free usage.  
-- No additional pricing tiers or paid plan details are provided in the source content.
+## Limitations
 
-## Related MCP Servers (Ecosystem)
-*(Not part of the Intercom MCP Server feature set, but listed as related options in the ecosystem)*
-- Intercom (community) – filtered access to conversations and chats for analysis.  
-- WeCom – WeChat Work bot integration.  
-- Iaptic – e-commerce customer and transaction data.  
-- Dify AI – chat completion API integration.  
-- Intercom Support Tickets – access and analysis of Intercom support tickets.  
-- Frontapp – customer communication platform integration.  
-- Prem AI – chat completions and RAG tools.  
-- Gong – call-related data integration.
+Currently, the Intercom MCP server is only supported in US hosted workspaces.
+
+## Integration
+
+Multiple implementations available including official Intercom MCP servers, third-party servers on GitHub (fabian1710/mcp-intercom), and integrations through platforms like Composio and Zapier.

@@ -1,39 +1,28 @@
-## n8n MCP Server
+## Overview
 
-**Category:** Workflow Automation MCP Servers  
-**Brand:** n8n  
-**Source:** https://github.com/leonardsellem/n8n-mcp-server  
-**License:** MIT
+n8n is a powerful workflow automation platform, and Model Context Protocol (MCP) integration offers a compelling synergy for creating intelligent, scalable, and dynamic workflows. The integration enables AI assistants to manage n8n workflows seamlessly through the Model Context Protocol.
 
-### Overview
-n8n MCP Server is a Model Context Protocol (MCP) server that exposes tools and resources for interacting with the n8n API. It allows AI assistants and agents to manage n8n workflows and executions programmatically, including listing, creating, updating, deleting workflows, and monitoring their execution status.
+## Two Integration Approaches
 
-### Features
-- **MCP server for n8n**
-  - Implements a Model Context Protocol server for integration with AI assistants/agents.
-  - Provides tools for interacting with the n8n API.
+### 1. MCP Client Mode (n8n calls external tools)
+Your AI-powered workflow inside n8n can call any external MCP server – think "Calendar," "GitHub," "Docs," or internal tools. Everything runs inside n8n with access to a growing catalog of MCP tools.
 
-- **Workflow management**
-  - List existing n8n workflows.
-  - Create new workflows via the MCP interface.
-  - Update existing workflows.
-  - Delete workflows.
+### 2. MCP Server Mode (external AI calls n8n)
+This connects your agent/MCP client (like Claude Desktop) to your existing workflows by allowing the AI to discover, manage and run these workflows indirectly.
 
-- **Execution management & monitoring**
-  - List workflow executions.
-  - Monitor execution status of workflows.
-  - Access execution-related data via n8n’s API.
+## Key Capabilities
 
-- **Configuration & environment**
-  - Uses environment variables (example configuration in `.env.example`).
-  - Dockerfile provided for containerized deployment.
-  - Babel and ESLint configuration files (`.babelrc`, `.eslintrc.json`) for building and linting.
+- **1,084 n8n nodes**: 537 core nodes + 547 community nodes
+- **Real-World Examples**: 2,646 pre-extracted configurations from popular templates
+- **Natural Language Workflow Creation**: Eliminates the need for manual JSON editing
+- **Multi-instance Support**: Comprehensive documentation and multiple n8n instance support
 
-- **Documentation & examples**
-  - `AGENTS.md` and `CLAUDE.md` provide guidance for integrating with agent frameworks / Claude.
-  - `docs/` directory for additional documentation.
-  - `tests/` directory for automated tests.
+## Practical Use Cases
 
-### Pricing
-- Open-source project under the **MIT License**.  
-- No paid plans are listed in the repository content provided.
+- **Research Pipeline**: Multi-agent workflow where research leader, project planner, research assistants, and editor all gain access to the same MCP tools
+- **Sales Assist**: AI looks up a contact through an MCP CRM tool, then n8n creates a deal, adds a note, and posts to Slack
+- **Ops Autopilot**: AI opens a ticket, updates a spreadsheet, and pings a channel
+
+## Features
+
+Native n8n MCP support allows agents to trigger multi-step workflows, bringing complex, low-code workflow automation to AI agents.

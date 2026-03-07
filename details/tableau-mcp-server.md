@@ -1,49 +1,33 @@
-# Tableau MCP Server
+## Overview
 
-**Category:** Data Visualization  
-**Brand:** Tableau  
-**Source:** https://mcp.pipedream.com/app/tableau
+Tableau's official MCP Server helps agents see and understand data. The Model Context Protocol (MCP) is a standard that gives large language models (LLMs) a universal way to access external tools and data sources.
 
-## Description
-The Tableau MCP Server is an integration that exposes Tableau’s visual analytics and data exploration capabilities to MCP-based applications. It connects to a Tableau site via a static MCP server URL, enabling applications (including chat clients like ChatGPT) to interact with Tableau resources programmatically.
+## Key Features
 
-## Features
+- **Natural Language Queries**: Chat with an LLM and ask it questions about your own Tableau environment and data directly
+- **Data Retrieval**: Query and retrieve data from Tableau Server or Tableau Cloud
+- **Published Data Sources**: Works with Published Data Sources for consistent data access
+- **Metadata API Access**: Requires Metadata API to be enabled on Tableau Server for certain tools
 
-### MCP Server Integration
-- Provides a static MCP server URL usable by any compatible client:
-  - `https://mcp.pipedream.net/v2`
-- Authentication occurs when adding the server to your application, allowing secure access to Tableau resources.
-- Can be integrated with various chat clients (e.g., ChatGPT via OpenAI) using configuration guides.
+## Capabilities & Limitations
 
-### Tableau Account Connectivity
-- Connects to a Tableau account and specified site.
-- Lets you manage Tableau content and resources through MCP-based apps after signing in and configuring the connection.
+- Can query and retrieve data but can't create new visualizations or dashboards directly in Tableau through MCP
+- Currently only works with Published Data Sources, limiting flexibility for ad-hoc analysis
+- If using Tableau Server, Metadata API access needs to be enabled for certain tools to work
 
-### Available Tools (Actions)
-Three primary actions are exposed as MCP tools:
+## Community Implementations
 
-1. **Query Projects**  
-   - Returns a list of projects on a specified Tableau site.  
-   - Useful for:  
-     - Discovering existing project structure.  
-     - Enumerating available workspaces for dashboards, workbooks, and other assets.
+Besides the official Tableau MCP server, there are community-developed implementations including:
+- LokiMCPUniverse/tableau-mcp-server - A Model Context Protocol server for integrating Tableau with GenAI applications
+- asklokesh/tableau-mcp-server - Community MCP server for Tableau
 
-2. **Download PDF**  
-   - Downloads images of the sheets of a workbook as a PDF file.  
-   - Useful for:  
-     - Exporting workbook sheets for sharing or offline review.  
-     - Automating PDF generation of Tableau visualizations through an MCP client.
+## Use Cases
 
-3. **Create Project**  
-   - Creates a new project on a specified Tableau site.  
-   - Supports creation of **project hierarchies** by specifying a parent project.  
-   - Useful for:  
-     - Organizing workbooks and dashboards into structured folders.  
-     - Automating environment or folder setup for teams and projects.
+- Natural language querying of Tableau data through AI assistants like Claude
+- AI-powered data analysis without requiring complex API calls
+- Lakers data analysis and sports analytics
+- Business intelligence through conversational AI
 
-## Integration & Configuration
-- The same MCP server URL works for all clients; configuration steps differ per client (e.g., ChatGPT) and are provided via a separate configuration guide.
-- Once configured, MCP-based applications can call the exposed actions to list projects, create new ones, and export workbooks to PDF.
+## Integration
 
-## Pricing
-No pricing information is provided in the available content for the Tableau MCP Server. Pricing may depend on underlying Tableau or Pipedream/Workday services and is not specified here.
+Works with Claude, Cursor, and other MCP-compatible AI tools.

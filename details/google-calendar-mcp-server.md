@@ -1,58 +1,48 @@
-# Google Calendar MCP Server
+## Overview
 
-## Description
-An open-source Model Context Protocol (MCP) server that lets Claude interact with your Google Calendar to list events, create and update meetings, delete events, and find free time slots.
+A Model Context Protocol (MCP) server that provides Google Calendar integration for AI assistants like Claude. This server enables AI assistants to manage your calendar events, check availability, and handle scheduling tasks.
 
-## Features
-- **Google Calendar integration** via OAuth 2.0
-- **Event listing**
-  - Retrieve events from your Google Calendar (`list_events`)
-- **Event creation**
-  - Create new calendar events/meetings (`create_event`)
-- **Event updating**
-  - Modify existing events (`update_event`)
-- **Event deletion**
-  - Remove events from your calendar (`delete_event`)
-- **Free time discovery**
-  - Find available time slots based on your calendar (`find_free_time`)
-- **Claude integration**
-  - Exposes tools to Claude Desktop through MCP so you can issue natural language commands to manage calendar data
-- **Configurable via environment variables**
-  - Uses environment variables for credentials and configuration (e.g., OAuth client details, refresh token)
-- **Logging and troubleshooting**
-  - Supports viewing MCP server logs (e.g., via Claude log files)
-  - Guidance for diagnosing authentication, environment variable, and server connection issues
+## Popular Implementations
 
-## Prerequisites
-- A **Google Cloud Project**
-- **OAuth consent screen** configured with Calendar scopes:
-  - `https://www.googleapis.com/auth/calendar`
-  - `https://www.googleapis.com/auth/calendar.events`
-- **OAuth 2.0 credentials** (client ID and client secret)
-- A **refresh token** obtained via the provided `getToken.js` script
-- **Claude Desktop** (MacOS or Windows) configured to use this MCP server
-- Node.js environment to build and run the server
+### nspady/google-calendar-mcp
+Features include:
+- **Multi-Account Support**: Manage multiple Google accounts
+- **Multi-Calendar Support**: Work across different calendars
+- **Cross-Account Conflicts**: Detection across accounts
+- **Event Management**: Create, update, delete, and search
+- **Recurring Events**: Modify recurring event series
+- **Free/Busy Queries**: Check availability
+- **Smart Scheduling**: Natural language understanding
+- **Intelligent Import**: From images, PDFs, or web links
 
-## Setup & Integration (High-Level)
-- Create and configure a Google Cloud project and OAuth consent screen.
-- Generate OAuth 2.0 credentials and enable the Calendar API with the listed scopes.
-- Use `getToken.js` to obtain a refresh token using your client ID and client secret.
-- Configure environment variables with the OAuth credentials and refresh token.
-- Build and run the MCP server with Node.js.
-- Add the server configuration to Claude Desktop so the tools appear within Claude.
+### guinacio/mcp-google-calendar
+Another comprehensive implementation for Claude and other MCP clients to interact with Google Calendar.
 
-## Tools Provided
-- `list_events` – List events from your Google Calendar.
-- `create_event` – Create a new calendar event.
-- `update_event` – Update details of an existing event.
-- `delete_event` – Delete an event from your calendar.
-- `find_free_time` – Find free/available time slots based on your calendar data.
+### n8n Workflows
+AI-powered workflow to automate Google Calendar operations using dynamic parameters and MCP integration.
 
-## Pricing
-- **Cost**: Free, open source (MIT-licensed). Any cloud or API usage costs are subject to your own Google Cloud/Google Workspace billing.
+## Key Scheduling Features
 
-## License
-- **MIT License** (see `LICENSE` in the repository).
+- List all calendars with timezone support
+- Retrieve events with timezone support
+- Find next available time slots with customizable search parameters
+- Create new calendar events with attendees and notifications
+- Automatic conflict detection when creating or updating events
+- Warnings about overlapping events
 
-## Source
-- Repository: https://github.com/v-3/google-calendar
+## Assistant-Driven Workflows
+
+- Daily and weekly planning
+- Meeting scheduling
+- Rescheduling
+- Time-off planning
+- Reporting
+- Workload evaluation
+
+## Example Usage
+
+Users can say: "Schedule a client meeting for next Friday at 2 PM with john@company.com" and the AI assistant will create the meeting with Google Meet link automatically.
+
+## Integration
+
+Works with Cursor, Claude Desktop, Windsurf, and other MCP-compatible clients.

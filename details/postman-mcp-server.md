@@ -1,34 +1,41 @@
-# Postman MCP Server
+## Overview
 
-**Description**
+The Postman MCP Server connects Postman to AI tools, giving AI agents and assistants the ability to access workspaces, manage collections and environments, evaluate APIs, and automate workflows through natural language interactions.
 
-Postman MCP Server is an open-source Model Context Protocol (MCP) server that runs Postman Collections locally via Newman, executes API tests, and returns structured pass/fail results through MCP.
+## Key Capabilities
 
-## Features
+The Postman MCP server enables your AI agents to securely automate your API workflows:
+- **API Testing**: Continuously test your API using your Postman collection
+- **Code Synchronization**: Effortlessly keep your code in sync with your Postman Collections and specs
+- **Collection Management**: Create and tag collections, update collection and request documentation, add comments, or perform actions across multiple collections without leaving your editor
 
-- **MCP server for API testing**
-  - Implements a server compatible with the Model Context Protocol.
-  - Enables LLM/MCP clients to trigger and manage Postman Collection runs.
+## Server Configurations
 
-- **Postman Collections execution via Newman**
-  - Runs Postman Collections locally using Newman (the Postman CLI runner).
-  - Leverages Newman’s collection execution engine to perform API requests and validations.
+Postman supports two tool configurations:
 
-- **Automated API test execution**
-  - Executes tests defined inside Postman Collections.
-  - Produces outcomes for individual requests and test scripts.
+### Minimal (Default)
+Only includes essential tools for basic Postman operations. Ideal for users who want to modify a single Postman element, such as collections, workspaces, or environments.
 
-- **Pass/fail reporting through MCP**
-  - Returns API test results as pass/fail status via MCP.
-  - Makes test outcomes machine-readable for downstream tools and agents.
+### Full
+Includes all available Postman API tools (100+ tools). This configuration is ideal for users who engage in advanced collaboration and Postman's Enterprise features.
 
-- **Repository structure for development and usage**
-  - `src/` for source code implementation of the MCP server.
-  - `test/` for automated tests.
-  - `example/` for example usage or configuration.
-  - `prompts/` potentially for MCP/LLM prompt templates or examples.
-  - Includes configuration and tooling files (`Dockerfile`, `vitest.config.ts`, `tsconfig*.json`, `.husky`, `.github`) to support development, testing, and CI workflows.
+## Deployment Options
 
-## Pricing
+The remote Postman MCP Server is hosted by Postman over streamable HTTP and provides the easiest method for getting started. For the best developer experience and fastest setup, use OAuth on the remote server (https://mcp.postman.com).
 
-Pricing information is not specified in the repository. The project is publicly available on GitHub; refer to the repository for license and usage terms.
+## Authentication
+
+OAuth is fully compliant with the MCP Authorization specification and doesn't require manual API key configuration.
+
+## Additional Features
+
+- Use MCP requests to experiment, test, and evaluate different MCP servers
+- Export the MCP server's configuration and use it to set up an MCP host
+- Works with Claude Desktop, VS Code, Cursor, and other MCP-compatible tools
+
+## Use Cases
+
+- Automated API testing
+- AI-assisted API documentation
+- Collection management automation
+- API development workflow optimization

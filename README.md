@@ -414,7 +414,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 - [n8n MCP Server](https://www.n8n-mcp.com/) - Workflow automation platform with MCP integration enabling AI assistants to manage n8n workflows seamlessly through natural language, supporting 1,084+ nodes and 2,646+ pre-extracted configurations. ([Read more](/details/n8n-mcp-server.md)) `Workflow` `Automation` `Low Code`
 - [Google Calendar MCP Server](https://github.com/nspady/google-calendar-mcp) - Model Context Protocol server for Google Calendar providing comprehensive event management, scheduling, conflict detection, and multi-account support through AI assistants for intelligent calendar automation. ([Read more](/details/google-calendar-mcp-server.md)) `Calendar` `Scheduling` `Productivity`
-
+- [Skyvern MCP Server](https://github.com/Skyvern-AI/skyvern) - AI-powered browser automation MCP server that enables assistants to control a real browser to navigate websites, fill forms, authenticate, extract structured data, and execute multi-step workflows. ([Read more](/details/skyvern-ai-mcp-server.md)) `Browser Automation` `Workflow`
 ## Api Integration Mcp Servers
 
 - [0xdaef0f/job-searchoor](https://github.com/0xDAEF0F/job-searchoor) - An MCP server for searching job listings, with filters for date, keywords, remote work, and more, adhering to the MCP server protocol. ([Read more](/details/0xdaef0fjob-searchoor.md)) `mcp` `job-search` `Search` `open-source`

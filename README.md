@@ -1268,6 +1268,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Cybermcp](https://github.com/ricauts/cybermcp) - An MCP server providing API security testing tools, including authentication and vulnerability scanning, with detailed severity ratings and remediation—illustrating security-focused MCP server capabilities. ([Read more](/details/cybermcp.md)) `mcp` `Security` `Testing` `vulnerability` `api`
 - [Dafny Mcp](https://github.com/namin/dafny-mcp) - Integrates with Dafny for code correctness verification via formal specification analysis—a specialized MCP server for formal methods and verification. ([Read more](/details/dafny-mcp.md)) `mcp` `verification` `formal-methods` `Code Analysis`
 - [dap-mcp](https://pypi.org/project/dap-mcp/) - An MCP server bridging debugging tools with AI systems via the Debug Adapter Protocol, enabling debugger control and enhanced workflows—showcasing developer tool integration in MCP servers. ([Read more](/details/dap-mcp.md)) `mcp` `debugging` `Developer Tools` `integration`
+- [Iris](https://github.com/iris-eval/mcp-server) - MCP-native agent eval & observability server. Log traces, evaluate output quality with 12 built-in rules (PII detection, prompt injection, hallucination markers, cost thresholds), and track per-agent costs. Agents discover it automatically via the MCP protocol — zero code changes. `mcp` `observability` `eval` `ai-agent` `Testing`
 
 ## Web Search Mcp Servers
 

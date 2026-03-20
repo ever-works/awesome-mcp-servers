@@ -1303,6 +1303,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [ChuckNorris.io MCP Server](https://mcp.pipedream.com/app/chucknorris) - An MCP Server providing access to the ChuckNorris.io JSON API, allowing retrieval of hand-curated Chuck Norris facts within MCP-compatible applications. ([Read more](/details/chucknorrisio-mcp-server.md)) `api` `entertainment`
 - [Crunchbase MCP Server](https://mcp.pipedream.com/app/crunchbase) - An MCP Server for Crunchbase, enabling discovery and querying of innovative companies and people via the MCP protocol. ([Read more](/details/crunchbase-mcp-server.md)) `startup-data` `companies` `investors`
 
+- [Marketplace Search MCP](https://github.com/lulzasaur9192/marketplace-search-mcp) - Unified MCP server for searching 20+ online marketplaces (OfferUp, Reverb, TCGPlayer, Craigslist, Poshmark, and more) plus contractor/nurse license verification, PSA card data, and NYC building violations. 19 tools in one server. `marketplace` `Search` `e-commerce`
 ## Server Management Tools
 
 - [Claris FileMaker Server - Admin API MCP Server](https://mcp.pipedream.com/app/claris_filemaker_server_admin_api) - An MCP Server integration for the Claris FileMaker Server Admin API, enabling scripted administrative tasks on FileMaker Server (such as configuration and management operations) via MCP-compatible tooling instead of the standard Admin Console UI. ([Read more](/details/claris-filemaker-server-admin-api-mcp-server.md)) `server-management` `admin` `Automation`

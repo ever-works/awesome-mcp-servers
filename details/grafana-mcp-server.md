@@ -1,38 +1,51 @@
-# Grafana MCP Server
+## Overview
 
-**Category:** MCP Server Directories & Lists  
-**Brand:** Grafana  
-**Source:** https://github.com/grafana/mcp-grafana
-
-## Description
-Grafana MCP Server is an open-source Model Context Protocol (MCP) server for Grafana, distributed as the `mcp/grafana` Docker image. It allows MCP-compatible tools and agents to query Grafana dashboards, metrics, and other Grafana APIs.
+The official Grafana MCP Server enables AI agents to interact with your entire observability stack through the Model Context Protocol. It provides comprehensive support for dashboards, datasource queries, alerting, incident management, and more.
 
 ## Features
-- **MCP-compatible server for Grafana**  
-  Implements a Model Context Protocol server focused on interacting with Grafana.
 
-- **Docker-based distribution**  
-  Available as the `mcp/grafana` Docker image for containerized deployment.
+### Dashboard Management
+- Query and manipulate Grafana dashboards
+- Create and update dashboard panels
+- Export and import dashboard configurations
+- Dashboard templating and variables
 
-- **Dashboard querying**  
-  Exposes access to Grafana dashboards through MCP so tools can retrieve dashboard-related data.
+### Datasource Integration
+- **Prometheus**: Query metrics, metadata, and calculate histogram percentiles (p50, p90, p95, p99)
+- **Loki**: Run log queries and metric queries using LogQL
+- **Pyroscope**: Query performance profiling data
+- **Multi-datasource support**: Query multiple datasources simultaneously
 
-- **Metrics access**  
-  Enables querying of metrics exposed via Grafana APIs through the MCP server.
+### Alerting & Incident Management
+- Manage alert rules and notification channels
+- Query alert state and history
+- **Grafana OnCall**: Incident management and on-call scheduling
+- Alert annotation and silencing
 
-- **Grafana API integration**  
-  Provides MCP tools with programmatic access to Grafana APIs (beyond just dashboards and metrics), depending on how you configure and use the server.
+### Sift Investigations
+- Interactive incident investigation workflows
+- Correlation of metrics, logs, and traces
+- Root cause analysis assistance
 
-- **Open-source implementation**  
-  Source code available on GitHub, with directory structure including examples, tests, and tooling configuration.
+### Metrics & Monitoring
+- Prometheus metrics exposure with `--metrics` flag (SSE/HTTP only)
+- Track MCP operation duration with labels for method, tool, error type, transport, and protocol version
+- Self-monitoring capabilities
 
-## Deployment & Integration
-- Distributed as a Docker image: `mcp/grafana`.
-- Designed to be used by MCP-compatible tools (such as AI assistants or other automation/agent frameworks that support MCP) to interact with a Grafana instance.
+## Use Cases
 
-## Licensing
-- Licensed under the **Apache-2.0** license.
+- Automated dashboard creation and updates
+- Intelligent alert management and response
+- Log analysis and troubleshooting
+- Performance profiling and optimization
+- Incident investigation and root cause analysis
+- SLO monitoring and reporting
+- Custom observability workflows
 
-## Pricing
-- **Free & Open Source**  
-  The project is open source under Apache-2.0 and can be used at no cost. Operational costs (e.g., hosting, Grafana instance, infrastructure) are separate and depend on your environment.
+## Technical Implementation
+
+Built and maintained by Grafana Labs, ensuring tight integration with Grafana's APIs and features. Supports SSE and streamable HTTP transports with optional Prometheus metrics exposition.
+
+## Integration
+
+Compatible with Claude Desktop, Cursor, VS Code, and other MCP clients. Supports Grafana Cloud and self-hosted Grafana instances with API key authentication.

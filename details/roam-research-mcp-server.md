@@ -1,39 +1,85 @@
-# Roam Research MCP Server
-
-**Category:** Document Management MCP Servers  
-**Brand:** Roam Research  
-**Source:** https://mcp.pipedream.com/app/roamresearch
-
 ## Overview
-Roam Research MCP Server is an MCP (Model Context Protocol) server that exposes Roam Research’s networked note‑taking and knowledge-graph capabilities to AI agents. It allows applications and chat clients that support MCP to query and manage Roam graphs programmatically.
+
+Roam Research MCP Server connects AI assistants like Claude to Roam Research for seamless data interaction and management. It provides comprehensive access to Roam's powerful graph database for knowledge management.
 
 ## Features
-- **MCP-compatible server endpoint**  
-  - Static server URL for all supported clients: `https://mcp.pipedream.net/v2`  
-  - Can be added to any MCP-capable chat client or application.
 
-- **Roam Research integration**  
-  - Connects to a user’s Roam Research account.  
-  - Enables AI agents and tools to work with Roam’s networked note-taking environment and knowledge graphs.
+### Graph Operations
+- Query Roam database using Datalog
+- Navigate bidirectional links
+- Explore block references
+- Access page hierarchies
+- Query block attributes
 
-- **Authentication flow**  
-  - Authentication occurs when adding the server to the client/application (no per-client URL needed).
+### Data Access
+- Read pages and blocks
+- Search across entire graph
+- Filter by tags and attributes
+- Access daily notes
+- Retrieve linked references
 
-- **Client setup guidance**  
-  - Instructions available per chat client on how to add and configure the MCP server.  
-  - Links to a configuration page for more detailed setup steps.
+### Write Operations
+- Create new pages
+- Add blocks to pages
+- Update existing content
+- Create block references
+- Add attributes and metadata
 
-- **Tool exposure for agents**  
-  - Exposes “available tools” (actions) over MCP for interacting with Roam (listed dynamically in the UI as “Loading actions…/Loading available tools…”).
+### Advanced Features
+- Datalog query support
+- Graph traversal
+- Block embedding
+- Attribute queries
+- Namespace management
+
+## Roam-Specific Capabilities
+
+### Block System
+- Hierarchical block structure
+- Block references ((block-id))
+- Block embeds {{embed: block-id}}
+- Block attributes
+
+### Bidirectional Links
+- Page linking [[Page Name]]
+- Automatic backlinks
+- Link graph visualization
+- Orphaned page detection
+
+### Attributes
+- Key-value attributes
+- Attribute queries
+- Attribute inheritance
+- Custom schemas
 
 ## Use Cases
-- Querying and navigating Roam Research graphs from AI chat clients.  
-- Allowing AI agents to read from and manage networked notes and knowledge bases stored in Roam.
 
-## Technical Details
-- **Protocol:** Model Context Protocol (MCP) server.  
-- **Base URL:** `https://mcp.pipedream.net/v2`  
-- **Host platform:** Provided via Pipedream.
+- Research organization and retrieval
+- Knowledge graph construction
+- Personal knowledge management
+- Writing assistance
+- Literature review
+- Meeting notes management
+- Project planning
+- Daily journaling automation
 
-## Pricing
-No pricing information is provided in the available content.
+## Datalog Queries
+
+Support for Roam's powerful Datalog query language:
+- Complex graph queries
+- Multi-level traversal
+- Attribute-based filtering
+- Temporal queries
+- Relationship discovery
+
+## Technical Implementation
+
+Integrates with Roam Research API providing standardized MCP interface to Roam's graph database. Handles authentication, rate limiting, and data synchronization.
+
+## Integration
+
+Compatible with Claude Desktop, Cursor, VS Code, and other MCP clients. Requires Roam Research account and API access token.
+
+## Security
+
+Secure API authentication, encrypted data transmission, and respect for Roam's privacy settings and access controls.

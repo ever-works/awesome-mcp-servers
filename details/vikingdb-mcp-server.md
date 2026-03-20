@@ -1,28 +1,31 @@
-# vikingdb-mcp-server
+## Overview
 
-VikingDB MCP server provides a server interface for storing and searching data using VikingDB, a high-performance vector database developed by ByteDance.
+VikingDB MCP Server acts as a bridge between VikingDB, a high-performance vector database developed by ByteDance, and AI model context management frameworks. It enables efficient storage, management, and retrieval of vector embeddings for semantic search applications.
 
 ## Features
-- **Collection Introduction:** Tools to introduce and manage VikingDB collections.
-- **Index Introduction:** Tools to introduce and manage VikingDB indexes.
-- **Data Upsert:** Ability to upsert (insert or update) information into VikingDB collections for later retrieval.
-- **Vector Search:** Search for information using vector-based queries in VikingDB.
-- **Configuration Options:**
-  - Set VikingDB host, region, access key, and secret key.
-  - Specify collection and index names for operations.
-- **Integration:** Can be installed and managed via Smithery and configured for use with Claude Desktop on MacOS and Windows.
-- **Development Tools:**
-  - Support for building and publishing as a Python package.
-  - Debugging support with MCP Inspector for easier development and troubleshooting.
 
-## Source Code
-[https://github.com/KashiwaByte/vikingdb-mcp-server](https://github.com/KashiwaByte/vikingdb-mcp-server)
+- **High-Performance Vector Operations**: Optimized for fast similarity search and vector operations
+- **Collection Management**: Tools for creating, managing, and querying VikingDB collections
+- **Index Operations**: Support for various indexing strategies to optimize search performance
+- **Upsert Operations**: Efficient insertion and update of vector data
+- **Semantic Search**: Enable natural language queries through vector similarity search
+- **Standardized MCP Commands**: Fully compliant with Model Context Protocol standards
+- **ByteDance Infrastructure**: Leverages ByteDance's production-grade vector database technology
 
-## Category
-Database Messaging MCP Servers
+## Use Cases
 
-## Tags
-mcp, vector-database, search, database
+- Semantic search applications
+- Recommendation systems
+- Document similarity matching
+- Image and video search
+- Natural language processing tasks
+- Knowledge base construction
+- RAG (Retrieval-Augmented Generation) implementations
 
-## Pricing
-No pricing information is provided in the available content.
+## Technical Details
+
+VikingDB MCP Server provides a standardized interface for AI assistants to interact with VikingDB collections and indexes. It handles vector encoding, storage, and retrieval operations while maintaining high performance through ByteDance's optimized infrastructure.
+
+## Integration
+
+The server integrates seamlessly with MCP-compatible clients including Claude Desktop, Cursor, and other AI development tools, enabling developers to build sophisticated semantic search applications with minimal configuration.

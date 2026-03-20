@@ -1,41 +1,49 @@
-# prometheus-mcp-server
+## Overview
 
-A Model Context Protocol (MCP) server for Prometheus that enables AI assistants to query and analyze Prometheus metrics through standardized interfaces.
-
-**Source:** [GitHub - pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server)
+The Prometheus MCP Server is a Go-based Model Context Protocol implementation deployed in-cluster to provide AI assistants with authenticated, multi-tenant access to Prometheus and Mimir metrics infrastructure. It exposes 18 read-only tools that wrap the Prometheus HTTP API.
 
 ## Features
-- **Execute PromQL Queries:**
-  - Execute instant and range PromQL queries against a Prometheus server.
-- **Metric Discovery and Exploration:**
-  - List all available metrics in Prometheus.
-  - Retrieve metadata for specific metrics.
-  - View instant query results.
-  - View range query results with different step intervals.
-- **Authentication Support:**
-  - Basic authentication via environment variables.
-  - Bearer token authentication via environment variables.
-- **Multi-tenancy Support:**
-  - Supports Org ID for multi-tenant setups (e.g., Cortex, Mimir, Thanos).
-- **Docker Support:**
-  - Official Dockerfile and docker-compose configuration for easy deployment.
-  - Multi-stage Docker build for proper MCP communication.
-- **Configurable Toolset:**
-  - Tools available to the MCP client are configurable to limit context window usage.
-- **Comprehensive Test Suite:**
-  - Includes configuration validation, server functionality, error handling, and main application tests.
-- **Interactive Tools for AI Assistants:**
-  - MCP tools include:
-    - `execute_query`: Execute instant PromQL queries.
-    - `execute_range_query`: Execute range queries with time intervals.
-    - `list_metrics`: List all available metrics.
-    - `get_metric_metadata`: Get metadata for a specific metric.
-    - `get_targets`: Get information about all scrape targets.
-- **Development-Friendly:**
-  - Uses `uv` for dependency management.
-  - Source structure with clear separation of main application and server logic.
-- **Open Source:**
-  - Licensed under the MIT License.
 
-## Pricing
-No pricing information is provided. The project is open source under the MIT license.
+### Query Capabilities
+- **Instant Queries**: Execute PromQL queries for instant metric values
+- **Range Queries**: Query metrics over time ranges
+- **Series Queries**: Discover time series by label matchers
+
+### Metadata & Discovery
+- **Metric Discovery**: List available metrics and their metadata
+- **Label Discovery**: Query label names and values
+- **Target Information**: Access scrape target details
+- **Service Discovery**: View service discovery configuration
+
+### System Information
+- **TSDB Stats**: Time series database statistics
+- **Runtime Info**: Prometheus runtime and configuration details
+- **Build Info**: Version and build information
+
+### Alerting
+- **Alert Rules**: Query active and pending alert rules
+- **Alert State**: Monitor alert firing status
+
+### Advanced Features
+- **Exemplars**: Query exemplar data for distributed tracing correlation
+- **Multi-tenancy**: Support for multi-tenant Prometheus and Mimir deployments
+- **Authentication**: In-cluster authentication for secure access
+- **Read-only**: All operations are non-destructive
+
+## Use Cases
+
+- Metrics exploration and analysis
+- Alert investigation and troubleshooting
+- Capacity planning and forecasting
+- Performance analysis
+- SLI/SLO monitoring
+- Custom metrics dashboards
+- Documentation generation
+
+## Technical Implementation
+
+Built with Go for high performance and deployed directly in Kubernetes clusters. Supports both Prometheus and Mimir backends with automatic multi-tenancy support.
+
+## Integration
+
+Designed for in-cluster deployment alongside Prometheus or Mimir. Compatible with MCP clients through authenticated endpoints. Supports Kubernetes RBAC for access control.

@@ -1,55 +1,62 @@
-# New Relic MCP Server
-
-**Category:** Monitoring  
-**Brand:** New Relic
-
-Exposes New Relic observability and performance monitoring data to MCP-compatible AI clients so agents can query and act on application and infrastructure metrics.
-
-![New Relic Logo](https://newrelic.com/themes/custom/curio/assets/svg/new_relic_logo.svg)
-
----
-
 ## Overview
-The New Relic MCP Server is an MCP endpoint, provided via Pipedream, that connects AI agents and MCP-enabled clients to New Relic’s observability platform. It makes application, infrastructure, and customer experience metrics available for real-time querying and automation.
 
-**MCP Server URL:**
-```text
-https://mcp.pipedream.net/v2
-```
-
-You authenticate when adding the server to your MCP-compatible application.
-
----
+New Relic MCP Server enables popular AI assistants to access detailed New Relic observability data directly through the Model Context Protocol. It provides programmatic access to New Relic's comprehensive monitoring and analytics platform.
 
 ## Features
-- **MCP-compatible server endpoint**  
-  - Static MCP server URL (`https://mcp.pipedream.net/v2`) usable across clients.
-  - Integrates with MCP-capable chat and AI applications.
 
-- **Access to New Relic observability data**  
-  - Surfaces performance and observability data from New Relic.  
-  - Targets software, infrastructure, and customer experience telemetry (metrics, monitoring data, etc.).
+### APM (Application Performance Monitoring)
+- Monitor application performance metrics
+- Analyze transaction traces
+- Track error rates and exceptions
+- Service dependency mapping
+- Distributed tracing analysis
 
-- **Real-time performance insights**  
-  - Designed for AI agents to query current performance and monitoring information.  
-  - Enables automated analysis and actions based on New Relic metrics.
+### NRQL Queries
+- Execute New Relic Query Language (NRQL) queries
+- Custom data analysis and aggregation
+- Real-time metrics and events querying
+- Historical data analysis
+- Advanced filtering and grouping
 
-- **Client-agnostic configuration**  
-  - Same URL for every supported MCP client; configuration handled per client.  
-  - Additional setup details available via the referenced configuration documentation (per chat client).
+### Log Management
+- Log parsing rules configuration
+- Log pattern analysis
+- Error log investigation
+- Custom log queries
+- Log correlation with metrics and traces
 
-- **Delivered via Pipedream Connect**  
-  - Hosted and powered by Pipedream’s integration platform.  
-  - Uses Pipedream’s infrastructure for serving the MCP endpoint.
+### Synthetic Monitoring
+- Monitor synthetic test results
+- Track uptime and availability
+- Performance benchmarking
 
----
+### Infrastructure Monitoring
+- Server and container metrics
+- Cloud provider integrations
+- Resource utilization tracking
 
-## Tags
-- monitoring  
-- observability  
-- metrics
+## Agentic AI Monitoring
 
----
+New Relic's Agentic AI Monitoring provides specialized capabilities for monitoring AI agents and LLM applications, including:
+- Token usage tracking
+- Model performance metrics
+- Error rate monitoring for AI operations
+- Cost analysis for AI services
 
-## Pricing
-The provided content does not include any pricing or plan information for the New Relic MCP Server.
+## Use Cases
+
+- Automated performance analysis and optimization
+- Intelligent alert triage and incident response
+- Custom reporting and dashboards
+- Root cause analysis automation
+- Capacity planning with AI insights
+- Cost optimization recommendations
+- SLA monitoring and reporting
+
+## Technical Implementation
+
+Official New Relic implementation ensuring compatibility with all New Relic products and features. Supports both New Relic One and EU data centers with secure API authentication.
+
+## Integration
+
+Compatible with GitHub Copilot, ChatGPT, Claude, Cursor, and other MCP-enabled AI assistants. Requires New Relic API key for authentication.

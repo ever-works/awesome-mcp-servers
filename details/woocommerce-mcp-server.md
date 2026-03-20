@@ -1,54 +1,114 @@
-# WooCommerce MCP Server
-
 ## Overview
-WooCommerce MCP Server is an MCP (Model Context Protocol) server integration that connects to WooCommerce, the open‑source ecommerce platform for WordPress. It exposes store data such as products, orders, customers, and order notes as tools that can be invoked from compatible MCP clients.
 
-- **Type:** MCP server integration
-- **Platform:** WooCommerce (WordPress ecommerce)
-- **Provider:** Pipedream
-- **MCP Server URL:** `https://mcp.pipedream.net/v2`
+The Model Context Protocol (MCP) is an open standard that enables AI applications to securely connect to external data sources and tools. MCP for WooCommerce is a WordPress plugin that connects your WooCommerce store to AI assistants like Claude via the Model Context Protocol (MCP).
 
-## Features
+## Key Features
 
-### General
-- Integrates a WooCommerce store with MCP-compatible applications.
-- Uses a single static MCP server URL for all clients.
-- Authentication occurs when adding the server to an application.
-- Supports configuring and connecting a WooCommerce account for use in chat or other MCP-enabled clients.
+WooCommerce's MCP integration provides AI assistants with structured access to core store operations:
 
-### Available Tools (Actions)
-The WooCommerce MCP Server exposes 16 actions as tools:
+- **Product Management**: Full CRUD operations for products, categories, and attributes
+- **Order Management**: View and manage orders, order status, and fulfillment
+- **Customer Management**: Access customer data and purchase history
+- **Shipping Configuration**: Manage shipping methods and zones
+- **Tax Settings**: Configure tax rates and classes
+- **Discount Management**: Create and manage coupons and discounts
+- **Store Configuration**: Access and modify store settings
 
-#### Products
-- **Create Product** – Create a new product in WooCommerce.
-- **Update Product** – Update an existing product.
-- **Get Product** – Retrieve a specific product by identifier.
-- **List Products** – Retrieve a list of products.
+## Security Features
 
-#### Orders
-- **Create Order** – Create a new order.
-- **Get Order** – Retrieve a specific order.
-- **List Orders** – Retrieve a list of orders.
-- **Update Order Status** – Update the status of a specific order.
-- **Delete Order** – Delete an existing order.
+MCP for WooCommerce is designed with security as a priority:
 
-#### Order Notes
-- **Add Order Note** – Create a new note for an order.
-- **Get Order Note** – Retrieve a specific order note.
-- **List Order Notes** – Retrieve a list of notes for a specific order.
+- **Read-Only Mode**: Operates in read-only mode by default
+- **Public Data Only**: Only provides access to public store data
+- **Permission System**: Respects WooCommerce's existing permission system
+- **REST API Authentication**: Authenticated using WooCommerce REST API keys
+- **No Private Data**: No customer information, sales data, or private details accessible
 
-#### Customers
-- **Create Customer** – Create a new customer.
-- **Get Customer** – Retrieve a specific customer.
-- **Search Customers** – Find customers by search criteria.
+### Accessible Data
 
-#### Refunds
-- **Create Refund** – Create a new refund for an order.
+- Product information and catalog
+- Categories and tags
+- Shipping methods
+- Payment gateways
+- Public store configuration
 
-## Configuration
-- Connect a WooCommerce account via the Pipedream interface.
-- Use the static MCP server URL `https://mcp.pipedream.net/v2` when adding the server to an MCP-compatible app.
-- Configuration guides are available per client type and via the general configuration page on Pipedream.
+## Setup Process
+
+To connect Claude Code to your WooCommerce MCP server:
+
+1. Go to WooCommerce → Settings → Advanced → REST API
+2. Create a new API key with "Read/Write" permissions
+3. Configure MCP with your API key
+4. Connect through Claude Code or other MCP-compatible clients
+
+## Technical Implementation
+
+The configuration typically uses:
+- **Package**: @automattic/mcp-wordpress-remote
+- **Protocol**: JSON-RPC 2.0
+- **Transport**: STDIO and HTTP streamable transport
+- **Authentication**: Optional JWT authentication
+- **API**: WooCommerce REST API
+
+## Available Implementations
+
+Multiple MCP server implementations available:
+
+### Official WooCommerce MCP Integration
+
+From Automattic (WooCommerce parent company):
+- Full feature set
+- Regular updates
+- Enterprise support
+
+### Community Plugins
+
+WordPress.org plugin repository:
+- Free and open-source
+- Community-maintained
+- Easy installation through WordPress admin
+
+### Third-Party Servers
+
+GitHub implementations:
+- techspawn/woocommerce-mcp-server
+- iOSDevSK/mcp-for-woocommerce
+- Custom configurations and extensions
+
+### Hosted Solutions
+
+Pipedream's WooCommerce MCP server:
+- Cloud-hosted
+- No local installation required
+- Quick setup
+
+## Use Cases
+
+- Automated order fulfillment workflows
+- Product catalog management
+- Inventory synchronization across platforms
+- Customer data extraction for CRM integration
+- Targeted marketing campaigns
+- Store analytics and reporting
+- Multi-channel e-commerce management
+
+## Compatible Clients
+
+- Claude Desktop and Claude Code
+- Cursor IDE
+- VS Code extensions
+- Custom MCP clients
+- Any MCP-compatible AI assistant
+
+## Benefits
+
+- Natural language store management
+- Automated e-commerce operations
+- Secure API access
+- WordPress ecosystem integration
+- Extensive WooCommerce compatibility
+- Community support
 
 ## Pricing
-Pricing details for the WooCommerce MCP Server are not provided in the given content. Use of this integration is subject to Pipedream’s general Terms and Privacy Policy.
+
+Free and open-source. WooCommerce and WordPress hosting costs may apply.

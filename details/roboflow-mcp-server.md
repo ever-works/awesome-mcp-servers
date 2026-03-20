@@ -1,36 +1,63 @@
-# Roboflow MCP Server
+## Overview
 
-Roboflow MCP Server connects MCP-compatible agents and chat clients to Roboflow’s computer vision platform via a standardized MCP endpoint, enabling you to build, deploy, and use vision models through MCP tools.
-
-- **Website / Source**: https://mcp.pipedream.com/app/roboflow
-- **Category**: AI Integration – MCP Servers
-- **Brand**: Roboflow
-- **Slug**: `roboflow-mcp-server`
-- **Tags**: `computer-vision`, `machine-learning`, `models`
+Roboflow offers an MCP (Model Context Protocol) server for building and using computer vision models. Over 1 million engineers deploy visual intelligence for video, images, and real-time streams with Roboflow. The platform is an end-to-end computer vision solution designed for teams building production-ready models.
 
 ## Features
 
-- **MCP-compatible endpoint**  
-  - Provides a static MCP server URL: `https://mcp.pipedream.net/v2`  
-  - Works with any MCP-compatible client or agent.
+### Computer Vision Capabilities
 
-- **Authentication at client setup**  
-  - Authentication is handled when adding the MCP server to your application or chat client.
+- **Object Detection**: Identify and locate objects in images and videos
+- **Segmentation**: Pixel-level object segmentation
+- **Classification**: Image classification models
+- **Keypoint Detection**: Pose estimation and keypoint tracking
+- **Foundation Models**: CLIP, SAM-2, and Florence-2 integration
 
-- **Integration with chat clients**  
-  - Can be added to supported chat clients for interactive use of computer vision models.  
-  - Instructions available per client (via the "Select your chat client" and configuration guidance on the source site).
+### Platform Features
 
-- **Configuration documentation**  
-  - Detailed setup and configuration steps provided via a dedicated Configuration page (linked from the app page).
+- **Dataset Management**: Organize and manage training datasets
+- **Annotation Tools**: Built-in annotation interface
+- **Model Training**: Train custom models on your data
+- **Deployment**: Production-ready inference server
+- **Inference**: Turn any computer or edge device into a command center
 
-- **Backed by Pipedream Connect**  
-  - Runs on Pipedream’s integration platform infrastructure.
+## MCP Integration
 
-- **Use cases (implied by platform capabilities)**  
-  - Build computer vision models on Roboflow and access them via MCP tools.  
-  - Deploy and run inference through MCP-compatible agents and chat interfaces.
+The MCP server enhances Roboflow experience by:
+
+- Automating tasks
+- Taking real-time actions
+- Seamlessly connecting apps using the Model Context Protocol
+- Connecting Roboflow actions with AI tools like ChatGPT, Claude, and Cursor
+
+## Inference Capabilities
+
+Inference turns any computer or edge device into a command center for your computer vision projects with:
+
+- Easy-to-use, production-ready inference server
+- Deployment of many popular model architectures
+- Support for real-time video processing
+- Edge device deployment
+
+## Use Cases
+
+- Production object detection systems
+- Real-time video analytics
+- Quality control automation
+- Security and surveillance
+- Retail analytics
+- Manufacturing inspection
+- Sports analytics
+
+## Integration Methods
+
+Available through platforms like:
+- Pipedream MCP integration
+- viaSocket MCP connector
+- Direct API integration
 
 ## Pricing
 
-- No explicit pricing information is provided on the referenced page. Use of the Roboflow MCP Server may be subject to Roboflow and/or Pipedream pricing and terms; consult their official sites for details.
+Multiple tiers available:
+- Free tier for development
+- Pro and Enterprise plans for production use
+- Custom pricing for large-scale deployments

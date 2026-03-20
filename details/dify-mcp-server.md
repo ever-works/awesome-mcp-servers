@@ -1,35 +1,82 @@
-# Dify MCP Server
-
 ## Overview
-Dify MCP Server is a simple implementation of a Model Context Protocol (MCP) server that lets MCP-compatible clients invoke and orchestrate [Dify](https://github.com/langgenius/dify) workflows as tools.
 
-## Features
-- **MCP server for Dify workflows**  
-  - Exposes Dify workflows as MCP tools so they can be called from MCP-compatible clients.
-  - Enables invocation and orchestration of Dify workflows via MCP tool calls.
+Dify is an open-source platform for building AI applications that combines Backend-as-a-Service and LLMOps to streamline the development of generative AI solutions. Version 1.6.0 introduces built-in two-way MCP integration that lets agents call any MCP server or become one.
 
-- **Environment-based configuration**  
-  - Supports configuring `base_url` and `app_sks` via environment variables (as of 2025-04-15).  
-  - Intended to make configuration easier, especially for cloud-hosted platforms.
+## Two-Way MCP Integration
 
-- **Containerized deployment**  
-  - Includes a `Dockerfile` for running the server in a containerized environment.
+### Consume MCP Servers
 
-- **Python-based project**  
-  - Managed with `pyproject.toml` and `.python-version` for reproducible Python environments.  
-  - Includes `uv.lock`, indicating support for `uv`-based dependency management.
+Add any MCP server as tools in an Agent or as solo nodes in a Workflow:
 
-- **Smithery integration**  
-  - Provides a `smithery.yaml` configuration, indicating support for installation and use via Smithery as an MCP server.
+- **In Agents**: LLM automatically selects appropriate MCP actions at runtime
+- **In Workflows**: Place MCP tools exactly where needed for deterministic execution
+- **Supported Servers**: Linear, Notion, Zapier (8,000+ connected apps), and any MCP-compatible service
 
-## Installation & Configuration
-- Installable as an MCP server from the provided GitHub repository.  
-- Supports configuration through environment variables for at least:
-  - `base_url`
-  - `app_sks`
+### Publish as MCP Servers
 
-(For exact installation commands and full configuration options, refer to the project’s README.)
+Publish Dify Agents or Workflows as MCP servers:
+
+- Clear server and parameter descriptions
+- Any MCP-compatible client can discover and invoke
+- Standard protocol compliance
+- Instant AI availability across platforms
+
+## Key Features
+
+### Workflow Builder
+
+- Visual canvas for building AI workflows
+- Test powerful AI workflows in real-time
+- Modular architecture
+- Drag-and-drop interface
+
+### LLM Orchestration
+
+- Seamless integration with hundreds of LLMs
+- Proprietary and open-source models
+- Support for GPT, Mistral, Llama3
+- Any OpenAI API-compatible models
+- Easy model switching
+
+### Integration Capabilities
+
+- Access external APIs, databases, and services through standardized MCP protocols
+- Eliminate integration complexity and maintenance overhead
+- HTTP-based MCP services (protocol 2025-03-26)
+- Pre-authorized and auth-free modes
+
+## Platform Features
+
+- **RAG Pipeline**: Built-in retrieval augmented generation
+- **Agent Capabilities**: Autonomous agent creation
+- **Model Management**: Centralized LLM management
+- **Observability**: Integration with Opik, Langfuse, and Arize Phoenix
+- **Backend-as-a-Service**: Complete backend infrastructure
+
+## Use Cases
+
+- Research pipelines with multiple agent access to MCP tools
+- Technical analysis and web research
+- Email and communication automation
+- Incident response with integrated monitoring tools
+- Cross-platform workflow orchestration
+- AI-powered documentation generation
+
+## Technical Specifications
+
+- **Protocol Support**: MCP protocol 2025-03-26
+- **Transport**: HTTP-based MCP services
+- **Authentication**: Pre-authorized and auth-free modes
+- **Integration**: Works with 8,000+ apps via Zapier and other MCP servers
+
+## Development Features
+
+- Intuitive interface for AI workflow creation
+- Quick prototype to production
+- Comprehensive documentation
+- Community support
+- Open-source codebase
 
 ## Pricing
-- Open-source GitHub project.  
-- No pricing or paid plans are mentioned in the available content.
+
+Open-source platform with self-hosting option. Cloud hosted version available with various pricing tiers.

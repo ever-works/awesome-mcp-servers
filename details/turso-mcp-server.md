@@ -1,42 +1,50 @@
-## Turso MCP Server
+## Overview
 
-**Description**  
-MCP server that exposes Turso’s libSQL-powered, production-grade SQLite-as-a-service to MCP-aware tools and agents for data storage and querying.
-
-**Category**  
-- Database & Messaging MCP Servers
-
-**Tags**  
-- database  
-- sql  
-- cloud
-
-**Integration & Access**  
-- Static MCP server URL: `https://mcp.pipedream.net/v2`  
-- Authenticate when adding the server to an MCP-compatible application or chat client.
+Turso is an edge-hosted SQLite database designed for modern applications, built on LibSQL (a fork of SQLite), offering embedded replicas for ultra-low latency and simple operation. The Turso CLI includes a built-in Model Context Protocol (MCP) server that allows AI assistants to interact with your databases.
 
 ## Features
 
-- **MCP Server for Turso**  
-  - Connects MCP-aware tools and agents to Turso’s managed, libSQL-based SQLite databases.  
-  - Suitable for using SQLite in production environments.
+- **Built-in MCP Server**: Native MCP support in Turso CLI
+- **LibSQL Foundation**: Full SQLite compatibility with extended features
+- **Edge Deployment**: Deploy databases everywhere—servers, browsers, devices
+- **Embedded Replicas**: Ultra-low latency with local replicas
+- **File-Like Operation**: Lightweight database deployment model
+- **Full Backwards Compatibility**: Same file format and API as SQLite
 
-- **Account & Organization Management**  
-  - **Get Organizations**: Retrieve a list of organizations that the authenticated user owns or is a member of.  
-  - **Get Groups**: Retrieve groups belonging to a specific organization or user.
+## LibSQL Advantages
 
-- **Database Management**  
-  - **Get Databases**: List databases belonging to the authenticated user or organization.  
-  - **Create Database**: Create a new database within a chosen group for a user or organization.
+- Fork of SQLite maintaining full compatibility
+- Same file format and API
+- Full backwards compatibility
+- Extended features the ecosystem has long needed
+- Drop-in SQLite replacement
 
-- **Data Querying**  
-  - **Execute SQL Query (SQLite-specific)**: Run custom SQLite queries directly against Turso databases.  
-  - **Query SQL Database**: Execute generic SQL queries through the provided action.
+## Community MCP Servers
 
-- **Client-Agnostic Endpoint**  
-  - Single static MCP server URL works with all supported MCP clients.  
-  - Configuration guidance available per client (via the referenced configuration page).
+Multiple community-developed MCP servers available:
+
+### mcp-turso (nbbaier)
+Provides access to Turso-hosted LibSQL databases
+
+### turso-mcp (PramaAditya)
+Read-only MCP server for querying Turso/libSQL databases, enabling AI assistants like Claude, Roo, and Cline to safely query databases without risk of data modification
+
+### mcp-libsql (Xexr)
+Comprehensive security and management tools, supporting file, local HTTP, and remote Turso databases with connection pooling, transaction support, and 6 specialized database tools
+
+## Use Cases
+
+- Lightweight database deployment for millions of agents
+- Edge computing applications
+- Browser-based data storage
+- IoT and device-local databases
+- Distributed applications with local-first architecture
+- Agentic AI with embedded data
+
+## Integration
+
+Easily connect to Turso MCP server using Claude Code with built-in MCP management commands.
 
 ## Pricing
 
-- Not specified in the provided content.
+Free tier available. Usage-based pricing for production workloads.

@@ -1,54 +1,45 @@
-# Neon MCP Server
-
-An MCP server that provides MCP-based access to Neon’s serverless Postgres databases using Neon API keys, delivered via Pipedream.
-
----
-
 ## Overview
-- **Type:** MCP server (developer tool / integration)
-- **Platform:** Pipedream / Pipedream Connect
-- **Database:** Neon serverless PostgreSQL
-- **Authentication:** Neon API keys
-- **MCP Endpoint:** `https://mcp.pipedream.net/v2`
 
-This server allows compatible MCP clients (such as ChatGPT with MCP support) to programmatically manage Neon serverless Postgres resources.
-
----
+Neon is a serverless Postgres platform that separates compute and storage to offer autoscaling, branching, instant restore, and scale-to-zero. The Neon MCP Server provides a powerful interface for interacting with the Neon serverless Postgres platform, allowing developers to seamlessly manage and operate their databases through the MCP framework.
 
 ## Features
 
-### MCP Integration
-- Static MCP server URL (`https://mcp.pipedream.net/v2`) usable across supported MCP clients.
-- Authentication handled when adding the server to an MCP-capable application.
-- Configuration guidance available for ChatGPT (OpenAI) and via a generic configuration page.
+- **Natural Language Interaction**: Manage Neon databases using intuitive, conversational commands
+- **Database Provisioning**: Create and configure new Neon Postgres databases and projects programmatically
+- **Instant Branching**: Create instant database branches from production data for isolated development or testing
+- **Database Migrations**: Leverage Neon's branching capabilities for schema changes via natural language
+- **No SQL Required**: Perform complex actions without writing SQL or directly using the Neon API
+- **Scale-to-Zero**: Automatic compute scaling including scaling to zero during inactivity
 
-### Neon Account Connectivity
-- Connect a Neon account via Pipedream to manage serverless Postgres resources.
-- Uses Neon API keys for secure access.
+## Neon Platform Capabilities
 
-### Available Tools (Actions)
-The Neon MCP Server exposes the following actions as MCP tools:
+- **Compute-Storage Separation**: Independent scaling of compute and storage resources
+- **Autoscaling**: Automatic resource adjustment based on workload
+- **Database Branching**: Git-like branching for databases
+- **Instant Restore**: Point-in-time restore capabilities
+- **Serverless Architecture**: Pay only for resources used
 
-1. **Create Project**
-   - Creates a new Neon project.
-   - Intended for provisioning new logical environments within Neon.
-   - Linked documentation in the Pipedream GitHub repository for parameters and usage.
+## How It Works
 
-2. **Create Database**
-   - Creates a database within an existing Neon project.
-   - Used to add new Postgres databases under a given Neon project.
+Neon's MCP server acts as a bridge between natural language requests and the Neon API, translating requests into the necessary API calls and enabling you to manage tasks such as:
 
-3. **Create Branch**
-   - Creates a branch within a Neon project.
-   - Supports Neon’s branching model for development, staging, or other isolated environments.
+- Creating projects and branches
+- Running queries
+- Performing database migrations seamlessly
 
----
+## Requirements
+
+- A Neon account
+- Node.js (>= v18.0.0)
 
 ## Use Cases
-- Programmatically provisioning Neon serverless Postgres infrastructure from MCP-enabled chat clients.
-- Automating setup of projects, databases, and branches for different environments (development, staging, production) via conversational interfaces.
 
----
+- Development environment provisioning
+- Database branch management for testing
+- Production data cloning for development
+- Automated database operations
+- CI/CD database integration
 
 ## Pricing
-The provided content does not include any pricing information for the Neon MCP Server or related Pipedream usage.
+
+Free tier available. Paid plans scale with usage.

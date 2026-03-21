@@ -19,7 +19,7 @@ npx @covalenthq/goldrush-mcp-server
 Set `GOLDRUSH_API_KEY` environment variable with your key from https://goldrush.dev
 
 ## Links
-- GitHub: https://github.com/covalenthq/goldrush-mcp-server
+- GitHub: https://goldrush.dev/docs/goldrush-mcp-server
 - npm: https://www.npmjs.com/package/@covalenthq/goldrush-mcp-server
 - Docs: https://goldrush.dev/docs
 - Agent Skills: https://github.com/covalenthq/goldrush-agent-skills

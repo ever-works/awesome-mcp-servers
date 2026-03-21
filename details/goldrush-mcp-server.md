@@ -1,7 +1,7 @@
 # goldrush-mcp-server
 
 ## Overview
-GoldRush by Covalent is an MCP server providing blockchain data across 100+ chains. It enables AI agents to query wallet token balances, transaction history, token prices, NFT holdings, and DEX pair data through the Model Context Protocol.
+GoldRush MCP Server exposes GoldRush APIs as MCP resources and tools, enabling LLMs to interact with blockchain data across 100+ chains.
 
 ## Features
 - **Multi-chain**: 100+ supported chains including Ethereum, Polygon, Base, BSC, Avalanche, and more

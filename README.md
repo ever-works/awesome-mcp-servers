@@ -615,6 +615,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [crypto-trending-mcp](https://github.com/kukapay/crypto-trending-mcp) - An MCP server that tracks the latest trending tokens on CoinGecko for AI-powered analysis. ([Read more](/details/crypto-trending-mcp.md)) `mcp` `crypto` `market-data` `Real Time`
 - [crypto-whitepapers-mcp](https://github.com/kukapay/crypto-whitepapers-mcp) - An MCP server serving as a structured knowledge base of crypto whitepapers for AI agents. ([Read more](/details/crypto-whitepapers-mcp.md)) `mcp` `crypto` `Knowledge Base` `Documentation`
 - [cryptopanic-mcp-server](https://github.com/kukapay/cryptopanic-mcp-server) - An MCP server providing the latest cryptocurrency news to AI agents, powered by CryptoPanic. ([Read more](/details/cryptopanic-mcp-server.md)) `mcp` `crypto` `news` `ai-integration`
+- [goldrush-mcp-server](https://goldrush.dev/docs/goldrush-mcp-server) - An MCP server that exposes GoldRush APIs as resources and tools, enabling LLMs to interact with blockchain data across 100+ chains. ([Read more](/details/goldrush-mcp-server.md)) `blockchain` `crypto` `wallet` `defi` `api-integration` `multi-chain`
 
 ## Business & Commerce Mcp Servers
 

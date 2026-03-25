@@ -680,6 +680,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Control D MCP Server](https://mcp.pipedream.com/app/control_d) - An MCP Server integration for Control D, enabling programmable control over its customizable DNS service for blocking threats, unwanted content, and ads. ([Read more](/details/control-d-mcp-server.md)) `dns` `Security` `content-filtering`
 - [Conveyor MCP Server](https://mcp.pipedream.com/app/conveyor) - An MCP server exposing Conveyor’s security review and questionnaire automation platform to MCP-compatible agents, enabling programmatic access to security review workflows. ([Read more](/details/conveyor-mcp-server.md)) `Security` `questionnaires` `compliance`
 - [DataTrails MCP Server](https://mcp.pipedream.com/app/rkvst) - An MCP Server for DataTrails (formerly RKVST), exposing APIs to add provenance and verify authenticity of digital content within MCP-automated workflows. ([Read more](/details/datatrails-mcp-server.md)) `attestation` `provenance` `verification`
+- [operant-mcp](https://github.com/operantlabs/operant-mcp) - Security testing MCP server with 51 tools for penetration testing, network forensics, memory analysis, and vulnerability assessment. Install via `npx operant-mcp`. ([Read more](/details/operant-mcp.md)) `Security` `penetration-testing` `forensics`
 
 ## Api Integration Mcp Servers
 

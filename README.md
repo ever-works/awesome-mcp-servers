@@ -1563,6 +1563,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Search & Discovery Mcp Servers
 
+- [402.bot Discovery Oracle](https://api.402.bot/mcp/setup) - Public remote MCP server for discovering live agent APIs, ranked endpoints, trust signals, and x402 payment telemetry through a read-only streamable HTTP surface. ([Read more](/details/402bot-discovery-oracle.md)) `api-discovery` `x402` `Analytics`
 - [Amazon Kendra Index MCP Server](https://awslabs.github.io/mcp/servers/kendra-index-mcp-server) - An MCP server that connects to Amazon Kendra indexes, providing enterprise search capabilities and retrieval-augmented generation (RAG) enhancement for conversational assistants. ([Read more](/details/amazon-kendra-index-mcp-server.md)) `enterprise-search` `Rag` `Aws`
 - [Barcode Lookup MCP Server](https://mcp.pipedream.com/app/barcode_lookup) - Barcode Lookup MCP Server is an MCP server integration for the Barcode Lookup service, enabling MCP-based tools to search millions of products online by barcode via a standardized protocol interface. ([Read more](/details/barcode-lookup-mcp-server.md)) `product-data` `Search` `lookup`
 - [BrandMentions MCP Server](https://mcp.pipedream.com/app/brandmentions) - An MCP Server that integrates with BrandMentions, enabling MCP clients to monitor and query brand mentions across the web. ([Read more](/details/brandmentions-mcp-server.md)) `brand-monitoring` `social-sentiment` `web-search`

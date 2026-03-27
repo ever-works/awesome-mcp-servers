@@ -1313,6 +1313,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Finance & Market Data Mcp Servers
 
+- [Agent Cards](https://github.com/agent-cards/mcp) - Give your AI agent a debit card. Create and manage prepaid virtual Visa cards with fixed budgets — agents can create cards, make payments, check balances, and handle 402 Payment Required responses automatically. `payments` `virtual-cards` `ai-agents`
 - [Alpaca MCP Server](https://mcp.pipedream.com/app/alpaca) - An MCP Server integrating the Alpaca commission-free, API-first stock brokerage platform, enabling trading and market data workflows for MCP agents. ([Read more](/details/alpaca-mcp-server.md)) `trading` `stock-market` `api-integration`
 - [alpaca-mcp](https://github.com/laukikk/alpaca-mcp) - An MCP Server for the Alpaca trading API to manage stock and crypto portfolios, place trades, and access market data. ([Read more](/details/alpaca-mcp.md)) `trading` `market-data` `portfolio-management` `Open Source`
 - [alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) - MCP server integrating Alpha Vantage API, delivering real-time stock and crypto data for AI agents via Model Context Protocol. ([Read more](/details/alpha-vantage-mcp.md)) `market-data` `finance` `Real Time` `api-integration`

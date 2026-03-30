@@ -1073,6 +1073,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Content Extraction & Summarization Mcp Servers
 
+- [Recast MCP](https://github.com/DrewDawson2027/recast-mcp) - Content repurposing MCP server that fetches any URL, extracts clean text via Mozilla Readability, and provides prompt templates for generating LinkedIn posts, Twitter threads, Reddit posts, and newsletter snippets. No external API dependencies. `Content Repurposing` `Social Media` `Open Source`
 - [2markdown MCP Server](https://mcp.pipedream.com/app/_2markdown) - An MCP Server that converts web pages into clean Markdown, enabling AI agents and MCP clients to access and process comprehensive website content in a structured text format. ([Read more](/details/2markdown-mcp-server.md)) `Markdown` `Content Extraction` `web`
 - [Affinda MCP Server](https://mcp.pipedream.com/app/affinda) - MCP Server for Affinda’s AI-powered document processing platform, allowing model context protocol clients to automate document extraction and processing tasks. ([Read more](/details/affinda-mcp-server.md)) `Document Processing` `Content Extraction` `ai-insights`
 - [AI Textraction MCP Server](https://mcp.pipedream.com/app/ai_textraction) - An MCP server that provides AI-powered text extraction, allowing LLMs to extract custom user-defined entities such as names, dates, and prices from unstructured text. ([Read more](/details/ai-textraction-mcp-server.md)) `Content Extraction` `entity-extraction` `ai-insights`
@@ -1313,6 +1314,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Finance & Market Data Mcp Servers
 
+- [SmartLedger](https://github.com/DrewDawson2027/smartledger-mcp) - AI bookkeeping MCP server that parses invoices, receipts, and bank statements. Auto-categorizes expenses by IRS Schedule C line items and generates tax-ready summaries. 100% local processing. `Bookkeeping` `Tax` `Invoice` `Open Source`
 - [Alpaca MCP Server](https://mcp.pipedream.com/app/alpaca) - An MCP Server integrating the Alpaca commission-free, API-first stock brokerage platform, enabling trading and market data workflows for MCP agents. ([Read more](/details/alpaca-mcp-server.md)) `trading` `stock-market` `api-integration`
 - [alpaca-mcp](https://github.com/laukikk/alpaca-mcp) - An MCP Server for the Alpaca trading API to manage stock and crypto portfolios, place trades, and access market data. ([Read more](/details/alpaca-mcp.md)) `trading` `market-data` `portfolio-management` `Open Source`
 - [alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) - MCP server integrating Alpha Vantage API, delivering real-time stock and crypto data for AI agents via Model Context Protocol. ([Read more](/details/alpha-vantage-mcp.md)) `market-data` `finance` `Real Time` `api-integration`

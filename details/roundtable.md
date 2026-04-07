@@ -1,5 +1,13 @@
-# Roundtable
+## Overview
 
-Zero-configuration MCP server unifying AI coding assistants (Claude Code, Cursor, Codex) via auto-discovery and standardized interface for multi-AI collaboration.
+Zero-configuration MCP server that unifies AI coding assistants.
 
-[https://github.com/askbudi/roundtable](https://github.com/askbudi/roundtable)
+## Features
+
+- Unifies Codex, Claude Code, Cursor, Gemini
+- Intelligent auto-discovery of tools
+- Standardized interface
+
+## Pricing
+
+Free and open-source.

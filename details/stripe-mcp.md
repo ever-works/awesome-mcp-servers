@@ -1,5 +1,16 @@
-# Stripe MCP
+## Overview
 
-MCP integration with Stripe for handling payments, customers, and refunds.
+Stripe MCP offers direct access to financial data via AI prompts.
 
-[https://github.com/stripe/mcp](https://github.com/stripe/mcp)
+## Features
+
+- Query MRR and revenue
+- Detect churn spikes
+- Access payment metrics
+- OAuth authentication
+
+## Use Cases
+
+- Revenue analysis
+- Churn monitoring
+- Financial insights without exports

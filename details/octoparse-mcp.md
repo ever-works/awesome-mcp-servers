@@ -1,22 +1,17 @@
 ## Overview
 
-No-code web scraping MCP server that turns AI assistants into web scrapers.
+Octoparse MCP makes ChatGPT, Claude, Cursor or Gemini your own web scraper requiring no code or extraction logic.
 
 ## Features
 
-- Browse live websites via natural language prompts
-- Monitor competitor prices (e.g., Amazon)
-- Extract leads from directories
-- Auto-generates scraping templates
-- Works inside Claude Desktop, Cursor, ChatGPT, Gemini
-- Read-only and write access configurable
+- Browse live websites and fetch data from URLs
+- Monitor Amazon prices and competitor sites
+- Extract hundreds of leads from directories
+- Create scraping workflows via AI prompts
+- No API keys needed, copy-paste install
 
 ## Use Cases
 
-- Competitor price tracking
-- Job posting aggregation
-- Lead list creation
-
-## Pricing
-
-Tied to Octoparse subscription plans; free tier available for basic use.
+- Competitor price monitoring
+- Lead generation from job postings
+- Market research and data aggregation

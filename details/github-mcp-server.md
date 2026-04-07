@@ -1,5 +1,19 @@
-# GitHub MCP Server
+## Overview
 
-MCP server for interacting with GitHub repositories, issues, pull requests using scoped tokens for read-only or controlled write access. Integrates with VSCode Copilot Chat and other IDEs for context-aware coding.
+GitHub MCP Server allows AI to query and interact with GitHub features securely.
 
-[https://docs.github.com/en/rest/mcp](https://docs.github.com/en/rest/mcp)
+## Features
+
+- Repository, issues, PR queries
+- Code search and summaries
+- IDE integration (VS Code, JetBrains)
+- Scoped token access (read-only or write)
+- Push protection for secrets
+
+## Best For
+
+Developers using GitHub and Copilot.
+
+## Pricing
+
+Free with GitHub account.

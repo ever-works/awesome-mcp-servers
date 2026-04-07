@@ -1,5 +1,8 @@
-# Redis MCP Server
+## Overview
+Redis interactions.
 
-A Redis MCP server implementation for interacting with Redis databases, enabling LLMs to interact with Redis key-value stores through standardized tools.
+## Features
+- Key-value operations
 
-[https://github.com/GongRzhe/REDIS-MCP-Server](https://github.com/GongRzhe/REDIS-MCP-Server)
+## Status
+Archived.

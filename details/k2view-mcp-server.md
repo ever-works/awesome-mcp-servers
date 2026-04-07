@@ -1,5 +1,18 @@
-# K2view MCP Server
+## Overview
 
-Enterprise MCP server providing real-time access to unified data products from fragmented systems like CRM, ERP, mainframes with built-in governance, identity resolution, masking, and semantic alignment.
+K2view MCP Server delivers governed data products to AI.
 
-[https://www.k2view.com/mcp-server](https://www.k2view.com/mcp-server)
+## Features
+
+- Unified data from legacy systems
+- Data governance and masking
+- Semantic alignment, identity resolution
+- Orchestrated prompts, on-demand fetching
+
+## Best For
+
+Large enterprises with fragmented data.
+
+## Pricing
+
+Enterprise pricing.

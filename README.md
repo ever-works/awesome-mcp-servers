@@ -43,7 +43,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Documentation & Learning Resources (17)](#documentation--learning-resources)
 - [Search & Discovery Mcp Servers (31)](#search--discovery-mcp-servers)
 - [Security Attestation Mcp Servers (30)](#security-attestation-mcp-servers)
-- [Social (5)](#social)
+- [Social (6)](#social)
 - [Travel & Transportation (32)](#travel--transportation)
 - [Version Control (13)](#version-control)
 - [AI Integration Mcp Servers (68)](#ai-integration-mcp-servers-1)
@@ -1657,6 +1657,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Social
 
+- [BulkPublish MCP Server](https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server) - MCP server for social media publishing across 11 platforms including Twitter/X, Facebook, Instagram, LinkedIn, TikTok, YouTube, Pinterest, Threads, Bluesky, Mastodon, and Telegram. Provides 29 tools for creating posts, scheduling, uploading media, and tracking analytics. Install via `npx -y @bulkpublish/mcp-server`. `Social Media` `Multi Platform` `Scheduling`
 - [OpenTweet MCP Server](https://opentweet.io) - Purpose-built MCP server for Twitter/X with 12 tools covering the full tweet lifecycle — from drafting and scheduling to publishing and analytics. Features AI-native workflow integration with Claude, batch scheduling of up to 50 tweets, image/video upload, and built-in analytics without requiring a Twitter developer account. ([Read more](/details/opentweet-mcp-server.md)) `Twitter` `Scheduling` `Analytics`
 - [MCP Warpcast Server](https://github.com/zhangzhongnan928/mcp-warpcast-server) - MCP Server for Warpcast integration, enabling AI assistants to interact with the Farcaster social protocol for posting, reading, and managing decentralized social content. ([Read more](/details/mcp-warpcast-server.md)) `Farcaster` `Decentralized Social` `Warpcast`
 - [Oktopost MCP Server](https://www.oktopost.com) - B2B social media management platform with MCP integration, designed for marketing teams to align social media with lead generation. Features employee advocacy workflows, social listening, lead attribution from social posts, and CRM integration across Twitter/X, LinkedIn, and Facebook. ([Read more](/details/oktopost-mcp-server.md)) `B2b` `Enterprise` `Crm Integration`

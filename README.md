@@ -545,6 +545,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Development Tools Mcp Servers
 
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf. `Coordination` `Multi-Agent` `MCP`
 - [ESLint MCP Server](https://eslint.org/docs/latest/use/mcp) - Official ESLint Model Context Protocol server enabling AI assistants to run ESLint linting and code analysis in IDEs, assisting developers with automated code quality checks and JavaScript/TypeScript error detection. ([Read more](/details/eslint-mcp-server.md)) `Linting` `Code Analysis` `Javascript`
 - [FastMCP Framework](https://gofastmcp.com/getting-started/welcome) - The fast, Pythonic framework for building MCP servers, clients, and applications with decorator-based API, transforming Python functions into MCP-compatible tools, resources, and prompts. ([Read more](/details/fastmcp-framework.md)) `Python` `Framework` `Sdk`
 - [FastMCP Python Framework](https://fastmcp.me) - A rapid development framework for building MCP servers in Python with decorators instead of JSON schemas. Includes built-in MCP Server Inspector for browser-based testing and debugging, simplifying Python MCP server development. ([Read more](/details/fastmcp-python-framework.md)) `Python` `Framework` `Development`
@@ -721,6 +722,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Zoom MCP Integration](https://www.zoom.com/en/products/whats-new/) - MCP integration for Zoom enabling app developers to connect Zoom apps to remote MCP servers, build MCP-powered apps in AI Studio, and create custom agents that connect to third-party tools like Jira and Box. ([Read more](/details/zoom-mcp-integration.md)) `Zoom` `Video Conferencing` `Collaboration`
 
 ## Developer Tools
+
 
 - [21st Magic MCP](https://github.com/21st-dev/magic-mcp) - An MCP server like v0 but integrated directly in Cursor, WindSurf, or Cline, enabling AI coding assistants to work with frontend UI generation like magic. ([Read more](/details/21st-magic-mcp.md)) `Frontend` `Ui Generation` `Cursor Integration`
 - [Google MCP Servers](https://developers.google.com/mcp) - Collection of Google's official MCP servers. ([Read more](/details/google-mcp-servers.md)) `Google` `Official`
@@ -1436,6 +1438,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Fireproof MCP Database Server](https://github.com/jimpick/mcp-fireproof-todos) - An MCP server implementation for Fireproof, a replicated, locally-indexed, append-only block store database designed for offline-first and collaborative applications. ([Read more](/details/fireproof-mcp-database-server.md)) `Fireproof` `Offline First` `Replicated`
 
 ## Developer Tools Mcp Servers
+
 
 - [JetBrains MCP Server](https://github.com/JetBrains/mcp-jetbrains) - Official Model Context Protocol server for JetBrains IDEs including IntelliJ IDEA, PyCharm, WebStorm, and Android Studio, enabling AI assistants to interact with the IDE programmatically. ([Read more](/details/jetbrains-mcp-server.md)) `Jetbrains` `Ide` `Official`
 - [All About AI MCP Servers](https://github.com/AllAboutAI-YT/mcp-servers) - A curated collection of Model Context Protocol servers by AllAboutAI. Provides various MCP server implementations for different use cases and integrations, designed to enhance AI assistant capabilities. ([Read more](/details/all-about-ai-mcp-servers-collection.md)) `Collection` `Community` `Ai Assistant`
@@ -2744,6 +2747,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Figma (Framelink) MCP Server](https://apigene.ai/mcp/official/figma-framelink) - Access Figma designs from AI agents to read design tokens, inspect layouts, extract assets, and understand component structures. Bridges design-to-code gap. ([Read more](/details/figma-framelink-mcp-server.md)) `Design` `Figma` `Ui Ux`
 
 ## Developer Tools MCP Servers
+
 
 - [Tapeless MCP](https://github.com/Tapeless-App/Tapeless-MCP) - Interact with Tapeless via Claude using Anthropic's Model Context Protocol, enabling AI-powered backup management through MCP tools. ([Read more](/details/tapeless-mcp.md)) `Backup` `Claude` `Tapeless`
 

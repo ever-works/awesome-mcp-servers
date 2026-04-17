@@ -278,6 +278,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Compass](https://github.com/liuyoshio/mcp-compass) - MCP Compass is a discovery and recommendation service that helps AI assistants find and understand MCP servers using natural language queries. It's directly relevant as a tool to locate and interact with MCP servers. ([Read more](/details/compass.md)) `Mcp` `Discovery` `tool-discovery` `Ai Assistant`
 - [Create Kotlin MCP Server Sample](https://github.com/modelcontextprotocol/kotlin-sdk/tree/main/samples/kotlin-mcp-server) - Sample Kotlin-based MCP server template included in the Kotlin SDK, demonstrating best practices and providing a starting point for building custom MCP servers in Kotlin. ([Read more](/details/create-kotlin-mcp-server-sample.md))
 
+- [SLM MCP Hub](https://github.com/qualixar/slm-mcp-hub) - Universal MCP gateway that federates 430+ tools from 37 servers through one endpoint. 75% RAM reduction, background startup (HTTP in 5s), auto-retry with exponential backoff, cost tracking. Dual Python + Node. `pip install slm-mcp-hub`. `Gateway` `Federation` `Mcp`
+
 ## Ai Integration Mcp Servers
 
 - [Anthropic Claude MCP Connector](https://platform.claude.com/docs/en/agents-and-tools/mcp-connector) - Official Claude API integration for connecting MCP servers as remote tool sources. Enables Claude Messages API to access external tools, with TypeScript SDK helpers for seamless type conversion and OAuth support. ([Read more](/details/anthropic-claude-mcp-connector.md)) `Claude Api` `Official` `Ai Integration`
@@ -2923,7 +2925,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Crypto Fear and Greed MCP](https://github.com/kukapay/crypto-feargreed-mcp) - Providing real-time and historical Crypto Fear and Greed Index data to AI agents. ([Read more](/details/crypto-fear-and-greed-mcp.md)) `Sentiment` `Fear Greed` `Index`
 - [Crypto Indicators MCP](https://github.com/kukapay/crypto-indicators-mcp) - An MCP server providing a range of cryptocurrency technical analysis indicators and strategies. ([Read more](/details/crypto-indicators-mcp.md)) `Technical Analysis` `Indicators` `Crypto`
 - [Crypto MCP](https://github.com/szcharlesji/crypto-mcp) - Real-time access to cryptocurrency data from the CoinMarketCap API. ([Read more](/details/crypto-mcp.md)) `Cryptocurrency` `Coinmarketcap` `Real Time`
-- [Crypto MCP (kiss-kedaya)](https://github.com/kiss-kedaya/crypto_mcp) - ��MCP�h (Crypto MCP server) for cryptocurrency data access and blockchain interaction. ([Read more](/details/crypto-mcp-kiss-kedaya.md)) `Cryptocurrency` `Blockchain` `Chinese`
+- [Crypto MCP (kiss-kedaya)](https://github.com/kiss-kedaya/crypto_mcp) - ��MCP
+�h (Crypto MCP server) for cryptocurrency data access and blockchain interaction. ([Read more](/details/crypto-mcp-kiss-kedaya.md)) `Cryptocurrency` `Blockchain` `Chinese`
 - [Crypto Sentiment MCP](https://github.com/kukapay/crypto-sentiment-mcp) - An MCP server that delivers cryptocurrency sentiment analysis to AI agents. ([Read more](/details/crypto-sentiment-mcp.md)) `Sentiment Analysis` `Crypto` `Ai Agents`
 - [Crypto Trader MCP Claude Desktop](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop) - An MCP tool that provides cryptocurrency market data using the CoinGecko API specifically designed for Claude Desktop. ([Read more](/details/crypto-trader-mcp-claude-desktop.md)) `Cryptocurrency` `Coingecko` `Claude Desktop`
 - [CryptoPanic MCP](https://github.com/kukapay/cryptopanic-mcp-server) - Provides latest cryptocurrency news to AI agents through the CryptoPanic API. ([Read more](/details/cryptopanic-mcp.md)) `Crypto News` `Cryptopanic` `News`

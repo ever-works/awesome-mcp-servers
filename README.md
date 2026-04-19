@@ -1344,6 +1344,11 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Prem MCP Server](https://github.com/ucalyptus/prem-mcp-server) - Implementation of an MCP Server to use the Prem SDK, enabling AI assistants to leverage Prem's decentralized AI inference infrastructure. ([Read more](/details/prem-mcp-server.md)) `Prem` `Decentralized Ai` `Inference`
 - [Pump.fun Data MCP](https://github.com/jun85664396/pump-fun-data-mcp) - Pump.fun data fetch tool built for the Model Context Protocol, enabling AI assistants to retrieve and analyze pump.fun token and market data. ([Read more](/details/pumpfun-data-mcp.md)) `Pumpfun` `Crypto` `Data Fetching`
 
+### AI Coding Intelligence
+
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense. TypeScript/Node.js. MIT.
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update. TypeScript/Node.js. MIT.
+
 ## Automation
 
 - [apify-actors-mcp-server](https://github.com/apify/actors-mcp-server) - Official MCP server for Apify's Actors platform, enabling AI assistants to run and manage thousands of pre-built web scraping and automation Actors through the Model Context Protocol. ([Read more](/details/apify-actors-mcp-server.md)) `Web Scraping` `Apify` `Automation`

@@ -1,5 +1,14 @@
-# Git
+## Overview
 
-Allows LLM to interact with a local git repository, including optional push support. Enables AI agents to perform version control operations including commits, branching, and history analysis.
+Git server for repository operations.
 
-[https://github.com/modelcontextprotocol/servers/tree/main/src/git](https://github.com/modelcontextprotocol/servers/tree/main/src/git)
+## Features
+
+- Read repo contents
+- Search code
+- Manipulate Git repos
+- Install via uvx mcp-server-git or pip
+
+## Pricing
+
+Free and open-source.

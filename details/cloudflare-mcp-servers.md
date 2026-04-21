@@ -1,5 +1,12 @@
-# Cloudflare MCP Servers
+## Overview
+Cloudflare MCP for Workers and DNS.
 
-Allows agents to interact with Cloudflare Workers, KV, and DNS settings. Ideal for checking deployment statuses or clearing caches without dashboard login. Remote deployment.
+## Features
+- Interact with Workers, KV, DNS
+- Check deployments, clear caches
 
-[https://developers.cloudflare.com/agents](https://developers.cloudflare.com/agents)
+## Deployment
+Remote
+
+## Pricing
+Usage-based via Cloudflare.

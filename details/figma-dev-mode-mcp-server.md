@@ -8,5 +8,9 @@
 ## Use Cases
 
 - Implement the selected Figma component as a React component using Tailwind
-- Extract spacing tokens and color variables used in a design
-- Generate a CSS file matching typography styles from a Figma frame
+- Extract spacing tokens and color variables from designs
+- Generate CSS matching Figma typography styles
+
+## Pricing
+
+Free with Figma Dev Mode access.

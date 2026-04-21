@@ -7,6 +7,10 @@
 
 ## Use Cases
 
-- Create bug report in Backend project for API issue
-- List tickets assigned in current sprint
-- Mark ticket as done with comment
+- Create bug report in Backend project
+- List assigned tickets in sprint
+- Update ticket status and add comment
+
+## Pricing
+
+Included with Linear subscription.

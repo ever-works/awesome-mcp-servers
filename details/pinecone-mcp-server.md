@@ -1,6 +1,6 @@
 ## Overview
 
-Supports fast vector-based retrieval optimized for similarity search.
+Built on Pinecone’s vector database for similarity-based retrieval.
 
 ## Features
 
@@ -11,4 +11,4 @@ Supports fast vector-based retrieval optimized for similarity search.
 
 ## Pricing
 
-Usage-based cloud pricing.
+Open-source client; Pinecone cloud pricing.

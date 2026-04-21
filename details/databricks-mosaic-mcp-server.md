@@ -1,13 +1,13 @@
 ## Overview
 
-AI/ML-ready with Delta Lake integration, enterprise-scale.
+Databricks Mosaic for AI/ML data.
 
 ## Features
 
-- AI/ML-ready processing
+- AI/ML-ready
 - Delta Lake integration
-- Enterprise-scale data handling
+- Enterprise-scale
 
 ## Pricing
 
-Commercial cloud service.
+Commercial.

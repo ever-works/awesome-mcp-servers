@@ -1,5 +1,12 @@
-# Datadog MCP
+## Overview
 
-MCP server providing unified observability including metrics, logs, and traces. Enterprise-backed by Datadog, supports VS Code, Cursor, Claude Code. Production-ready for Datadog customers.
+Datadog MCP integrates observability data.
 
-[https://www.datadoghq.com](https://www.datadoghq.com)
+## Features
+
+- Unified metrics, logs, traces
+- IDE support: VS Code, Cursor, Claude Code
+
+## Use Cases
+
+- Datadog platform users

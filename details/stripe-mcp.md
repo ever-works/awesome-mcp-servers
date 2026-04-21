@@ -1,5 +1,12 @@
-# Stripe MCP
+## Overview
+Stripe MCP for payments.
 
-Official Stripe MCP for debugging billing issues. Allows querying customer subscriptions and checking failed transactions in test mode without dashboard login. Remote deployment.
+## Features
+- Query subscriptions
+- Check transactions
 
-[https://stripe.com/docs/mcp](https://stripe.com/docs/mcp)
+## Deployment
+Remote
+
+## Pricing
+Free with Stripe account.

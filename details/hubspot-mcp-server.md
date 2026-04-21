@@ -1,19 +1,5 @@
-## Overview
+# HubSpot MCP Server
 
-HubSpot MCP Server bridges AI models to HubSpot CRM via the Model Context Protocol for secure data access.
+HubSpot MCP Server provides read-only access to CRM data, enabling AI to pull summaries, trends, associations, and pipeline snapshots securely without exposing sensitive fields. Available in remote and local developer versions requiring a HubSpot Developer account. Ideal for teams using HubSpot for analysis and reporting without modification capabilities.
 
-## Features
-
-- Live read-only CRM data access (deals, tickets, associations)
-- Summarize tickets and trends
-- Pipeline snapshots and reporting
-- No write access to prevent data modification
-- Scoped to avoid sensitive fields
-
-## Best For
-
-HubSpot-reliant teams for AI-powered CRM analysis.
-
-## Pricing
-
-Free with HubSpot Developer account.
+[https://developers.hubspot.com/docs/api/claude-desktop](https://developers.hubspot.com/docs/api/claude-desktop)

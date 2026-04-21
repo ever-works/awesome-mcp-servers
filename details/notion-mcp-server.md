@@ -1,6 +1,6 @@
 ## Overview
 
-Exposes Notion data (pages, databases, tasks) as context to LLMs.
+Exposes Notion data as context to LLMs.
 
 ## Features
 
@@ -11,4 +11,4 @@ Exposes Notion data (pages, databases, tasks) as context to LLMs.
 
 ## Pricing
 
-Free tier available; premium for Notion.
+Open-source; Notion subscription required.

@@ -1,11 +1,13 @@
 ## Overview
 
-Everything is a reference/test MCP server providing prompts, resources, and tools to demonstrate MCP features and official SDK usage.
+Everything is a comprehensive reference server showcasing prompts, resources, and tools.
 
 ## Features
 
-- Includes prompts, resources, and tools for testing MCP capabilities.
+- Demonstrates full range of MCP capabilities
+- Includes prompts, resources, and tools for testing
+- Built with official MCP SDK
 
 ## Pricing
 
-Free and open-source.
+Free and open-source (Apache 2.0/MIT).

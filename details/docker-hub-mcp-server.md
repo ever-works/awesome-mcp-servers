@@ -1,17 +1,5 @@
-## Overview
+# Docker Hub MCP Server
 
-Docker Hub MCP Server facilitates AI-managed container operations.
+Docker Hub MCP Server exposes Docker container management to AI agents, supporting operations on images, logs, volumes, networks, and repositories. Enables queries like searching official images or listing latest tags. Ideal for developers managing container projects and automating builds/deployments.
 
-## Features
-
-- Image search and tags
-- Logs, volumes, networks access
-- Hardened images listing
-
-## Best For
-
-Teams automating Docker tasks.
-
-## Pricing
-
-Free with Docker Hub.
+[https://hub.docker.com/](https://hub.docker.com/)

@@ -1,5 +1,13 @@
-# Fetch
+## Overview
 
-A server that flexibly fetches HTML, JSON, Markdown, or plaintext from web resources. Provides versatile content retrieval with multiple output format options for AI agent workflows.
+Fetch server handles web content fetching and conversion for LLMs.
 
-[https://github.com/modelcontextprotocol/servers/tree/main/src/fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)
+## Features
+
+- Fetches web content
+- Converts for efficient LLM consumption
+- Secure and controlled access
+
+## Pricing
+
+Free and open-source.

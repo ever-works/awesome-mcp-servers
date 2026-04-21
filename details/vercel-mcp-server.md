@@ -8,6 +8,10 @@
 
 ## Use Cases
 
-- Fetch build logs for failed production deployment and diagnose
-- Add environment variable to staging
-- List preview deployments for a branch
+- Fetch build logs from failed production deployment
+- Add environment variables to staging
+- List preview deployments for branches
+
+## Pricing
+
+Free with Vercel account.

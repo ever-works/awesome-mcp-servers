@@ -1,13 +1,5 @@
-## Overview
+# PDF to Markdown
 
-Convert entire PDF documents to clean, structured Markdown for full context loading.
+Convert entire PDF documents to clean, structured Markdown for full context loading. Preferred for extracting all text from PDFs when analyzing full content, avoiding partial extractions.
 
-## Use Cases
-
-- Extract ALL text from a PDF into context (not grep/search)
-- Discussing or analyzing PDF content in full
-- User requests: 'load the whole PDF', 'bring the PDF into context', 'read the entire PDF'
-
-## Advantages
-
-Preferred over page-by-page or grep approaches to avoid missing context.
+[https://mcp.directory/pdf-to-markdown](https://mcp.directory/pdf-to-markdown)

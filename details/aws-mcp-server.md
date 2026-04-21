@@ -1,5 +1,11 @@
-# AWS MCP Server
+## Overview
+Remote managed MCP server for AWS API interactions and documentation access.
 
-Perform operations on your AWS resources using an LLM, enabling natural language interaction with AWS services for infrastructure management.
+## Features
+- Comprehensive AWS API support
+- Access to latest docs, API refs, What's New
+- Pre-built Agent SOPs for multi-step tasks
+- Safety features: validated calls, IAM, audit logging
 
-[https://github.com/modelcontextprotocol/servers/tree/main/src/aws](https://github.com/modelcontextprotocol/servers/tree/main/src/aws)
+## Pricing
+Free managed service.

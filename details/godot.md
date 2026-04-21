@@ -1,20 +1,5 @@
-## Overview
+# Godot
 
-Skill for working on Godot Engine projects.
+Specialized MCP server for Godot Engine projects, providing knowledge of file formats (.gd, .tscn, .tres), architecture patterns, common pitfalls, validation tools, code templates, and CLI workflows. Supports running games, validating scripts, importing resources, and exporting builds.
 
-## Knowledge Areas
-
-- File formats: .gd, .tscn, .tres
-- Architecture: component-based, signal-driven, resource-based
-- Common pitfalls, validation tools, code templates, CLI workflows
-
-## Features
-
-- `godot` command for running games, validating scripts, importing resources, exporting builds
-
-## Use Cases
-
-- Godot game development
-- Debugging scene/resource files
-- Implementing game systems
-- Creating new Godot components
+[https://mcp.directory/godot](https://mcp.directory/godot)

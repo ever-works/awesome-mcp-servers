@@ -1,14 +1,14 @@
+## Overview
+
+Connects AI to Jira for agile project management.
+
 ## Features
 
-- JQL-based issue search and details
-- Manage comments, create/update issues (with Rovo)
+- JQL-based issue search
+- Retrieve issue details and manage comments
+- Sprint status summaries, blockers
+- Write support in Rovo MCP (create, bulk-update)
 
-## Use Cases
+## Best For
 
-- Open issues assigned to me
-- Sprint status summary
-- Blocked tickets list
-
-## Setup
-
-Atlassian Rovo MCP (cloud) or open-source self-hosted.
+Agile teams managing tickets with AI.

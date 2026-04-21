@@ -1,9 +1,17 @@
 ## Overview
-PostgreSQL read-only access.
+
+PostgreSQL MCP server enables LLMs to interact directly with PostgreSQL databases.
 
 ## Features
-- Database queries (read-only)
-- Schema inspection
 
-## Status
-Archived.
+- Schema inspection
+- Direct SQL execution (e.g., SELECT statements)
+- Natural language to SQL translation
+
+## Deployment
+
+Docker (self-hosted)
+
+## Pricing
+
+Open-source, free.

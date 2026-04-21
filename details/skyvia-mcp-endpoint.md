@@ -1,14 +1,14 @@
+## Overview
+
+Premier no-code platform for AI-database connections.
+
 ## Features
 
-- Connects to 200+ sources (DBs, apps)
-- Real-time live data
+- 200+ data sources support
+- Real-time live data queries
 - IP whitelisting, user/password security
 - Managed service for scaling/logging
 
-## Use Cases
+## Pricing
 
-- Query live database data via AI
-
-## Setup
-
-Create Skyvia connection, generate endpoint URL.
+Free activation available.

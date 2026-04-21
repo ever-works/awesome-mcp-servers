@@ -1,14 +1,13 @@
+## Overview
+
+Deep integration with Google Workspace tools.
+
 ## Features
 
-- Access to 10+ Workspace tools
-- Read/write (draft emails, update Sheets)
+- Supports 10+ apps under single OAuth
+- Read/write: draft emails, update Sheets, manage Calendar
 - Multi-user OAuth 2.1
 
-## Use Cases
+## Best For
 
-- Summarize Docs
-- List recent spreadsheets
-
-## Setup
-
-Single OAuth flow.
+Google Workspace-heavy businesses.

@@ -1,16 +1,14 @@
+## Overview
+
+Enables AI interaction with GitHub resources.
+
 ## Features
 
-- Repository, issues, PR interactions
-- Scoped token for read/write control
-- Tight Copilot Chat integration in VS Code
-- Push protection for secrets
+- Repository, issues, pull requests access
+- Code queries (functions referencing IDs, file changes)
+- Scoped tokens for read/write control
+- IDE integration (VS Code, JetBrains)
 
-## Use Cases
+## Best For
 
-- List open bug issues
-- Summarize functions referencing IDs
-- Track file changes
-
-## Setup
-
-Install from VS Code Extensions > MCP Servers.
+Developers using GitHub with Copilot.

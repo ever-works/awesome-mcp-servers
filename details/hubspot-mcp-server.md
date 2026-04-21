@@ -1,14 +1,14 @@
+## Overview
+
+HubSpot MCP Server provides clean, live CRM data access for AI analysis.
+
 ## Features
 
-- Read-only access to CRM objects like deals and tickets
-- Clean, live data excluding sensitive fields
-- Supports natural language queries for analysis and summaries
+- Read-only access to CRM data (deals, tickets, summaries)
+- Supports natural language queries for trends and pipeline snapshots
+- Two flavors: remote and local developer server
+- No update capabilities to prevent data modification risks
 
-## Use Cases
+## Best For
 
-- Query deals closing this week
-- Summarize recent tickets for specific contacts
-
-## Setup
-
-Requires HubSpot Developer account. Choose remote or local MCP server.
+Teams needing AI to analyze CRM without write access.

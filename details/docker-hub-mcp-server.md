@@ -1,13 +1,14 @@
+## Overview
+
+Manages Docker Hub container images via MCP.
+
 ## Features
 
-- Container management (images, logs, volumes)
-
-## Use Cases
-
-- Search official Nginx images
-- Latest stable Redis tag
+- Search official images (e.g., Nginx)
+- Latest stable tags (e.g., Redis)
 - List Docker Hardened Images
+- Container logs, volumes, networks
 
-## Setup
+## Best For
 
-Docker-based server.
+Developers automating container tasks.

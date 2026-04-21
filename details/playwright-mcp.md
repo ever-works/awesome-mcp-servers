@@ -1,5 +1,12 @@
-# Playwright MCP
+## Overview
 
-Official Playwright MCP server for browser automation and testing.
+Playwright MCP server.
 
-[https://playwright.dev/](https://playwright.dev/)
+## Features
+
+- Browser automation capabilities
+- Local deployment
+
+## Pricing
+
+Free and open-source.

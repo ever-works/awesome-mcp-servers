@@ -1,11 +1,13 @@
 ## Overview
 
-Inbox Zero is an AI-powered personal assistant designed to help users manage their email efficiently and achieve inbox zero.
+AI personal assistant for email.
 
 ## Features
 
-- AI-powered email management
-- Automated email sorting and prioritization
-- Smart email responses
-- Inbox organization and cleanup
-- Integration with AI assistants via MCP
+- Inbox management
+- Open source
+- Cloud deployment
+
+## Pricing
+
+Free and open-source.

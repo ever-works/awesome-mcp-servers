@@ -1,10 +1,10 @@
 ## Overview
 
-Provides Figma layout to AI coding agents.
+Tool to automate Browsers and APIs.
 
 ## Features
 
-- Figma integration
+- Browser automation in IDEs
 - Local deployment
 
 ## Pricing

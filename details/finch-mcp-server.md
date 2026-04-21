@@ -1,5 +1,9 @@
-# Finch MCP Server
+## Overview
+Local container building with ECR push.
 
-An MCP server that integrates local container building workflows with Amazon ECR, supporting containerized development and deployment via MCP.
+## Features
+- Local container builds
+- ECR integration
 
-[https://developer.tryfinch.com/developer-resources/Finch-MCP-Server](https://developer.tryfinch.com/developer-resources/Finch-MCP-Server)
+## Pricing
+Free and open-source.

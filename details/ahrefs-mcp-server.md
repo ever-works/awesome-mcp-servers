@@ -1,14 +1,14 @@
+## Overview
+
+Bridges Ahrefs data for AI SEO insights.
+
 ## Features
 
 - Keyword research and competitor data
-- Live Ahrefs metrics (organic traffic, rankings)
-- Uses Ahrefs API v3
+- Live metrics from Ahrefs API v3
+- Organic traffic timelines
+- First-page ranking comparisons
 
-## Use Cases
+## Best For
 
-- Plot monthly organic traffic timelines
-- Compare competitor Google rankings
-
-## Setup
-
-Requires Ahrefs Enterprise Plan.
+SEO teams and content strategists.

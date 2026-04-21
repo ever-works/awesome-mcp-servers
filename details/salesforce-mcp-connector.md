@@ -1,13 +1,14 @@
+## Overview
+
+Exposes Salesforce CRM via MCP standard with full CRUD support.
+
 ## Features
 
-- Full CRUD operations on Salesforce records
-- Inherits user's Salesforce permissions
-- Supports all API-accessible editions (Enterprise, Unlimited, Developer)
+- Create, update, delete Salesforce records
+- Supports custom objects
+- Uses existing Salesforce access rights
+- All editions with API access supported
 
-## Use Cases
+## Best For
 
-- AI-driven data analysis and updates on leads, contacts, custom objects
-
-## Setup
-
-Third-party solution; Salesforce hosted MCP in beta.
+Salesforce teams needing AI for data analysis and updates.

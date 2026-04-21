@@ -1,13 +1,14 @@
+## Overview
+
+RAG-powered semantic search via MCP.
+
 ## Features
 
-- Semantic search (search_vectara)
-- RAG generation (ask_vectara)
+- Semantic search (search_vectara) and RAG generation (ask_vectara)
+- Reduced hallucination with matching content
 - Open-source, self-hostable
+- Customizable prompts
 
-## Use Cases
+## Best For
 
-- Knowledge bases, wikis, semantic understanding
-
-## Setup
-
-Code-required.
+Knowledge bases and AI assistants.

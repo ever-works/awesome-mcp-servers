@@ -1,18 +1,5 @@
-## Overview
+# Nano Banana Prog
 
-Generate and edit images using Google's Nano Banana Pro (Gemini 3 Pro Image) API.
+Generate and edit images using Google's Nano Banana Pro (Gemini 3 Pro Image) API. Supports text-to-image generation and image-to-image editing with configurable resolutions up to 4K. Use directly with --input-image parameter for modifications without reading the file first.
 
-## Features
-
-- Text-to-image generation
-- Image-to-image editing
-- Configurable resolution: 1K (default), 2K, 4K
-
-## Use Cases
-
-- Generate, create, edit, modify, change, alter, or update images
-- Modify existing image files (e.g., change background, replace elements)
-
-## Notes
-
-Use directly with --input-image parameter; do not read image file first.
+[https://mcp.directory/nano-banana-prog](https://mcp.directory/nano-banana-prog)

@@ -1,15 +1,10 @@
 ## Features
 
-- Expose tools for 250+ apps through a single MCP endpoint
-- Manage OAuth, API key storage, and token refresh automatically
-- Select specific apps and actions to expose
-- Remote server, no local process required
+- Tools for 250+ apps (GitHub, Slack, etc.).
+- Auto OAuth, key management, token refresh.
+- Selective app/action exposure.
+- Remote server, no local run.
 
 ## Use Cases
 
-- Check Linear tickets, update Notion docs, post to Slack
-- Multi-platform automation workflows
-
-## Pricing
-
-Plans start with free tier.
+- Cross-service workflows like Linear to GitHub to Slack.

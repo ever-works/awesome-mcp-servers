@@ -1,13 +1,14 @@
+## Overview
+
+Data fabric virtualization for enterprise AI.
+
 ## Features
 
-- Unified, cleaned data products
-- Data governance (masking, alignment)
+- Unified data products from CRM/ERP/mainframe
+- Data governance (masking, resolution)
 - Orchestrated prompts, no SQL needed
+- Real-time compliance-enforced fetches
 
-## Use Cases
+## Best For
 
-- Summarize sales of specific products
-
-## Setup
-
-Code-required for enterprise data fabric.
+Large enterprises with legacy systems.

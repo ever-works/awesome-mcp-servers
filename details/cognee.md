@@ -1,10 +1,10 @@
 ## Overview
 
-Provides Figma layout to AI coding agents.
+Memory for AI Agents in 5 lines of code.
 
 ## Features
 
-- Figma integration
+- Simple AI memory setup
 - Local deployment
 
 ## Pricing

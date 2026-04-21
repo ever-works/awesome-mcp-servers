@@ -1,15 +1,5 @@
-## Overview
+# Drawio Diagrams Enhanced
 
-Create professional draw.io (diagrams.net) diagrams in XML format (.drawio files) with integrated PMP/PMBOK methodologies, extensive visual asset libraries, and industry-standard professional templates.
+Create professional draw.io (diagrams.net) diagrams in XML format (.drawio files). Includes integrated PMP/PMBOK methodologies, extensive visual asset libraries, and industry-standard professional templates for flowcharts, swimlane diagrams, UML, BPMN, project management diagrams, and more.
 
-## Supported Diagrams
-
-- Flowcharts, swimlane diagrams, cross-functional flowcharts
-- Org charts, network diagrams
-- UML diagrams, BPMN
-- Project management: WBS, Gantt, PERT, RACI
-- Risk matrices, stakeholder maps
-
-## Features
-
-Custom shape libraries for icons, clipart, and professional symbols.
+[https://mcp.directory/drawio-diagrams-enhanced](https://mcp.directory/drawio-diagrams-enhanced)

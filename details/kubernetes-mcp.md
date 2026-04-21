@@ -1,10 +1,15 @@
 ## Overview
 
-Kubernetes MCP manages container orchestration.
+Kubernetes MCP server enables natural language interactions with clusters.
 
 ## Features
 
-- Primary use case: Container orchestration management
-- IDE support: VS Code, Cursor, Claude Code
-- Best for: Multi-cluster Kubernetes operators
-- Maturity: Beta - Active Development 🔶
+- Pod inspection
+- Log streaming
+- Deployment management
+
+## Pricing
+
+Free.
+
+Status: Beta — active development.

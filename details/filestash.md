@@ -1,5 +1,13 @@
-# FileStash
+## Overview
 
-Remote Storage Access: SFTP, S3, FTP, SMB, NFS, WebDAV, GIT, FTPS, gcloud, azure blob, sharepoint, etc. Provides access to various remote storage systems.
+File manager for cloud drives, local servers, and network storage.
 
-[https://github.com/mickaelperrin/filestash/tree/mcp](https://github.com/mickaelperrin/filestash/tree/mcp)
+## Features
+
+- Search, read, organize, update documents
+- No data migration required
+- Cloud deployment
+
+## Pricing
+
+Free and open-source.

@@ -1,5 +1,14 @@
-# Supabase MCP
+## Overview
 
-Official MCP server connecting to Supabase platform for database, auth, edge functions, and more.
+Supabase MCP server provides direct database access via MCP protocol.
 
-[https://supabase.com/](https://supabase.com/)
+## Features
+
+- SQL execution
+- Table management
+- Row-level operations
+- Project scoping for security
+
+## Pricing
+
+Free tier available.

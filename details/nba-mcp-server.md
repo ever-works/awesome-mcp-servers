@@ -1,12 +1,9 @@
 ## Overview
 
-Python MCP server for NBA statistics and live game data via NBA API.
+Provides NBA stats and live game data.
 
 ## Features
 
-- Comprehensive NBA stats
+- NBA statistics access
 - Live game data
-
-## Pricing
-
-Open-source and free.
+- Python-based server

@@ -1,9 +1,5 @@
-## Overview
-Real-time weather data from US NWS.
+# mcp-claude-weather
 
-## Features
-- Alerts and forecasts
-- Claude Desktop integration
+Provides real-time weather alerts and forecasts from the US National Weather Service, seamlessly integrating with Claude for Desktop.
 
-## Pricing
-Free and open-source.
+[https://github.com/AlexShan2008/mcp-claude-weather](https://github.com/AlexShan2008/mcp-claude-weather)

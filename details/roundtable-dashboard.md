@@ -1,6 +1,5 @@
-## Features
+# roundtable-dashboard
 
-- Multi-model discussions (GPT-4o, Claude, Gemini, 200+ models)
-- Structured rounds
-- Collective insight synthesis
-- Remote MCP at https://mcp.roundtable.now/mcp
+Multi-model AI debate platform with remote MCP server. GPT-4o, Claude, Gemini and 200+ models discuss prompts in structured rounds and synthesize collective insight via Streamable HTTP.
+
+[https://github.com/deadpixel/roundtable-dashboard](https://github.com/deadpixel/roundtable-dashboard)

@@ -1,9 +1,5 @@
-## Overview
-Natural language queries to 300+ data sources via JDBC.
+# cdata-jdbc-mcp-server
 
-## Features
-- Read-only interface
-- Natural language support
+Facilitates querying live data from over 300 sources via CData JDBC Drivers using natural language through a read-only MCP interface.
 
-## Pricing
-Free and open-source.
+[https://github.com/CDataSoftware/cdata-jdbc-mcp-server](https://github.com/CDataSoftware/cdata-jdbc-mcp-server)

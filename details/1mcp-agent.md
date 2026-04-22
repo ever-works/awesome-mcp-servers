@@ -1,13 +1,11 @@
 ## Overview
 
-Unified MCP server that aggregates multiple MCP servers into a single interface.
+A unified Model Context Protocol server implementation that aggregates multiple MCP servers into one.
 
 ## Features
 
 - Aggregates multiple MCP servers
-- Supports cloud ☁️ and local 🏠 deployment
-- Cross-platform: macOS 🍎, Windows 🪟, Linux 🐧
 
 ## Pricing
 
-Open-source (assumed free).
+Apache-2 license, free.

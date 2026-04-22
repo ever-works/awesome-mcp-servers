@@ -1,12 +1,5 @@
-## Overview
+# NCBI-MCP
 
-NCBI-MCP provides access to NCBI Datasets via MCP.
+Modular MCP server providing access to NCBI Datasets through OpenAPI-driven endpoints for genome, gene, and taxonomy data. Enables AI assistants to query biological databases efficiently.
 
-## Features
-
-- OpenAPI endpoints for genome, gene, taxonomy data
-- Modular server for biological data retrieval
-
-## Pricing
-
-Free and open-source.
+[https://github.com/GooTec/NCBI-MCP](https://github.com/GooTec/NCBI-MCP)

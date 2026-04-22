@@ -1,8 +1,11 @@
 ## Overview
 
-MCP for cannabis datasets.
+Cannabis datasets query server.
 
 ## Features
 
-- Query and analysis of cannabis data
-- LLM integration
+- Query and analysis tools
+
+## Pricing
+
+Open-source.

@@ -1,9 +1,8 @@
-## Overview
-
-Code context provider using Tree-sitter.
-
 ## Features
 
-- Extracts directory structures
-- Code symbols extraction
-- WebAssembly Tree-sitter parsers
+- Extracts directory structures and symbols
+- Uses WASM Tree-sitter parsers
+
+## Pricing
+
+Free and open-source.

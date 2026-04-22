@@ -1,13 +1,12 @@
 ## Overview
 
-Blockchain services for EVM ecosystems.
+EVM networks MCP server.
 
 ## Features
 
-- 30+ EVM networks
-- Tokens, NFTs, contracts, tx, ENS
-- Cloud-hosted
+- 30+ networks
+- Tokens, NFTs, contracts
 
 ## Pricing
 
-Free.
+MIT license, free.

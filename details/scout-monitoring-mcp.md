@@ -1,13 +1,5 @@
-## Overview
+# Scout Monitoring MCP
 
-Scout Monitoring MCP provides performance and error data to AI assistants.
+Put performance and error data directly in the hands of your AI assistant. MCP server sponsored by Scout Monitoring.
 
-## Features
-
-- Real-time performance metrics
-- Error tracking
-- Sponsor service
-
-## Pricing
-
-Sponsor - see official site for details.
+[https://scoutapm.com/mcp](https://scoutapm.com/mcp)

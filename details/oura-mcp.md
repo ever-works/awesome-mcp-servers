@@ -1,8 +1,11 @@
 ## Overview
 
-MCP server for Oura Ring data.
+Interaction with Oura Ring data.
 
 ## Features
 
 - Endpoints for personal health metrics
-- Data interaction support
+
+## Pricing
+
+Open-source.

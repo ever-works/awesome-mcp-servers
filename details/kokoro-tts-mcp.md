@@ -1,5 +1,12 @@
-# Kokoro TTS MCP
+## Overview
 
-Use Kokoro text to speech to convert text to MP3s with optional autoupload to S3 storage.
+MCP Server using Kokoro TTS models for text-to-speech conversion.
 
-[https://github.com/modelcontextprotocol/servers/tree/main/src/kokoro](https://github.com/modelcontextprotocol/servers/tree/main/src/kokoro)
+## Features
+
+- Open weight models
+- Local MP3 generation
+
+## License
+
+Apache 2.0

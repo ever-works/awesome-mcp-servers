@@ -1,18 +1,6 @@
 ## Overview
 
-BigQuery MCP for raw SQL access.
-
-## Key Capabilities
-
-- Read-write SQL queries
-
-## Strengths
-
-- Powerful data warehouse
-
-## Limitations
-
-- Standard billing
+Direct SQL access to BigQuery for AI.
 
 ## Pricing
 

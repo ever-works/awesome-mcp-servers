@@ -1,12 +1,13 @@
 ## Overview
 
-Integration for Jira and Confluence.
+MCP server for Atlassian products (Confluence and Jira).
 
 ## Features
 
-- Search tasks, read wikis, update tickets
-- Cloud deployment
+- Confluence Cloud support
+- Jira Cloud support
+- Jira Server/Data Center support
 
 ## Pricing
 
-Free and open-source.
+Free and open-source (MIT license).

@@ -1,13 +1,9 @@
 ## Overview
 
-MCP server for Swiss Federal Railways data.
+SBB/CFF/FFS train data.
 
 ## Features
 
-- Real-time train schedules
+- Real-time schedules
 - Ticket prices (Half-Fare/GA)
 - Purchase links
-
-## Pricing
-
-Open-source and free.

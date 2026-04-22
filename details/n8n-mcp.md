@@ -1,19 +1,7 @@
 ## Overview
 
-n8n MCP for self-hosted automation.
-
-## Key Capabilities
-
-- Extensible workflows
-
-## Strengths
-
-- Free MIT license
-
-## Limitations
-
-- Self-hosted
+Extensible automation MCP under MIT license.
 
 ## Pricing
 
-Free (MIT license).
+Free.

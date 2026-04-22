@@ -1,10 +1,5 @@
-## Overview
-Multi-agent researcher for deep web searches.
+# research
 
-## Features
-- Leverages MCP
-- CrewAI orchestration
-- Comprehensive searches
+Multi-agent deep researcher leveraging MCP to perform comprehensive web searches with Linkup and CrewAI orchestration.
 
-## Pricing
-Free and open-source.
+[https://github.com/Ankit2533/research](https://github.com/Ankit2533/research)

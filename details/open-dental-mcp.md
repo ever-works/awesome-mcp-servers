@@ -1,8 +1,11 @@
 ## Overview
 
-MCP for OpenDental docs.
+Natural language query for OpenDental docs.
 
 ## Features
 
-- Natural language querying
-- Vector database integration
+- Qdrant vector database
+
+## Pricing
+
+Open-source.

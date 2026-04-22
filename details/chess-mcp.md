@@ -1,11 +1,11 @@
 ## Overview
 
-Chess.com data access.
+Chess.com data via MCP.
 
 ## Features
 
-- Player data, game records
+- Player data, games
 
 ## Pricing
 
-Free and open-source.
+MIT license, free.

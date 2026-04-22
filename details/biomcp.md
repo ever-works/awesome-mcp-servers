@@ -1,8 +1,11 @@
 ## Overview
 
-BioMCP for biomedical databases.
+Enables LLMs to access biomedical databases via MCP.
 
 ## Features
 
-- Advanced searches
-- Data retrieval for LLMs
+- Advanced searches and data retrieval
+
+## Pricing
+
+Open-source.

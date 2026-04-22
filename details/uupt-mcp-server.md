@@ -1,11 +1,5 @@
-## Overview
-
-MCP server for UUPT order creation.
-
 ## Features
 
-- Integration with delivery services
-
-## Pricing
-
-Open-source.
+- Order creation on uupt.com
+- MCP protocol integration
+- Enhances delivery service workflows

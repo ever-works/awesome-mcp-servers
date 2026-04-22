@@ -1,5 +1,11 @@
-# Playwright MCP
+## Overview
 
-Official Playwright MCP server for browser automation.
+Official Microsoft Playwright MCP server, enabling LLMs to interact with web pages through structured accessibility.
 
-[https://playwright.dev/docs/mcp](https://playwright.dev/docs/mcp)
+## Features
+
+- Web interaction via accessibility tree
+
+## Pricing
+
+Apache-2 license, free.

@@ -1,14 +1,11 @@
 ## Overview
 
-Alpha Vantage MCP server offers comprehensive financial market data for AI agents.
+Alpha Vantage data.
 
 ## Features
 
-- Realtime stock data
-- Historical data
-- Technical indicators
-- Fundamentals
+- Stock and crypto info
 
 ## Pricing
 
-Free tier available; premium plans for higher limits.
+MIT license, free.

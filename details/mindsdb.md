@@ -1,12 +1,12 @@
 ## Overview
 
-MindsDB is an AI query engine and platform for building AI agents capable of answering questions over large scale federated data.
+Connect and unify data across various platforms and databases with MindsDB as a single MCP server.
 
 ## Features
 
-- Federated data querying
-- AI agent integration
+- Data unification from multiple sources
+- MCP protocol support
 
 ## Pricing
 
-Free and open-source.
+Open-source (Unlicensed). Free.

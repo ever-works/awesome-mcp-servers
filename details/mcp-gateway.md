@@ -1,10 +1,13 @@
 ## Overview
 
-A gateway demo for MCP SSE Server demonstrating routing and management of MCP connections.
+A reverse proxy and management layer for MCP servers, enabling scalable, session-aware routing and lifecycle.
 
 ## Features
 
-- SSE gateway demonstration
-- Connection routing
-- Server management
-- Scalable deployment patterns
+- Scalable routing
+- Session-aware
+- Lifecycle management
+
+## Pricing
+
+MIT license, free.

@@ -1,3 +1,11 @@
 ## Overview
 
-Freqtrade MCP integrates with the Freqtrade cryptocurrency trading bot through the Model Context Protocol enabling AI control of automated trading.
+Freqtrade integration.
+
+## Features
+
+- Trading bot access
+
+## Pricing
+
+MIT license, free.

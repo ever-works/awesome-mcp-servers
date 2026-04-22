@@ -1,14 +1,12 @@
 ## Overview
 
-Supabase MCP server provides direct database access via MCP protocol.
+Official MCP server for Supabase projects.
 
 ## Features
 
-- SQL execution
-- Table management
-- Row-level operations
-- Project scoping for security
+- Direct AI assistant connection
+- Database operations
 
 ## Pricing
 
-Free tier available.
+Free and open-source under Apache 2.0.

@@ -1,11 +1,9 @@
 ## Overview
 
-Korea Tourism API via MCP.
+Korea tourism data.
 
 ## Features
 
-- Attractions, events, accommodations
-
-## Pricing
-
-Open-source and free.
+- Attractions
+- Events
+- Accommodations

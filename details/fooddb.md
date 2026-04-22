@@ -1,8 +1,11 @@
 ## Overview
 
-MCP for USDA Food Data Central.
+USDA Food Data Central query server.
 
 ## Features
 
-- Keyword and semantic search
-- Nutrition data queries
+- Keyword and semantic vector search
+
+## Pricing
+
+Open-source.

@@ -1,9 +1,5 @@
-## Overview
-Secure Redshift querying via MCP.
+# redshift-utils-mcp
 
-## Features
-- AI-driven queries
-- Diagnostics
+Facilitates AI-driven interaction with Amazon Redshift, enabling secure data querying and diagnostics via the AWS Data API.
 
-## Pricing
-Free and open-source.
+[https://github.com/vinodismyname/redshift-utils-mcp](https://github.com/vinodismyname/redshift-utils-mcp)

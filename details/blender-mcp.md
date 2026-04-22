@@ -1,6 +1,11 @@
+## Overview
+
+MCP server for working with Blender.
+
 ## Features
 
-- Professional 3D scene creation
-- Natural language commands for Blender
-- Scene management
-- Content generation
+- Blender integration
+
+## Pricing
+
+MIT license, free.

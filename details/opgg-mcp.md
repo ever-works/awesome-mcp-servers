@@ -1,12 +1,11 @@
 ## Overview
 
-Real-time data for popular games.
+Gaming data for LoL, TFT, Valorant.
 
 ## Features
 
-- Champion analytics, esports schedules
-- Meta compositions, statistics
+- Real-time stats
 
 ## Pricing
 
-Not specified.
+MIT license, free.

@@ -1,7 +1,12 @@
+## Overview
+
+Bitcoin Lightning channel factory MCP.
+
 ## Features
 
-- 4 tools: protocol overview, UTXO estimator, architecture dives, resources
+- 4 tools: protocol overview, UTXO estimator, architecture deep-dives, resources
+- Based on SuperScalar (no soft fork)
 
 ## Pricing
 
-Open-source.
+Not specified.

@@ -1,9 +1,5 @@
-## Overview
-Orchestrates AI agents for deep research.
+# multi-agentic_deepresearch
 
-## Features
-- Collaborative web searches
-- Knowledge synthesis
+Multi-agent deep researcher leveraging MCP to orchestrate AI agents for collaborative deep web searches and knowledge synthesis.
 
-## Pricing
-Free and open-source.
+[https://github.com/Ankit2533/multi-agentic_deepresearch](https://github.com/Ankit2533/multi-agentic_deepresearch)

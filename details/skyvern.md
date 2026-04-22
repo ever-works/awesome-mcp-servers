@@ -1,10 +1,12 @@
 ## Overview
 
-Skyvern is an MCP server that allows AI agents such as Claude to autonomously control web browsers and perform automated web interactions.
+Automates browser-based workflows using LLMs and computer vision navigate pages, fill forms, extract data, handle..
 
 ## Features
 
-- Autonomous browser control
-- AI-driven web navigation
-- Automated form filling and interaction
-- Support for Claude and other AI agents
+- LLM-driven browser automation
+- Computer vision
+
+## Pricing
+
+AGPL-3.0 license, free.

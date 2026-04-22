@@ -1,13 +1,11 @@
 ## Overview
 
-File manager for cloud drives, local servers, and network storage.
+Filestash provides remote storage access via multiple protocols.
 
 ## Features
 
-- Search, read, organize, update documents
-- No data migration required
-- Cloud deployment
+- SFTP, S3, FTP, SMB, NFS, WebDAV, GIT, FTPS, gcloud, Azure blob, SharePoint
 
 ## Pricing
 
-Free and open-source.
+AGPL-3.0 license, free.

@@ -1,13 +1,9 @@
 ## Overview
 
-Python MCP proxy for MLB API.
+Proxy to MLB API for player and game data.
 
 ## Features
 
-- Player info
-- Stats
-- Game information
-
-## Pricing
-
-Open-source and free.
+- Player information
+- Statistics
+- Game data

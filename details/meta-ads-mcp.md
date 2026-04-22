@@ -1,23 +1,13 @@
 ## Overview
 
-Community MCP for Meta Marketing API with read-write capabilities.
+Popular community MCPs like Pipeboard's meta-ads-mcp (500+ GitHub stars) and brijr/meta-mcp with 25 tools.
 
-## Key Capabilities
+## Features
 
-- Campaign management: create, modify budgets, pause/activate ad sets, targeting
-- Creative analysis and audience insights
-
-## Strengths
-
-- Read-write execution
-- Free and open source
-
-## Limitations
-
-- Community-maintained
-- Meta-only data
-- Developer setup required
+- Campaign management: create, modify budgets, pause ad sets
+- Creative analysis: performance data, ad variations
+- Audience insights: segment breakdowns
 
 ## Pricing
 
-Free (open source, self-hosted).
+Free and open source, self-hosted.

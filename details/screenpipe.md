@@ -1,13 +1,7 @@
 ## Overview
 
-Screenpipe captures and indexes local screen and audio history for AI access.
+Local-first screen and audio capture system with advanced search capabilities.
 
-## Features
+## License
 
-- Local screen and audio recording
-- Query past work and transcripts
-- Privacy-focused, no cloud upload
-
-## Pricing
-
-Free and open-source.
+Unlicensed

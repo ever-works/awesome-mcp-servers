@@ -1,8 +1,5 @@
-## Overview
-Shopware plugin bugfix automation.
+# shopware-mcp
 
-## Features
-- LLM-powered ticket handling
+Automates bugfixing for Shopware plugins by leveraging LLMs to handle support tickets and plugin versions.
 
-## Pricing
-Free and open-source.
+[https://github.com/dithom/shopware-mcp](https://github.com/dithom/shopware-mcp)

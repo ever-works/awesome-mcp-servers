@@ -1,8 +1,5 @@
-## Overview
-Weather data retrieval from OpenWeather.org.
+# openweather-mcp
 
-## Features
-- Model Context Protocol server
+Facilitates weather data retrieval from OpenWeather.org via a Model Context Protocol server.
 
-## Pricing
-Free and open-source.
+[https://github.com/frostming/openweather-mcp](https://github.com/frostming/openweather-mcp)

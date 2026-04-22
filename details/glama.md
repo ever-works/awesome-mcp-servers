@@ -1,7 +1,12 @@
+## Overview
+
+Venture intelligence MCP server.
+
 ## Features
 
 - Startup discovery
-- Company scoring and monitoring
+- Company scoring
+- Monitoring
 - Enterprise workspace automation
 
 ## Pricing

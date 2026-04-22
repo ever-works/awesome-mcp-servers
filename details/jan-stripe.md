@@ -1,9 +1,5 @@
-## Overview
-Authless remote MCP on Cloudflare.
+# jan-stripe
 
-## Features
-- No authentication
-- Cloudflare AI Playground integration
+Deploy a remote MCP server on Cloudflare Workers without authentication, enabling seamless integration with Cloudflare AI Playground and local MCP clients.
 
-## Pricing
-Free and open-source.
+[https://github.com/jasiekkk/jan-stripe](https://github.com/jasiekkk/jan-stripe)

@@ -1,11 +1,9 @@
 ## Overview
 
-TypeScript starter for MCP servers with echo implementation.
+MCP server starter with echo.
 
 ## Features
 
-- STDIO and SSE support
-
-## Pricing
-
-Open-source and free.
+- STDIO support
+- SSE communication
+- TypeScript

@@ -1,11 +1,11 @@
 ## Overview
 
-MCP for Unity Editor and games.
+MCP server for Unity Editor and games.
 
 ## Features
 
-- Unity Editor and runtime support
+- Unity integration
 
 ## Pricing
 
-Free and open-source.
+Apache-2 license, free.

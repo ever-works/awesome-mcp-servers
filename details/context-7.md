@@ -1,9 +1,5 @@
-## Overview
+# Context 7
 
-Context 7 supplies up-to-date documentation for Cursor prompts.
+Up-to-date Docs For Any Cursor Prompt.
 
-## Features
-
-- Up-to-date docs
-- Cursor integration
-- Official
+[https://context7.com/](https://context7.com/)

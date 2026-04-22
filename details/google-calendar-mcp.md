@@ -1,12 +1,7 @@
-## Features
+## Overview
 
-- Calendar context
-- Schedules and availability
+TypeScript-based MCP for Google Calendar.
 
-## Hosting
+## License
 
-Self-hosted
-
-## Best Use Cases
-
-Dev tools.
+MIT

@@ -1,10 +1,11 @@
 ## Overview
 
-MCP server for Godot game engine interaction.
+Godot game engine MCP server.
 
 ## Features
-- Editing, running, debugging, scene management
+
+- Editing, running, debugging
 
 ## Pricing
 
-Free and open-source.
+MIT license, free.

@@ -1,12 +1,5 @@
-## Features
+# linear-mcp
 
-- Read, create, update issues and sub-issues
-- Manage labels, priorities, assignees, statuses
-- Search projects by keyword or filter
-- Check sprint status and progress
+Facilitates interaction with the Linear API through a Model Context Protocol server, offering tools for ticket management and prioritization.
 
-## Use Cases
-
-- Create bug reports with specific details
-- List assigned tickets in current sprint
-- Update ticket status and add comments
+[https://github.com/comitest22/linear-mcp](https://github.com/comitest22/linear-mcp)

@@ -1,11 +1,8 @@
 ## Overview
 
-MCP integration for Amadeus Flight Offers Search API.
+Amadeus flight search integration.
 
 ## Features
 
-- Natural language flight searches
-
-## Pricing
-
-Open-source and free.
+- Flight offers search
+- Natural language queries

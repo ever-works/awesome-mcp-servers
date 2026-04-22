@@ -1,13 +1,5 @@
-## Overview
+# Firecrawl MCP
 
-Firecrawl enhances LLMs with web scraping.
+Adds powerful web scraping and search capabilities to LLM clients like Cursor and Claude.
 
-## Features
-
-- Web scraping
-- Search capabilities
-- For Cursor/Claude
-
-## Pricing
-
-See official site.
+[https://firecrawl.dev/](https://firecrawl.dev/)

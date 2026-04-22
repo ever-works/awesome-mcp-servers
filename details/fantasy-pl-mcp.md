@@ -8,4 +8,4 @@ Fantasy Premier League data.
 
 ## Pricing
 
-Free and open-source.
+MIT license, free.

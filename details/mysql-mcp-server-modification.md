@@ -1,5 +1,5 @@
-## Features
+# mysql-mcp-server-modification
 
-- Read-only MySQL access
-- List databases/tables
-- Execute queries
+Provides read-only access to MySQL databases, allowing users to list databases, tables, and execute queries through an MCP server.
+
+[https://github.com/shensiqi0701/mysql-mcp-server-modification](https://github.com/shensiqi0701/mysql-mcp-server-modification)

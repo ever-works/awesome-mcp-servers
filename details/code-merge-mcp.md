@@ -1,7 +1,6 @@
 ## Features
 
-- Code file extraction
-- Merging and analysis for LLMs
+- Code file extraction and merging
 
 ## Pricing
 

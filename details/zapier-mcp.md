@@ -1,19 +1,7 @@
 ## Overview
 
-Zapier MCP for broad app integrations.
-
-## Key Capabilities
-
-- Access to 8,000+ apps for workflows
-
-## Strengths
-
-- Broadest connector
-
-## Limitations
-
-- Task-based pricing
+Broadest connector for triggering workflows in any marketing tool.
 
 ## Pricing
 
-All Zapier plans (task-based).
+All plans, task-based.

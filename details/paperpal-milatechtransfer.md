@@ -1,12 +1,5 @@
-## Overview
+# paperpal (milatechtransfer)
 
-paperpal for literature review.
+Tool to enhance literature review by integrating LLMs with access to arXiv, Hugging Face papers, and Semantic Scholar.
 
-## Features
-
-- Access to arXiv, Hugging Face, Semantic Scholar
-- LLM integration
-
-## Pricing
-
-Free and open-source.
+[https://github.com/milatechtransfer/paperpal](https://github.com/milatechtransfer/paperpal)

@@ -1,13 +1,5 @@
-## Overview
+# mcp-lab
 
-mcp-lab for MCP SDK exploration.
+Personal lab exploring Model Context Protocol SDK in TypeScript, with basic and advanced implementations like Text-to-SQL server.
 
-## Features
-
-- Basic and advanced MCP implementations
-- Text-to-SQL server
-- TypeScript
-
-## Pricing
-
-Free and open-source.
+[https://github.com/rperezll/mcp-lab](https://github.com/rperezll/mcp-lab)

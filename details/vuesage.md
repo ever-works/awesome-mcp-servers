@@ -1,9 +1,7 @@
-## Overview
-
-Vue component analysis and optimization.
-
 ## Features
 
-- Intelligent analysis
-- Optimization
-- MCP editor integration
+- Vue component analysis and optimization
+
+## Pricing
+
+Free and open-source.

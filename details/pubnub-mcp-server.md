@@ -1,9 +1,5 @@
-## Overview
-Provides PubNub documentation access via MCP for Cursor IDE.
+# pubnub-mcp-server
 
-## Features
-- CLI-based server
-- Access to SDK and Functions docs
+Facilitates access to PubNub SDK and Functions documentation within Cursor IDE using a CLI-based MCP server.
 
-## Pricing
-Free and open-source.
+[https://github.com/stephenlb/pubnub-mcp-server](https://github.com/stephenlb/pubnub-mcp-server)

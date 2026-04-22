@@ -1,13 +1,10 @@
 ## Overview
 
-Automotive data APIs via MCP for AI agents.
+Automotive data for AI agents.
 
 ## Features
 
 - VIN decode
 - Vehicle listings
-- Payments, recalls, specs
-
-## Pricing
-
-Open-source and free.
+- Payments and recalls
+- Specs

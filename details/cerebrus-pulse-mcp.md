@@ -1,9 +1,13 @@
+## Overview
+
+Crypto intelligence for Hyperliquid perps.
+
 ## Features
 
-- RSI, EMAs, Bollinger Bands
-- Funding rates and sentiment
-- 30+ assets on Hyperliquid
+- RSI, EMAs, Bollinger Bands, funding rates, sentiment
+- 30+ assets
+- x402 USDC on Base
 
 ## Pricing
 
-x402 micropayments (USDC on Base).
+Pay-per-call.

@@ -1,8 +1,5 @@
-## Overview
-Natural language to curl command conversion.
+# curl-mcp
 
-## Features
-- English and Spanish support
+Transforms natural language instructions into curl commands, supporting English and Spanish, for seamless HTTP requests.
 
-## Pricing
-Free and open-source.
+[https://github.com/MartinPSDev/curl-mcp](https://github.com/MartinPSDev/curl-mcp)

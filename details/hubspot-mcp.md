@@ -1,21 +1,11 @@
 ## Overview
 
-HubSpot MCP for CRM data access.
+Brings live CRM data into AI conversations for all HubSpot customers.
 
-## Key Capabilities
+## Features
 
-- Live queries on contacts, companies, deals, tickets, pipeline
-- Campaign context with sales data
-
-## Strengths
-
-- Included with HubSpot
-- Real-time data
-
-## Limitations
-
-- Read-only (write in development)
-- HubSpot only
+- Live queries on contacts, companies, deals, tickets
+- Campaign context with sales pipeline
 
 ## Pricing
 

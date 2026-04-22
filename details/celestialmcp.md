@@ -1,13 +1,5 @@
-## Overview
+# CelestialMCP
 
-CelestialMCP provides astronomical calculations.
+MCP server offering precise astronomical calculations for celestial object positions and rise/set times. Integrates seamlessly with Claude AI for astronomy applications.
 
-## Features
-
-- Celestial object positions
-- Rise/set times
-- Seamless Claude AI integration
-
-## Pricing
-
-Free and open-source.
+[https://github.com/Rkm1999/CelestialMCP](https://github.com/Rkm1999/CelestialMCP)

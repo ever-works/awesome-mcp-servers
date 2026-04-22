@@ -1,9 +1,5 @@
-## Overview
+# E2B
 
-E2B provides secure code sandboxes.
+Run code in secure sandboxes hosted by E2B.
 
-## Features
-
-- Secure code execution
-- Hosted sandboxes
-- Official
+[https://e2b.dev/](https://e2b.dev/)

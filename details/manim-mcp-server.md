@@ -1,5 +1,11 @@
-# Manim MCP Server
+## Overview
 
-A local MCP server that generates mathematical animations using Manim, letting models script and render animations programmatically.
+A local MCP server that generates animations using Manim.
 
-[https://github.com/abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server)
+## Features
+
+- Animation generation
+
+## Pricing
+
+MIT license, free.

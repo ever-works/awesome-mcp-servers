@@ -1,8 +1,5 @@
-## Overview
-Image generation via OpenAI-compatible APIs.
+# openapi-integrator-mcp
 
-## Features
-- Standardized interface
+Facilitates high-quality image generation through OpenAI-compatible APIs, offering a standardized interface for specifying image parameters.
 
-## Pricing
-Free and open-source.
+[https://github.com/slot181/openapi-integrator-mcp](https://github.com/slot181/openapi-integrator-mcp)

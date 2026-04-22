@@ -1,13 +1,7 @@
 ## Overview
 
-Integration with Obsidian notebooks.
+MCP server for Obsidian REST API.
 
-## Features
+## License
 
-- Note search and editing
-- Automatic content drafting
-- Local deployment
-
-## Pricing
-
-Free and open-source.
+MIT

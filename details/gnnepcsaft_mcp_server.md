@@ -1,12 +1,5 @@
-## Overview
+# gnnepcsaft_mcp_server
 
-gnnepcsaft_mcp_server for GNNePCSAFT tools.
+MCP server for communication and context management with GNNePCSAFT tools using the Model Context Protocol. Aids in chemical engineering simulations.
 
-## Features
-
-- Communication and context management
-- Model Context Protocol integration
-
-## Pricing
-
-Free and open-source.
+[https://github.com/wildsonbbl/gnnepcsaft_mcp_server](https://github.com/wildsonbbl/gnnepcsaft_mcp_server)

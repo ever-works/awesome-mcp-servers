@@ -1,12 +1,5 @@
-## Overview
+# ArxivMCP
 
-ArxivMCP for arXiv paper searches.
+MCP server facilitating academic paper searches on arXiv with client integration for seamless retrieval. Supports research workflows with easy access to papers.
 
-## Features
-
-- Academic paper search on arXiv
-- MCP client integration
-
-## Pricing
-
-Free and open-source.
+[https://github.com/liuyixin-louis/ArxivMCP](https://github.com/liuyixin-louis/ArxivMCP)

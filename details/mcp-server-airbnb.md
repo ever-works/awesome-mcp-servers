@@ -1,13 +1,7 @@
 ## Overview
 
-Airbnb listing searches via MCP.
+MCP server for Airbnb search and listings.
 
-## Features
+## License
 
-- Listing searches
-- Detailed info
-- No API key needed
-
-## Pricing
-
-Open-source and free.
+MIT

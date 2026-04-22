@@ -1,10 +1,5 @@
-## Overview
+# DeepWiki by Devin
 
-DeepWiki offers AI-powered codebase context without auth.
+Remote, no-auth MCP server providing AI-powered codebase context and answers.
 
-## Features
-
-- Remote access
-- No authentication required
-- Codebase answers
-- Official
+[https://devin.ai/deepwiki](https://devin.ai/deepwiki)

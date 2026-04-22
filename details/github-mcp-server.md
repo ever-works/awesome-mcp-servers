@@ -1,12 +1,5 @@
-## Overview
+# GitHub MCP Server
 
-Official MCP server from GitHub for version control operations.
+GitHub's official MCP Server.
 
-## Features
-
-- GitHub repository access
-- Version control tools
-
-## Pricing
-
-Free with GitHub account.
+[https://github.com/github/github-mcp-server](https://github.com/github/github-mcp-server)

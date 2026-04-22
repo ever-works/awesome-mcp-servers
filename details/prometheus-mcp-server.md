@@ -1,9 +1,12 @@
 ## Overview
-Prometheus metrics for AI analysis.
+
+MCP server for Prometheus monitoring.
 
 ## Features
-- Metric collection
-- AI-friendly
+
+- Query Prometheus
+- Analyze metrics
 
 ## Pricing
-Free and open-source.
+
+Free and open-source under MIT.

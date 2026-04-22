@@ -1,8 +1,11 @@
 ## Overview
 
-MCP for ClinicalTrials.gov.
+AI-driven access to ClinicalTrials.gov.
 
 ## Features
 
-- AI-driven searches
-- Data access for health sciences
+- Searches and data access
+
+## Pricing
+
+Open-source.

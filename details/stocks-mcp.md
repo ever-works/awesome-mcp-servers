@@ -1,8 +1,5 @@
-## Overview
-Real-time stock data from Google Finance.
+# stocks-mcp
 
-## Features
-- Python framework
+Fetches real-time stock information from Google Finance using a Pythonic MCP server framework.
 
-## Pricing
-Free and open-source.
+[https://github.com/natifridman/stocks-mcp](https://github.com/natifridman/stocks-mcp)

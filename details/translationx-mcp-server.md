@@ -1,7 +1,11 @@
 ## Overview
 
-Python-based MCP server for TranslationX integration.
+Python-based MCP server for TranslationX.
 
 ## Features
 
-- Translation tasks via MCP
+- Translation tasks integration
+
+## Pricing
+
+Open-source.

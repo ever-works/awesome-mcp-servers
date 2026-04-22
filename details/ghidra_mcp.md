@@ -1,8 +1,7 @@
-## Overview
-
-Ghidra MCP for reverse engineering.
-
 ## Features
 
-- Extracts decompiled binary data
-- Exposes to LLMs via MCP
+- Extracts decompiled binary data from Ghidra
+
+## Pricing
+
+Free and open-source.

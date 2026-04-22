@@ -1,8 +1,12 @@
 ## Overview
 
-MCP server for LIMS workflows.
+AI-driven lab workflow management.
 
 ## Features
 
-- Simulate instrument data processing
-- AI-driven laboratory management
+- Instrument data processing simulation
+- MCP tools integration
+
+## Pricing
+
+Open-source.

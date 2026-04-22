@@ -1,8 +1,11 @@
 ## Overview
 
-MCP for DICOM images.
+DICOM image interaction.
 
 ## Features
 
-- Interaction with DICOM images
 - Note storage and summarization
+
+## Pricing
+
+Open-source.

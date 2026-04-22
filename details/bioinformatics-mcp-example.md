@@ -5,4 +5,7 @@ Docker-based MCP for bioinformatics.
 ## Features
 
 - Integration with Claude Desktop
-- Bioinformatics tasks
+
+## Pricing
+
+Open-source.

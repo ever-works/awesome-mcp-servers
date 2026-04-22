@@ -1,13 +1,5 @@
-## Overview
+# Bright Data
 
-Bright Data MCP server offers one interface for web discovery, extraction, and interaction.
+Discover, extract, and interact with the web - one interface powering automated access across the public internet. MCP server sponsored by Bright Data.
 
-## Features
-
-- Automated web access
-- Data extraction capabilities
-- Sponsor service
-
-## Pricing
-
-Sponsor - see official site for details.
+[https://brightdata.com/](https://brightdata.com/)

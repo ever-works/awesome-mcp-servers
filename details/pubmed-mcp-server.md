@@ -1,8 +1,11 @@
 ## Overview
 
-FastMCP for PubMed searches.
+Async PubMed search.
 
 ## Features
 
-- Asynchronous article abstract searches
-- BioPython Entrez module
+- Article abstracts search using Entrez
+
+## Pricing
+
+Open-source.

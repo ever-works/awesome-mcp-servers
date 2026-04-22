@@ -1,5 +1,5 @@
-## Features
+# dm-mcp-server
 
-- List tables
-- Read-only SQL queries
-- Display table structures
+Facilitates interaction with Dameng databases by listing tables, executing read-only SQL queries, and displaying table structures.
+
+[https://github.com/wangzhaobo168/dm-mcp-server](https://github.com/wangzhaobo168/dm-mcp-server)

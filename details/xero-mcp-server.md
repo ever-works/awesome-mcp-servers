@@ -1,3 +1,11 @@
 ## Overview
 
-Xero MCP Server integrates with the Xero accounting platform through the Model Context Protocol enabling AI interaction with accounting data.
+Integrates with Xero API for accounting access.
+
+## Features
+
+- Standardized API access
+
+## Pricing
+
+MIT license, free.

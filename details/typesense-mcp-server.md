@@ -1,4 +1,5 @@
-## Features
+# typesense-mcp-server
 
-- Manage collections and documents
-- Search operations
+Facilitates seamless integration with Typesense by managing collections, documents, and search operations through MCP.
+
+[https://github.com/avarant/typesense-mcp-server](https://github.com/avarant/typesense-mcp-server)

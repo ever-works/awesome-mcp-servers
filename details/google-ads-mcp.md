@@ -1,24 +1,12 @@
 ## Overview
 
-Google's MCP server for direct API access to Google Ads data without UI navigation.
+Google's MCP server for the Google Ads API, hosted on GitHub.
 
-## Key Capabilities
+## Features
 
-- Full GAQL support for complex queries on campaigns, ad groups, keywords, search terms, devices, time segments
+- Full GAQL support for complex queries on campaigns, ad groups, keywords, search terms
 - Account-level visibility: budget status, bid strategies, asset performance
-- Open source on GitHub
-
-## Strengths
-
-- Official and reliable data source
-- Free
-
-## Limitations
-
-- Read-only only
-- Requires developer setup (Python, developer token, Google Cloud project)
-- Single-platform (Google Ads only)
 
 ## Pricing
 
-Free (open source).
+Free and open source.

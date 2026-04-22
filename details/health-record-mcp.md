@@ -1,8 +1,11 @@
 ## Overview
 
-MCP for Electronic Health Records.
+Secure access to EHR using SMART on FHIR.
 
 ## Features
 
-- SMART on FHIR integration
-- Secure data retrieval and analysis
+- Data retrieval and analysis
+
+## Pricing
+
+Open-source.

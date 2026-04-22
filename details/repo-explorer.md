@@ -1,9 +1,8 @@
-## Overview
-
-Git repository explorer.
-
 ## Features
 
-- Advanced caching
-- Cross-repository code pattern search
-- Claude AI integration
+- Advanced Git repo exploration
+- Caching and cross-repo pattern search
+
+## Pricing
+
+Free and open-source.

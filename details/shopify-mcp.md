@@ -1,20 +1,13 @@
 ## Overview
 
-Shopify's native MCP for commerce data.
+Automatically enabled MCP for AI-native commerce data access.
 
-## Key Capabilities
+## Features
 
-- Product catalog, inventory, cart management, checkout
-
-## Strengths
-
-- Zero setup, auto-enabled
-- Real-time data
-
-## Limitations
-
-- Commerce-focused, not marketing analytics
+- Product catalog browse and search
+- Cart management and checkout initiation
+- Real-time inventory and pricing
 
 ## Pricing
 
-Included with Shopify stores.
+Included with all Shopify stores.

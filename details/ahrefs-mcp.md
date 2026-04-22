@@ -1,20 +1,14 @@
 ## Overview
 
-Ahrefs MCP for keyword, backlink, rank tracking, site audit data.
+Pulls live SEO data into AI workspaces via OAuth, no local install.
 
-## Key Capabilities
+## Features
 
-- Keyword research, backlink analysis, rank tracking, site audits
-
-## Strengths
-
-- Official with OAuth
-
-## Limitations
-
-- Read-only
-- Requires paid API plan
+- Keyword research: volume, difficulty, SERP analysis
+- Backlink analysis: domain rating, referring domains
+- Rank tracking: position monitoring
+- Site audits: technical SEO issues
 
 ## Pricing
 
-Requires Ahrefs API plan.
+Requires paid Ahrefs API plan.

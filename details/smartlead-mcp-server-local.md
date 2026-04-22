@@ -1,12 +1,5 @@
-## Overview
-
-MCP server for Smartlead email marketing integration.
-
 ## Features
 
-- Seamless interaction with email marketing features
-- Support for AI assistants and automation tools
-
-## Pricing
-
-Open-source.
+- Seamless interaction with Smartlead's email marketing API
+- Simplified MCP server interface for AI assistants
+- Supports automation tools for email campaigns

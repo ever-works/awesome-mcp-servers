@@ -1,10 +1,11 @@
 ## Overview
 
-Self-hosted automation with MIT license.
+Self-hosted automation tool with MCP support.
 
 ## Features
 
 - Extensible workflows
+- Read-write automation
 
 ## Pricing
 

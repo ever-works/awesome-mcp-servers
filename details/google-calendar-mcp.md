@@ -1,11 +1,7 @@
-## Overview
-
-TypeScript-based MCP for Google Calendar.
-
 ## Features
 
-- Google Calendar API interface
+- Calendar, schedules, availability context
 
 ## Pricing
 
-MIT License (free and open-source).
+Free API with quotas.

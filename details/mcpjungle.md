@@ -2,11 +2,9 @@
 
 Self-hosted MCP Server registry for enterprise AI Agents.
 
-## Features
-
-- Self-hosted registry
-- For enterprise AI agents
+## License
+MPL-2.0
 
 ## Pricing
 
-Open-source under MPL-2.0 license.
+Free and open-source.

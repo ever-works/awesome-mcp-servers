@@ -1,13 +1,13 @@
 ## Overview
 
-Auto-enabled MCP for commerce data since 2025.
+Auto-enabled MCP for Shopify stores since 2025.
 
 ## Features
 
-- Product catalog browsing and search
-- Cart management and checkout
+- Product catalog browse and search
+- Cart management and checkout initiation
 - Real-time inventory
 
 ## Pricing
 
-Included with Shopify stores.
+Included with all Shopify stores.

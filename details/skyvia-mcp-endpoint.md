@@ -1,9 +1,14 @@
-## Features
+## Overview
+Skyvia MCP Endpoint enables no-code AI access to live data sources.
 
-- Connect to 200+ sources via simple URL configuration.
-- Real-time live data access.
-- Security with IP whitelisting and credentials.
+## Features
+- 200+ connectors including databases
+- Real-time data queries
+- Security: IP whitelisting, user/password
+- Managed scaling and logging
+
+## Best For
+Business teams without engineering resources.
 
 ## Pricing
-
-Free tier available; activate free MCP Endpoint.
+Free trial; usage-based plans.

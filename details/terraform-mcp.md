@@ -1,17 +1,16 @@
-## Overview
+## Primary Use Case
+Infrastructure as code automation
 
-Terraform MCP provides infrastructure as code automation.
-
-## Use Cases
-
-- Teams heavily using Terraform
+## Enterprise Backing
+HashiCorp (Enterprise-backed)
 
 ## IDE Support
-
 - VS Code
 - Cursor
 - Claude Code
 
-## Maturity
+## Best For
+Teams heavily using Terraform
 
+## Maturity
 Production Ready ✅

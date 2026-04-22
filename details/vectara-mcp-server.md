@@ -1,9 +1,10 @@
 ## Features
 
-- Semantic search (search_vectara) and RAG generation (ask_vectara).
-- Reduced hallucination with accurate context.
-- Self-hostable and customizable.
+- RAG framework with semantic search
+- Automated generation of embeddings
+- Supports multi-language queries
+- API-first and open-source reference MCP server
 
-## Best For
+## Pricing
 
-Knowledge bases, wikis, AI assistants.
+Commercial with open-source reference.

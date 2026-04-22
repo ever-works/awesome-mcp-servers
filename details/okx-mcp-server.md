@@ -1,10 +1,8 @@
 ## Features
 
 - Crypto price feeds
-- Market data delivery
+- Market data for LLMs
 
-## Hosting
-Self-hosted
+## Pricing
 
-## Open-source
-Yes
+Open-source, free.

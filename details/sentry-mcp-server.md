@@ -1,17 +1,6 @@
-## Overview
-
-Sentry error tracking MCP.
-
-## Deployment
-
-- Remote
-
 ## Features
 
-- Error querying
-- Stack traces
-- Fix proposals
-
-## Pricing
-
-Sentry pricing.
+- Fetch error context, traces, breadcrumbs, events.
+- Correlate errors with releases/deployments.
+- Search issues by tag/env/time/error.
+- Inspect performance traces.

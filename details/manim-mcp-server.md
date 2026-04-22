@@ -2,10 +2,9 @@
 
 A local MCP server that generates animations using Manim.
 
-## Features
-
-- Animation generation
+## License
+MIT
 
 ## Pricing
 
-Open-source under MIT license.
+Free and open-source.

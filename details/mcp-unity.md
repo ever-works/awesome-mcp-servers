@@ -1,4 +1,4 @@
-# mcp-unity
+# MCP Unity
 
 MCP Server for Unity3d Game Engine integration for game development.
 

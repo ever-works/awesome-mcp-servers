@@ -2,10 +2,9 @@
 
 A MCP Server and an extension enables natural language control of NVIDIA Isaac Sim, Lab, OpenUSD and etc.
 
-## Features
-
-- Natural language control for simulations
+## License
+MIT
 
 ## Pricing
 
-Open-source under MIT license.
+Free and open-source.

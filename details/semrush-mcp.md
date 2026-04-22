@@ -1,12 +1,11 @@
 ## Overview
 
-Dual API coverage for SEO and market intelligence via OAuth.
+Dual API coverage for SEO and competitive intel.
 
 ## Features
 
-- Market intelligence: traffic estimates, audience overlap
-- Keyword research and domain analytics
-- Backlink profiles
+- Market intelligence, keyword research, domain analytics, backlinks
+- OAuth-based access
 
 ## Pricing
 

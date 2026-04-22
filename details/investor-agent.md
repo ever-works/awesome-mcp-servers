@@ -1,4 +1,4 @@
-# investor-agent
+# Investor Agent
 
 Yahoo Finance integration to fetch stock market data including options recommendations.
 

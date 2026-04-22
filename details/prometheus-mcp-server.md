@@ -1,12 +1,12 @@
 ## Overview
 
-MCP server for Prometheus monitoring.
+Prometheus integration via MCP for monitoring data.
 
 ## Features
 
-- Query metrics
-- Analyze data
+- Query Prometheus metrics
+- Analyze time-series data
 
 ## Pricing
 
-Free, MIT.
+Free and open-source under MIT license.

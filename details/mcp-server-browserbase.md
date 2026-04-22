@@ -2,10 +2,9 @@
 
 Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more).
 
-## Features
-
-- Cloud-based browser automation
+## License
+Apache-2
 
 ## Pricing
 
-Open-source under Apache-2 license.
+Free and open-source.

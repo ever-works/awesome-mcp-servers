@@ -1,17 +1,16 @@
-## Overview
+## Primary Use Case
+Container orchestration management
 
-Kubernetes MCP manages container orchestration.
-
-## Use Cases
-
-- Multi-cluster Kubernetes operators
+## Enterprise Backing
+CNCF Community
 
 ## IDE Support
-
 - VS Code
 - Cursor
 - Claude Code
 
-## Maturity
+## Best For
+Multi-cluster Kubernetes operators
 
+## Maturity
 Beta - Active Development 🔶

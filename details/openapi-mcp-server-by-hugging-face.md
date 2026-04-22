@@ -3,9 +3,8 @@
 - Standardized interface for OpenAPI-based APIs
 - Lightweight demo implementation
 - Supports HuggingFace Spaces deployment
+- Ideal for community experimentation
 
-## Hosting
-Self-hosted
+## Pricing
 
-## Open-source
-Yes
+Open-source, free.

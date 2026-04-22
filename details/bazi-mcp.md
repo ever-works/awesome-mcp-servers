@@ -2,11 +2,9 @@
 
 Provides comprehensive and accurate Bazi (Chinese Astrology) charting and analysis.
 
-## Features
-
-- Bazi charting
-- Analysis tools
+## License
+ISC
 
 ## Pricing
 
-Open-source under ISC license.
+Free and open-source.

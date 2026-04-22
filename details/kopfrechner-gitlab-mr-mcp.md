@@ -1,11 +1,12 @@
 ## Overview
 
-GitLab MR and issues MCP.
+GitLab merge requests and issues MCP server.
 
 ## Features
 
-- Seamless interaction with issues and merge requests
+- Interact with issues
+- Manage merge requests
 
 ## Pricing
 
-Free and open-source.
+MIT license (free and open-source).

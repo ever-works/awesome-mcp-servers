@@ -2,10 +2,9 @@
 
 MCP server for working with Blender.
 
-## Features
-
-- Blender integration
+## License
+MIT
 
 ## Pricing
 
-Open-source under MIT license.
+Free and open-source.

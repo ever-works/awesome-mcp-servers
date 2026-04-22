@@ -1,13 +1,13 @@
 ## Overview
 
-Memory is a knowledge graph-based persistent memory system.
+Persistent memory using knowledge graphs for MCP.
 
 ## Features
 
-- Persistent memory storage
-- Knowledge graph structure
-- Run with npx -y @modelcontextprotocol/server-memory
+- Knowledge graph storage
+- Persistent across sessions
+- TypeScript implementation
 
-## Pricing
+## Usage
 
-Free and open-source.
+npx -y @modelcontextprotocol/server-memory

@@ -1,13 +1,11 @@
 ## Overview
 
-Jira MCP connector in Go.
+Go-based MCP connector for Jira.
 
 ## Features
 
-- Issue management
-- Sprint planning
-- Workflow transitions
+- AI assistants interaction with Jira
 
 ## Pricing
 
-Free and open-source.
+MIT license (free and open-source).

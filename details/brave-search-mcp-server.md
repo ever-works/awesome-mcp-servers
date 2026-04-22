@@ -4,7 +4,6 @@
 - Access general web and local business data.
 - Return snippets and URLs for further processing.
 
-## Use Cases
+## Pricing
 
-- Latest security advisories for libraries.
-- Benchmark comparisons.
+Generous free tier.

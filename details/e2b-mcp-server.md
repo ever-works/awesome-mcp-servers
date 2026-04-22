@@ -1,9 +1,6 @@
 ## Features
 
-- Execute Python/JavaScript in cloud sandboxes.
-- Shell commands, package install/management.
-- Persistent sandboxes across calls.
-
-## Use Cases
-
-- Analyze CSV, test regex, run migrations.
+- Execute Python and JavaScript in isolated sandboxes.
+- Run shell commands, inspect outputs.
+- Install packages, manage dependencies.
+- Persist sandboxes across tool calls.

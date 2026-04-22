@@ -1,12 +1,12 @@
 ## Overview
 
-Apify Actors via MCP.
+Apify Actors MCP server.
 
 ## Features
 
 - 3000+ pre-built tools
-- Web data extraction
+- Data extraction from web
 
 ## Pricing
 
-MIT License (free and open-source).
+MIT license (free and open-source).

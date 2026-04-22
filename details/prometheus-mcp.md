@@ -1,10 +1,15 @@
-## Overview
+## Primary Use Case
+Metrics & alerting queries
 
-Prometheus MCP handles metrics and alerting queries.
+## Enterprise Backing
+CNCF Community
 
-## Features
+## IDE Support
+- VS Code
+- Cursor
 
-- Primary use case: Metrics & alerting queries
-- IDE support: VS Code, Cursor
-- Best for: Prometheus-based monitoring
-- Maturity: Beta - Active Development 🔶
+## Best For
+Prometheus-based monitoring
+
+## Maturity
+Beta - Active Development 🔶

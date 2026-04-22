@@ -1,12 +1,12 @@
 ## Features
 
 - Expose selected Figma layers with full structural detail.
-- Surface design tokens, color styles, typography definitions.
+- Surface design tokens, color styles, typography.
 - Provide component variants and properties.
 - Return auto-layout constraints and spacing rules.
 
 ## Use Cases
 
-- Generate React components from designs using Tailwind.
+- Generate React/Tailwind components from designs.
 - Extract spacing tokens and color variables.
-- Create CSS matching Figma typography.
+- Create matching CSS for typography styles.

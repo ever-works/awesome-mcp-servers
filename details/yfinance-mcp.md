@@ -1,4 +1,4 @@
-# yfinance-mcp
+# YFinance MCP
 
 MCP server using yfinance to obtain information from Yahoo Finance.
 

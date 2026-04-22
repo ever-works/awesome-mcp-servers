@@ -1,6 +1,10 @@
 ## Overview
 
-Integrates Slack into AI workflows.
+Integrate AI with Slack for messaging and notifications.
+
+## Features
+
+- Post messages, manage channels
 
 ## Pricing
 

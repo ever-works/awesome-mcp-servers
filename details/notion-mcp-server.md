@@ -1,8 +1,14 @@
-## Features
+## Overview
+Notion MCP turns workspace into AI command center.
 
-- Create pages, search databases, update tasks, append notes.
-- OAuth-based access matching user permissions.
+## Features
+- Full CRUD on pages and databases
+- Search and update content
+- OAuth connection
+- LLM-optimized tools
 
 ## Best For
+Product teams, content creators using Notion.
 
-Product teams, content creators using Notion wikis and dashboards.
+## Pricing
+Free with Notion account.

@@ -1,10 +1,10 @@
 ## Overview
 
-Manipulates Google Sheets data programmatically.
+Manipulate Google Sheets data via AI.
 
 ## Features
 
-- Read/write cells, formulas
+- Read and write to sheets
 
 ## Pricing
 

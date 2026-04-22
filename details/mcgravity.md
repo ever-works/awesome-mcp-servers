@@ -2,10 +2,6 @@
 
 A proxy tool for composing multiple MCP servers into one unified endpoint. Scale your AI tools by load balancing.
 
-## Features
-
-- Load balancing for MCP servers
-
 ## Pricing
 
-Open-source (unlicensed).
+Free and open-source.

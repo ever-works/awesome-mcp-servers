@@ -1,14 +1,12 @@
 ## Overview
 
-Local screen/audio capture with search.
+Local screen and audio capture MCP server.
 
 ## Features
 
-- Screen/audio capture
 - Timestamped indexing
 - SQL/embedding storage
 - Semantic search
-- LLM integration
 
 ## Pricing
 

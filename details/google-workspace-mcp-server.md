@@ -1,8 +1,13 @@
-## Features
+## Overview
+Google Workspace MCP integrates AI with productivity suite.
 
-- Access to 10+ Workspace tools under single OAuth.
-- Summarize docs, list spreadsheets, manage calendar/tasks.
+## Features
+- Supports 10+ apps under single OAuth
+- Draft emails, update sheets, manage calendar
+- Multi-user support
 
 ## Best For
+Google Workspace heavy users for collaboration.
 
-Google Workspace-heavy teams for document workflows.
+## Pricing
+Free with Workspace.

@@ -1,19 +1,18 @@
-## Overview
+## Primary Use Case
+Infrastructure lifecycle with compliance
 
-StackGen MCP enables infrastructure lifecycle management with compliance.
-
-## Use Cases
-
-- Platform teams needing governance + developer self-service
+## Enterprise Backing
+StackGen (Active development)
 
 ## IDE Support
-
 - Claude Code
 - Cursor
 - VS Code
 - Windsurf
 - Cline
 
-## Maturity
+## Best For
+Platform teams needing governance + developer self-service
 
+## Maturity
 Production Ready ✅

@@ -1,10 +1,6 @@
 ## Features
 
-- CRUD issues/sub-issues.
-- Manage labels, assignees, status.
-- Search/filter projects.
-- Sprint/cycle status.
-
-## Use Cases
-
-- Bug reports, assignee checks, status updates.
+- Read/create/update issues and sub-issues.
+- Manage labels, priorities, assignees, statuses.
+- Search projects/teams.
+- Check sprint status.

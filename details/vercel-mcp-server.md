@@ -1,11 +1,7 @@
-## Overview
-
-Secure access to Vercel projects and docs (beta).
-
 ## Features
 
-- Documentation search.
-- Project and deployment management.
-- Deployment log analysis.
-- Public and authenticated tools.
-- Supports multiple clients: Claude, Cursor, VS Code.
+- List/inspect deployments.
+- Fetch build logs.
+- Create/update env vars.
+- Trigger deployments.
+- Manage domains.

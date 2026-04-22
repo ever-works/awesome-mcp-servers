@@ -1,4 +1,4 @@
-# Unity-MCP
+# Unity MCP
 
 MCP Server for Unity Editor and games made with Unity.
 

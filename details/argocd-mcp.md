@@ -1,16 +1,15 @@
-## Overview
+## Primary Use Case
+GitOps deployment automation
 
-ArgoCD MCP automates GitOps deployments.
-
-## Use Cases
-
-- GitOps practitioners
+## Enterprise Backing
+CNCF Community
 
 ## IDE Support
-
 - VS Code
 - Cursor
 
-## Maturity
+## Best For
+GitOps practitioners
 
+## Maturity
 Beta - Active Development 🔶

@@ -1,13 +1,11 @@
 ## Overview
 
-Pulls live SEO data into AI workspaces via OAuth, no local install.
+Direct access to Ahrefs SEO datasets.
 
 ## Features
 
-- Keyword research: volume, difficulty, SERP analysis
-- Backlink analysis: domain rating, referring domains
-- Rank tracking: position monitoring
-- Site audits: technical SEO issues
+- Keyword research, backlink analysis, rank tracking, site audits
+- OAuth remote server, no local install
 
 ## Pricing
 

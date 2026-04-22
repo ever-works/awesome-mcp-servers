@@ -1,16 +1,10 @@
 ## Overview
 
-Playwright browser automation MCP.
+Official Microsoft Playwright MCP server, enabling LLMs to interact with web pages through structured accessibility.
 
-## Deployment
-
-- Docker (self-hosted)
-
-## Features
-
-- End-to-end tests
-- Web browsing
+## License
+Apache-2
 
 ## Pricing
 
-Open-source (assumed free).
+Free and open-source.

@@ -1,4 +1,4 @@
-# awesome-x402
+# Awesome X402
 
 Curated directory of x402 payment protocol resources, MCP servers, and tools for HTTP 402-based USDC payments on Base.
 

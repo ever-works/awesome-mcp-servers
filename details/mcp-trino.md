@@ -1,12 +1,12 @@
 ## Overview
 
-Go-based MCP server for Trino query engine.
+MCP server for Trino distributed SQL query engine.
 
 ## Features
 
 - Query execution on Trino
-- MCP protocol support
+- Schema access
 
 ## Pricing
 
-Free, MIT.
+Free and open-source under MIT license.

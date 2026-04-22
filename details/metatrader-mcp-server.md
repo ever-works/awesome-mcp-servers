@@ -1,4 +1,4 @@
-# metatrader-mcp-server
+# MetaTrader MCP Server
 
 Enable AI LLMs to execute trades using MetaTrader 5 platform.
 

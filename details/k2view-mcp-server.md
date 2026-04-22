@@ -1,9 +1,10 @@
 ## Features
 
-- Unified data from legacy systems.
-- Built-in governance: identity resolution, masking.
-- Ready-made prompt templates.
+- Real-time data delivery from multiple systems
+- Granular data privacy and security
+- Built-in data virtualization and transformation
+- On-prem and cloud-ready deployments
 
-## Best For
+## Pricing
 
-Large enterprises with fragmented data.
+Commercial product, contact for details.

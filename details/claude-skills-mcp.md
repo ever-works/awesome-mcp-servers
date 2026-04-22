@@ -2,10 +2,9 @@
 
 Intelligent search capabilities to let every model and client use Claude Agent Skills like native.
 
-## Features
-
-- Claude agent skills integration
+## License
+MIT
 
 ## Pricing
 
-Open-source under MIT license.
+Free and open-source.

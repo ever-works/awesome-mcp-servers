@@ -1,7 +1,3 @@
-## Overview
-
-LlamaIndex for index building and context retrieval.
-
 ## Features
 
 - Index builder + context retriever
@@ -9,4 +5,4 @@ LlamaIndex for index building and context retrieval.
 
 ## Pricing
 
-Open-source.
+Open-source, free.

@@ -1,9 +1,15 @@
-## Overview
+## Primary Use Case
+Repository & CI/CD workflow management
 
-GitHub's official MCP server.
+## Enterprise Backing
+Microsoft (Enterprise-backed)
 
-## Features
+## IDE Support
+- VS Code
+- GitHub Codespaces
 
-- Repository management
-- Issues, PRs
-- Official integration
+## Best For
+Teams using GitHub Actions
+
+## Maturity
+Production Ready ✅

@@ -1,9 +1,14 @@
-## Features
+## Overview
+Jira MCP Server connects AI to Jira for agile project management.
 
-- JQL-based issue search, details, comments management.
-- Sprint status summaries, blocked tickets.
-- Write capabilities with Rovo for creating/updating issues.
+## Features
+- JQL-based search and issue details
+- Sprint status summaries
+- Create/update issues, comments
+- Supports Rovo for write operations
 
 ## Best For
-
 Agile teams managing tickets and priorities with AI.
+
+## Pricing
+Included with Jira subscription.

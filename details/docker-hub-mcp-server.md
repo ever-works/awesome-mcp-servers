@@ -1,8 +1,13 @@
-## Features
+## Overview
+Docker Hub MCP Server for AI-driven container image management.
 
-- Search for images like Nginx or Redis tags.
-- List Docker Hardened Images.
+## Features
+- Search Docker images
+- Check latest stable tags
+- Manage images, logs, volumes, networks
 
 ## Best For
+Developers automating Docker tasks.
 
-Managing container projects and automating builds/deployments.
+## Pricing
+Free with Docker Hub account.

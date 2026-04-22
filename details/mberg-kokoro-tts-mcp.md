@@ -4,9 +4,9 @@ Kokoro TTS MCP server.
 
 ## Features
 
-- Text-to-speech with Kokoro models
-- Output to MP3 local or S3
+- Text to MP3 conversion using Kokoro models
+- Local execution
 
 ## Pricing
 
-Free and open-source.
+Apache-2 license (free and open-source).

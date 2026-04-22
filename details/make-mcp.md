@@ -1,12 +1,12 @@
 ## Overview
 
-Enables AI-driven automation across 1,800+ apps.
+Automation platform with MCP integration for AI-triggered workflows.
 
 ## Features
 
-- Workflow automation chaining
-- Free tier available
+- Connects to 1,800+ apps
+- Execute automations across tools
 
 ## Pricing
 
-Free tier; paid plans.
+Free tier available; paid plans task-based.

@@ -1,17 +1,16 @@
-## Overview
+## Primary Use Case
+Incident management & on-call
 
-PagerDuty MCP handles incident management & on-call.
-
-## Use Cases
-
-- Teams with on-call rotations
+## Enterprise Backing
+PagerDuty (Enterprise-backed)
 
 ## IDE Support
-
 - VS Code
 - Cursor
 - Claude Code
 
-## Maturity
+## Best For
+Teams with on-call rotations
 
+## Maturity
 Production Ready ✅

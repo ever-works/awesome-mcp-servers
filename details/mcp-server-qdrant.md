@@ -1,11 +1,12 @@
 ## Overview
 
-MCP server for Qdrant vector DB.
+MCP server for Qdrant vector database.
 
 ## Features
 
 - Vector search and management
+- Collection operations
 
 ## Pricing
 
-Free, Apache-2.
+Free and open-source under Apache 2.0 license.

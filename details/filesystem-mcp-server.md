@@ -1,13 +1,13 @@
 ## Overview
 
-Filesystem enables secure file operations with configurable access controls.
+Secure file operations with configurable access controls.
 
 ## Features
 
-- Secure file read/write
-- Configurable permissions
-- Can be run with npx @modelcontextprotocol/server-filesystem /path/to/allowed/files
+- Read/write files with permissions
+- Configurable allowed paths
+- HTTP pull model
 
-## Pricing
+## Usage
 
-Free and open-source.
+npx -y @modelcontextprotocol/server-filesystem /path/to/allowed/files

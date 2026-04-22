@@ -1,12 +1,13 @@
 ## Overview
 
-NodeJS MCP server for MySQL.
+NodeJS-based MCP server for MySQL databases.
 
 ## Features
 
 - Configurable access controls
 - Schema inspection
+- CRUD operations
 
 ## Pricing
 
-Free, MIT.
+Free and open-source under MIT license.

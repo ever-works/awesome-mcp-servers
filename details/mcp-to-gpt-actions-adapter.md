@@ -1,6 +1,6 @@
 ## Features
 
-- MCP server written in Elixir
+- Converts MCP to GPT actions API
 
 ## Pricing
 

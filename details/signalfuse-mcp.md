@@ -1,7 +1,9 @@
 ## Features
 
-- Fused trading signals (sentiment, macro, market structure)
-- Hyperliquid support
+- Fused crypto trading signals
+- Sentiment analysis
+- Macro regime detection
+- Hyperliquid market structure
 
 ## Pricing
 

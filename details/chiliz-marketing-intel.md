@@ -1,21 +1,11 @@
-## Overview
-
-Fan token MCP intelligence tools.
-
 ## Features
 
-- Whale flows, signals
-- DEX trading, sentiment
+- 67+ tools
+- Whale flows
+- Signal scores
+- Sports calendar
+- Backtesting
+- DEX trading
+- Social sentiment
 
-## Use Cases
-
-- Trading bots for fan tokens
-- DeFi agents
-
-## Comparisons
-
-Niche crypto intel vs general CCXT.
-
-## Pricing
-
-Not specified.
+SSE with Bearer auth.

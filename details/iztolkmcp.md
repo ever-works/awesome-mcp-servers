@@ -1,14 +1,7 @@
-## Overview
-
-Tolk smart contract compiler MCP for TON.
-
 ## Features
 
-- Compile contracts
-- Syntax check
-- Deployment links
-- 4 tools, 3 resources, 33 tests
+- Compile TON smart contracts
+- Syntax checking
+- Generate deployment links
 
-## Pricing
-
-Open-source.
+4 tools, 3 resources, 33 tests.

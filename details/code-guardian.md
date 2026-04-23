@@ -1,5 +1,11 @@
-# Code Guardian
+## Overview
 
-AI-powered code refactor engine with 80+ MCP tools for code analysis, hotspot detection, complexity metrics, persistent memory, and automated refactoring plans. Local deployment.
+AI-powered code refactor engine with 80+ MCP tools for comprehensive code health improvement.
 
-[https://github.com/phuongrealmax/code-guardian](https://github.com/phuongrealmax/code-guardian)
+## Features
+
+- Code analysis suite
+- Hotspot detection
+- Complexity metrics
+- Persistent memory
+- Automated refactoring plans

@@ -1,12 +1,13 @@
 ## Overview
 
-Integration with openEHR REST APIs for EHR management.
+Facilitates seamless integration with openEHR REST APIs.
 
 ## Features
 
 - Create and manage electronic health records
-- Composition handling
+- Compositions management
+- REST API integration
 
 ## Pricing
 
-Open-source.
+Free and open-source.

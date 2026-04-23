@@ -1,12 +1,14 @@
 ## Overview
 
-Modular MCP servers for OMOP healthcare data analysis with A2A protocol.
+Facilitates LLM-driven analysis of healthcare data in OMOP format through modular MCP servers and A2A protocol integration.
 
 ## Features
 
-- LLM-driven OMOP data analysis
+- LLM-driven analysis
+- OMOP format support
+- Modular MCP servers
 - A2A protocol integration
 
 ## Pricing
 
-Open-source.
+Free and open-source.

@@ -1,7 +1,5 @@
-## Features
+# gh-self-reviewer
 
-- Self-review of GitHub PRs with Claude
+A Go-based Anthropic MCP server facilitating self-review of GitHub pull requests with Claude AI integration.
 
-## Pricing
-
-Free and open-source.
+[https://github.com/alesr/gh-self-reviewer](https://github.com/alesr/gh-self-reviewer)

@@ -1,5 +1,12 @@
-# esp-mcp
+## Overview
 
-Workflow for fixing build issues in ESP32 series chips using ESP-IDF. Unlicensed project focused on embedded development tools.
+MCP server for ESP32 development workflow using ESP-IDF to resolve build issues.
 
-[https://github.com/horw/esp-mcp](https://github.com/horw/esp-mcp)
+## Features
+
+- ESP32 chip build fixing
+- ESP-IDF integration
+
+## Pricing
+
+Unlicensed.

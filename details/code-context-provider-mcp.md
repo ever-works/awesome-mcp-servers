@@ -1,8 +1,5 @@
-## Features
+# code-context-provider-mcp
 
-- Extracts directory structures and symbols
-- Uses WASM Tree-sitter parsers
+Provides code context and analysis for AI assistants by extracting directory structures and code symbols using WebAssembly Tree-sitter parsers.
 
-## Pricing
-
-Free and open-source.
+[https://github.com/AB498/code-context-provider-mcp](https://github.com/AB498/code-context-provider-mcp)

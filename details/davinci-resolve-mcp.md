@@ -1,6 +1,8 @@
-## Overview
+## Features
 
-Tools for video editing and color grading in DaVinci Resolve.
+- Video editing tools
+- Color grading capabilities
+- Media management integration
 
 ## License
 MIT

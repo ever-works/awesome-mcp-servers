@@ -1,5 +1,12 @@
-# Investor Agent
+## Overview
 
-Yahoo Finance integration to fetch stock market data including options recommendations.
+Yahoo Finance integration for stock data retrieval.
 
-[https://github.com/ferdousbhai/investor-agent](https://github.com/ferdousbhai/investor-agent)
+## Features
+
+- Stock market data fetching
+- Options recommendations
+
+## Pricing
+
+MIT license.

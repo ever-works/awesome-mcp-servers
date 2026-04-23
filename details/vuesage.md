@@ -1,7 +1,5 @@
-## Features
+# VueSage
 
-- Vue component analysis and optimization
+VueSage enhances Vue component quality through intelligent analysis and optimization, leveraging MCP for seamless integration with editors.
 
-## Pricing
-
-Free and open-source.
+[https://github.com/lq0910/vuesage](https://github.com/lq0910/vuesage)

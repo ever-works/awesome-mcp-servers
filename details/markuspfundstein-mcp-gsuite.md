@@ -1,12 +1,5 @@
-## Overview
+# mcp-gsuite
 
-GSuite MCP server.
+Interacts with Gmail and Google Calendar.
 
-## Features
-
-- Gmail integration
-- Google Calendar integration
-
-## Pricing
-
-MIT license (free and open-source).
+[https://github.com/MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite)

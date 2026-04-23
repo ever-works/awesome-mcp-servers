@@ -1,14 +1,11 @@
-## Overview
-
-DeFi tools MCP server.
-
 ## Features
 
-- Token prices (CoinGecko)
-- Wallet balances (6 EVM chains)
+- Token prices from CoinGecko
+- Multi-chain wallet balances across 6 EVM chains
 - Gas prices
-- DEX swaps (1inch, Jupiter)
-- MIT license
+- DEX swap quotes via 1inch (EVM) and Jupiter (Solana)
+
+No API key required for basic usage. MIT license.
 
 ## Pricing
 

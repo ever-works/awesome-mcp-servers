@@ -1,22 +1,13 @@
 ## Overview
 
-Multi-chain crypto MCP for wallet and DeFi ops.
+Multi-blockchain MCP interface for crypto operations.
 
 ## Features
 
-- Wallet management
-- Staking, swaps, bridging
-- DCA, limit orders
-
-## Use Cases
-
-- DeFi agents executing trades
-- Trading bots on blockchain
-
-## Comparisons
-
-Blockchain ops via MCP vs CCXT exchange APIs.
+- Staking and DeFi interactions
+- Swaps, bridging, wallet management
+- DCA and limit orders
 
 ## Pricing
 
-Free and open-source.
+GPL-3.0 license.

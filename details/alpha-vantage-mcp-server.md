@@ -1,22 +1,24 @@
 ## Overview
 
-Sponsored MCP server for financial market data access via Alpha Vantage.
+Alpha Vantage MCP Server integrates the Alpha Vantage API for financial data access over MCP.
 
 ## Features
 
-- Realtime and historical data for stocks, ETFs, forex, crypto
-- Technical indicators and fundamentals
-- Market queries over MCP
+- Real-time quotes and historical data
+- Technical indicators (SMA, EMA, RSI, etc.)
+- Fundamentals (earnings, balance sheets)
+- Forex, crypto, stocks, ETFs coverage
 
 ## Use Cases
 
-- DeFi agents analyzing token prices
-- Trading bots fetching market data
+- Autonomous trading agents
+- Market research and analysis
+- Portfolio optimization
 
 ## Comparisons
 
-Unlike CCXT, provides unified MCP access to broad financial assets beyond exchanges.
+Broader than CCXT's crypto-exchange focus, includes traditional assets.
 
 ## Pricing
 
-Sponsored.
+Free API key required; premium plans available.

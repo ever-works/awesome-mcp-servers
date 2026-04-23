@@ -1,13 +1,21 @@
 ## Overview
 
-Simplifies identity management with natural language commands for Auth0 tenants.
+Auth0 MCP for identity and access management via natural language.
 
 ## Features
 
-- Manage applications and resource servers
-- Develop and deploy actions
-- Analyze logs and customize forms
-- User access reviews
+- OAuth authentication
+- User and app management
+- Log analysis for security
+
+## Use Cases
+
+- Agent vuln checks on access
+- Compliance audits
+
+## Comparisons
+
+Easier than REST APIs for AI agents.
 
 ## Pricing
 

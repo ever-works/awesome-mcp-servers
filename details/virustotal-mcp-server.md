@@ -1,11 +1,19 @@
 ## Overview
 
-MCP server for VirusTotal API.
+VirusTotal API via MCP for threat intel.
 
 ## Features
 
-- Scan files and URLs
-- Retrieve scan reports
+- File/URL scanning
+- Multi-engine analysis
+
+## Use Cases
+
+- Agent vuln/malware checks
+
+## Comparisons
+
+Consensus scoring vs single AV.
 
 ## Pricing
 

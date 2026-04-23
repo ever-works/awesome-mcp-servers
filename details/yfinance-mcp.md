@@ -1,5 +1,22 @@
-# YFinance MCP
+## Overview
 
-MCP server using yfinance to obtain information from Yahoo Finance.
+Yahoo Finance data via yfinance over MCP.
 
-[https://github.com/narumiruna/yfinance-mcp](https://github.com/narumiruna/yfinance-mcp)
+## Features
+
+- Intraday/historical prices
+- Fundamentals data
+- Options chains
+
+## Use Cases
+
+- Stock screening agents
+- Technical analysis
+
+## Comparisons
+
+Free, broad market data vs CCXT crypto focus.
+
+## Pricing
+
+Free.

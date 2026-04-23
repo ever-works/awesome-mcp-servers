@@ -1,16 +1,21 @@
 ## Overview
 
-Keycloak MCP server for identity and access management with comprehensive tool coverage.
+Keycloak IAM via MCP.
 
 ## Features
 
-- 40+ tools
-- User management
-- Realm management
-- Client management
-- Role management
-- Group management
-- Identity Provider configuration
-- Authentication management
-- Native builds available
-- IAM automation
+- 40+ IAM tools
+- OAuth flows
+- User/realm scanning
+
+## Use Cases
+
+- Agent auth vuln checks
+
+## Comparisons
+
+Conversational vs REST.
+
+## Pricing
+
+Open-source.

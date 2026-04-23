@@ -1,5 +1,5 @@
 # WaveGuardClient
 
-Physics-based anomaly detection via MCP using Klein-Gordon wave equations on GPU to detect anomalies with high precision (avg 0.90). Includes 9 tools: scan, fingerprint, compare, token risk, wallet profiling, volume check, price manipulation detection. Supports cloud, Apple, Windows, and Linux.
+MCP server using physics-based anomaly detection for blockchain security ops including wallet profiling, token risk scanning, and price manipulation checks via MCP. Features GPU-accelerated vuln analysis; use cases: agent security audits. Superior precision (0.90 avg) over traditional ML detectors.
 
 [https://github.com/gpartin/WaveGuardClient](https://github.com/gpartin/WaveGuardClient)

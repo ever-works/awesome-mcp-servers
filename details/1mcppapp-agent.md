@@ -1,9 +1,22 @@
 ## Overview
 
-A unified Model Context Protocol server that aggregates multiple MCP servers into a single entry point, simplifying management and access to tools from various sources.
+Unified MCP server that aggregates multiple MCP servers, enabling IDE integration for developer productivity.
 
 ## Features
 
-- Aggregates multiple MCP servers into one
-- Unified interface for all hosted tools
-- Simplified configuration and management
+- Aggregates multiple MCP servers
+- Single interface for tools
+- IDE-compatible (VSCode, JetBrains)
+
+## Use Cases
+
+- AI agent code completion
+- Debugging in development environments
+
+## Comparisons
+
+Vs. native LSP: Multi-tool aggregation via MCP.
+
+## Pricing
+
+Free open-source.

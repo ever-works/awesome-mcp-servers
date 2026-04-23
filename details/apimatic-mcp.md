@@ -1,5 +1,22 @@
-# APIMatic MCP
+## Overview
 
-Validates OpenAPI specifications using APIMatic's analysis engine via MCP, providing detailed error reports and quality scores. Supports IDE integration for real-time API spec linting during development. Offers deeper validation than basic VSCode MCP schema checks, including SDK generation readiness.
+OpenAPI validation MCP for IDEs.
 
-[https://github.com/modelcontextprotocol/servers/tree/main/src/apimatic](https://github.com/modelcontextprotocol/servers/tree/main/src/apimatic)
+## Features
+
+- Spec analysis and scoring
+- Detailed error reports
+- SDK readiness checks
+
+## Use Cases
+
+- API spec development
+- AI-assisted linting
+
+## Comparisons
+
+Vs. native LSP: Advanced API validation.
+
+## Pricing
+
+Free.

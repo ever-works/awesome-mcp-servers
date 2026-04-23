@@ -1,12 +1,22 @@
 ## Overview
 
-MCP server for Anki via AnkiConnect.
+Anki integration via MCP for IDEs.
 
 ## Features
 
-- Interact with Anki decks and cards
-- Spaced repetition support
+- Flashcard management
+- Spaced repetition
+- IDE autocomplete
+
+## Use Cases
+
+- Learning during coding
+- AI agent education tools
+
+## Comparisons
+
+Vs. native LSP: Educational integration.
 
 ## Pricing
 
-Free and open-source.
+Free open-source.

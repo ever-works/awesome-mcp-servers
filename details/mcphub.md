@@ -1,5 +1,13 @@
-# MCPHub
+## Overview
 
-MCP Server Search, Discover & Collection Website providing a platform to search, discover, and collect MCP servers.
+MCPHub provides a platform to search, discover, and collect MCP servers.
 
-[https://mcphub.io](https://mcphub.io)
+## Features
+
+- Search and filtering capabilities
+- User collections for favorites
+- Comprehensive MCP server listings
+
+## Pricing
+
+Free to use.

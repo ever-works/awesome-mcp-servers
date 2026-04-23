@@ -1,9 +1,20 @@
 ## Overview
-Copilot Studio MCP integration.
+
+Copilot Studio via MCP.
 
 ## Features
-- Conversation context
+
 - Stateful interactions
+- Tool chaining, model switching
+
+## Use Cases
+
+- Multi-agent conversations
+
+## Comparisons
+
+- MCP vs LangChain
 
 ## Pricing
-Free and open-source.
+
+Open-source.

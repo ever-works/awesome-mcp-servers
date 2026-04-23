@@ -1,20 +1,22 @@
 ## Overview
 
-Programmatic access to the ARIA specification through an MCP server, enabling AI assistants to understand accessibility standards.
+ARIA spec access via MCP for IDE-integrated a11y support.
 
 ## Features
 
-- ARIA specification access
-- Accessibility reference for AI models
-- ARIA roles, states, and properties information
-- Compliance checking during development
+- ARIA roles, states, properties
+- Real-time compliance feedback
+- Integration with VSCode/JetBrains
 
 ## Use Cases
 
-- IDE integration for real-time a11y feedback
-- Automated accessibility audits
-- Code review assistance for WCAG compliance
+- Automated a11y audits
+- Code review assistance
+
+## Comparisons
+
+Vs. native LSP: A11y-specific validation.
 
 ## Pricing
 
-Free and open-source.
+Free open-source.

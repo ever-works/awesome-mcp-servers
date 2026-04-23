@@ -1,3 +1,22 @@
 ## Overview
 
-CoinGecko MCP Server integrates with the CoinGecko Pro API through MCP with OpenAI Function calling compatibility offering cryptocurrency market data.
+CoinGecko Pro API via MCP with OpenAI compatibility.
+
+## Features
+
+- Live prices, historical data
+- Market metrics
+- Exchange volumes
+
+## Use Cases
+
+- Portfolio tracking agents
+- Market sentiment analysis
+
+## Comparisons
+
+Aggregator vs CCXT's direct exchange access.
+
+## Pricing
+
+Free tier; Pro API key.

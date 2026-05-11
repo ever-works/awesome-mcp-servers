@@ -1,16 +1,16 @@
 ## Overview
 
-Stripe MCP offers direct access to financial data via AI prompts.
+Stripe MCP for payments.
 
 ## Features
 
-- Query MRR and revenue
-- Detect churn spikes
-- Access payment metrics
-- OAuth authentication
+- Query subscriptions
+- Check transactions
 
-## Use Cases
+## Deployment
 
-- Revenue analysis
-- Churn monitoring
-- Financial insights without exports
+Remote
+
+## Pricing
+
+Stripe pricing.

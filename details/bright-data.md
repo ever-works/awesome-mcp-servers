@@ -1,5 +1,5 @@
 # Bright Data
 
-Discover, extract, and interact with the web - one interface powering automated access across the public internet.
+Unified interface for discovering, extracting, and interacting with web content, powering automated access across the public internet for AI agents.
 
-[https://brightdata.com/products/mcp-server](https://brightdata.com/products/mcp-server)
+[https://brightdata.com](https://brightdata.com)

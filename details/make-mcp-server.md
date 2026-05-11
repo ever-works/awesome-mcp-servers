@@ -1,5 +1,22 @@
-# Make MCP Server
+## Overview
 
-Make MCP Server integration for the Integromat/Make automation platform. Enables LLMs to interact with Make scenarios and automation workflows through the Model Context Protocol.
+Turns Make scenarios into MCP-callable agent tools.
 
-[https://github.com/integromat/mcp-server-make](https://github.com/integromat/mcp-server-make)
+## Features
+
+- Multi-agent scenario chaining
+- Stateful tool execution
+- Low-code workflow delegation
+
+## Use Cases
+
+- Agentic automation pipelines
+- Cross-app task orchestration
+
+## Comparisons
+
+Direct MCP tools vs LangGraph abstractions.
+
+## Pricing
+
+Free tier; paid plans for scale.

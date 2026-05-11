@@ -1,5 +1,21 @@
-# AWS Billing MCP
+## Primary Use Case
 
-MCP server focused on cloud cost monitoring and optimization across AWS accounts. Enterprise-backed by AWS, integrates with VS Code, Claude Code, and Cursor. Suited for multi-account AWS environments in production.
+Cloud cost monitoring & optimization
 
-[https://aws.amazon.com/aws-cost-management/aws-billing/](https://aws.amazon.com/aws-cost-management/aws-billing/)
+## Enterprise Backing
+
+AWS (Enterprise-backed)
+
+## IDE Support
+
+- VS Code
+- Claude Code
+- Cursor
+
+## Best For
+
+Multi-account AWS environments
+
+## Maturity
+
+Production Ready ✅

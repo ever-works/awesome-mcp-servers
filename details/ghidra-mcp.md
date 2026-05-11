@@ -1,9 +1,11 @@
 ## Overview
 
-MCP Server for Ghidra, a popular reverse engineering framework. Exposes tools to be used by AI-powered reverse engineers for automated binary analysis.
+Integrates Ghidra reverse engineering tool with MCP.
 
 ## Features
 
-- Ghidra integration
-- AI-powered reverse engineering support
-- Binary analysis automation
+- Ghidra tool access
+
+## Pricing
+
+Open-source.

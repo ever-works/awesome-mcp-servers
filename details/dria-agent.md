@@ -1,5 +1,16 @@
-# Dria Agent
+## Features
 
-Powerful and fast tool calling agents with efficient execution capabilities for MCP-aware environments.
+- Efficient tool calling
+- Prompting/chaining
 
-[https://github.com/firstbatchxyz/dria-agent](https://github.com/firstbatchxyz/dria-agent)
+## Use Cases
+
+- Performance-critical agents
+
+## Comparisons
+
+Faster execution vs LangChain overhead.
+
+## Pricing
+
+Open-source.

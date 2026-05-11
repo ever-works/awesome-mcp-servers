@@ -1,11 +1,12 @@
 ## Overview
 
-Kaggle MCP server provides seamless access to the Kaggle platform's APIs.
+kaggle-mcp for Kaggle interactions.
 
 ## Features
 
-- Kaggle API integration
-- Competition data access
-- Dataset management
-- Kernel interaction
-- Model access
+- Dataset search and download
+- EDA notebook generation
+
+## Pricing
+
+Free and open-source.

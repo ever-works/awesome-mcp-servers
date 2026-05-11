@@ -1,9 +1,12 @@
+## Overview
+
+Queries curated awesome lists for AI agents.
+
 ## Features
 
-- Query 8,500+ awesome lists
+- 8,500+ lists
 - 1M+ items
-- Fetch best resources
 
 ## Pricing
 
-Cloud-hosted; pricing not specified.
+Free and open-source.

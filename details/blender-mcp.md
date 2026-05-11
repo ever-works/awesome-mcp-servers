@@ -1,6 +1,6 @@
-## Features
+## Overview
 
-- Professional 3D scene creation
-- Natural language commands for Blender
-- Scene management
-- Content generation
+MCP server integration for Blender 3D modeling.
+
+## License
+MIT

@@ -1,9 +1,22 @@
 ## Overview
 
-Starter template for creating MCP servers powered by ActionKit, enabling developers to build integrations between ActionKit and AI assistants.
+Starter for MCP servers using ActionKit, IDE-ready.
 
 ## Features
 
-- ActionKit integration template
-- Starter boilerplate code
-- MCP server scaffolding
+- ActionKit + MCP boilerplate
+- IDE integration ready
+- Rapid server development
+
+## Use Cases
+
+- Custom tool building for AI agents
+- IDE extension prototyping
+
+## Comparisons
+
+Vs. native LSP: MCP-focused for AI tools.
+
+## Pricing
+
+Free open-source.

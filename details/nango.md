@@ -1,11 +1,9 @@
 ## Overview
 
-Nango MCP server provides open-source integration with hundreds of APIs for AI agents.
+Nango provides a wide range of tools for API integrations with MCP elements.
 
 ## Features
 
-- 500+ API integrations
-- OAuth and authentication management
-- Custom tool creation
-- Observability and monitoring
-- Open-source API connectivity
+- Impressive catalog of tools across multiple categories
+- Simple connectivity with small amount of code
+- Support for observability, authentication, and authorization

@@ -1,5 +1,5 @@
 # Godot
 
-MCP server providing comprehensive Godot engine integration for project editing, debugging, and scene management. Enables AI agents to work with Godot game development projects natively.
+MCP server specialized for Godot Engine projects, providing knowledge of file formats (.gd, .tscn, .tres), architecture patterns, validation tools, code templates, and CLI workflows for game development and debugging.
 
-[https://github.com/modelcontextprotocol/servers/tree/main/src/godot](https://github.com/modelcontextprotocol/servers/tree/main/src/godot)
+[https://mcp.directory/godot](https://mcp.directory/godot)

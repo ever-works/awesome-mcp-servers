@@ -1,9 +1,12 @@
 ## Overview
-Web and local search via Brave Search API.
+
+Archived Brave Search integration for MCP.
 
 ## Features
-- Web search
-- Local search capabilities
 
-## Status
-Archived; replaced by official.
+- Web search
+- Local search
+
+## Pricing
+
+Free and open-source (archived, replaced).

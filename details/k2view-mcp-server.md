@@ -1,18 +1,14 @@
 ## Overview
 
-K2view MCP Server delivers governed data products to AI.
+K2view provides a high-performance MCP server designed for real-time delivery of multi-source enterprise data to LLMs.
 
 ## Features
 
-- Unified data from legacy systems
-- Data governance and masking
-- Semantic alignment, identity resolution
-- Orchestrated prompts, on-demand fetching
-
-## Best For
-
-Large enterprises with fragmented data.
+- Real-time data delivery from multiple systems
+- Granular data privacy and security
+- Built-in data virtualization and transformation
+- On-prem and cloud-ready deployments
 
 ## Pricing
 
-Enterprise pricing.
+Commercial product; contact K2view for pricing details.

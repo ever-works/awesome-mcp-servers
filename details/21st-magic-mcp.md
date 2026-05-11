@@ -1,11 +1,23 @@
 ## Overview
 
-21st Magic MCP is an MCP server that brings v0-like frontend UI generation capabilities directly into development environments like Cursor, WindSurf, and Cline. It enables AI coding assistants to generate and work with frontend components.
+Integrates frontend UI generation into IDEs via MCP for AI coding assistants.
 
 ## Features
 
-- v0-like frontend generation in IDE
-- Integration with Cursor, WindSurf, and Cline
-- AI-powered UI component creation
-- Works directly in development workflows
-- Enables rapid frontend prototyping
+- v0-like UI generation
+- Cursor, Windsurf, Cline integration
+- Rapid prototyping
+- Autocomplete and debugging support
+
+## Use Cases
+
+- Frontend code completion
+- AI-driven UI development
+
+## Comparisons
+
+Vs. native LSP: Adds generative UI tools.
+
+## Pricing
+
+Free open-source.

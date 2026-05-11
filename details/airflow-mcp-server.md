@@ -1,10 +1,12 @@
 ## Overview
 
-MCP Server that connects to Apache Airflow for pipeline management.
+Airflow MCP for workflow orchestration.
 
 ## Features
 
-- Integration via official Apache Airflow Python client
-- DAG management and inspection
-- Task execution monitoring
-- Workflow orchestration control
+- DAG/task management
+- Execution monitoring
+
+## Pricing
+
+Open-source.

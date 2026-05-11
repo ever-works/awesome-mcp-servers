@@ -1,10 +1,5 @@
-## Overview
+# Heroku MCP Server
 
 Heroku Platform MCP Server using the Heroku CLI.
 
-## Features
-
-- Heroku application deployment
-- Dyno management
-- Add-on management
-- App monitoring and logging
+[https://github.com/heroku/heroku-mcp-server](https://github.com/heroku/heroku-mcp-server)

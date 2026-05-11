@@ -1,5 +1,5 @@
 # Cloudflare
 
-Deploy, configure & interrogate your resources on the Cloudflare developer platform (e.g. Workers/KV/R2/D1).
+Deploy, configure and interrogate resources on the Cloudflare developer platform, such as Workers, KV, R2, D1.
 
-[https://developers.cloudflare.com/mcp/](https://developers.cloudflare.com/mcp/)
+[https://developers.cloudflare.com](https://developers.cloudflare.com)

@@ -15,10 +15,7 @@ K8s MCP Server Toolkit is a comprehensive Model Context Protocol server that pro
 - **Cloud Provider Support**: Native integration with AWS EKS, Google GKE, and Azure AKS
 - **Secure Execution**: Sandboxed command execution with audit logging
 - **Multi-Cluster Management**: Switch between clusters seamlessly
-- **Helm Chart Operations**: Install, upgrade, and manage Helm releases
-- **Istio Service Mesh**: Configure and monitor service mesh components
-- **GitOps with ArgoCD**: Manage applications using GitOps principles
-- **Authentication Integration**: Support for cloud provider authentication
+- Authentication integration for cloud providers
 
 ## Use Cases
 
@@ -26,20 +23,7 @@ K8s MCP Server Toolkit is a comprehensive Model Context Protocol server that pro
 - Application deployment with Helm charts
 - Service mesh configuration and troubleshooting
 - GitOps workflow automation with ArgoCD
-- Multi-cloud Kubernetes operations
-- Debugging and diagnostics
-- Security audits and compliance checks
 
-## Cloud Provider Integration
+## Pricing
 
-**AWS EKS**: Direct integration with AWS IAM for authentication
-**Google GKE**: Support for GCP service accounts and workload identity
-**Azure AKS**: Integration with Azure AD and managed identities
-
-## Technical Implementation
-
-Containerized deployment ensures consistent tool versions and dependencies. The server handles authentication, context switching, and command execution while providing detailed output and error handling.
-
-## Integration
-
-Compatible with Claude Desktop, Cursor, VS Code, and other MCP clients. Supports configuration through environment variables and kubeconfig files.
+Open-source and free.

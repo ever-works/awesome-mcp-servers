@@ -1,15 +1,12 @@
 ## Overview
 
-Perplexity MCP performs real-time searches on the open web.
+Perplexity MCP for semantic search.
 
 ## Features
 
-- Latest news and facts
-- General topic research
-- Up-to-date information
+- Find 5 most relevant sources
+- Paid API for deeper research
 
-## Use Cases
+## Pricing
 
-- B2B SaaS pricing trends
-- Current events
-- Fact-checking
+Paid.

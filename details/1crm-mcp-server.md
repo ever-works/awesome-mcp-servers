@@ -1,20 +1,25 @@
-# 1CRM MCP Server
+## Overview
 
-An MCP Server integration for 1CRM, enabling workflow and automation connectivity with the 1CRM all‑in‑one customer relationship management platform.
-
-- **Category:** Business & Commerce – MCP Servers  
-- **Brand:** 1CRM  
-- **Source:** https://mcp.pipedream.com/app/_1crm
+1CRM MCP Server integrates the 1CRM all-in-one CRM platform with the Model Context Protocol (MCP), allowing AI agents to perform CRM and ERP functions like customer management, lead tracking, and workflow automation.
 
 ## Features
 
-- **MCP server integration for 1CRM** – Connects the 1CRM CRM platform to MCP‑compatible chat clients and tools.  
-- **Static MCP endpoint** – Uses a single, reusable MCP server URL for all clients:  
-  - `https://mcp.pipedream.net/v2`  
-- **Per‑client authentication** – The static URL is shared, but each client authenticates separately when the server is added to an application.  
-- **Chat‑client compatibility** – Designed to be added to various chat clients that support MCP servers (setup is done within each client).  
-- **Configuration documentation** – Full configuration details available via the Pipedream MCP configuration page.
+- Access to customer records, deals, and activities via MCP
+- Workflow automation and task management
+- Sales pipeline monitoring and updates
+
+## Use Cases
+
+- **Agent sales automation**: AI agents can qualify leads, update deal stages, send follow-ups, and close sales autonomously using natural language commands.
+
+## Comparisons
+
+| Feature | 1CRM MCP | Traditional API |
+|---------|----------|-----------------|
+| Access Method | Conversational via AI | REST calls |
+| Integration | Seamless with AI tools | Custom code required |
+| Automation | Agent-driven | Script-based |
 
 ## Pricing
 
-No pricing information is provided in the available content.
+Free and open-source under the Apache 2.0 license.

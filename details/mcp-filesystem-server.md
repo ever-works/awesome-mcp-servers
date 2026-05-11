@@ -1,5 +1,5 @@
-# MCP Filesystem Server
+# mcp-filesystem-server
 
-Go implementation of the Model Context Protocol enabling seamless integration between LLM applications and external data sources and tools via filesystem access.
+Golang implementation for local file system access. Provides MCP tools for interacting with the local filesystem. Licensed under MIT.
 
-[https://github.com/qiangmzsx/mcp-filesystem-server](https://github.com/qiangmzsx/mcp-filesystem-server)
+[https://github.com/mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server)

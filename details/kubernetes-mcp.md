@@ -1,5 +1,21 @@
-# Kubernetes MCP
+## Primary Use Case
 
-Connect to Kubernetes cluster and manage pods, deployments, and services through the Model Context Protocol.
+Container orchestration management
 
-[https://github.com/modelcontextprotocol/servers/tree/main/src/kubernetes](https://github.com/modelcontextprotocol/servers/tree/main/src/kubernetes)
+## Enterprise Backing
+
+CNCF Community
+
+## IDE Support
+
+- VS Code
+- Cursor
+- Claude Code
+
+## Best For
+
+Multi-cluster Kubernetes operators
+
+## Maturity
+
+Beta - Active Development 🔶

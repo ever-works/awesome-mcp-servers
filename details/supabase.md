@@ -2,4 +2,4 @@
 
 Connects to Supabase platform for database, auth, edge functions and more.
 
-[https://supabase.com/mcp](https://supabase.com/mcp)
+[https://supabase.com](https://supabase.com)

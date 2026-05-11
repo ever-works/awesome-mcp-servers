@@ -1,5 +1,23 @@
-# StackGen MCP
+## Primary Use Case
 
-MCP server for managing infrastructure lifecycles with integrated compliance controls. Actively developed by StackGen, it supports key IDEs like Claude Code, Cursor, VS Code, Windsurf, and Cline. Best suited for platform teams balancing governance and developer self-service in production environments.
+Infrastructure lifecycle with compliance
 
-[https://stackgen.com](https://stackgen.com)
+## Enterprise Backing
+
+StackGen (Active development)
+
+## IDE Support
+
+- Claude Code
+- Cursor
+- VS Code
+- Windsurf
+- Cline
+
+## Best For
+
+Platform teams needing governance + developer self-service
+
+## Maturity
+
+Production Ready ✅

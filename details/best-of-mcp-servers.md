@@ -1,5 +1,22 @@
-# Best of MCP Servers
+## Overview
 
-A curated GitHub repository listing the best MCP Servers, including top solutions, libraries, tools, and more. It serves as a valuable directory for discovering and comparing MCP implementations.
+Showcasing best MCP servers, tools, libraries.
 
-[https://github.com/tolkonepiu/best-of-mcp-servers](https://github.com/tolkonepiu/best-of-mcp-servers)
+## Features
+
+- Quality curation
+- Voting/leaderboards
+- Category browsing
+
+## Use Cases
+
+- Find top agent tools
+- Quick discovery
+
+## Comparisons
+
+Curated MCP vs npm volume.
+
+## Pricing
+
+Free.

@@ -1,12 +1,19 @@
 ## Overview
 
-Docker MCP for container management.
+Docker MCP Server enables safe code execution in containers for LLMs like Claude.
 
 ## Features
 
-- Manage containers, images, volumes, networks
-- Pairs with filesystem for development
+- Container listing, creation, execution, cleanup
+- Multi-language support (pip, npm, apt, apk)
+- Script execution without system access
+
+## Security
+
+- Namespaces and cgroups isolation
+- Network stack separation
+- Resource limits
 
 ## Pricing
 
-Free.
+Free, requires Docker.

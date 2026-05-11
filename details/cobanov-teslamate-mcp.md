@@ -1,12 +1,11 @@
 ## Overview
 
-TeslaMate database access.
+TeslaMate database MCP server.
 
 ## Features
 
-- Query vehicle data
-- Analytics
+- Query Tesla vehicle data
 
 ## Pricing
 
-Free and open-source.
+MIT license (free and open-source).

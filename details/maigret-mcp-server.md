@@ -1,10 +1,20 @@
 ## Overview
 
-MCP server for maigret, a powerful OSINT tool for collecting user account information from various public sources.
+OSINT username recon via MCP.
 
 ## Features
 
-- Username OSINT investigations
-- Multi-source account information gathering
-- Public data collection
-- AI-assisted investigations
+- Multi-site username scanning
+- Auth footprint detection
+
+## Use Cases
+
+- Agent security audits
+
+## Comparisons
+
+Automated multi-source vs manual.
+
+## Pricing
+
+Open-source.

@@ -1,5 +1,13 @@
-# Centralmind Gateway
+## Overview
 
-MCP-Server from your Database optimized for LLMs and AI-Agents.
+Auto API generation from DB schema.
 
-[https://github.com/centralmind/gateway](https://github.com/centralmind/gateway)
+## Features
+
+- PostgreSQL support
+- SSE transport
+- Schema-based APIs
+
+## Pricing
+
+Free and open-source under Apache 2.0 license.

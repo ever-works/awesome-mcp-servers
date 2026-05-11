@@ -1,8 +1,13 @@
 ## Overview
-Redis interactions.
+
+Official MCP server for Redis key-value store.
 
 ## Features
-- Key-value operations
 
-## Status
-Archived.
+- Data management and search
+- Key-value operations
+- Redis module support
+
+## Pricing
+
+Free and open-source under MIT license.

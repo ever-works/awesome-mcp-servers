@@ -1,5 +1,17 @@
-# Amazon Fresh MCP Server
+## Overview
 
-An Amazon Fresh grocery delivery integration MCP server. Enables AI assistants to interact with Amazon Fresh services for browsing products, managing shopping lists, and placing orders through the Model Context Protocol.
+Amazon Fresh MCP gateway for grocery services.
 
-[https://github.com/Alec2435/amazon-fresh-mcp](https://github.com/Alec2435/amazon-fresh-mcp)
+## Features
+
+- Auth proxy
+- Rate limiting
+- Product browsing/orders
+
+## Use Cases
+
+- Agent shopping workflows
+
+## Pricing
+
+Open-source.

@@ -1,13 +1,21 @@
 ## Overview
 
-Multi-agent AI solutions platform.
+Multi-agent LLM platform via MCP.
 
 ## Features
 
-- Build, validate, deploy multi-agent solutions
-- Skill design, lifecycle management
-- Stdio/HTTP connection
+- Model hosting and fine-tuning
+- Prompting/skill chaining
+- Agent lifecycle management
+
+## Use Cases
+
+- Complex agent RAG workflows
+
+## Comparisons
+
+Protocol-based vs OpenAI REST API.
 
 ## Pricing
 
-Not specified.
+Open-source.

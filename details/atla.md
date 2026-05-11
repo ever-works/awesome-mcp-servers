@@ -1,5 +1,5 @@
 # Atla
 
-Enable AI agents to interact with the Atla API for state-of-the-art LLM evaluation. Provides capabilities for assessing and benchmarking LLM performance and outputs.
+MCP integration for Atla API enabling AI agents to perform state-of-the-art LLM evaluations and benchmarking within IDE workflows. Supports performance metrics, output quality assessment, and comparative analysis. Provides specialized LLM testing beyond VSCode MCP's general debugging capabilities.
 
 [https://github.com/modelcontextprotocol/servers/tree/main/src/atla](https://github.com/modelcontextprotocol/servers/tree/main/src/atla)

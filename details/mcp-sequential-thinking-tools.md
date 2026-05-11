@@ -1,5 +1,20 @@
-# MCP Sequential Thinking Tools
+## Overview
 
-An adaptation of the MCP Sequential Thinking Server to guide tool usage, providing recommendations for which MCP tools would be most effective at each stage.
+Tool guidance for sequential reasoning via MCP.
 
-[https://github.com/spences10/mcp-sequentialthinking-tools](https://github.com/spences10/mcp-sequentialthinking-tools)
+## Features
+
+- Tool recommendations
+- Chaining, model switching
+
+## Use Cases
+
+- Multi-agent workflows
+
+## Comparisons
+
+- MCP vs LangChain tools
+
+## Pricing
+
+Open-source.

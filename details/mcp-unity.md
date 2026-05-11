@@ -1,10 +1,11 @@
 ## Overview
 
-MCP server enabling Unity3D game engine integration for game development.
+Unity3d MCP server.
 
 ## Features
-- Unity3D integration
+
+- Game engine integration
 
 ## Pricing
 
-Free and open-source.
+MIT license.

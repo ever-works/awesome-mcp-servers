@@ -1,5 +1,22 @@
-# Azure MCP Hub
+## Overview
 
-A curated list of all MCP servers and related resources for Azure developers by Arun Sekhar, serving as a comprehensive directory for Azure MCP integrations.
+Directory for Azure MCP servers/resources.
 
-[https://github.com/modelcontextprotocol/servers/tree/main/src/azure-mcp-hub](https://github.com/modelcontextprotocol/servers/tree/main/src/azure-mcp-hub)
+## Features
+
+- Categorized listings
+- Install guides/templates
+- Azure integration examples
+
+## Use Cases
+
+- Cloud-native agent discovery
+- Azure Functions/K8s setups
+
+## Comparisons
+
+Azure-focused MCP vs general npm.
+
+## Pricing
+
+Free.

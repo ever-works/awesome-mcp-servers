@@ -10,6 +10,7 @@ The Docker Helm MCP Server provides a bridge between AI assistants and the Helm 
 - **OCI Registry Support**: Work with Helm charts stored in OCI registries
 - **Multi-version Support**: Handle multiple chart versions and tags
 - **SSE Mode**: Server-sent events transport for real-time updates
+- Authentication for private repositories
 
 ## Installation
 
@@ -24,8 +25,6 @@ docker run -d --name mcp-helm -p 8012:8012 ghcr.io/zekker6/mcp-helm:v1.3.0 -mode
 - Automate Helm chart deployments through AI conversations
 - Search and discover available Helm charts using natural language
 - Manage Kubernetes applications with AI-assisted workflows
-- Simplify complex Helm operations with conversational interfaces
-- Query release status and history through AI assistants
 
 ## Pricing
 

@@ -1,12 +1,20 @@
 ## Overview
 
-An MCP server that integrates Semgrep, a powerful static analysis tool, with AI assistants like Anthropic Claude. It enables code analysis, security vulnerability detection, and code quality improvements directly through a conversational interface.
+Semgrep SAST via MCP.
 
 ## Features
 
-- Semgrep static analysis integration
-- Security vulnerability detection
-- Code quality analysis
-- Conversational AI interface
-- Anthropic Claude compatibility
-- Advanced pattern matching for code issues
+- Code vuln scanning
+- Pattern-based analysis
+
+## Use Cases
+
+- Agent security audits
+
+## Comparisons
+
+AI-driven vs command-line.
+
+## Pricing
+
+Open-source.

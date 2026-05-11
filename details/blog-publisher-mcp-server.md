@@ -1,23 +1,18 @@
-# Blog Publisher MCP Server
-
-**Category:** Workflow Automation MCP Servers  
-**Tags:** mcp, ai-integration, automation, python
-
-## Description
-Blog Publisher MCP Server is an automation tool that enables AI assistants to publish blog content to external platforms. It automates the process of transferring local Markdown files to GitHub, supporting streamlined content publishing workflows.
-
 ## Features
-- Automates publishing of blog posts from local Markdown files to GitHub.
-- Command-line usage: trigger publishing with `blog+文章名`.
-- Copies Markdown files from a local Obsidian directory to a specified blog directory.
-- Processes image links within Markdown files.
-- Pushes blog content updates directly to a GitHub repository.
-- Configuration allows specifying the target blog directory.
-- Supports any correctly formatted Markdown files.
-- Requires setup of a GitHub repository for publishing.
+
+- Chaining Markdown processing and Git pushes
+- State management for image links and files
+- CLI-triggered workflows
+
+## Use Cases
+
+- Agent flows for content publishing
+- Automated blog updates from notes
+
+## Comparison to LangGraph
+
+Direct Git integration via MCP; no graph runtime needed.
 
 ## Pricing
-No pricing information provided.
 
-## Source
-[https://mcp.so/server/blog_publisher_mcp_server](https://mcp.so/server/blog_publisher_mcp_server)
+Free.

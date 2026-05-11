@@ -1,11 +1,9 @@
 ## Overview
 
-JFrog MCP server provides AI agents with access to the JFrog Platform API for comprehensive artifact and build management.
+JFrog offers MCP solutions tailored to its DevOps ecosystem.
 
 ## Features
 
-- Repository management
-- Build tracking and management
-- Release lifecycle management
-- Artifact resolution and distribution
-- Security and compliance scanning
+- No installation needed for JFrog users
+- Continuity in tool design and intent
+- Seamless agent connections

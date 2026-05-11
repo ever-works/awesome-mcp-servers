@@ -1,17 +1,13 @@
 ## Overview
 
-Shopify MCP lets e-commerce managers query storefront data in natural language.
+AI-native commerce data access enabled by default.
 
 ## Features
 
-- Check inventory levels
-- View order statuses
-- Analyze revenue trends
-- Top products by revenue
-- Pending orders
+- Product catalog browsing/search
+- Cart management and checkout initiation
+- Real-time inventory/pricing
 
-## Use Cases
+## Pricing
 
-- Inventory management
-- Sales reporting
-- Competitor price comparison with Octoparse
+Included with Shopify stores.

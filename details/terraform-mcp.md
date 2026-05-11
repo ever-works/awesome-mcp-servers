@@ -1,5 +1,21 @@
-# Terraform MCP
+## Primary Use Case
 
-MCP server specialized in infrastructure as code automation via Terraform. Enterprise-backed by HashiCorp, compatible with VS Code, Cursor, and Claude Code IDEs. Ideal for teams relying on Terraform for reliable IaC workflows in production setups.
+Infrastructure as code automation
 
-[https://www.terraform.io](https://www.terraform.io)
+## Enterprise Backing
+
+HashiCorp (Enterprise-backed)
+
+## IDE Support
+
+- VS Code
+- Cursor
+- Claude Code
+
+## Best For
+
+Teams heavily using Terraform
+
+## Maturity
+
+Production Ready ✅

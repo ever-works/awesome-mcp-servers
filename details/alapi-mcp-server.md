@@ -1,9 +1,22 @@
 ## Overview
 
-MCP server implementation for ALAPI (Chinese service API platform), enabling direct ALAPI service invocation through the Model Context Protocol.
+MCP server for ALAPI services, IDE-integrated.
 
 ## Features
 
-- ALAPI service integration
-- Chinese data service access
-- MCP protocol implementation
+- ALAPI service access
+- Autocomplete and debugging
+- VSCode/JetBrains support
+
+## Use Cases
+
+- AI agent API calls
+- Development with Chinese data
+
+## Comparisons
+
+Vs. native LSP: API-specific tools.
+
+## Pricing
+
+Free.

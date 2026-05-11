@@ -1,6 +1,11 @@
+## Overview
+
+DICOM image interaction.
+
 ## Features
 
-- DICOM image querying and retrieval
-- Medical image parsing
-- DICOM-encapsulated document reading (PDF, etc.)
-- AI-powered medical imaging workflows
+- Note storage and summarization
+
+## Pricing
+
+Open-source.

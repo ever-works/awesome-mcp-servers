@@ -1,18 +1,14 @@
 ## Overview
 
-Notion MCP Server turns workspaces into AI command centers.
+Exposes Notion data (pages, databases, tasks) as context to LLMs.
 
 ## Features
 
-- Create, read, update, delete pages/databases
-- Search and append content
-- OAuth connection
-- LLM-optimized tools
-
-## Best For
-
-Product teams and knowledge workers.
+- Access pages, databases, and tasks via MCP
+- Contextual snapshot of teams’ workspace
+- Self-hosted server with OAuth integration
+- Ideal for multi-user knowledge management
 
 ## Pricing
 
-Free with Notion account.
+Free and open-source.

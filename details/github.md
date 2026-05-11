@@ -1,5 +1,11 @@
-# GitHub
+## Overview
 
-GitHub's official MCP Server.
+Official GitHub MCP for repository management.
 
-[https://github.com/features/mcp](https://github.com/features/mcp)
+## Features
+
+- Git operations
+
+## Pricing
+
+Free for public repos.

@@ -1,5 +1,13 @@
-# VoiceMode
+## Overview
 
-Enable voice conversations with Claude using any OpenAI-compatible STT/TTS service.
+Complete voice interaction server.
 
-[https://getvoicemode.com](https://getvoicemode.com)
+## Features
+
+- Speech-to-text
+- Text-to-speech
+- Real-time voice conversations
+
+## Pricing
+
+Free and open-source under the MIT license.

@@ -1,5 +1,9 @@
-# OpenAPI MCP
+## Features
 
-Dockerized MCP Server to allow AI agents to access any API using existing OpenAPI docs. Provides a simple way to integrate APIs into MCP workflows.
+- Dynamic OpenAPI to MCP proxy
+- OAuth2 authentication
+- Live updates without recompile
 
-[https://github.com/ckanthony/openapi-mcp](https://github.com/ckanthony/openapi-mcp)
+## Pricing
+
+Free Python library.source library.

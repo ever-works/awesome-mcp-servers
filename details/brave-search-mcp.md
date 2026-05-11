@@ -1,13 +1,5 @@
-## Overview
+# Brave Search MCP
 
-Brave Search MCP for web search integration.
+MCP server for Brave Search.
 
-## Features
-
-- Returns search results and summaries
-- Web page content retrieval
-- Free API access
-
-## Pricing
-
-Free.
+[https://github.com/brave/brave-search-mcp](https://github.com/brave/brave-search-mcp)

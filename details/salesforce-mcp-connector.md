@@ -1,18 +1,20 @@
-## Overview
+# Salesforce MCP Connector
 
-Salesforce MCP Connector enables AI interaction with Salesforce CRM through MCP standard.
+## Overview
+The Salesforce MCP Connector enables AI models to interact with Salesforce CRM data via the Model Context Protocol. It leverages existing Salesforce user permissions and access rights, providing secure, live access to standard and custom objects.
 
 ## Features
+- Full CRUD operations (create, read, update, delete) on Salesforce CRM records
+- Respects Salesforce user permissions, profiles, and role hierarchies
+- Supports standard and custom objects
+- Compatible with Enterprise, Unlimited, and Developer Editions that have API access
+- Third-party MCP server implementation (Salesforce's native MCP server solutions are in beta)
+- Secure access using OAuth or existing Salesforce session
 
-- Full CRUD operations on CRM records
-- Supports custom objects
-- Inherits Salesforce user permissions
-- API access across editions
-
-## Best For
-
-Salesforce teams needing AI for data analysis and updates.
+## Use Cases
+- Sales teams updating lead status or opportunity stages via AI chat
+- Service agents creating or modifying case records
+- Marketing specialists syncing campaign data or updating contact information
 
 ## Pricing
-
-Third-party; pricing varies, Salesforce API limits apply.
+The MCP Connector itself may be provided by third-party vendors; users need a valid Salesforce subscription with API access. Check with the specific connector provider for pricing details.

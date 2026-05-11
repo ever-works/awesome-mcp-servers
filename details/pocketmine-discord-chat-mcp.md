@@ -1,11 +1,19 @@
 ## Overview
 
-A PocketMine plugin that bridges Minecraft PE server activity to Discord, sending player chat, commands, and console output for unified server management.
+PocketMine plugin as MCP for Discord integration in Minecraft PE servers.
 
 ## Features
 
-- Player chat forwarding to Discord
-- Command relay
-- Server console output
-- MCPE server integration
-- Discord channel bridging
+- Chat forwarding to Discord
+- Command and console relay
+- Real-time monitoring
+
+## Use Cases
+
+- Remote server admin
+- AI bot notifications
+- Community tools
+
+## Pricing
+
+Free and open-source.

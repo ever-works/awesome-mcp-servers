@@ -1,5 +1,10 @@
-# Postgres MCP Server
+## Features
 
-FastMCP Based MCP Server to Control Postgres.
+- Schema inspection
+- SELECT query execution
+- Docker self-hosting
+- Natural language to SQL
 
-[https://github.com/VivekMalipatel/Postgres_MCP_Server](https://github.com/VivekMalipatel/Postgres_MCP_Server)
+## Pricing
+
+Free and open-source.

@@ -1,11 +1,21 @@
 ## Overview
 
-MCP Discovery is a lightweight CLI tool for discovering and introspecting MCP server capabilities.
+Lightweight CLI for MCP server discovery and introspection.
 
 ## Features
 
-- MCP server capability discovery
-- Built in Rust for performance
+- Decentralized server discovery
+- Capability introspection
+- Rust-built for performance
 - CLI interface
-- Tool and resource introspection
-- Lightweight and fast
+- Supports agent tool finding
+
+## Use Cases
+
+- Discovering MCP tools for agents
+- Registering custom servers
+- Building resilient, distributed MCP networks
+
+## Pricing
+
+Free and open-source.

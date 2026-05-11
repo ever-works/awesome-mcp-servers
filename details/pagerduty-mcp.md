@@ -1,5 +1,21 @@
-# PagerDuty MCP
+## Primary Use Case
 
-MCP server for incident management, alerting, and on-call scheduling. Enterprise-backed by PagerDuty, integrates with VS Code, Cursor, Claude Code. Production-ready for teams managing on-call rotations.
+Incident management & on-call
 
-[https://www.pagerduty.com](https://www.pagerduty.com)
+## Enterprise Backing
+
+PagerDuty (Enterprise-backed)
+
+## IDE Support
+
+- VS Code
+- Cursor
+- Claude Code
+
+## Best For
+
+Teams with on-call rotations
+
+## Maturity
+
+Production Ready ✅

@@ -1,11 +1,19 @@
 ## Overview
 
-MCP Server implementation for Xcode integration, enabling AI assistants to interact with Apple's development IDE.
+Xcode MCP Server provides programmatic access to Apple's Xcode IDE through the Model Context Protocol.
 
 ## Features
 
-- Xcode IDE integration
+- IDE integration for code editing and navigation
 - Project and workspace management
-- Build and run capabilities
-- iOS and macOS development support
-- Standardized MCP tools
+- Build, run, and debug iOS/macOS apps
+- File operations with IDE context
+
+## Use Cases
+
+- Autonomous agent-driven development
+- AI-assisted Xcode workflows
+
+## Pricing
+
+Open-source and free.

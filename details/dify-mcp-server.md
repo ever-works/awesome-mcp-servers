@@ -1,14 +1,22 @@
 ## Overview
 
-Model Context Protocol Server for Dify workflow management.
+MCP gateway to Dify AI apps for agentic orchestration.
 
 ## Features
 
-- Dify workflow management
-- Workflow creation and triggering
-- AI platform integration
-- Model Context Protocol compatibilitycompatible client connectivity
-- AI task orchestration
-- Sample implementation for referenceanagement
-- Dataset management capabilities
-- Integration with Dify platform APIs
+- Multi-agent workflow chaining
+- Tool calling with context persistence
+- Model discovery and delegation
+
+## Use Cases
+
+- Agent workflows for complex automations
+- Task delegation in no-code pipelines
+
+## Comparisons
+
+Visual MCP-native workflows outperform LangChain code-based chains.
+
+## Pricing
+
+Open-source.

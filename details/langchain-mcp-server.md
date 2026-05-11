@@ -1,6 +1,6 @@
 ## Overview
 
-LangChain MCP server for agent frameworks.
+Agent framework with MCP server adapters.
 
 ## Features
 

@@ -1,5 +1,5 @@
 # Keycloak MCP
 
-This MCP server enables natural language interaction with Keycloak for user and realm management including creating, deleting, and listing users and realms.
+MCP server for Keycloak authentication management and vulnerability scanning in IAM. Enables agent-driven security audits and compliance ops. Streamlines AI integration over direct API.
 
 [https://github.com/modelcontextprotocol/servers/tree/main/src/keycloak-mcp](https://github.com/modelcontextprotocol/servers/tree/main/src/keycloak-mcp)

@@ -4149,6 +4149,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Knowledge & Memory
 
+- [Dakera MCP](https://github.com/dakera-ai/dakera-mcp) - Self-hosted MCP-native agent memory server with decay-weighted episodic recall. 83 MCP tools, RocksDB + HNSW vector search, 87.8% LoCoMo benchmark. Multi-SDK: Python, JS, Rust, Go. `Local` `Rust` `Self-Hosted`
 - [Cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 5 lines of code as a knowledge & memory MCP server in local Python environments. ([Read more](/details/cognee.md)) `Local` `Python`
 - [MCP Obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - Connects AI assistant to personal Obsidian notebooks for knowledge & memory in local Python environments. ([Read more](/details/mcp-obsidian.md)) `Local` `Python`
 

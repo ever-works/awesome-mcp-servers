@@ -177,7 +177,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [File Systems (14)](#file-systems)
 - [Finance & Blockchain MCP Servers (3)](#finance--blockchain-mcp-servers)
 - [Finance & Fintech (19)](#finance--fintech)
-- [Finance & Market Data Mcp Servers (141)](#finance--market-data-mcp-servers)
+- [Finance & Market Data Mcp Servers (142)](#finance--market-data-mcp-servers)
 - [Finance & Market Data MCP Servers (8)](#finance--market-data-mcp-servers-1)
 - [Finance Market Data Mcp Servers (2)](#finance-market-data-mcp-servers)
 - [Finance Market Data MCP Servers (25)](#finance-market-data-mcp-servers-1)
@@ -3733,6 +3733,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Crypto Sentiment MCP](https://github.com/kukapay/crypto-sentiment-mcp) - An MCP server that delivers cryptocurrency sentiment analysis to AI agents. ([Read more](/details/crypto-sentiment-mcp.md)) `Sentiment Analysis` `Crypto` `Ai Agents`
 - [Crypto Trader MCP Claude Desktop](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop) - An MCP tool that provides cryptocurrency market data using the CoinGecko API specifically designed for Claude Desktop. ([Read more](/details/crypto-trader-mcp-claude-desktop.md)) `Cryptocurrency` `Coingecko` `Claude Desktop`
 - [CryptoPanic MCP](https://github.com/kukapay/cryptopanic-mcp-server) - Provides latest cryptocurrency news to AI agents through the CryptoPanic API. ([Read more](/details/cryptopanic-mcp.md)) `Crypto News` `Cryptopanic` `News`
+- [Sharpe MCP Server](https://www.sharpe.ai/docs/mcp-server) - MCP server for crypto market intelligence across funding rates, derivatives, arbitrage, narratives, exchange listings, and news. ([Read more](/details/sharpe-mcp-server.md)) `Crypto` `Market Data` `Trading Intelligence`
 - [DexPaprika MCP](https://github.com/coinpaprika/dexpaprika-mcp) - DexPaprika MCP server allows LLMs to access real-time and historical data on tokens DEX trading activity and liquidity across multiple blockchains enabling natural language queries. ([Read more](/details/dexpaprika-mcp.md)) `Defi` `DEX` `Analytics`
 - [Empyrical MCP Knowledge Base](https://github.com/0xluluv587/empyrical-mcp-knowledge-base) - MCP knowledge base - Financial risk and performance indicator calculation tool based on quantopian/empyrical. ([Read more](/details/empyrical-mcp-knowledge-base.md)) `Quantitative` `Risk` `Performance`
 - [EVM MCP Tools](https://github.com/0xGval/evm-mcp-tools) - Ethereum Tools for Claude - A comprehensive blockchain analysis toolkit enabling Claude AI to audit smart contracts analyze wallets track profitability and fetch on-chain data. ([Read more](/details/evm-mcp-tools.md)) `Ethereum` `Blockchain Analysis` `Smart Contracts`

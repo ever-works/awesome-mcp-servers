@@ -714,6 +714,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Vite/Nuxt MCP Server](https://github.com/antfu/mcp-vite-nuxt) - MCP server that helps AI models understand Vite and Nuxt apps better, providing project context and framework-specific information for improved code assistance. ([Read more](/details/vitenuxt-mcp-server.md)) `Vite` `Nuxt` `Framework Context`
 - [VSCode Semantic MCP Server](https://github.com/biegehydra/MCPSemanticSearch) - VSCode Extension with an MCP server that exposes semantic tools like Find Usages and Rename to LLMs. Bridges IDE capabilities with AI assistants through the Model Context Protocol for enhanced code navigation. ([Read more](/details/vscode-semantic-mcp-server.md)) `VSCode` `Semantic` `Code Navigation`
 - [Windows CLI MCP](https://github.com/SimonB97/win-cli-mcp-server) - Model Context Protocol server for secure command-line interactions on Windows systems, enabling AI assistants to execute Windows commands safely with proper access controls. ([Read more](/details/windows-cli-mcp.md)) `Windows` `Cli` `Secure`
+- [rewindex](https://rewindex.org) ([GitHub](https://github.com/crsxmd/rewindex)) - Reduces the risk of AI agents breaking your code. Auto-snapshots every file change locally. Rewind sessions, audit code, and inspect diffs from your AI chat or the built-in dashboard. Free, safe, and no coding required. ([Read more](/details/rewindex.md)) `Snapshots` `Version Control` `Developer Tools`
 
 ## Api Integration Mcp Servers
 

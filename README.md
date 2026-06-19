@@ -215,7 +215,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Knowledge Management Memory (1)](#knowledge-management-memory-1)
 - [Knowledge Mcp Servers (4)](#knowledge-mcp-servers)
 - [Location Services (30)](#location-services)
-- [Marketing (28)](#marketing)
+- [Marketing (29)](#marketing)
 - [Marketing & Sales MCP Servers (3)](#marketing--sales-mcp-servers)
 - [MCP DevTools (5)](#mcp-devtools)
 - [MCP Middleware & Orchestration (30)](#mcp-middleware--orchestration-1)
@@ -4332,6 +4332,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [mailchimp-mcp-server](https://github.com/damientilman/mailchimp-mcp-server) - Mailchimp Marketing API with 53 tools for campaigns, audiences, reports, automations, landing pages. ([Read more](/details/mailchimp-mcp-server.md)) `Email Marketing` `Python` `Cloud`
 - [mcp-metricool](https://github.com/metricool/mcp-metricool) - Facilitates AI-driven analysis and scheduling of social media metrics and campaigns via the Metricool API. ([Read more](/details/metricool-mcp-metricool.md)) `Open Source` `Social Media` `Analytics`
 - [Meta Ads MCP](https://github.com/pipeboard/meta-ads-mcp) - Community-built open-source MCP servers for Meta Ads API (Facebook, Instagram), enabling read-write campaign management including creation, modification, pausing, and creative analysis. ([Read more](/details/meta-ads-mcp.md)) `Read Write` `Open Source` `Ad Platform`
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Covers site analysis, keyword research, meta tags, schema markup, wasted-spend detection, ROAS analysis, and creative fatigue. ([Read more](/details/notfair-skills.md)) `Open Source` `Claude Code` `Seo` `Google Ads` `Meta Ads`
 - [Pinterest Ads MCP](https://twominutereports.com/integrations/pinterest-ads-mcp) - Connects Pinterest Ads to Claude or ChatGPT via Two Minute Reports MCP to get insights into Pin clicks, outbound clicks, engagement rate and conversions. ([Read more](/details/pinterest-ads-mcp.md)) `Ads` `Pinterest` `Analytics`
 - [producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) - Connects Product Hunt's API to any LLM or agent using the Model Context Protocol for seamless data integration and automation. ([Read more](/details/jaipandya-producthunt-mcp-server.md)) `Open Source` `Product Hunt` `Api`
 - [robotstxt-ai](https://github.com/sharozdawa/robotstxt-ai) - Visual robots.txt manager for AI crawlers. Supports toggle controls for 20+ bots including GPTBot, ClaudeBot, and PerplexityBot to control AI scraping. ([Read more](/details/robotstxt-ai.md)) `Seo` `Ai Crawler` `Open Source`

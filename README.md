@@ -337,6 +337,7 @@ Marketing and analytics tools.
 - Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server
 - Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server
 - ProposalCraft — https://github.com/jabbawocky/proposalcraft
+- StandupCraft — https://github.com/jabbawocky/standupcraft
 
 ---
 

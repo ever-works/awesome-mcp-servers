@@ -1537,6 +1537,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [OpenTools](https://opentools.ai) - OpenTools MCP enables AI agents to access 100+ APIs via natural language. It features tool discovery and caching for efficient agentic workflows, serving as an alternative to Composio. ([Read more](/details/opentools.md)) `Ai Agents` `Tool Calling` `Open Source`
 - [Perplexity MCP Server](https://github.com/tanigami/mcp-server-perplexity) - Perplexity MCP Server bridges Claude clients to Perplexity’s search engine, empowering AI agents with real-time web search and orchestration for complex queries. ([Read more](/details/perplexity-mcp-server.md)) `Ai Agents` `Search` `Real Time`
 
+- [EGC](https://github.com/Fmarzochi/EGC) - Persistent cross-session memory MCP server for 13+ AI coding tools. SQLite-backed state survives context resets and keeps Claude Code, Cursor, Gemini CLI, Codex, and more in sync. ([Read more](/details/egc.md)) `Memory` `Persistent` `Cross-Agent` `Context`
+
 ## Automation
 
 - [apify-actors-mcp-server](https://github.com/apify/actors-mcp-server) - Official MCP server for Apify's Actors platform, enabling AI assistants to run and manage thousands of pre-built web scraping and automation Actors through the Model Context Protocol. ([Read more](/details/apify-actors-mcp-server.md)) `Web Scraping` `Apify` `Automation`
@@ -3729,7 +3731,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Crypto Brokers MCP Server](https://github.com/itay1542/crypto-brokers-mcp) - An MCP server that implements popular brokers' APIs and more. Enables AI assistants to interact with cryptocurrency brokerage platforms for trading, portfolio management, and market analysis through the Model Context Protocol. ([Read more](/details/crypto-brokers-mcp-server.md)) `Cryptocurrency` `Trading` `Broker Api`
 - [Crypto Fear and Greed MCP](https://github.com/kukapay/crypto-feargreed-mcp) - Providing real-time and historical Crypto Fear and Greed Index data to AI agents. ([Read more](/details/crypto-fear-and-greed-mcp.md)) `Sentiment` `Fear Greed` `Index`
 - [Crypto MCP](https://github.com/szcharlesji/crypto-mcp) - Real-time access to cryptocurrency data from the CoinMarketCap API. ([Read more](/details/crypto-mcp.md)) `Cryptocurrency` `Coinmarketcap` `Real Time`
-- [Crypto MCP (kiss-kedaya)](https://github.com/kiss-kedaya/crypto_mcp) - ��MCP�h (Crypto MCP server) for cryptocurrency data access and blockchain interaction. ([Read more](/details/crypto-mcp-kiss-kedaya.md)) `Cryptocurrency` `Blockchain` `Chinese`
+- [Crypto MCP (kiss-kedaya)](https://github.com/kiss-kedaya/crypto_mcp) - ��MCP
+�h (Crypto MCP server) for cryptocurrency data access and blockchain interaction. ([Read more](/details/crypto-mcp-kiss-kedaya.md)) `Cryptocurrency` `Blockchain` `Chinese`
 - [Crypto Sentiment MCP](https://github.com/kukapay/crypto-sentiment-mcp) - An MCP server that delivers cryptocurrency sentiment analysis to AI agents. ([Read more](/details/crypto-sentiment-mcp.md)) `Sentiment Analysis` `Crypto` `Ai Agents`
 - [Crypto Trader MCP Claude Desktop](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop) - An MCP tool that provides cryptocurrency market data using the CoinGecko API specifically designed for Claude Desktop. ([Read more](/details/crypto-trader-mcp-claude-desktop.md)) `Cryptocurrency` `Coingecko` `Claude Desktop`
 - [CryptoPanic MCP](https://github.com/kukapay/cryptopanic-mcp-server) - Provides latest cryptocurrency news to AI agents through the CryptoPanic API. ([Read more](/details/cryptopanic-mcp.md)) `Crypto News` `Cryptopanic` `News`

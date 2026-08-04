@@ -159,7 +159,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Development Tools MCP Servers (7)](#development-tools-mcp-servers-2)
 - [DevOps & CI/CD MCP Servers (4)](#devops--cicd-mcp-servers)
 - [DevOps & Cloud MCP Servers (1)](#devops--cloud-mcp-servers)
-- [Document Management Mcp Servers (13)](#document-management-mcp-servers)
+- [Document Management Mcp Servers (14)](#document-management-mcp-servers)
 - [Document Management MCP Servers (10)](#document-management-mcp-servers-1)
 - [Document Management MCP Servers (2)](#document-management-mcp-servers-2)
 - [Documentation (1)](#documentation)
@@ -3506,6 +3506,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Basic Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/basic-memory) - Local-first knowledge management system that builds a semantic graph from Markdown files, enabling persistent memory across conversations with LLMs. ([Read more](/details/basic-memory.md)) `Knowledge Management` `Local First` `Semantic Graph`
 - [BoldSign](https://github.com/modelcontextprotocol/servers/tree/main/src/boldsign) - Search, request, and manage e-signature contracts effortlessly with BoldSign. This MCP server enables AI agents to handle document signing workflows and contract management. ([Read more](/details/boldsign.md)) `E Signature` `Contracts` `Document Management`
 - [CLDGeminiPDF Analyzer](https://github.com/modelcontextprotocol/servers/tree/main/src/cld-gemini-pdf-analyzer) - MCP server tool enabling sharing large PDF files to Google LLMs via API for further/additional analysis and response retrieval to Claude Desktop. ([Read more](/details/cldgeminipdf-analyzer.md)) `Pdf` `Gemini` `Document Analysis`
+- [DottedSign](https://github.com/DottedSign-Official/dottedsign-mcp) - MCP server for DottedSign eSignature, letting AI assistants create signing tasks from templates, send documents for signature, and track signing status through natural language. ([Read more](/details/dottedsign.md)) `E Signature` `Contracts` `Document Management`
 - [Evernote Notes MCP Server](https://github.com/brentmid/evernote-mcp-server) - Local MCP server connecting Claude Desktop and MCP-compatible LLMs with Evernote accounts, enabling contextual queries and searches over notes using natural language with secure local access. ([Read more](/details/evernote-notes-mcp-server.md)) `Evernote` `Notes` `Search`
 - [Kiteworks](https://www.kiteworks.com) - Official MCP server for interacting with the Kiteworks Private Data Network (PDN) platform, enabling secure enterprise file sharing and document management. ([Read more](/details/kiteworks.md)) `Enterprise` `Data Security` `File Sharing`
 - [Klavis ReportGen](https://klavis.ai) - MCP server for creating professional reports from simple user queries, enabling AI agents to generate structured reports automatically. ([Read more](/details/klavis-reportgen.md)) `Reporting` `Professional Reports` `Automation`

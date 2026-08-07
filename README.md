@@ -67,7 +67,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Search & Discovery Mcp Servers (30)](#search--discovery-mcp-servers)
 - [Security Attestation Mcp Servers (30)](#security-attestation-mcp-servers)
 - [Security MCP Servers (2)](#security-mcp-servers)
-- [Social (6)](#social)
+- [Social (7)](#social)
 - [Testing (1)](#testing)
 - [Travel & Transportation (26)](#travel--transportation)
 - [Version Control (23)](#version-control)
@@ -1914,6 +1914,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Postiz MCP Server](https://postiz.com) - Open-source social media scheduling tool with MCP server support, enabling self-hosted content management across multiple platforms. Features AI-powered content generation, team collaboration tools, calendar content planning views, and an analytics dashboard for multi-platform social media management. ([Read more](/details/postiz-mcp-server.md)) `Open Source` `Self Hosted` `Multi Platform`
 - [TikTok MCP](https://github.com/Seym0n/tiktok-mcp) - MCP server for interacting with TikTok videos. ([Read more](/details/tiktok-mcp.md)) `Tiktok` `Videos` `Social Media`
 - [Xpoz MCP](https://www.xpoz.ai) - MCP server providing comprehensive access to social media data across Twitter/X, Instagram, TikTok, and Reddit through a single integration with over 1.5 billion indexed posts. Enables natural language queries for social media intelligence without API keys or coding. ([Read more](/details/xpoz-mcp.md)) `Social Media` `Natural Language` `Multi Platform`
+- [Autoposting MCP Server](https://github.com/Autoposting-ai/autoposting-mcp) - Hosted MCP server for social media publishing. Draft and rewrite posts, generate ideas with AI agents, build carousels, clip and render video, search a knowledge base, manage brands and webhooks, and schedule or publish to X, LinkedIn, Instagram, Threads and YouTube. Streamable HTTP with OAuth 2.1 Dynamic Client Registration, nothing to install locally. ([Read more](/details/autoposting-mcp-server.md)) `Social Media` `Scheduling` `Multi Platform`
 
 ## Testing
 

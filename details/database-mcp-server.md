@@ -1,6 +1,6 @@
 # Database MCP Server
 
-**Category:** Databases & Storage MCP Servers  
+**Category:** Databases & Storage MCP Servers
 **Tags:** database, mcp-server, SQL, PostgreSQL
 
 ## Description

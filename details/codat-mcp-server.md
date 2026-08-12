@@ -1,7 +1,7 @@
 # Codat MCP Server
 
-**Category:** Finance & Blockchain MCP Servers · MCP Servers  
-**Brand:** Codat  
+**Category:** Finance & Blockchain MCP Servers · MCP Servers
+**Brand:** Codat
 **Slug:** `codat-mcp-server`
 
 ## Overview

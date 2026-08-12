@@ -3152,6 +3152,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Datagov Mcp](https://github.com/aviveldan/datagov-mcp) - An MCP server for accessing Israeli Government Data from Data.gov.il, allowing structured data retrieval and interaction via the MCP protocol. It is a direct example of a domain-specific Awesome MCP Server. ([Read more](/details/datagov-mcp.md)) `Mcp` `Open Data` `Government` `Data Access`
 - [dbt-mcp](https://github.com/dbt-labs/dbt-mcp) - The official MCP server for dbt (data build tool), providing integration with dbt Core/Cloud, metadata discovery, model info, and semantic layer querying. ([Read more](/details/dbt-mcp.md)) `Mcp` `Dbt` `Data Integration` `Metadata` `Data Analysis`
 - [deepresearchmcp](https://github.com/ameeralns/deepresearchmcp) - A research-focused MCP server that conducts intelligent, iterative research through web searches, analysis, and comprehensive report generation, offering citation-rich research automation. ([Read more](/details/deepresearchmcp.md)) `Mcp` `Research` `Web Search` `Automation`
+- [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter MCP server for tweet search, user lookup, follower exports, write actions, giveaway draws, account monitoring, HMAC webhooks, and trending topics. Streamable HTTP transport with API key auth. ([Read more](/details/xquik-mcp-server.md)) `Twitter` `Social Media` `Data Extraction` `Api Integration`
 
 ## Data Access Integration MCP Servers
 

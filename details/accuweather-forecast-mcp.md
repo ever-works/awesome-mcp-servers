@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/TimLukaHorstmann/mcp-weather/assets/logo.png)
 
-AccuWeather Forecast MCP server acts as a gateway for LLMs to query weather data. 
+AccuWeather Forecast MCP server acts as a gateway for LLMs to query weather data.
 
 ## Features
 

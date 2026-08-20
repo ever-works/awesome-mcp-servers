@@ -4315,6 +4315,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Marketing
 
+- [AdMapix](https://www.admapix.com/) - MCP server for searching competitor ad creatives by keyword, country, date, and creative type. ([Read more](/details/admapix.md)) `Advertising` `Research` `Python`
 - [ai-visibility](https://github.com/sharozdawa/ai-visibility) - Tracks brand visibility across ChatGPT, Perplexity, Claude, and Gemini. Offers visibility scores, sentiment analysis, and competitor detection for marketing insights. ([Read more](/details/ai-visibility.md)) `Open Source` `Ai` `Sentiment`
 - [ai-visibility](https://github.com/sharozdawa/ai-visibility) - Track brand visibility across ChatGPT, Perplexity, Claude, and Gemini with visibility scores, sentiment analysis, and competitor detection. MCP server for AI-driven brand monitoring. ([Read more](/details/sharozdawa-ai-visibility.md)) `Open Source` `Ai` `Sentiment Analysis`
 - [apollo-io-mcp](https://github.com/louis030195/apollo-io-mcp) - B2B sales intelligence with Apollo.io: prospect search, contact enrichment, company discovery from 275M+ contacts. ([Read more](/details/apollo-io-mcp.md)) `Sales` `B2b` `Multi Platform`

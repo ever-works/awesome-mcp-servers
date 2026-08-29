@@ -1,0 +1,3 @@
+## Overview
+
+[Wine Labs MCP](https://winelabs.ai/agents) connects AI clients to fine-wine market intelligence for canonical wine and LWIN matching, current and historical pricing, auction lots and results, exchange order books and trades, merchant comparisons, critic and venue context, portfolios, and cellar-file workflows. It is a hosted Streamable HTTP server at `https://chat.wine-labs.com/mcp` and uses browser OAuth with an existing Wine Labs account; available operations follow the account and plan. Public connection metadata and setup instructions are available on [GitHub](https://github.com/imiraoui/winelabs-mcp).

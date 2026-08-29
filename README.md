@@ -3693,6 +3693,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [openapi](https://github.com/longbridge/openapi) - LongPort OpenAPI provides real-time stock market data, provides AI access analysis and trading capabilities through MCP. Enables AI agents to access financial market data and execute trades. Licensed under Apache-2. ([Read more](/details/openapi.md)) `Open Source` `Stock Market` `Trading`
 - [QuantConnect MCP Server](https://github.com/QuantConnect/mcp-server) - Dockerized Python MCP server bridging local AI with QuantConnect for algorithmic trading. ([Read more](/details/quantconnect-mcp-server.md)) `Open Source` `Trading` `Docker`
 - [Xero MCP Server](https://github.com/XeroAPI/xero-mcp-server) - MCP server integrating with Xero's API for accounting and business data access. ([Read more](/details/xero-mcp-server.md)) `Open Source` `Accounting` `Xero`
+- [Wine Labs MCP](https://winelabs.ai/agents) - Hosted fine-wine market intelligence for identity matching, pricing, auctions, exchange data, merchant comparisons, portfolios, and cellar workflows. ([Read more](/details/wine-labs-mcp.md); [public metadata](https://github.com/imiraoui/winelabs-mcp)) `Wine` `Market Data` `Remote` `OAuth`
 - [YFinance MCP](https://github.com/narumiruna/yfinance-mcp) - MCP server using yfinance for Yahoo Finance information. ([Read more](/details/yfinance-mcp.md)) `Open Source` `Yahoo Finance` `Stocks`
 
 ## Finance & Market Data Mcp Servers

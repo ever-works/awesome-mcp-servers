@@ -207,7 +207,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Knowledge & Note Taking MCP Servers (2)](#knowledge--note-taking-mcp-servers-1)
 - [Knowledge Management (1)](#knowledge-management)
 - [Knowledge Management & Documentation MCP Servers (7)](#knowledge-management--documentation-mcp-servers)
-- [Knowledge Management & Memory (64)](#knowledge-management--memory)
+- [Knowledge Management & Memory (65)](#knowledge-management--memory)
 - [Knowledge Management Mcp Servers (7)](#knowledge-management-mcp-servers)
 - [Knowledge Management Mcp Servers (1)](#knowledge-management-mcp-servers-1)
 - [Knowledge Management MCP Servers (3)](#knowledge-management-mcp-servers-2)
@@ -4180,6 +4180,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Knowledge Management & Memory
 
+- [AccInt](https://github.com/maxbaluev/accreted-intelligence) - Local-first MCP Work Model for coding agents that learns from real outcomes, retrieving scored memory, recording commitments and actions, and crediting results after tests, owner approval, or replies. ([Read more](/details/accint.md)) `Local First` `Agent Memory` `Work Model` `Coding Agents`
 - [acheron-mcp-server](https://github.com/timmx7/acheron-mcp-server) - Cross-surface persistent memory for Claude, bridging context between Claude Chat, Code, and Cowork using local SQLite with full-text search. Allows saving and retrieving decisions, preferences, and insights across surfaces. ([Read more](/details/acheron-mcp-server.md)) `Persistent Memory` `Local` `Claude`
 - [agentkits-memory](https://github.com/aitytech/agentkits-memory) - Persistent memory for AI coding assistants with hybrid search (FTS5 + vector embeddings), session tracking, automatic context hooks, and web viewer. SQLite-based, daemonless, works with Claude Code, Cursor, Windsurf. ([Read more](/details/agentkits-memory.md)) `Persistent Memory` `Hybrid Search` `Local`
 - [AgentModule mcp](https://github.com/AgentModule/mcp) - Agent-native knowledge infrastructure with deterministic, vertical-specific knowledge bases for autonomous agent consumption via MCP. Includes ethics module mapped to EU AI Act with 22 modules. Free 24hr ethics trial with every membership. ([Read more](/details/agentmodule-mcp.md)) `Knowledge Base` `Ethics` `Cloud`

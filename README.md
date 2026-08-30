@@ -2336,6 +2336,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Blockchain & Crypto Mcp Servers
 
+- [x402engine-mcp](https://github.com/agentc22/x402engine-mcp) - Connects agents to 108 x402 pay-per-call APIs: 72 LLMs plus image/video, web, code, crypto, audio, travel, and IPFS. Pay with USDC on Base or Solana, or USDm on MegaETH. `X402` `Mcp` `Ai Agents`
 - [Alby Bitcoin Payments](https://github.com/modelcontextprotocol/servers/tree/main/src/alby-bitcoin-payments) - Connect any bitcoin lightning wallet to your agent to send and receive instant payments globally with your agent. This MCP server enables cryptocurrency transaction capabilities for AI agents. ([Read more](/details/alby-bitcoin-payments.md)) `Bitcoin` `Lightning Network` `Payments`
 - [Bankless Onchain](https://github.com/modelcontextprotocol/servers/tree/main/src/bankless-onchain) - Query onchain data including ERC20 tokens, transaction history, and smart contract state. Enables AI agents to analyze blockchain data and onchain activity. ([Read more](/details/bankless-onchain.md)) `Blockchain` `Erc20` `Onchain Data`
 - [Base Free USDC Transfer](https://github.com/modelcontextprotocol/servers/tree/main/src/base-free-usdc-transfer) - Send USDC on Base for free using Claude AI. Built with Coinbase CDP for seamless cryptocurrency transfers on the Base blockchain. ([Read more](/details/base-free-usdc-transfer.md)) `Base` `Usdc` `Cbdc`

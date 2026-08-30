@@ -207,7 +207,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Knowledge & Note Taking MCP Servers (2)](#knowledge--note-taking-mcp-servers-1)
 - [Knowledge Management (1)](#knowledge-management)
 - [Knowledge Management & Documentation MCP Servers (7)](#knowledge-management--documentation-mcp-servers)
-- [Knowledge Management & Memory (64)](#knowledge-management--memory)
+- [Knowledge Management & Memory (65)](#knowledge-management--memory)
 - [Knowledge Management Mcp Servers (7)](#knowledge-management-mcp-servers)
 - [Knowledge Management Mcp Servers (1)](#knowledge-management-mcp-servers-1)
 - [Knowledge Management MCP Servers (3)](#knowledge-management-mcp-servers-2)
@@ -4242,6 +4242,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [The Pensieve](https://github.com/seanivore/the-pensieve) - An MCP server for organizing and examining thoughts and conversations, making it easier to spot patterns and links in AI dialogue through structured memory. ([Read more](/details/the-pensieve.md)) `Thought Organization` `Conversation Memory` `Pattern Detection`
 - [txtai Assistant MCP](https://github.com/rmtech1/txtai-assistant-mcp) - MCP server implementation for semantic vector search and memory management using TxtAI, providing robust API for storing, retrieving, and managing text-based memories with semantic vector database search. ([Read more](/details/txtai-assistant-mcp.md)) `Vector Search` `Semantic Memory` `Txtai`
 - [Unconventional Thinking MCP](https://github.com/stagsz/Unconventional-thinking) - An MCP server for unconventional and boundary-breaking problem-solving through an advanced note-taking system. ([Read more](/details/unconventional-thinking-mcp.md)) `Problem Solving` `Creative` `Note Taking`
+- [Vestige](https://github.com/samvallad33/vestige) - Local-first memory MCP server for AI coding agents, written in Rust over SQLite. Uses FSRS-6 retention, prediction-error gating, active forgetting, spreading activation, and hybrid retrieval, with provenance and correction tools and a 3D dashboard. Works with Claude Code, Cursor, VS Code, Codex, Windsurf, and JetBrains. ([Read more](/details/vestige.md)) `Persistent Memory` `Local` `Hybrid Search`
 - [Wikimedia MCP Server](https://github.com/punkpeye/wikimedia) - An MCP server for interacting with Wikimedia APIs, providing access to Wikipedia and other Wikimedia project content programmatically for AI assistants. ([Read more](/details/wikimedia-mcp-server.md)) `Wikimedia` `Wikipedia` `Content Retrieval`
 - [Zotero MCP](https://github.com/kujenga/zotero-mcp) - Model Context Protocol server for the Zotero API in Python, enabling AI assistants to search, read, and manage academic references and bibliographies stored in Zotero. ([Read more](/details/zotero-mcp.md)) `Zotero` `Academic` `Reference Management`
 

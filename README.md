@@ -1194,6 +1194,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Kaltura](https://corp.kaltura.com) - MCP server for managing Kaltura Event Platform, providing tools for creating, managing, and interacting with Kaltura virtual events. ([Read more](/details/kaltura.md)) `Video Platform` `Virtual Events` `Event Management`
 - [MCP Media Processor](https://github.com/maoxiaoke/mcp-media-processor) - Comprehensive Node.js MCP server for media processing operations, providing powerful video and image manipulation with FFmpeg and ImageMagick integration for compression and conversion. ([Read more](/details/mcp-media-processor.md)) `Video` `Image Processing` `Ffmpeg`
 - [Orshot](https://orshot.com) - Official Orshot MCP server for dynamically generating images from custom design templates, enabling AI-driven image creation workflows. ([Read more](/details/orshot.md)) `Image Generation` `Templates` `Design`
+- [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) - Render 4-6s animated b-roll overlay videos for short-form social (LinkedIn, IG Reels, YouTube Shorts, TikTok) and landscape video. Paste a script, AI writes the scene spec and renders the mp4. Free, MIT, runs locally. `Video` `B-Roll` `Short Form`
 
 ## Repository & Code Analysis Mcp Servers
 

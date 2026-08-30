@@ -1646,6 +1646,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [script-mcp](https://github.com/nguyenvanduocit/script-mcp) - MCP server for running scripts, enabling LLMs to execute various script types through the Model Context Protocol. ([Read more](/details/script-mcp.md)) `Scripting` `Automation` `Code Execution`
 - [Secure Shell MCP Server](https://github.com/blazickjp/secure-shell-mcp) - Secure shell command execution MCP server for Claude AI that enables controlled shell access within specified directories, providing safe command execution capabilities. ([Read more](/details/secure-shell-mcp-server.md)) `Shell` `Security` `Command Execution`
 - [Yepcode MCP Server JS](https://github.com/yepcode/mcp-server-js) - Execute LLM-generated code in secure scalable sandbox; create MCP tools with JavaScript or Python supporting NPM and PyPI packages. ([Read more](/details/yepcode-mcp-server-js.md)) `Javascript` `Python` `Sandbox` `Cloud` `Open Source`
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) - Local-first MCP bridge for governed agent sessions, approvals, credential management, audit/replay, and sandboxed execution through local, Docker, Kubernetes, or self-hosted worker backends. ([Read more](/details/sandbase-harness.md)) `Mcp` `Sandbox` `Code Execution` `Audit` `Open Source`
 
 ## Content Management
 

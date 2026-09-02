@@ -43,7 +43,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Documentation & Learning Resources (17)](#documentation--learning-resources)
 - [Search & Discovery Mcp Servers (31)](#search--discovery-mcp-servers)
 - [Security Attestation Mcp Servers (30)](#security-attestation-mcp-servers)
-- [Social (5)](#social)
+- [Social (6)](#social)
 - [Travel & Transportation (32)](#travel--transportation)
 - [Version Control (13)](#version-control)
 - [AI Integration Mcp Servers (68)](#ai-integration-mcp-servers-1)
@@ -1661,6 +1661,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [MCP Warpcast Server](https://github.com/zhangzhongnan928/mcp-warpcast-server) - MCP Server for Warpcast integration, enabling AI assistants to interact with the Farcaster social protocol for posting, reading, and managing decentralized social content. ([Read more](/details/mcp-warpcast-server.md)) `Farcaster` `Decentralized Social` `Warpcast`
 - [Oktopost MCP Server](https://www.oktopost.com) - B2B social media management platform with MCP integration, designed for marketing teams to align social media with lead generation. Features employee advocacy workflows, social listening, lead attribution from social posts, and CRM integration across Twitter/X, LinkedIn, and Facebook. ([Read more](/details/oktopost-mcp-server.md)) `B2b` `Enterprise` `Crm Integration`
 - [Postiz MCP Server](https://postiz.com) - Open-source social media scheduling tool with MCP server support, enabling self-hosted content management across multiple platforms. Features AI-powered content generation, team collaboration tools, calendar content planning views, and an analytics dashboard for multi-platform social media management. ([Read more](/details/postiz-mcp-server.md)) `Open Source` `Self Hosted` `Multi Platform`
+- [BulkPublish MCP Server](https://github.com/azeemkafridi/bulkpublish-api) - AI-agent API and MCP server for adapting, scheduling, publishing, and analyzing social media content across platforms. ([Read more](/details/bulkpublish-mcp-server.md)) `Social Media` `Scheduling` `Multi Platform`
 - [Xpoz MCP](https://www.xpoz.ai) - MCP server providing comprehensive access to social media data across Twitter/X, Instagram, TikTok, and Reddit through a single integration with over 1.5 billion indexed posts. Enables natural language queries for social media intelligence without API keys or coding. ([Read more](/details/xpoz-mcp.md)) `Social Media` `Natural Language` `Multi Platform`
 
 ## Travel & Transportation

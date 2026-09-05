@@ -42,7 +42,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Mcp Server Directories & Lists (2)](#mcp-server-directories--lists)
 - [Reference Implementations & Examples (55)](#reference-implementations--examples)
 - [Server Management Tools (9)](#server-management-tools)
-- [Testing & Debugging Tools (21)](#testing--debugging-tools)
+- [Testing & Debugging Tools (22)](#testing--debugging-tools)
 - [AI & LLM MCP Servers (12)](#ai--llm-mcp-servers)
 - [AI Agents & Orchestration MCP Servers (21)](#ai-agents--orchestration-mcp-servers)
 - [Automation (6)](#automation)
@@ -1476,6 +1476,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Testing & Debugging Tools
 
+- [Agent QA MCP Server](https://github.com/vostride/agent-qa) - Source-available MCP server for authoring, queuing, and inspecting natural-language web, Android, and iOS application tests. ([Read more](/details/agent-qa-mcp-server.md)) `Testing` `Mobile Testing` `Natural Language`
 - [Angie Jones Selenium MCP](https://github.com/angiejones/mcp-selenium) - Official Selenium MCP server enabling browser automation through Model Context Protocol for Selenium WebDriver, bringing industry-standard test automation to AI-powered workflows. ([Read more](/details/angie-jones-selenium-mcp.md)) `Selenium` `Webdriver` `Automation`
 - [Execute Automation Playwright MCP Server](https://github.com/executeautomation/mcp-playwright) - Comprehensive Playwright Model Context Protocol server with automatic browser installation, 143 device emulations including iPhone, iPad, Pixel, Galaxy, and desktop browsers for AI-powered browser automation and testing. ([Read more](/details/execute-automation-playwright-mcp-server.md)) `Testing` `Browser Automation` `Playwright`
 - [API Lab MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/api-lab-mcp) - Transform Claude into an AI-powered API testing laboratory. Test, debug, and document APIs through natural conversation with authentication support, response validation, and performance metrics. ([Read more](/details/api-lab-mcp.md)) `Api Testing` `Debugging` `Documentation`

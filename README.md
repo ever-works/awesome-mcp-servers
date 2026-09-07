@@ -1194,6 +1194,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Kaltura](https://corp.kaltura.com) - MCP server for managing Kaltura Event Platform, providing tools for creating, managing, and interacting with Kaltura virtual events. ([Read more](/details/kaltura.md)) `Video Platform` `Virtual Events` `Event Management`
 - [MCP Media Processor](https://github.com/maoxiaoke/mcp-media-processor) - Comprehensive Node.js MCP server for media processing operations, providing powerful video and image manipulation with FFmpeg and ImageMagick integration for compression and conversion. ([Read more](/details/mcp-media-processor.md)) `Video` `Image Processing` `Ffmpeg`
 - [Orshot](https://orshot.com) - Official Orshot MCP server for dynamically generating images from custom design templates, enabling AI-driven image creation workflows. ([Read more](/details/orshot.md)) `Image Generation` `Templates` `Design`
+- [RunComfy MCP](https://www.runcomfy.com) - Official remote MCP server for RunComfy. 31 tools covering ComfyUI serverless deployments, hosted model inference, and LoRA training jobs. GitHub: https://github.com/runcomfy-com/runcomfy-mcp. Remote endpoint at https://mcp.runcomfy.com/mcp. `Image Generation` `Video Generation` `Comfyui`
 
 ## Repository & Code Analysis Mcp Servers
 

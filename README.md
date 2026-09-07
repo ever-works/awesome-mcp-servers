@@ -97,7 +97,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Blockchain Crypto Mcp Servers (6)](#blockchain-crypto-mcp-servers-1)
 - [Blockchain Crypto MCP Servers (7)](#blockchain-crypto-mcp-servers-2)
 - [Browser Automation (26)](#browser-automation)
-- [Business & Commerce MCP Servers (2)](#business--commerce-mcp-servers-1)
+- [Business & Commerce MCP Servers (3)](#business--commerce-mcp-servers-1)
 - [Business & Productivity (10)](#business--productivity)
 - [Business Commerce MCP Servers (228)](#business-commerce-mcp-servers)
 - [Business Commerce MCP Servers (6)](#business-commerce-mcp-servers-1)
@@ -2447,6 +2447,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 ## Business & Commerce MCP Servers
 
 - [@frihet/mcp-server](https://github.com/frihet/mcp-server) - AI-native business management — invoices, expenses, clients, products, and quotes. 31 tools for Claude, Cursor, Windsurf, and Cline. ([Read more](/details/frihetmcp-server.md)) `Business` `Invoicing` `Ai Native`
+- [CardDeals MCP Server](https://github.com/cello305/carddeals-mcp) - Search and compare real-time U.S. digital gift card discounts and deal stacking hacks across 700+ brands. ([Read more](/details/carddeals-mcp-server.md)) `E-Commerce` `Discounts` `Gift Cards` `Shopping`
 - [Subscription Tracker MCP](https://github.com/nckhemanth0/subscription-tracker-mcp) - Intelligent subscription management MCP server with Gmail and MySQL integration, Python self-hosted/cloud. ([Read more](/details/subscription-tracker-mcp.md)) `Subscriptions` `Gmail` `Mysql` `Self Hosted`
 
 ## Business & Productivity

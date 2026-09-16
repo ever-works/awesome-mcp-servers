@@ -3729,7 +3729,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Crypto Brokers MCP Server](https://github.com/itay1542/crypto-brokers-mcp) - An MCP server that implements popular brokers' APIs and more. Enables AI assistants to interact with cryptocurrency brokerage platforms for trading, portfolio management, and market analysis through the Model Context Protocol. ([Read more](/details/crypto-brokers-mcp-server.md)) `Cryptocurrency` `Trading` `Broker Api`
 - [Crypto Fear and Greed MCP](https://github.com/kukapay/crypto-feargreed-mcp) - Providing real-time and historical Crypto Fear and Greed Index data to AI agents. ([Read more](/details/crypto-fear-and-greed-mcp.md)) `Sentiment` `Fear Greed` `Index`
 - [Crypto MCP](https://github.com/szcharlesji/crypto-mcp) - Real-time access to cryptocurrency data from the CoinMarketCap API. ([Read more](/details/crypto-mcp.md)) `Cryptocurrency` `Coinmarketcap` `Real Time`
-- [Crypto MCP (kiss-kedaya)](https://github.com/kiss-kedaya/crypto_mcp) - ��MCP�h (Crypto MCP server) for cryptocurrency data access and blockchain interaction. ([Read more](/details/crypto-mcp-kiss-kedaya.md)) `Cryptocurrency` `Blockchain` `Chinese`
+- [Crypto MCP (kiss-kedaya)](https://github.com/kiss-kedaya/crypto_mcp) - ��MCP
+�h (Crypto MCP server) for cryptocurrency data access and blockchain interaction. ([Read more](/details/crypto-mcp-kiss-kedaya.md)) `Cryptocurrency` `Blockchain` `Chinese`
 - [Crypto Sentiment MCP](https://github.com/kukapay/crypto-sentiment-mcp) - An MCP server that delivers cryptocurrency sentiment analysis to AI agents. ([Read more](/details/crypto-sentiment-mcp.md)) `Sentiment Analysis` `Crypto` `Ai Agents`
 - [Crypto Trader MCP Claude Desktop](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop) - An MCP tool that provides cryptocurrency market data using the CoinGecko API specifically designed for Claude Desktop. ([Read more](/details/crypto-trader-mcp-claude-desktop.md)) `Cryptocurrency` `Coingecko` `Claude Desktop`
 - [CryptoPanic MCP](https://github.com/kukapay/cryptopanic-mcp-server) - Provides latest cryptocurrency news to AI agents through the CryptoPanic API. ([Read more](/details/cryptopanic-mcp.md)) `Crypto News` `Cryptopanic` `News`
@@ -4620,6 +4621,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Klavis](https://github.com/Klavis-AI/klavis) - MCP server to extract and convert YouTube video information. ([Read more](/details/klavis.md)) `Youtube` `Video` `Open Source`
 - [vibe-check-mcp-server](https://github.com/PV-Bhat/vibe-check-mcp-server) - MCP server that prevents cascading errors and scope creep by calling a Vibe-check agent to ensure user alignment. ([Read more](/details/vibe-check-mcp-server.md)) `Open Source` `Error Prevention` `Agent`
 - [wenyan-mcp](https://github.com/caol64/wenyan-mcp) - Wenyan MCP Server for formatting Markdown articles and publishing to WeChat GZH. ([Read more](/details/wenyan-mcp.md)) `Open Source` `Wechat` `Markdown`
+- [geolint](https://github.com/iliasabk/geolint) - Open-source "ESLint for AI search": audits AI-crawler access across 51 bot tokens, llms.txt, structured data and citability — 52 rules, SARIF, GitHub Action. ([Read more](/details/geolint.md)) `Open Source` `SEO` `GEO`
 
 ## Package Management
 

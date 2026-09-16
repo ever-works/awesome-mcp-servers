@@ -276,7 +276,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Smart Home & IoT (1)](#smart-home--iot)
 - [Smart Home & IoT Mcp Servers (38)](#smart-home--iot-mcp-servers)
 - [Smart Home & IoT MCP Servers (2)](#smart-home--iot-mcp-servers-1)
-- [Social Media (1)](#social-media)
+- [Social Media (2)](#social-media)
 - [Sports & Entertainment (20)](#sports--entertainment)
 - [Sports & Entertainment Mcp Servers (4)](#sports--entertainment-mcp-servers)
 - [Sports Entertainment Mcp Servers (6)](#sports-entertainment-mcp-servers)
@@ -3729,7 +3729,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Crypto Brokers MCP Server](https://github.com/itay1542/crypto-brokers-mcp) - An MCP server that implements popular brokers' APIs and more. Enables AI assistants to interact with cryptocurrency brokerage platforms for trading, portfolio management, and market analysis through the Model Context Protocol. ([Read more](/details/crypto-brokers-mcp-server.md)) `Cryptocurrency` `Trading` `Broker Api`
 - [Crypto Fear and Greed MCP](https://github.com/kukapay/crypto-feargreed-mcp) - Providing real-time and historical Crypto Fear and Greed Index data to AI agents. ([Read more](/details/crypto-fear-and-greed-mcp.md)) `Sentiment` `Fear Greed` `Index`
 - [Crypto MCP](https://github.com/szcharlesji/crypto-mcp) - Real-time access to cryptocurrency data from the CoinMarketCap API. ([Read more](/details/crypto-mcp.md)) `Cryptocurrency` `Coinmarketcap` `Real Time`
-- [Crypto MCP (kiss-kedaya)](https://github.com/kiss-kedaya/crypto_mcp) - ��MCP�h (Crypto MCP server) for cryptocurrency data access and blockchain interaction. ([Read more](/details/crypto-mcp-kiss-kedaya.md)) `Cryptocurrency` `Blockchain` `Chinese`
+- [Crypto MCP (kiss-kedaya)](https://github.com/kiss-kedaya/crypto_mcp) - ��MCP
+�h (Crypto MCP server) for cryptocurrency data access and blockchain interaction. ([Read more](/details/crypto-mcp-kiss-kedaya.md)) `Cryptocurrency` `Blockchain` `Chinese`
 - [Crypto Sentiment MCP](https://github.com/kukapay/crypto-sentiment-mcp) - An MCP server that delivers cryptocurrency sentiment analysis to AI agents. ([Read more](/details/crypto-sentiment-mcp.md)) `Sentiment Analysis` `Crypto` `Ai Agents`
 - [Crypto Trader MCP Claude Desktop](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop) - An MCP tool that provides cryptocurrency market data using the CoinGecko API specifically designed for Claude Desktop. ([Read more](/details/crypto-trader-mcp-claude-desktop.md)) `Cryptocurrency` `Coingecko` `Claude Desktop`
 - [CryptoPanic MCP](https://github.com/kukapay/cryptopanic-mcp-server) - Provides latest cryptocurrency news to AI agents through the CryptoPanic API. ([Read more](/details/cryptopanic-mcp.md)) `Crypto News` `Cryptopanic` `News`
@@ -4984,6 +4985,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 ## Social Media
 
 - [HuiMei Social Media Automation MCP Server](https://huimei.ai) - AI-native social media automation platform publishing content to 12+ platforms (Douyin, XHS, Bilibili, etc.) with video, image, article support and account management. ([Read more](/details/huimei-social-media-automation-mcp-server.md)) `Social Automation` `Multi Platform` `Publishing`
+- [Social media studio](https://so-me.studio) - Hosted MCP server for drafting, scheduling, and publishing social posts, managing media, and reading post analytics. ([Read more](/details/social-media-studio.md)) `Social Media` `Scheduling` `Remote`
 
 ## Sports & Entertainment
 

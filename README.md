@@ -215,7 +215,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Knowledge Management Memory (1)](#knowledge-management-memory-1)
 - [Knowledge Mcp Servers (4)](#knowledge-mcp-servers)
 - [Location Services (30)](#location-services)
-- [Marketing (28)](#marketing)
+- [Marketing (29)](#marketing)
 - [Marketing & Sales MCP Servers (3)](#marketing--sales-mcp-servers)
 - [MCP DevTools (5)](#mcp-devtools)
 - [MCP Middleware & Orchestration (30)](#mcp-middleware--orchestration-1)
@@ -4342,6 +4342,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [smartlead-mcp-server](https://github.com/Meerkats-Ai/smartlead-mcp-server) - Facilitates Smartlead campaign management by providing tools for creating, updating, and managing campaigns and their sequences. ([Read more](/details/meerkats-ai-smartlead-mcp-server.md)) `Open Source` `Email Marketing` `Campaigns`
 - [smartlead-mcp-server-local](https://github.com/jean-technologies/smartlead-mcp-server-local) - Facilitates seamless interaction with Smartlead's email marketing features through a simplified MCP server interface, supporting AI assistants and automation tools. ([Read more](/details/jean-technologies-smartlead-mcp-server-local.md)) `Open Source` `Email Marketing` `Automation`
 - [Twitter (X) Ads MCP](https://twominutereports.com/integrations/twitter-ads-mcp) - Connects Twitter (X) Ads to Claude or ChatGPT via Two Minute Reports MCP to track engagements, retweets, CPC, CPM across multiple campaigns. ([Read more](/details/twitter-x-ads-mcp.md)) `Ads` `Twitter` `X`
+- [Unfetch](https://unfetch.com) - Hosted Google Ads MCP server with Google Analytics, Google Search Console, keyword research, and web research for campaign spend, conversion, search-term, and SEO reporting. OAuth and read-only access to connected accounts. ([Read more](/details/unfetch.md)) `Google Ads` `Analytics` `SEO` `OAuth`
 - [x-grow](https://github.com/BlockRunAI/x-grow) - X/Twitter algorithm optimizer with post drafting, review scoring, AI image generation for engagement. ([Read more](/details/x-grow.md)) `Twitter` `Cloud`
 
 ## Marketing & Sales MCP Servers

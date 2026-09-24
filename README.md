@@ -32,7 +32,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Security & Attestation Mcp Servers (13)](#security--attestation-mcp-servers)
 - [Workflow & Automation Mcp Servers (26)](#workflow--automation-mcp-servers)
 - [AI Agent & Orchestration MCP Servers (2)](#ai-agent--orchestration-mcp-servers)
-- [API Integration & Gateway MCP Servers (7)](#api-integration--gateway-mcp-servers)
+- [API Integration & Gateway MCP Servers (8)](#api-integration--gateway-mcp-servers)
 - [Cloud & DevOps MCP Servers (16)](#cloud--devops-mcp-servers-1)
 - [Cloud & DevOps MCP Servers (30)](#cloud--devops-mcp-servers-2)
 - [Content Extraction & Summarization Mcp Servers (14)](#content-extraction--summarization-mcp-servers)
@@ -1270,6 +1270,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [ActionKit by Paragon](https://github.com/modelcontextprotocol/servers/tree/main/src/actionkit) - MCP proxy/gateway for Paragon's ActionKit API, connecting OpenAI/Claude to 130+ SaaS integrations like Slack and Salesforce via MCP. Features auth proxy and rate limiting. Enables unified agent API calls across SaaS platforms with protocol standardization over direct SDKs. ([Read more](/details/actionkit-by-paragon.md)) `API Proxy` `OpenAI Compatible` `Tool Calling`
 - [Amazon Fresh MCP Server](https://github.com/Alec2435/amazon-fresh-mcp) - MCP proxy/gateway for Amazon Fresh grocery API, allowing OpenAI/Claude to browse products, manage lists, place orders via MCP. Features auth proxy, rate limiting. Unified agent calls for e-commerce; protocol standardization over direct SDKs. ([Read more](/details/amazon-fresh-mcp-server.md)) `API Proxy` `OpenAI Compatible` `Tool Calling`
 - [APIAgent - Universal API to MCP Converter](https://github.com/agoda-com/apiagent) - MCP gateway converting REST/GraphQL APIs to MCP for OpenAI/Claude, zero code/deploy via introspection. Auth proxy, rate limiting included. Unified agent API access; standardizes vs SDKs. ([Read more](/details/apiagent-universal-api-to-mcp-converter.md)) `API Proxy` `OpenAI Compatible` `Tool Calling`
+- [API.market MCP Gateway](https://api.market/api/mcp/gateway) - Hosted OAuth gateway for AI agents to discover and call 580+ APIs, retrieve operation schemas, check usage, and manage subscriptions. ([Read more](/details/api-market-mcp-gateway.md)) `API Integration` `OAuth` `Remote`
 - [APISIX-MCP](https://github.com/apache/apisix-mcp) - APISIX Model Context Protocol (MCP) server is used to bridge large language models (LLMs) with the APISIX Admin API, supporting querying and managing all resources in Apache APISIX. ([Read more](/details/apisix-mcp.md)) `Apache` `Apisix` `Llm`
 
 ## Cloud & DevOps MCP Servers

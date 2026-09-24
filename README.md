@@ -27,7 +27,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Cloud Storage (5)](#cloud-storage)
 - [MCP Directories & Registries (3)](#mcp-directories--registries-1)
 - [Mcp Middleware & Orchestration (9)](#mcp-middleware--orchestration)
-- [Media Processing Mcp Servers (20)](#media-processing-mcp-servers)
+- [Media Processing Mcp Servers (21)](#media-processing-mcp-servers)
 - [Repository & Code Analysis Mcp Servers (14)](#repository--code-analysis-mcp-servers)
 - [Security & Attestation Mcp Servers (13)](#security--attestation-mcp-servers)
 - [Workflow & Automation Mcp Servers (26)](#workflow--automation-mcp-servers)
@@ -1194,6 +1194,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Kaltura](https://corp.kaltura.com) - MCP server for managing Kaltura Event Platform, providing tools for creating, managing, and interacting with Kaltura virtual events. ([Read more](/details/kaltura.md)) `Video Platform` `Virtual Events` `Event Management`
 - [MCP Media Processor](https://github.com/maoxiaoke/mcp-media-processor) - Comprehensive Node.js MCP server for media processing operations, providing powerful video and image manipulation with FFmpeg and ImageMagick integration for compression and conversion. ([Read more](/details/mcp-media-processor.md)) `Video` `Image Processing` `Ffmpeg`
 - [Orshot](https://orshot.com) - Official Orshot MCP server for dynamically generating images from custom design templates, enabling AI-driven image creation workflows. ([Read more](/details/orshot.md)) `Image Generation` `Templates` `Design`
+- [UpRes MCP Server](https://github.com/auroracapital/upres-cli) - AI image and video upscaling to 8K with 14 specialized models (Flare, Prism, Lumen, Mirage, Motion, Motion X, and more) via Model Context Protocol, enabling AI agents to submit upscale jobs, monitor progress, and retrieve high-resolution assets. ([Read more](/details/upres-mcp-server.md)) `Image Upscaling` `Video Upscaling` `Ai Media`
 
 ## Repository & Code Analysis Mcp Servers
 

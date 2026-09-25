@@ -207,7 +207,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Knowledge & Note Taking MCP Servers (2)](#knowledge--note-taking-mcp-servers-1)
 - [Knowledge Management (1)](#knowledge-management)
 - [Knowledge Management & Documentation MCP Servers (7)](#knowledge-management--documentation-mcp-servers)
-- [Knowledge Management & Memory (64)](#knowledge-management--memory)
+- [Knowledge Management & Memory (65)](#knowledge-management--memory)
 - [Knowledge Management Mcp Servers (7)](#knowledge-management-mcp-servers)
 - [Knowledge Management Mcp Servers (1)](#knowledge-management-mcp-servers-1)
 - [Knowledge Management MCP Servers (3)](#knowledge-management-mcp-servers-2)
@@ -4191,6 +4191,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Basic Memory (basicmachines-co)](https://github.com/basicmachines-co/basic-memory) - A knowledge management system building a persistent semantic graph from AI conversations, storing all knowledge in standard Markdown files for full ownership and integrating with Obsidian. ([Read more](/details/basic-memory-basicmachines-co.md)) `Knowledge Graph` `Persistent Memory` `Markdown`
 - [Bear MCP Server (akseyh)](https://github.com/akseyh/bear-mcp-server) - MCP Server integration for Bear note app, enabling AI assistants to interact with Bear's markdown-based note collections on macOS. ([Read more](/details/bear-mcp-server-akseyh.md)) `Bear Notes` `Note Taking` `Macos`
 - [central-intelligence](https://github.com/AlekseiMarchenko/central-intelligence) - Persistent memory for AI agents with five tools: remember, recall, context, forget, share. Features semantic search via vector embeddings and scoping for agent/user/org. Compatible with Claude Code, Cursor, Windsurf, and any MCP client. ([Read more](/details/central-intelligence.md)) `Persistent Memory` `Semantic Search` `Cloud`
+- [ClaimIDX](https://github.com/claimidx/claimidx) - Prior art for AI agents: a replay-gated failure index so agents ask before retrying work another agent already solved. ([Read more](/details/claimidx.md)) `Prior Art` `Agents` `Failure Index`
 - [clanki](https://github.com/jasperket/clanki) - An MCP server for connecting Claude Desktop with Anki Flashcards, enabling AI-assisted review and flashcard management workflows. ([Read more](/details/clanki.md)) `Anki` `Flashcards` `Claude Desktop`
 - [Claude Chunks MCP](https://github.com/vetlefo/claude-chunks) - MCP server for intelligent document chunking and progressive summarization, optimized for Claude context windows, enabling efficient document processing and knowledge extraction. ([Read more](/details/claude-chunks-mcp.md)) `Document Chunking` `Summarization` `Context Windows`
 - [Claude Server](https://github.com/davidteren/claude-server) - An MCP implementation that enhances Claude's capabilities by providing sophisticated context management across sessions, enabling persistent knowledge organization through hierarchical project contexts and continuous conversation threads stored in a well-structured ~/.claude directory. ([Read more](/details/claude-server.md)) `Context Management` `Persistent Knowledge` `Claude`

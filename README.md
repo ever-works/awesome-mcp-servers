@@ -276,7 +276,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Smart Home & IoT (1)](#smart-home--iot)
 - [Smart Home & IoT Mcp Servers (38)](#smart-home--iot-mcp-servers)
 - [Smart Home & IoT MCP Servers (2)](#smart-home--iot-mcp-servers-1)
-- [Social Media (1)](#social-media)
+- [Social Media (2)](#social-media)
 - [Sports & Entertainment (20)](#sports--entertainment)
 - [Sports & Entertainment Mcp Servers (4)](#sports--entertainment-mcp-servers)
 - [Sports Entertainment Mcp Servers (6)](#sports-entertainment-mcp-servers)
@@ -4984,6 +4984,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 ## Social Media
 
 - [HuiMei Social Media Automation MCP Server](https://huimei.ai) - AI-native social media automation platform publishing content to 12+ platforms (Douyin, XHS, Bilibili, etc.) with video, image, article support and account management. ([Read more](/details/huimei-social-media-automation-mcp-server.md)) `Social Automation` `Multi Platform` `Publishing`
+- [ThreadFox](https://github.com/amflimited/threadfox) - Paid Reddit MCP server and skill for Claude Code and Codex that reads community rules, searches, posts and replies through the user's own logged-in Chrome, with a local SQLite ledger that blocks double posts, resolves lost responses and rechecks posts for removal. ([Read more](/details/threadfox.md)) `Reddit` `Social Automation` `Paid`
 
 ## Sports & Entertainment
 

@@ -7,7 +7,7 @@
 ## Description
 HelpSpot MCP Server is an integration that connects your HelpSpot help desk account to AI tools via the Model Context Protocol (MCP), enabling automated and AI-assisted customer support workflows.
 
-Source: https://mcp.pipedream.com/app/helpspot
+Source: [https://support.helpspot.com/index.php?pg=kb.page&id=921](https://support.helpspot.com/index.php?pg=kb.page&id=921)
 
 ## Features
 - Connects a HelpSpot account to AI tools (e.g., Cursor, Claude, Windsurf) via Pipedream’s MCP server

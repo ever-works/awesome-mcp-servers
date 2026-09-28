@@ -2267,6 +2267,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## API Integration MCP Servers
 
+- [Aident Loadout](https://aident.ai) - Remote MCP and Agent Skill connecting Codex, Claude Code, Cursor, and ChatGPT to 1,000+ apps through one reusable Loadout with Vault auth and Audit. ([Read more](/details/aident-loadout.md)) `Multi Platform` `Oauth` `Remote` `Automation`
 - [APIFold](https://github.com/Work90210/APIFold) - Turn any REST API into a hosted MCP server. Provides 18 free public servers for GitHub, Stripe, Slack, OpenAI, Notion, etc., with bring-your-own API key support. ([Read more](/details/apifold.md)) `Typescript` `Cloud`
 - [Audius MCP Atris](https://github.com/glassBead-tc/audius-mcp-atris) - Model Context Protocol server for Audius music platform. Enables market research, premium track purchases, song uploads, and more through AI-driven interactions. ([Read more](/details/audius-mcp-atris.md)) `Music` `Streaming` `Api Integration`
 - [Cal2Prompt](https://github.com/shuntaka9576/cal2prompt) - Fetches your schedule from Google Calendar and outputs it as a single LLM prompt, with an optional MCP server mode for scheduling-aware AI workflows. ([Read more](/details/cal2prompt.md)) `Calendar` `Google Calendar` `Prompt`

@@ -216,7 +216,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Knowledge Mcp Servers (4)](#knowledge-mcp-servers)
 - [Location Services (30)](#location-services)
 - [Marketing (28)](#marketing)
-- [Marketing & Sales MCP Servers (3)](#marketing--sales-mcp-servers)
+- [Marketing & Sales MCP Servers (4)](#marketing--sales-mcp-servers)
 - [MCP DevTools (5)](#mcp-devtools)
 - [MCP Middleware & Orchestration (30)](#mcp-middleware--orchestration-1)
 - [Mcp Middleware Orchestration (16)](#mcp-middleware-orchestration)
@@ -4347,6 +4347,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 ## Marketing & Sales MCP Servers
 
 - [google-ads-mcp-server](https://github.com/gomarble-ai/google-ads-mcp-server) - MCP server for Google Ads API, programmatic access to data and management. ([Read more](/details/google-ads-mcp-server.md)) `Google Ads` `Python` `Cloud`
+- [Omentir](https://github.com/vanshyadav1408/Omentir) - Hosted MCP server for Omentir, an open-source AI sales workspace for LinkedIn. Find and score prospects, draft outreach, run human-paced campaigns, and answer replies. OAuth sign-in, or self-host (MIT). ([Read more](/details/omentir.md)) `LinkedIn` `Sales` `Outreach` `OAuth` `Open Source`
 - [rocketreach-mcp-server](https://github.com/Meerkats-Ai/rocketreach-mcp-server) - Integrates with RocketReach API to provide email, phone number finding, and company enrichment capabilities for sales and marketing teams. ([Read more](/details/rocketreach-mcp-server.md)) `Enrichment` `Email` `Open Source`
 - [tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) - MCP server for TikTok Ads API, enabling AI to manage campaigns, analyze metrics, handle audiences and creatives with OAuth. ([Read more](/details/tiktok-ads-mcp-server.md)) `Tiktok Ads` `Python` `Cloud`
 

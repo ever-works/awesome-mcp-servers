@@ -163,7 +163,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Document Management MCP Servers (10)](#document-management-mcp-servers-1)
 - [Document Management MCP Servers (2)](#document-management-mcp-servers-2)
 - [Documentation (1)](#documentation)
-- [Documentation & Knowledge MCP Servers (15)](#documentation--knowledge-mcp-servers)
+- [Documentation & Knowledge MCP Servers (16)](#documentation--knowledge-mcp-servers)
 - [Documentation & Learning Resources (15)](#documentation--learning-resources)
 - [Documentation Learning Resources (14)](#documentation-learning-resources)
 - [E Commerce (3)](#e-commerce)
@@ -3542,6 +3542,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 - [adr-mcp-setup](https://github.com/wooxogh/adr-mcp-setup) - Automatically generates Architecture Decision Records (ADRs) from Claude Code conversations using Claude Opus. Features AI quality review, duplicate detection, dependency graph, and stale ADR alerts. ([Read more](/details/adr-mcp-setup.md)) `Adr` `Architecture` `Local` `Docs Access` `Knowledge Base`
 - [AWS Documentation MCP Server](https://github.com/awslabs/mcp/tree/main/src/aws-documentation-mcp-server) - MCP server providing latest AWS docs and API references. Enables AI assistants to access up-to-date technical documentation for accurate code generation and best practices. ([Read more](/details/aws-documentation-mcp-server.md)) `Open Source` `Aws` `Docs` `Docs Access` `Knowledge Base`
+- [Communicate Developer Docs MCP](https://communicate.so/developers) - Public read-only Streamable HTTP server for Communicate developer guides, OpenAPI discovery, and official support contacts; no account, API key, workspace data, or product actions. ([Read more](/details/communicate-developer-docs-mcp.md)) `Documentation` `Api Reference` `No Api Key`
 - [Context 7](https://context7.com) - Provides up-to-date documentation for any Cursor prompt. ([Read more](/details/context-7.md)) `Official` `Documentation` `Docs Access` `Knowledge Base`
 - [Context7 MCP Server](https://context7.com) - Fetches current, version-specific documentation for libraries and injects it into AI context, solving LLM knowledge cutoffs for up-to-date API references. ([Read more](/details/context7-mcp-server.md)) `Documentation` `Api Reference` `No Api Key`
 - [Cupertino](https://github.com/mihaelamj/cupertino) - Apple Documentation MCP Server for searching Apple developer docs, Swift Evolution proposals, and 600+ sample code projects with full-text search. macOS only. ([Read more](/details/cupertino.md)) `Apple` `Swift` `Macos` `Docs Access` `Knowledge Base`

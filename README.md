@@ -67,7 +67,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Search & Discovery Mcp Servers (30)](#search--discovery-mcp-servers)
 - [Security Attestation Mcp Servers (30)](#security-attestation-mcp-servers)
 - [Security MCP Servers (2)](#security-mcp-servers)
-- [Social (6)](#social)
+- [Social (7)](#social)
 - [Testing (1)](#testing)
 - [Travel & Transportation (26)](#travel--transportation)
 - [Version Control (23)](#version-control)
@@ -1909,6 +1909,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 ## Social
 
 - [OpenTweet MCP Server](https://opentweet.io) - Purpose-built MCP server for Twitter/X with 12 tools covering the full tweet lifecycle — from drafting and scheduling to publishing and analytics. Features AI-native workflow integration with Claude, batch scheduling of up to 50 tweets, image/video upload, and built-in analytics without requiring a Twitter developer account. ([Read more](/details/opentweet-mcp-server.md)) `Twitter` `Scheduling` `Analytics`
+- [BulkPublish MCP Server](https://github.com/azeemkafridi/bulkpublish-api) - AI-agent API and MCP server for adapting, scheduling, publishing, and analyzing social media content across platforms. ([Read more](/details/bulkpublish-mcp-server.md)) `Social Media` `Scheduling` `Multi Platform`
 - [MCP Warpcast Server](https://github.com/zhangzhongnan928/mcp-warpcast-server) - MCP Server for Warpcast integration, enabling AI assistants to interact with the Farcaster social protocol for posting, reading, and managing decentralized social content. ([Read more](/details/mcp-warpcast-server.md)) `Farcaster` `Decentralized Social` `Warpcast`
 - [Oktopost MCP Server](https://www.oktopost.com) - B2B social media management platform with MCP integration, designed for marketing teams to align social media with lead generation. Features employee advocacy workflows, social listening, lead attribution from social posts, and CRM integration across Twitter/X, LinkedIn, and Facebook. ([Read more](/details/oktopost-mcp-server.md)) `B2b` `Enterprise` `Crm Integration`
 - [Postiz MCP Server](https://postiz.com) - Open-source social media scheduling tool with MCP server support, enabling self-hosted content management across multiple platforms. Features AI-powered content generation, team collaboration tools, calendar content planning views, and an analytics dashboard for multi-platform social media management. ([Read more](/details/postiz-mcp-server.md)) `Open Source` `Self Hosted` `Multi Platform`

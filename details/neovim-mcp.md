@@ -1,10 +1,5 @@
-## Overview
+# Neovim MCP
 
-Control Neovim using MCP and the official neovim/node-client library.
+A powerful Neovim plugin for managing MCP (Model Context Protocol) servers.
 
-## Features
-
-- Neovim editor control
-- JavaScript-based integration
-- Official node-client library
-- AI-assisted editing
+[https://github.com/ravitemer/neovim-mcp](https://github.com/ravitemer/neovim-mcp)

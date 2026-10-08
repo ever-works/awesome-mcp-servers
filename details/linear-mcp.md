@@ -1,10 +1,12 @@
 ## Overview
 
-Comprehensive Linear MCP implementation covering all Linear resource types for complete AI-assisted project management.
+Integrates with Linear API via MCP.
 
 ## Features
 
-- All Linear resource type support
-- Issue and project management
-- Cycle planning and tracking
-- Team operations via natural language
+- Ticket management
+- Prioritization tools
+
+## Pricing
+
+Free and open-source.

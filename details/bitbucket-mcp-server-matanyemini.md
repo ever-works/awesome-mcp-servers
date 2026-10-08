@@ -1,5 +1,5 @@
 # Bitbucket MCP Server
 
-A Model Context Protocol (MCP) server for integrating with Bitbucket Cloud and Server APIs. Enables AI assistants to interact with Bitbucket repositories, pull requests, and CI/CD pipelines through standardized MCP interfaces.
+Integrates Bitbucket Cloud/Server APIs via MCP for repository management, PR handling, and CI/CD pipeline interactions in development environments. Supports AI-driven code reviews and branching strategies from IDEs. Offers Git hosting features comparable to GitHub but tailored for Atlassian ecosystems vs generic VSCode MCP.
 
 [https://github.com/MatanYemini/bitbucket-mcp](https://github.com/MatanYemini/bitbucket-mcp)

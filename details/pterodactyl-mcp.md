@@ -1,10 +1,19 @@
 ## Overview
 
-AI management for Pterodactyl panels.
+AI tools for Pterodactyl/Pelican game server panels.
 
 ## Features
 
-- 73 tools for server management, files, backups, etc.
+- Server lifecycle management
+- File and backup ops
+- Database and user control
+- Node and egg configuration
+
+## Use Cases
+
+- AI game server admin
+- Automated provisioning
+- Multi-server ops
 
 ## Pricing
 

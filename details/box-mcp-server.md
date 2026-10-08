@@ -1,9 +1,13 @@
-# Box MCP Server
+## Overview
 
-Box model context protocol server enabling AI assistants to search, read, and access files stored in Box cloud storage through standardized MCP tools.
+Official MCP server for Box content access.
 
-[https://github.com/hmk/box-mcp-server](https://github.com/hmk/box-mcp-server)gement via MCP
-- Upload and download operations
-- Search Box content
-- Collaboration and sharing controls
-- Metadata management
+## Features
+
+- Seamless access to Box content for AI agents
+- Actions on stored content
+- Integration with Copilot Studio, Cursor, Claude Desktop
+
+## Pricing
+
+Box pricing applies.

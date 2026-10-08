@@ -1,5 +1,8 @@
-# MySQL MCP Server
+## Overview
 
-An MCP server implementation that integrates with MySQL databases, providing secure database access capabilities for LLMs.
+Structured MCP interface for MySQL and AI apps.
 
-[https://github.com/kevinwatt/mysql-mcp](https://github.com/kevinwatt/mysql-mcp)
+## Features
+
+- Secure database interactions
+- Structured MCP protocol

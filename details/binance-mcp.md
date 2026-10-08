@@ -1,5 +1,17 @@
-# Binance MCP
+## Overview
 
-Cryptocurrency trading and market data access through Binance API integration, enabling AI assistants to execute trades and monitor markets.
+Cryptocurrency trading and market data access through Binance API integration.
 
-[https://github.com/modelcontextprotocol/servers/tree/main/src/binance](https://github.com/modelcontextprotocol/servers/tree/main/src/binance)
+## Features
+
+- Trades execution
+- Market data
+- Wallet balances
+
+## Use Cases
+
+- Trading bots
+
+## Pricing
+
+Binance fees apply.

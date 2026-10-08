@@ -1,10 +1,12 @@
 ## Overview
-Time and timezone utilities.
+
+Time handles time and timezone conversions.
 
 ## Features
-- Time conversions
-- Timezone handling
-- Current time queries
 
-## Notes
-Reference implementation.
+- Timezone conversions
+- Date/time utilities
+
+## Pricing
+
+Free and open-source.

@@ -1,15 +1,12 @@
 ## Overview
 
-A Model Context Protocol server that provides read-only access to MySQL databases. Enables LLMs to inspect database schemas and execute read-only queries safely.
+NodeJS MCP server for MySQL with access controls.
 
 ## Features
 
-- Read-only MySQL database access
-- Database schema inspection
-- Safe query execution
-- Prevents destructive operations
-- Standardized MCP tools
+- Configurable access controls
+- Schema inspection
 
-## Usage
+## Pricing
 
-Configure with MySQL connection credentials. The server only allows read operations.
+Free and open-source under MIT.

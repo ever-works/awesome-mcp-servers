@@ -1,9 +1,13 @@
 ## Overview
-SQLite database server.
+
+Safe read-only SQLite access via MCP.
 
 ## Features
-- Database interactions
-- BI capabilities
 
-## Status
-Archived.
+- Query validation
+- Safety features
+- FastMCP framework
+
+## Pricing
+
+Open-source.

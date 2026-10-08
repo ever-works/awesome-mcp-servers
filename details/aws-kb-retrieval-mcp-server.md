@@ -1,9 +1,11 @@
 ## Overview
-Retrieves from AWS KB via Bedrock.
+
+Archived server for AWS KB retrieval via Bedrock.
 
 ## Features
-- Knowledge base queries
-- Bedrock integration
 
-## Status
-Archived.
+- Retrieval from AWS Knowledge Bases
+
+## Pricing
+
+Free and open-source (archived).

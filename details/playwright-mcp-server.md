@@ -1,13 +1,5 @@
-## Overview
+# Playwright MCP server
 
-Playwright MCP Server provides full browser automation capabilities.
+Browser automation MCP server by Microsoft for web scraping and testing.
 
-## Features
-
-- Navigate pages, fill forms, click elements
-- Take screenshots and run end-to-end tests
-- Handles JavaScript-heavy pages and dynamic content
-
-## Pricing
-
-Free and open-source.
+[https://playwright.dev/](https://playwright.dev/)

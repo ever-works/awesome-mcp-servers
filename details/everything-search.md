@@ -1,5 +1,5 @@
 # Everything Search
 
-Fast file searching capabilities across Windows (using Everything SDK), macOS (using mdfind command), and Linux (using locate/plocate command). Provides cross-platform file discovery for AI agents.
+Lightning-fast Windows file search powered by Everything SDK. Enables quick file discovery on Windows systems.
 
-[https://github.com/modelcontextprotocol/servers/tree/main/src/everything-search](https://github.com/modelcontextprotocol/servers/tree/main/src/everything-search)
+[https://github.com/Everything-SDK/mcp-server](https://github.com/Everything-SDK/mcp-server)

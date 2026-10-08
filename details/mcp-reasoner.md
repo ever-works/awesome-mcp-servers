@@ -1,5 +1,20 @@
-# mcp-reasoner
+## Overview
 
-A systematic reasoning MCP server implementation for Claude Desktop with beam search and thought evaluation capabilities for enhanced reasoning.
+LLM + OR-Tools via MCP.
 
-[https://github.com/Jacck/mcp-reasoner](https://github.com/Jacck/mcp-reasoner)
+## Features
+
+- Constraint solving
+- Model switching, chaining
+
+## Use Cases
+
+- Multi-agent optimization
+
+## Comparisons
+
+- MCP native vs LangChain
+
+## Pricing
+
+Free and open-source.

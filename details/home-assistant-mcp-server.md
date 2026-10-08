@@ -1,10 +1,12 @@
 ## Overview
 
-An MCP server for Home Assistant smart home platform integration.
+MCP for Home Assistant.
 
 ## Features
 
-- Smart home device control
-- Home status monitoring
-- Automation management
-- Home Assistant API integration
+- Device control
+- Monitoring
+
+## Pricing
+
+Open-source.

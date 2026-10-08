@@ -1,12 +1,5 @@
-## Overview
+# scan-mcp
 
-scan-mcp is a minimal MCP server for scanner capture, providing tools for document scanning operations.
+Minimal MCP server for scanner capture supporting ADF/duplex/page-size. Features typed tools, JSON Schema-validated I/O, multipage assembly. Built with Node 22 and SANE.
 
-## Features
-
-- ADF (Automatic Document Feeder) support
-- Duplex scanning capability
-- Page-size detection
-- Typed tools with JSON Schema–validated I/O
-- Multipage assembly
-- Built on Node 22 and SANE (Scanner Access Now Easy) framework
+[https://github.com/jordaneremieff/scan-mcp](https://github.com/jordaneremieff/scan-mcp)

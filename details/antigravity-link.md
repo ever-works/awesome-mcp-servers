@@ -1,14 +1,23 @@
 ## Overview
 
-Mobile companion MCP server for Antigravity IDE.
+Mobile MCP companion for Antigravity IDE, IDE-integrated.
 
 ## Features
 
-- Mirror AI chat sessions on phone
-- Send messages, upload files
-- Stop AI generation
-- 9 MCP tools and local OpenAPI API
+- AI chat mirroring
+- File uploads across devices
+- Workflow automation
+- Autocomplete support
+
+## Use Cases
+
+- Remote collaboration
+- Mobile coding assistance
+
+## Comparisons
+
+Vs. native LSP: Cross-device mobility.
 
 ## Pricing
 
-Free and open-source.
+Free open-source.

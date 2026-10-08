@@ -1,11 +1,20 @@
 ## Overview
 
-A Minecraft mod designed for testing SkyWars server functionality, enabling game server capabilities for the popular Minecraft mini-game.
+Minecraft mod and MCP server for SkyWars testing and control.
 
 ## Features
 
-- SkyWars game mode support
-- Minecraft mod interface
-- Server testing capabilities
-- Game server functionality
-- Multiplayer support
+- SkyWars game mode
+- Player and match management
+- Server event handling
+- Mod support
+
+## Use Cases
+
+- AI in mini-games
+- Automated hosting
+- Game testing
+
+## Pricing
+
+Free and open-source.

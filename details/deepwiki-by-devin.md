@@ -1,5 +1,5 @@
 # DeepWiki by Devin
 
-Remote, no-auth MCP server providing AI-powered codebase context and answers.
+Remote, no-auth MCP server providing AI-powered codebase context and answers. Official MCP server for codebase exploration.
 
-[https://deepwiki.devin.ai](https://deepwiki.devin.ai)
+[https://devin.ai/deepwiki](https://devin.ai/deepwiki)

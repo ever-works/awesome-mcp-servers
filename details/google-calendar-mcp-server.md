@@ -1,11 +1,11 @@
 ## Overview
 
-MCP server for Google Calendar data.
+Context from calendars and schedules.
 
 ## Features
 
-- Context from calendars, schedules, availability
+- Calendar, schedules, availability
 
 ## Pricing
 
-Free and open-source implementation.
+Free and open-source.

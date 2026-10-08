@@ -1,3 +1,21 @@
 ## Overview
 
-Simple PubMed MCP provides a server for searching and querying PubMed medical papers and research databases through the Model Context Protocol.
+Basic PubMed search via MCP.
+
+## Functions
+
+- Search and retrieve PubMed papers.
+
+## Features
+
+- Straightforward API.
+- No heavy dependencies.
+
+## Use Cases
+
+- Quick literature lookups in AI medical consultations.
+- Prototyping biotech agents.
+
+## Comparisons
+
+Simplest PubMed MCP; less feature-rich than async or FHIR-integrated options.

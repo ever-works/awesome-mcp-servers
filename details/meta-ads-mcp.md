@@ -1,11 +1,13 @@
 ## Overview
 
-Meta ads API MCP.
+Popular implementations include Pipeboard's meta-ads-mcp and brijr/meta-mcp.
 
 ## Features
 
-- 123 tools for campaigns
+- Campaign management: create, modify budgets, pause/activate ad sets
+- Creative analysis and audience insights
+- Full Meta Marketing API coverage
 
 ## Pricing
 
-Meta API.
+Free and open-source.

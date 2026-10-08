@@ -1,5 +1,13 @@
-# Supabase MCP
+## Overview
 
-Connect Supabase to your AI assistants, enabling database operations, authentication management, and edge function invocation through MCP tools.
+Official MCP server for Supabase projects.
 
-[https://github.com/supabase-community/supabase-mcp](https://github.com/supabase-community/supabase-mcp)
+## Features
+
+- Direct AI assistant connection
+- Database operations
+- Project management
+
+## Pricing
+
+Free and open-source under Apache 2.0 license.

@@ -1,5 +1,12 @@
-# Baserow
+## Overview
 
-Query data from Baserow self-hosted or SaaS databases using MCP integration. Enables AI agents to access and manipulate spreadsheet-style databases.
+Open-source no-code database with MCP integration for table operations.
 
-[https://github.com/modelcontextprotocol/servers/tree/main/src/baserow](https://github.com/modelcontextprotocol/servers/tree/main/src/baserow)
+## Features
+
+- Table search and list
+- Row CRUD operations
+
+## Pricing
+
+Free, unlicensed.

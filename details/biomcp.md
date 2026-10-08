@@ -1,13 +1,11 @@
 ## Overview
 
-Biomedical research MCP server.
+Enables LLMs to access biomedical databases via MCP.
 
 ## Features
 
-- PubMed access
-- ClinicalTrials.gov
-- MyVariant.info
+- Advanced searches and data retrieval
 
 ## Pricing
 
-Free and open-source.
+Open-source.

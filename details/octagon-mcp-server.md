@@ -1,3 +1,5 @@
-## Overview
+# Octagon MCP Server
 
-Octagon MCP Server is a free Model Context Protocol server that integrates with the Octagon API for investment research and analysis.
+Octagon AI Agents to integrate private and public market data via MCP.
+
+[https://github.com/OctagonAI/octagon-mcp-server](https://github.com/OctagonAI/octagon-mcp-server)

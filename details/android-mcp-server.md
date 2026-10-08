@@ -1,5 +1,22 @@
-# Android MCP Server
+## Overview
 
-21-tool Android device control via ADB including screenshots, UI tree inspection, touch automation, logcat, and compound actions. One-command install via npx android-mcp-server.
+Android device control MCP for IDEs.
 
-[https://github.com/martingeidobler/android-mcp-server](https://github.com/martingeidobler/android-mcp-server)
+## Features
+
+- ADB tools: screenshots, UI dump, gestures
+- Logcat monitoring
+- Autocomplete in editors
+
+## Use Cases
+
+- Mobile app testing
+- AI-driven automation
+
+## Comparisons
+
+Vs. native LSP: Device-level access.
+
+## Pricing
+
+Free open-source.

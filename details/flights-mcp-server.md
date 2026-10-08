@@ -1,5 +1,13 @@
-# Flights MCP Server
+## Overview
 
-MCP Server for Google Flights, enabling AI assistants to search for flight information.
+Google Flights data for AI agents.
 
-[https://github.com/smamidipaka6/flights-mcp-server](https://github.com/smamidipaka6/flights-mcp-server)
+## Features
+
+- Flight info retrieval
+- Cheapest options
+- Time filtering
+
+## Pricing
+
+Open-source and free.

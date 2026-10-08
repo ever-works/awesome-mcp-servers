@@ -1,5 +1,16 @@
-# AWS MCP Server
+## Overview
 
-Perform operations on your AWS resources using an LLM, enabling natural language interaction with AWS services for infrastructure management.
+Official AWS MCP server.
 
-[https://github.com/modelcontextprotocol/servers/tree/main/src/aws](https://github.com/modelcontextprotocol/servers/tree/main/src/aws)
+## Features
+
+- AWS SDK tools
+- Resource inspection and management
+
+## Deployment
+
+Docker (self-hosted), Remote
+
+## Pricing
+
+Open-source.

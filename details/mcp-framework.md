@@ -1,11 +1,12 @@
 ## Overview
 
-mcp-framework is a TypeScript framework designed for building Model Context Protocol servers. It provides structured abstractions to simplify the development of MCP-compliant servers.
+Fast and elegant TypeScript framework for MCP servers.
 
 ## Features
 
-- TypeScript-based server building framework
-- Structured abstractions for tools, resources, and prompts
-- Simplifies MCP server development workflow
-- Type-safe server implementations
-- Comprehensive tooling for MCP server creation
+- Fast performance
+- Elegant design
+
+## Pricing
+
+Free and open-source.

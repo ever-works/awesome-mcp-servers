@@ -1,13 +1,10 @@
-## Overview
-
-Community OpenAPI MCP server from Hugging Face.
-
 ## Features
 
 - Standardized interface for OpenAPI-based APIs
 - Lightweight demo implementation
 - Supports HuggingFace Spaces deployment
+- Ideal for community experimentation
 
 ## Pricing
 
-Free and open-source.
+Open-source, free.

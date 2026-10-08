@@ -1,16 +1,12 @@
 ## Overview
 
-Zapier MCP enables AI-initiated workflows across thousands of apps.
+Broadest connector for triggering workflows.
 
-## Features
+## Key Capabilities
 
-- Multi-step automations
-- 7,000+ app integrations
-- Natural language triggers
-- Works with Claude Desktop, Cursor
+- Access to 8,000+ apps.
+- Route leads, sync data, notifications.
 
-## Use Cases
+## Pricing
 
-- Send meeting actions to Slack and CRM
-- Form submissions to HubSpot
-- Deployment notifications
+All plans, task-based.

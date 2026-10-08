@@ -4,9 +4,9 @@ Lara Translate API MCP server.
 
 ## Features
 
+- Translation capabilities
 - Language detection
-- Context-aware translations
 
 ## Pricing
 
-Free and open-source.
+MIT license (free and open-source).

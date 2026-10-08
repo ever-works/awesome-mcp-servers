@@ -1,5 +1,10 @@
-#OpenTools
+## Overview
+OpenTools is a registry offering generative APIs for MCP tools.
 
-An open registry and platform for finding, installing, and building with MCP servers, providing discovery and integration tooling for the MCP ecosystem.
+## Features
+- Hundreds of ready-made MCP tools
+- Supports web search, real-time location data, web scraping
+- API clients for Curl, Python, TypeScript
 
-[https://opentools.com/registry/nulab-backlog-mcp-server](https://opentools.com/registry/nulab-backlog-mcp-server)
+## Pricing
+Usage-based pricing with API key required.

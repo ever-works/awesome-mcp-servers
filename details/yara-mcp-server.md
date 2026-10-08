@@ -1,11 +1,20 @@
 ## Overview
 
-An MCP server that integrates YARA, a pattern matching tool widely used in malware research and detection, with AI assistants for automated security analysis.
+YARA detection via MCP.
 
 ## Features
 
-- YARA rule-based scanning
-- Malware pattern detection
-- Security analysis via AI
-- File scanning capabilities
-- Threat identification support
+- Rule-based scanning
+- Malware pattern matching
+
+## Use Cases
+
+- Agent security audits
+
+## Comparisons
+
+Signatures vs general scans.
+
+## Pricing
+
+Open-source.

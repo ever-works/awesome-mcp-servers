@@ -1,5 +1,20 @@
-# Prometheus MCP
+## Primary Use Case
 
-MCP server for metrics collection, querying, and alerting. Supported by CNCF community, compatible with VS Code and Cursor IDEs. Targeted at Prometheus-based monitoring setups in beta active development.
+Metrics & alerting queries
 
-[https://prometheus.io](https://prometheus.io)
+## Enterprise Backing
+
+CNCF Community
+
+## IDE Support
+
+- VS Code
+- Cursor
+
+## Best For
+
+Prometheus-based monitoring
+
+## Maturity
+
+Beta - Active Development 🔶

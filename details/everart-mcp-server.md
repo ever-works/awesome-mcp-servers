@@ -1,8 +1,11 @@
 ## Overview
-AI image generation server.
+
+Archived AI image generation server.
 
 ## Features
-- Generate images with various AI models
 
-## Status
-Archived.
+- Image generation with various models
+
+## Pricing
+
+Free and open-source (archived).

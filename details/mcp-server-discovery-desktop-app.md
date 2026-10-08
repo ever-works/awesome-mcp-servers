@@ -1,10 +1,22 @@
 ## Overview
 
-Desktop application for discovering and installing MCP servers.
+Desktop app for MCP server discovery and install.
 
 ## Features
 
-- Visual MCP server browser
-- Server discovery and evaluation
-- One-click installation
-- Server management interface
+- Visual browser/search
+- One-click install
+- Filtering/management
+
+## Use Cases
+
+- Local agent setups
+- Easy tool discovery
+
+## Comparisons
+
+Desktop MCP install vs npm terminal.
+
+## Pricing
+
+Free.

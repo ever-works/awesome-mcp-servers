@@ -1,13 +1,13 @@
 ## Overview
 
-Atlassian suite MCP server.
+MCP server for Atlassian products including Confluence and Jira.
 
 ## Features
 
 - Confluence Cloud support
-- Jira Cloud/Server
-- Search, read, create, manage content
+- Jira Cloud support
+- Jira Server/Data Center support
 
 ## Pricing
 
-Free and open-source.
+MIT license (free and open-source).

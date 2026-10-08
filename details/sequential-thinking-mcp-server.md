@@ -1,10 +1,12 @@
 ## Overview
-Enables sequential thought processes.
+
+Sequential Thinking enables step-by-step reflective thinking.
 
 ## Features
+
 - Dynamic thought sequences
 - Reflective problem-solving
-- Step-by-step reasoning tools
 
-## Notes
-Demonstration server.
+## Pricing
+
+Free and open-source.

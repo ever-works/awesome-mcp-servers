@@ -1,7 +1,7 @@
 # Database MCP Server
 
-**Category:** Database Messaging MCP Servers  
-**Tags:** database, integration, mcp, open-source
+**Category:** Databases & Storage MCP Servers  
+**Tags:** database, mcp-server, SQL, PostgreSQL
 
 ## Description
 Database MCP Server is a Model Context Protocol (MCP) server that provides a unified interface for connecting to and interacting with multiple database systems. It supports connection management, query execution, and schema manipulation across various databases.

@@ -1,11 +1,12 @@
 ## Overview
 
-Official Qdrant MCP server that provides tools for interacting with Qdrant vector databases through the Model Context Protocol.
+Qdrant MCP server for vector search and storage.
 
 ## Features
 
 - Vector similarity search
-- Collection management
-- Point operations
-- Payload filtering
-- Official implementation by Qdrant team
+- Semantic search capabilities
+
+## License
+
+Apache-2

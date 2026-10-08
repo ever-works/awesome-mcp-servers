@@ -1,3 +1,5 @@
-## Overview
+# Alpha Vantage MCP
 
-Alpha Vantage MCP integrates the Alpha Vantage API with the Model Context Protocol providing stock market data forex rates and financial indicators.
+Alpha Vantage API integration for stock and crypto information via MCP.
+
+[https://github.com/berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp)

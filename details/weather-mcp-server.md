@@ -1,6 +1,6 @@
 ## Overview
 
-Reference MCP for weather time-series APIs.
+Reference implementation for time-series APIs.
 
 ## Features
 

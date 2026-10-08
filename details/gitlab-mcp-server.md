@@ -1,9 +1,11 @@
 ## Overview
-GitLab API server.
+
+Archived GitLab API server.
 
 ## Features
-- Project management tools
-- GitLab API integration
 
-## Status
-Archived.
+- GitLab project management
+
+## Pricing
+
+Free and open-source (archived).

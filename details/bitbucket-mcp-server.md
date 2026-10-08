@@ -1,10 +1,5 @@
-## Overview
+# Bitbucket MCP Server
 
-Bitbucket MCP Server for integrating with Bitbucket Cloud and Server APIs.
+A Model Context Protocol (MCP) server for integrating with Bitbucket Cloud and Server APIs.
 
-## Features
-
-- Bitbucket repository management
-- Pull request operations
-- Code review assistance
-- Branch management
+[https://github.com/MatanYemini/bitbucket-mcp](https://github.com/MatanYemini/bitbucket-mcp)

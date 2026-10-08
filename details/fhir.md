@@ -1,5 +1,22 @@
-# FHIR
+## Overview
 
-Model Context Protocol server that provides seamless, standardized access to Fast Healthcare Interoperability Resources (FHIR) data from any compatible FHIR server. Enables natural language and programmatic search, retrieval, and analysis of clinical data for healthcare AI applications.
+Standardized FHIR MCP from Model Context Protocol repo.
 
-[https://github.com/modelcontextprotocol/servers/tree/main/src/fhir](https://github.com/modelcontextprotocol/servers/tree/main/src/fhir)
+## Functions
+
+- Access any FHIR server data.
+- Natural language searches on clinical records.
+
+## Features
+
+- Seamless MCP integration.
+- Supports all FHIR resources.
+
+## Use Cases
+
+- Medical AI agents for real-time patient data analysis.
+- Biotech apps combining EHR with PubMed insights.
+
+## Comparisons
+
+Official reference; more robust than third-party FHIR MCPs, complements PubMed servers.

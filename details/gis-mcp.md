@@ -1,12 +1,5 @@
-## Overview
+# gis-mcp
 
-GIS library integration.
+Model Context Protocol (MCP) server connecting LLMs to GIS operations.
 
-## Features
-
-- Geospatial operations
-- Transformations
-
-## Pricing
-
-Free.
+[https://github.com/mahdin75/gis-mcp](https://github.com/mahdin75/gis-mcp)

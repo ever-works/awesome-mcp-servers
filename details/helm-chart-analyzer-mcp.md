@@ -10,6 +10,7 @@ Helm Chart Analyzer MCP is a specialized Model Context Protocol server that enab
 - **Security Scanning**: Identify known vulnerabilities in chart dependencies
 - **Best Practices**: Suggest improvements based on Helm best practices
 - **Documentation Generation**: Auto-generate documentation from chart metadata
+- Repository authentication and secure access
 
 ## Installation
 
@@ -23,9 +24,7 @@ Docker pull ghcr.io/v3ro/helm-chart-mcp:0.0.1
 
 - Understand complex Helm chart dependency structures
 - Audit Helm charts for security and best practice compliance
-- Generate comprehensive documentation for chart repositories
 - Troubleshoot deployment issues related to dependencies
-- Validate chart configurations before deployment
 
 ## Pricing
 

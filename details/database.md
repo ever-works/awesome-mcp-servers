@@ -13,7 +13,7 @@ DBHub is a universal database gateway implementing the Model Context Protocol (M
   - Microsoft SQL Server
   - SQLite
   - (Mentions support for Redshift, CockroachDB, RDS MySQL, BigQuery, Oracle DB, though primary support for first four is detailed)
-- **Demo Mode:** Includes a bundled SQLite "employee" sample database for testing, with tables for employees, departments, salaries, etc.
+- **Demo Mode:** Includes a bundled SQLite \"employee\" sample database for testing, with tables for employees, departments, salaries, etc.
 - **Resource Exploration:**
   - List schemas, tables, table structures, indexes, and procedures (procedure support varies by DB type).
 - **Database Tools:**
@@ -46,7 +46,7 @@ DBHub is a universal database gateway implementing the Model Context Protocol (M
 No pricing information is provided. DBHub is open source and available under the MIT License.
 
 ## Tags
-`mcp`, `database`, `postgresql`, `mysql`, `cloud`
+`mcp-server`, `database`, `SQL`, `PostgreSQL`, `MongoDB`
 
 ## Category
-`database-messaging-mcp-servers`
+`Databases & Storage MCP Servers`

@@ -1,3 +1,5 @@
-## Overview
+# Freqtrade MCP
 
-Freqtrade MCP integrates with the Freqtrade cryptocurrency trading bot through the Model Context Protocol enabling AI control of automated trading.
+MCP server integrating with Freqtrade cryptocurrency trading bot.
+
+[https://github.com/kukapay/freqtrade-mcp](https://github.com/kukapay/freqtrade-mcp)

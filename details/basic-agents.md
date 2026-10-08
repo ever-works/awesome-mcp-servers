@@ -1,5 +1,21 @@
-# Basic Agents
+## Overview
 
-A collection of simple agents to make development life easier, demonstrating basic MCP agent patterns for common development tasks.
+Basic LLM agent server via MCP.
 
-[https://github.com/fffej/basic-agents](https://github.com/fffej/basic-agents)
+## Features
+
+- Model hosting
+- Fine-tuning support
+- Agent prompting/chaining
+
+## Use Cases
+
+- Dev productivity agents
+
+## Comparisons
+
+Simple MCP vs LangChain/OpenAI complexity.
+
+## Pricing
+
+Open-source.

@@ -1,5 +1,8 @@
-# MCP MongoDB
+## Overview
 
-Simple MCP Server for MongoDB databases.
+MCP MongoDB server enables AI models to interact with MongoDB using natural language.
 
-[https://github.com/nan-qin/mcp-mongodb](https://github.com/nan-qin/mcp-mongodb)
+## Features
+
+- Natural language queries for data management and retrieval
+- Seamless integration via MCP protocol

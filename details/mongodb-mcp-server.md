@@ -1,5 +1,17 @@
-# MongoDB MCP Server
+## Overview
 
-MongoDB MCP Server providing comprehensive database interaction capabilities through Model Context Protocol.
+Official MongoDB MCP server for NoSQL data access.
 
-[https://github.com/jonfreeland/mongodb-mcp](https://github.com/jonfreeland/mongodb-mcp)
+## Features
+
+- Natural language to aggregation pipelines
+- Query unstructured data
+- Docker deployment
+
+## Deployment
+
+Docker (self-hosted)
+
+## Pricing
+
+Open-source.

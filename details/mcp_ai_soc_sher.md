@@ -1,10 +1,19 @@
 ## Overview
 
-AI SOC security threat analysis.
+AI-powered SOC analysis via MCP.
 
 ## Features
 
-- Dynamic threat analysis for Text2SQL agents
+- Text2SQL threat scanning
+- Auth and vuln checks
+
+## Use Cases
+
+- Agent security audits
+
+## Comparisons
+
+AI SOC vs manual tools.
 
 ## Pricing
 

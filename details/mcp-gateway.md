@@ -1,10 +1,17 @@
 ## Overview
 
-A gateway demo for MCP SSE Server demonstrating routing and management of MCP connections.
+Microsoft MCP Gateway is a reverse proxy and management layer for MCP servers, supporting secure auth via Entra ID.
 
 ## Features
 
-- SSE gateway demonstration
-- Connection routing
-- Server management
-- Scalable deployment patterns
+- Scalable, session-aware routing
+- Lifecycle management
+- Dynamic discovery and observability
+
+## Use Cases
+
+- Enterprise AI agent orchestration
+
+## Pricing
+
+Open-source under MIT license.

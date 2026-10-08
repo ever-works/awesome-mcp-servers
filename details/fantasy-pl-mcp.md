@@ -1,11 +1,5 @@
-## Overview
+# fantasy-pl-mcp
 
-Fantasy Premier League data.
+An MCP server for real-time Fantasy Premier League data and analysis tools. Enables AI agents to access FPL data. Licensed under MIT.
 
-## Features
-
-- Real-time data and analysis
-
-## Pricing
-
-Free and open-source.
+[https://github.com/rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp)

@@ -1,5 +1,16 @@
-# DeepSeek-Thinking-Clau-de-3.5-Sonnet-CLINE-MCP
+## Features
 
-MCP server implementing RAT (Retrieval Augmented Thinking) - combines DeepSeek's reasoning with GPT-4/Claude/Mistral responses, maintaining conversation context between interactions.
+- RAT with DeepSeek + other LLMs
+- Context-maintained chaining
 
-[https://github.com/newideas99/Deepseek-Thinking-Claude-3.5-Sonnet-CLINE-MCP](https://github.com/newideas99/Deepseek-Thinking-Claude-3.5-Sonnet-CLINE-MCP)
+## Use Cases
+
+- Advanced reasoning agents
+
+## Comparisons
+
+RAT-focused MCP vs LangChain RAG.
+
+## Pricing
+
+Open-source.

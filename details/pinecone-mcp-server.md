@@ -1,6 +1,6 @@
 ## Overview
 
-Pinecone MCP server for vector-based retrieval.
+Built on Pinecone’s vector database for similarity-based retrieval.
 
 ## Features
 
@@ -11,4 +11,4 @@ Pinecone MCP server for vector-based retrieval.
 
 ## Pricing
 
-Cloud service with free tier available.
+Open-source reference; Pinecone cloud pricing for production.

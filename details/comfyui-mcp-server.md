@@ -1,10 +1,21 @@
 ## Overview
 
-ComfyUI MCP Server bridges the Model Context Protocol with ComfyUI's powerful node-based image generation workflow. It enables AI assistants to trigger image generation and manipulation through MCP tools.
+ComfyUI node workflows via MCP.
 
 ## Features
 
-- Image generation via ComfyUI workflows
-- Node-based workflow execution through MCP
-- Integration with stable diffusion pipelines
-- Programmatic access to ComfyUI capabilities
+- Model hosting for image gen
+- Fine-tuning pipelines
+- RAG visual augmentation
+
+## Use Cases
+
+- Agent image prompting
+
+## Comparisons
+
+Workflow MCP vs OpenAI text API.
+
+## Pricing
+
+Open-source.

@@ -1,18 +1,13 @@
-## Overview
-
-Jira MCP Servers enable AI assistance in Jira project management.
-
 ## Features
 
-- JQL-based searches
-- Sprint status, blockers, priorities
-- Issue creation, updates, comments
-- Rovo for write capabilities
+- JQL issue search
+- Retrieve issue details and manage comments
+- Create or bulk-update issues (with Rovo)
 
 ## Best For
 
-Agile teams managing tickets.
+Agile teams for ticket management and triage.
 
 ## Pricing
 
-Tied to Jira licensing.
+Depends on Atlassian plans; open-source option available.

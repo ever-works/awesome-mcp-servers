@@ -1,11 +1,11 @@
 ## Overview
 
-Yahoo Finance data access via MCP.
+Yahoo Finance data via MCP.
 
 ## Features
 
-- Stock, financial data retrieval
+- Stock quotes and info
 
 ## Pricing
 
-Free.
+MIT license.

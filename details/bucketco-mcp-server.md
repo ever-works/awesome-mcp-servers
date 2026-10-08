@@ -1,15 +1,20 @@
 ## Overview
 
-Bucket.co MCP server provides feature flagging capabilities directly from your IDE, integrating with AI development workflows.
+Bucket.co MCP server provides feature flagging capabilities directly from your IDE.
 
 ## Features
 
 - Feature flag management from IDE
 - AI-assisted feature flag operations
 - Integration with development environments
+- Rollout controls and targeting
 
 ## Use Cases
 
-- Feature flag management during development
-- AI-assisted release management
-- In-IDE feature control
+- In-IDE experimentation
+- Safe deployments
+- Feature toggle automation
+
+## Pricing
+
+Usage-based pricing.

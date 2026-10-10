@@ -216,7 +216,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Knowledge Mcp Servers (4)](#knowledge-mcp-servers)
 - [Location Services (30)](#location-services)
 - [Marketing (28)](#marketing)
-- [Marketing & Sales MCP Servers (3)](#marketing--sales-mcp-servers)
+- [Marketing & Sales MCP Servers (4)](#marketing--sales-mcp-servers)
 - [MCP DevTools (5)](#mcp-devtools)
 - [MCP Middleware & Orchestration (30)](#mcp-middleware--orchestration-1)
 - [Mcp Middleware Orchestration (16)](#mcp-middleware-orchestration)
@@ -3045,6 +3045,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [mcp-teamtailor](https://github.com/crunchloop/mcp-teamtailor) - Facilitates seamless integration with the Teamtailor API for managing candidate data. ([Read more](/details/crunchloop-mcp-teamtailor.md)) `Open Source` `Hr` `Candidates`
 - [prospeo-mcp-server](https://github.com/Meerkats-Ai/prospeo-mcp-server) - Integrates with the Prospeo API to provide email finding and LinkedIn profile enrichment capabilities. ([Read more](/details/meerkats-ai-prospeo-mcp-server.md)) `Open Source` `Enrichment` `Linkedin`
 - [prospeo-mcp-server](https://github.com/Meerkats-Ai/prospeo-mcp-server) - Integrates with Prospeo API for email finding and LinkedIn profile enrichment to support lead generation and sales prospecting. ([Read more](/details/prospeo-mcp-server.md)) `Email` `Linkedin` `Open Source`
+- [Reqbeat](https://reqbeat.com) - Remote MCP server for hiring signals, letting AI agents search job postings by role and geo, qualify companies, and subscribe to them for new reqs pushed to a webhook. ([Read more](/details/reqbeat-hiring-signals.md)) `Hiring Signals` `Sales` `Remote`
 - [rocketreach-mcp-server](https://github.com/Meerkats-Ai/rocketreach-mcp-server) - Integrates with RocketReach API to provide email, phone number finding, and company enrichment capabilities. ([Read more](/details/meerkats-ai-rocketreach-mcp-server.md)) `Open Source` `Enrichment` `Api`
 - [Salesforce MCP Connector](https://www.salesforce.com/) - Exposes Salesforce CRM data and APIs through the MCP standard, allowing AI to perform create, update, and delete operations on Salesforce records using existing user permissions and access rights. ([Read more](/details/salesforce-mcp-connector.md)) `Salesforce` `Crm` `Sales`
 - [shopops-mcp](https://github.com/enzoemir1/shopops-mcp) - E-commerce operations with inventory management, dynamic pricing, customer segmentation, sales analytics, product catalog, and order management. 11 tools, 4 resources. ([Read more](/details/enzoemir1-shopops-mcp.md)) `Open Source` `Ecommerce` `Analytics`
@@ -3729,7 +3730,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Crypto Brokers MCP Server](https://github.com/itay1542/crypto-brokers-mcp) - An MCP server that implements popular brokers' APIs and more. Enables AI assistants to interact with cryptocurrency brokerage platforms for trading, portfolio management, and market analysis through the Model Context Protocol. ([Read more](/details/crypto-brokers-mcp-server.md)) `Cryptocurrency` `Trading` `Broker Api`
 - [Crypto Fear and Greed MCP](https://github.com/kukapay/crypto-feargreed-mcp) - Providing real-time and historical Crypto Fear and Greed Index data to AI agents. ([Read more](/details/crypto-fear-and-greed-mcp.md)) `Sentiment` `Fear Greed` `Index`
 - [Crypto MCP](https://github.com/szcharlesji/crypto-mcp) - Real-time access to cryptocurrency data from the CoinMarketCap API. ([Read more](/details/crypto-mcp.md)) `Cryptocurrency` `Coinmarketcap` `Real Time`
-- [Crypto MCP (kiss-kedaya)](https://github.com/kiss-kedaya/crypto_mcp) - ��MCP�h (Crypto MCP server) for cryptocurrency data access and blockchain interaction. ([Read more](/details/crypto-mcp-kiss-kedaya.md)) `Cryptocurrency` `Blockchain` `Chinese`
+- [Crypto MCP (kiss-kedaya)](https://github.com/kiss-kedaya/crypto_mcp) - ��MCP
+�h (Crypto MCP server) for cryptocurrency data access and blockchain interaction. ([Read more](/details/crypto-mcp-kiss-kedaya.md)) `Cryptocurrency` `Blockchain` `Chinese`
 - [Crypto Sentiment MCP](https://github.com/kukapay/crypto-sentiment-mcp) - An MCP server that delivers cryptocurrency sentiment analysis to AI agents. ([Read more](/details/crypto-sentiment-mcp.md)) `Sentiment Analysis` `Crypto` `Ai Agents`
 - [Crypto Trader MCP Claude Desktop](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop) - An MCP tool that provides cryptocurrency market data using the CoinGecko API specifically designed for Claude Desktop. ([Read more](/details/crypto-trader-mcp-claude-desktop.md)) `Cryptocurrency` `Coingecko` `Claude Desktop`
 - [CryptoPanic MCP](https://github.com/kukapay/cryptopanic-mcp-server) - Provides latest cryptocurrency news to AI agents through the CryptoPanic API. ([Read more](/details/cryptopanic-mcp.md)) `Crypto News` `Cryptopanic` `News`

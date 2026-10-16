@@ -176,7 +176,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [File Management MCP Servers (10)](#file-management-mcp-servers-1)
 - [File Systems (14)](#file-systems)
 - [Finance & Blockchain MCP Servers (3)](#finance--blockchain-mcp-servers)
-- [Finance & Fintech (19)](#finance--fintech)
+- [Finance & Fintech (20)](#finance--fintech)
 - [Finance & Market Data Mcp Servers (141)](#finance--market-data-mcp-servers)
 - [Finance & Market Data MCP Servers (8)](#finance--market-data-mcp-servers-1)
 - [Finance Market Data Mcp Servers (2)](#finance-market-data-mcp-servers)
@@ -3681,6 +3681,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Awesome X402](https://github.com/xpaysh/awesome-x402) - Curated directory of x402 payment protocol resources, MCP servers, and tools for HTTP 402-based USDC payments on Base. ([Read more](/details/awesome-x402.md)) `Open Source` `Payments` `Blockchain`
 - [Base MCP](https://github.com/base/base-mcp) - Base Network integration for onchain tools, allowing interaction with Base Network and Coinbase API for wallet management. ([Read more](/details/base-mcp.md)) `Open Source` `Blockchain` `Wallet`
 - [EVM MCP Server](https://github.com/mcpdotdirect/evm-mcp-server) - Comprehensive blockchain services for 30+ EVM networks, supporting native tokens, ERC20, NFTs, smart contracts via MCP. ([Read more](/details/evm-mcp-server.md)) `Open Source` `Evm` `Blockchain`
+- [Fillfolio MCP](https://github.com/fillfolio/portfolio-mcp) - Hosted read-only access to stored holdings, net worth, cash, bank spending and budgets. Requires a paid account and accepted OAuth client. ([Read more](/details/fillfolio-mcp.md)) `Portfolio` `Personal Finance` `OAuth`
 - [Freqtrade MCP](https://github.com/kukapay/freqtrade-mcp) - MCP server integrating with Freqtrade cryptocurrency trading bot. ([Read more](/details/freqtrade-mcp.md)) `Open Source` `Trading Bot` `Crypto`
 - [Heurist Mesh MCP Server](https://github.com/heurist-network/heurist-mesh-mcp-server) - Access specialized web3 AI agents for blockchain analysis, smart contract security auditing, token metrics evaluation via MCP. ([Read more](/details/heurist-mesh-mcp-server.md)) `Open Source` `Web3` `Blockchain Analysis`
 - [Investor Agent](https://github.com/ferdousbhai/investor-agent) - Yahoo Finance integration to fetch stock market data including options recommendations via MCP. ([Read more](/details/investor-agent.md)) `Open Source` `Yahoo Finance` `Stocks`

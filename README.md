@@ -164,7 +164,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Document Management MCP Servers (2)](#document-management-mcp-servers-2)
 - [Documentation (1)](#documentation)
 - [Documentation & Knowledge MCP Servers (15)](#documentation--knowledge-mcp-servers)
-- [Documentation & Learning Resources (15)](#documentation--learning-resources)
+- [Documentation & Learning Resources (16)](#documentation--learning-resources)
 - [Documentation Learning Resources (14)](#documentation-learning-resources)
 - [E Commerce (3)](#e-commerce)
 - [E-Commerce (1)](#e-commerce-1)
@@ -3573,6 +3573,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [MCP Sequential Thinking Server (Cyanheads)](https://github.com/cyanheads/mcp-seek) - Explores the Model Context Protocol through practical guides, clients, and servers built while learning about the protocol, with sequential thinking capabilities. ([Read more](/details/mcp-sequential-thinking-server-cyanheads.md)) `Sequential Thinking` `Learning` `Guides`
 - [Microsoft Learn Docs](https://learn.microsoft.com) - MCP server providing structured access to Microsoft's official documentation, retrieving accurate, authoritative, and context-aware technical content for code generation, question answering, and workflow grounding. ([Read more](/details/microsoft-learn-docs.md)) `Documentation` `Technical Content` `Microsoft`
 - [Official MercadoLibre MCP Server](https://developers.mercadolibre.com.ar/en_us/mcp-server) - Official MercadoLibre MCP server providing developers with tools to interact with MercadoLibre's APIs. Includes search_documentation and get_documentation_page tools to help AI agents understand and use the MercadoLibre API ecosystem. ([Read more](/details/official-mercadolibre-mcp-server.md)) `E Commerce` `Marketplace` `Api Documentation`
+- [xmcp Docs](https://xmcp.dev/docs/guides/xmcp-mcp-server) - Official xmcp documentation server with a read-only search tool for finding framework documentation or retrieving pages by ID. Free remote Streamable HTTP endpoint at https://xmcp.dev/mcp; no authentication required. ([Read more](/details/xmcp-docs.md)) `Documentation` `Typescript` `Remote`
 
 ## Documentation Learning Resources
 

@@ -164,7 +164,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Document Management MCP Servers (2)](#document-management-mcp-servers-2)
 - [Documentation (1)](#documentation)
 - [Documentation & Knowledge MCP Servers (15)](#documentation--knowledge-mcp-servers)
-- [Documentation & Learning Resources (15)](#documentation--learning-resources)
+- [Documentation & Learning Resources (16)](#documentation--learning-resources)
 - [Documentation Learning Resources (14)](#documentation-learning-resources)
 - [E Commerce (3)](#e-commerce)
 - [E-Commerce (1)](#e-commerce-1)
@@ -3569,6 +3569,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Bible MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/bible) - Add biblical context to your generative AI applications. Provides AI assistants with access to biblical text and related resources. ([Read more](/details/bible-mcp.md)) `Bible` `Religious Texts` `Context`
 - [bioRxiv MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/biorxiv-mcp) - Enable AI assistants to search and access bioRxiv papers through a simple MCP interface, providing access to preprinted biological research. ([Read more](/details/biorxiv-mcp.md)) `Biorxiv` `Preprints` `Biological Research`
 - [Brazilian Law MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/brazilian-law) - Agent-driven research on Brazilian law using official sources, enabling AI assistants to search and analyze Brazilian legal documents and regulations. ([Read more](/details/brazilian-law-mcp.md)) `Law` `Brazil` `Legal Research`
+- [Docsy](https://github.com/getremcp/docsy-plugin) - Hosted OAuth MCP server for current and version-specific library/framework documentation, with five read-only tools and source links. Connect to `https://docsy.remcp.site/mcp/registry`. ([Read more](/details/docsy.md)) `Documentation` `Developer Tools` `Remote`
 - [DevDocs MCP](https://github.com/madhan-g-p/DevDocs-MCP) - MCP server providing version-pinned, deterministic documentation from DevDocs.io in offline mode. Enables reliable access to developer docs for macOS and Linux. ([Read more](/details/devdocs-mcp.md)) `Documentation` `Offline` `Devdocs`
 - [MCP Sequential Thinking Server (Cyanheads)](https://github.com/cyanheads/mcp-seek) - Explores the Model Context Protocol through practical guides, clients, and servers built while learning about the protocol, with sequential thinking capabilities. ([Read more](/details/mcp-sequential-thinking-server-cyanheads.md)) `Sequential Thinking` `Learning` `Guides`
 - [Microsoft Learn Docs](https://learn.microsoft.com) - MCP server providing structured access to Microsoft's official documentation, retrieving accurate, authoritative, and context-aware technical content for code generation, question answering, and workflow grounding. ([Read more](/details/microsoft-learn-docs.md)) `Documentation` `Technical Content` `Microsoft`
@@ -3729,7 +3730,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Crypto Brokers MCP Server](https://github.com/itay1542/crypto-brokers-mcp) - An MCP server that implements popular brokers' APIs and more. Enables AI assistants to interact with cryptocurrency brokerage platforms for trading, portfolio management, and market analysis through the Model Context Protocol. ([Read more](/details/crypto-brokers-mcp-server.md)) `Cryptocurrency` `Trading` `Broker Api`
 - [Crypto Fear and Greed MCP](https://github.com/kukapay/crypto-feargreed-mcp) - Providing real-time and historical Crypto Fear and Greed Index data to AI agents. ([Read more](/details/crypto-fear-and-greed-mcp.md)) `Sentiment` `Fear Greed` `Index`
 - [Crypto MCP](https://github.com/szcharlesji/crypto-mcp) - Real-time access to cryptocurrency data from the CoinMarketCap API. ([Read more](/details/crypto-mcp.md)) `Cryptocurrency` `Coinmarketcap` `Real Time`
-- [Crypto MCP (kiss-kedaya)](https://github.com/kiss-kedaya/crypto_mcp) - ��MCP�h (Crypto MCP server) for cryptocurrency data access and blockchain interaction. ([Read more](/details/crypto-mcp-kiss-kedaya.md)) `Cryptocurrency` `Blockchain` `Chinese`
+- [Crypto MCP (kiss-kedaya)](https://github.com/kiss-kedaya/crypto_mcp) - ��MCP
+�h (Crypto MCP server) for cryptocurrency data access and blockchain interaction. ([Read more](/details/crypto-mcp-kiss-kedaya.md)) `Cryptocurrency` `Blockchain` `Chinese`
 - [Crypto Sentiment MCP](https://github.com/kukapay/crypto-sentiment-mcp) - An MCP server that delivers cryptocurrency sentiment analysis to AI agents. ([Read more](/details/crypto-sentiment-mcp.md)) `Sentiment Analysis` `Crypto` `Ai Agents`
 - [Crypto Trader MCP Claude Desktop](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop) - An MCP tool that provides cryptocurrency market data using the CoinGecko API specifically designed for Claude Desktop. ([Read more](/details/crypto-trader-mcp-claude-desktop.md)) `Cryptocurrency` `Coingecko` `Claude Desktop`
 - [CryptoPanic MCP](https://github.com/kukapay/cryptopanic-mcp-server) - Provides latest cryptocurrency news to AI agents through the CryptoPanic API. ([Read more](/details/cryptopanic-mcp.md)) `Crypto News` `Cryptopanic` `News`

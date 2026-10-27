@@ -271,7 +271,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Security (8)](#security)
 - [Security & Compliance MCP Servers (13)](#security--compliance-mcp-servers)
 - [SEO (4)](#seo)
-- [Server Management Tools (3)](#server-management-tools-1)
+- [Server Management Tools (4)](#server-management-tools-1)
 - [Serverless (4)](#serverless)
 - [Smart Home & IoT (1)](#smart-home--iot)
 - [Smart Home & IoT Mcp Servers (38)](#smart-home--iot-mcp-servers)
@@ -3729,7 +3729,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Crypto Brokers MCP Server](https://github.com/itay1542/crypto-brokers-mcp) - An MCP server that implements popular brokers' APIs and more. Enables AI assistants to interact with cryptocurrency brokerage platforms for trading, portfolio management, and market analysis through the Model Context Protocol. ([Read more](/details/crypto-brokers-mcp-server.md)) `Cryptocurrency` `Trading` `Broker Api`
 - [Crypto Fear and Greed MCP](https://github.com/kukapay/crypto-feargreed-mcp) - Providing real-time and historical Crypto Fear and Greed Index data to AI agents. ([Read more](/details/crypto-fear-and-greed-mcp.md)) `Sentiment` `Fear Greed` `Index`
 - [Crypto MCP](https://github.com/szcharlesji/crypto-mcp) - Real-time access to cryptocurrency data from the CoinMarketCap API. ([Read more](/details/crypto-mcp.md)) `Cryptocurrency` `Coinmarketcap` `Real Time`
-- [Crypto MCP (kiss-kedaya)](https://github.com/kiss-kedaya/crypto_mcp) - ��MCP�h (Crypto MCP server) for cryptocurrency data access and blockchain interaction. ([Read more](/details/crypto-mcp-kiss-kedaya.md)) `Cryptocurrency` `Blockchain` `Chinese`
+- [Crypto MCP (kiss-kedaya)](https://github.com/kiss-kedaya/crypto_mcp) - ��MCP
+�h (Crypto MCP server) for cryptocurrency data access and blockchain interaction. ([Read more](/details/crypto-mcp-kiss-kedaya.md)) `Cryptocurrency` `Blockchain` `Chinese`
 - [Crypto Sentiment MCP](https://github.com/kukapay/crypto-sentiment-mcp) - An MCP server that delivers cryptocurrency sentiment analysis to AI agents. ([Read more](/details/crypto-sentiment-mcp.md)) `Sentiment Analysis` `Crypto` `Ai Agents`
 - [Crypto Trader MCP Claude Desktop](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop) - An MCP tool that provides cryptocurrency market data using the CoinGecko API specifically designed for Claude Desktop. ([Read more](/details/crypto-trader-mcp-claude-desktop.md)) `Cryptocurrency` `Coingecko` `Claude Desktop`
 - [CryptoPanic MCP](https://github.com/kukapay/cryptopanic-mcp-server) - Provides latest cryptocurrency news to AI agents through the CryptoPanic API. ([Read more](/details/cryptopanic-mcp.md)) `Crypto News` `Cryptopanic` `News`
@@ -4922,6 +4923,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 - [Claris FileMaker Server - Admin API MCP Server](https://mcp.pipedream.com/app/claris_filemaker_server_admin_api) - An MCP Server integration for the Claris FileMaker Server Admin API, enabling scripted administrative tasks on FileMaker Server (such as configuration and management operations) via MCP-compatible tooling instead of the standard Admin Console UI. ([Read more](/details/claris-filemaker-server-admin-api-mcp-server.md)) `Server Management` `admin` `Automation`
 - [mc-control](https://github.com/devmccontrol/mc-control) - A shell tool for spawning, stopping, and scripting MCP instances. It is perfect for automating experiments or running isolated AI tasks in MCP environments. ([Read more](/details/mc-control.md)) `Open Source` `Automation` `Shell`
+- [ReMCP](https://github.com/getremcp/remcp) - OAuth-protected remote MCP access to explicitly paired computers for files, terminal commands, browser and native desktop automation. Tools can modify device state; hosted endpoint `https://remcp.site/mcp`. ([Read more](/details/remcp.md)) `Remote` `Computer Use` `OAuth`
 - [mc-server-wrapper](https://github.com/itzg/docker-minecraft-server) - A Python-based server lifecycle manager ideal for scripting numerous training runs or injecting commands into MCP servers without using a GUI. ([Read more](/details/mc-server-wrapper.md)) `Open Source` `Python` `Docker`
 
 ## Serverless

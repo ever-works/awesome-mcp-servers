@@ -16,7 +16,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Api Integration Mcp Servers (18)](#api-integration-mcp-servers)
 - [Data Analysis & Exploration Mcp Servers (63)](#data-analysis--exploration-mcp-servers)
 - [Messaging Mcp Servers (33)](#messaging-mcp-servers)
-- [Business & Commerce Mcp Servers (36)](#business--commerce-mcp-servers)
+- [Business & Commerce Mcp Servers (37)](#business--commerce-mcp-servers)
 - [Developer Tools "Developer Tools"amp; IDE MCP Servers (118)](#developer-tools-developer-toolsamp-ide-mcp-servers)
 - [MCP Directories & Registries (10)](#mcp-directories--registries)
 - [Monitoring (37)](#monitoring)
@@ -840,6 +840,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Business & Commerce Mcp Servers
 
+- [Signbee MCP Server](https://github.com/signbee/mcp) - Official Signb.ee MCP server enabling AI agents to send Markdown or PDF documents for legally binding two-party e-signing with SHA-256 cryptographic audit trails, OTP verification, and webhook notifications. `Document Signing` `E Signatures` `Legaltech`
 - [Block (Square) MCP Server](https://developer.squareup.com/mcp) - Block (formerly Square) MCP server enabling AI agents to interact with payment processing, point-of-sale, and financial services. Co-founder of Agentic AI Foundation alongside Anthropic and OpenAI. ([Read more](/details/block-square-mcp-server.md)) `Payments` `Fintech` `Pos`
 - [PayPal MCP Server](https://developer.paypal.com/mcp) - Official PayPal MCP server providing full agentic toolkit for AI assistants to manage orders, invoices, disputes, shipment tracking, transactions, and subscriptions through PayPal's complete API suite. ([Read more](/details/paypal-mcp-server.md)) `Payments` `E Commerce` `Fintech`
 - [Salesforce Agentforce MCP Support](https://www.salesforce.com/agentforce/mcp-support/) - Salesforce Agentforce 3 with native MCP client integration enabling plug-and-play AI agent capabilities. Connect business logic, data, and workflows to AI agents without custom code through MCP servers. ([Read more](/details/salesforce-agentforce-mcp-support.md)) `Crm` `Enterprise` `Ai Agents`

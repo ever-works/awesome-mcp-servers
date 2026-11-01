@@ -876,6 +876,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [WooCommerce MCP Server](https://developer.woocommerce.com/docs/features/mcp/) - WordPress plugin implementing Model Context Protocol for WooCommerce stores. Connects AI assistants like Claude to manage products, orders, customers, and store operations with secure REST API authentication and read-only mode for safety. ([Read more](/details/woocommerce-mcp-server.md)) `Wordpress` `E Commerce` `Online Store`
 - [Zendesk Third-Party MCP Servers](https://mcp.composio.dev/zendesk) - Community and third-party Zendesk MCP server implementations available through platforms like Composio, PulseMCP, Swifteq, and Merge. Enables AI access to Zendesk Support despite lack of official MCP server from Zendesk. ([Read more](/details/zendesk-third-party-mcp-servers.md)) `Customer Support` `Helpdesk` `Third Party`
 - [Zoom MCP Integration](https://www.zoom.com/en/products/whats-new/) - MCP integration for Zoom enabling app developers to connect Zoom apps to remote MCP servers, build MCP-powered apps in AI Studio, and create custom agents that connect to third-party tools like Jira and Box. ([Read more](/details/zoom-mcp-integration.md)) `Zoom` `Video Conferencing` `Collaboration`
+- [McClipFace](https://mcclipface.com) - Remote MCP server (https://mcclipface.com/mcp/read, no auth) that finds current coupon codes, promo codes, deals and discounts for stores and products. `Shopping` `Coupons` `Deals`
 
 ## Developer Tools "Developer Tools"amp; IDE MCP Servers
 

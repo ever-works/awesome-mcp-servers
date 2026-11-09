@@ -1326,6 +1326,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Content Extraction & Summarization Mcp Servers
 
+- [Arcmira: YouTube Transcript Search](https://arcmira.com) - YouTube transcript search and monitoring for your AI. Arcmira understands YouTube and podcasts like it watched them: the exact quote, often who said it, the full transcript and sponsors. ([Read more](/details/arcmira.md)) `Youtube` `Transcripts` `Remote`
 - [MarkItDown Official MCP](https://www.pulsemcp.com/servers/markitdown) - Official Microsoft MarkItDown MCP server for converting various file formats to Markdown using the MarkItDown utility, optimized for AI model consumption and document processing. ([Read more](/details/markitdown-official-mcp.md)) `Markdown` `Microsoft` `Official`
 - [Video Transcriber MCP Whisper](https://github.com/nhatvu148/video-transcriber-mcp) - Universal video transcription MCP server supporting 1000+ platforms including YouTube, Vimeo, TikTok, and Twitter using OpenAI's Whisper model for accurate speech-to-text conversion. ([Read more](/details/video-transcriber-mcp-whisper.md)) `Transcription` `Whisper` `Video`
 - [Apify](https://github.com/modelcontextprotocol/servers/tree/main/src/apify) - Use 6,000+ pre-built cloud tools to extract data from websites, e-commerce, social media, search engines, maps, and more. Apify provides powerful web scraping and automation capabilities through its MCP server. ([Read more](/details/apify.md)) `Web Scraping` `Data Extraction` `Cloud Tools`

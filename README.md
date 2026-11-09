@@ -16,7 +16,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Api Integration Mcp Servers (18)](#api-integration-mcp-servers)
 - [Data Analysis & Exploration Mcp Servers (63)](#data-analysis--exploration-mcp-servers)
 - [Messaging Mcp Servers (33)](#messaging-mcp-servers)
-- [Business & Commerce Mcp Servers (36)](#business--commerce-mcp-servers)
+- [Business & Commerce Mcp Servers (37)](#business--commerce-mcp-servers)
 - [Developer Tools "Developer Tools"amp; IDE MCP Servers (118)](#developer-tools-developer-toolsamp-ide-mcp-servers)
 - [MCP Directories & Registries (10)](#mcp-directories--registries)
 - [Monitoring (37)](#monitoring)
@@ -842,6 +842,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 - [Block (Square) MCP Server](https://developer.squareup.com/mcp) - Block (formerly Square) MCP server enabling AI agents to interact with payment processing, point-of-sale, and financial services. Co-founder of Agentic AI Foundation alongside Anthropic and OpenAI. ([Read more](/details/block-square-mcp-server.md)) `Payments` `Fintech` `Pos`
 - [PayPal MCP Server](https://developer.paypal.com/mcp) - Official PayPal MCP server providing full agentic toolkit for AI assistants to manage orders, invoices, disputes, shipment tracking, transactions, and subscriptions through PayPal's complete API suite. ([Read more](/details/paypal-mcp-server.md)) `Payments` `E Commerce` `Fintech`
+- [Nexscope Ecommerce MCP](https://github.com/nexscope-ai/nexscope-ecommerce-api) - Remote MCP for Amazon and marketplace product research, competitor/keyword insights, and AI listing image/video workflows for ecommerce agents. ([Read more](/details/nexscope-ecommerce-mcp.md)) `E Commerce` `Product Research` `Amazon`
 - [Salesforce Agentforce MCP Support](https://www.salesforce.com/agentforce/mcp-support/) - Salesforce Agentforce 3 with native MCP client integration enabling plug-and-play AI agent capabilities. Connect business logic, data, and workflows to AI agents without custom code through MCP servers. ([Read more](/details/salesforce-agentforce-mcp-support.md)) `Crm` `Enterprise` `Ai Agents`
 - [SAP Business MCP Integration](https://community.sap.com/t5/technology-blog-posts-by-members/unlocking-the-power-of-model-context-protocol-mcp-for-sap-business/ba-p/14258263) - MCP server and client mechanisms for SAP Business Technology Platform enabling AI-powered agentic systems. Integrates with SAP Level 2 and Level 3 processes, executing business logic via SAP ODATA services on Cloud Foundry. ([Read more](/details/sap-business-mcp-integration.md)) `ERP` `Enterprise` `Sap`
 - [Shopify Storefront MCP Server](https://shopify.dev/docs/apps/build/storefront-mcp/servers/storefront) - Official Shopify MCP server providing structured access to e-commerce data. Enables product discovery, cart management, order tracking, and store information through natural language with MCP UI for interactive components. ([Read more](/details/shopify-storefront-mcp-server.md)) `E Commerce` `Storefront` `Shopping`
@@ -3729,7 +3730,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Crypto Brokers MCP Server](https://github.com/itay1542/crypto-brokers-mcp) - An MCP server that implements popular brokers' APIs and more. Enables AI assistants to interact with cryptocurrency brokerage platforms for trading, portfolio management, and market analysis through the Model Context Protocol. ([Read more](/details/crypto-brokers-mcp-server.md)) `Cryptocurrency` `Trading` `Broker Api`
 - [Crypto Fear and Greed MCP](https://github.com/kukapay/crypto-feargreed-mcp) - Providing real-time and historical Crypto Fear and Greed Index data to AI agents. ([Read more](/details/crypto-fear-and-greed-mcp.md)) `Sentiment` `Fear Greed` `Index`
 - [Crypto MCP](https://github.com/szcharlesji/crypto-mcp) - Real-time access to cryptocurrency data from the CoinMarketCap API. ([Read more](/details/crypto-mcp.md)) `Cryptocurrency` `Coinmarketcap` `Real Time`
-- [Crypto MCP (kiss-kedaya)](https://github.com/kiss-kedaya/crypto_mcp) - ��MCP�h (Crypto MCP server) for cryptocurrency data access and blockchain interaction. ([Read more](/details/crypto-mcp-kiss-kedaya.md)) `Cryptocurrency` `Blockchain` `Chinese`
+- [Crypto MCP (kiss-kedaya)](https://github.com/kiss-kedaya/crypto_mcp) - ��MCP
+�h (Crypto MCP server) for cryptocurrency data access and blockchain interaction. ([Read more](/details/crypto-mcp-kiss-kedaya.md)) `Cryptocurrency` `Blockchain` `Chinese`
 - [Crypto Sentiment MCP](https://github.com/kukapay/crypto-sentiment-mcp) - An MCP server that delivers cryptocurrency sentiment analysis to AI agents. ([Read more](/details/crypto-sentiment-mcp.md)) `Sentiment Analysis` `Crypto` `Ai Agents`
 - [Crypto Trader MCP Claude Desktop](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop) - An MCP tool that provides cryptocurrency market data using the CoinGecko API specifically designed for Claude Desktop. ([Read more](/details/crypto-trader-mcp-claude-desktop.md)) `Cryptocurrency` `Coingecko` `Claude Desktop`
 - [CryptoPanic MCP](https://github.com/kukapay/cryptopanic-mcp-server) - Provides latest cryptocurrency news to AI agents through the CryptoPanic API. ([Read more](/details/cryptopanic-mcp.md)) `Crypto News` `Cryptopanic` `News`

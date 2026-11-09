@@ -1,6 +1,6 @@
 # Arcmira: YouTube Transcript Search
 
-[Arcmira](https://arcmira.com) is a hosted MCP service for searching indexed YouTube and podcast transcripts.
+YouTube transcript search and monitoring for your AI. [Arcmira](https://arcmira.com) understands YouTube and podcasts like it watched them: the exact quote, often who said it, the full transcript and sponsors.
 
 ## Features
 

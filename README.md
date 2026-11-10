@@ -34,7 +34,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [AI Agent & Orchestration MCP Servers (2)](#ai-agent--orchestration-mcp-servers)
 - [API Integration & Gateway MCP Servers (7)](#api-integration--gateway-mcp-servers)
 - [Cloud & DevOps MCP Servers (16)](#cloud--devops-mcp-servers-1)
-- [Cloud & DevOps MCP Servers (30)](#cloud--devops-mcp-servers-2)
+- [Cloud & DevOps MCP Servers (31)](#cloud--devops-mcp-servers-2)
 - [Content Extraction & Summarization Mcp Servers (14)](#content-extraction--summarization-mcp-servers)
 - [Data Visualization (11)](#data-visualization)
 - [Developer Tools (11)](#developer-tools)
@@ -1307,6 +1307,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [azure-cli-mcp](https://github.com/jdubois/azure-cli-mcp) - Enables direct management of Azure resources through the Azure CLI, allowing users to list resources, fix configuration issues, and create new services using local credentials. Implements the Model Context Protocol (MCP), making it a notable MCP Server. ([Read more](/details/azure-cli-mcp.md)) `Mcp` `Azure` `Cli` `Cloud`
 - [azure-resource-graph-mcp-server](https://github.com/hardik-id/azure-resource-graph-mcp-server) - An MCP server for querying and analyzing Azure resources at scale using Azure Resource Graph, enabling AI assistants to monitor Azure infrastructure via MCP. ([Read more](/details/azure-resource-graph-mcp-server.md)) `Mcp` `Azure` `Cloud` `Monitoring`
 - [bright8192/esxi-mcp-server](https://github.com/bright8192/esxi-mcp-server) - A VMware ESXi/vCenter management server based on MCP, providing REST API interfaces for virtual machine management via the MCP protocol. ([Read more](/details/bright8192esxi-mcp-server.md)) `Mcp` `Cloud` `vmware` `Infrastructure` `Open Source`
+- [Buddy MCP Server](https://buddy.works/docs/ai-agents/mcp) - A remote MCP server for the Buddy CI/CD platform at https://mcp.buddy.works/mcp, with over 90 tools for pipelines, sandboxes, packages, domains and test suites. Agents sign in with OAuth or a personal access token. ([Read more](/details/buddy-mcp-server.md)) `Cicd` `Sandboxes` `Deployment`
 - [Buildkite MCP Server](https://buildkite.com/docs/apis/mcp-server) - An MCP server for Buildkite CI/CD at https://mcp.buildkite.com/mcp, allowing MCP-compatible agents to interact with Buildkite pipelines and builds using OAuth2.1. ([Read more](/details/buildkite-mcp-server.md)) `Cicd` `Pipelines` `Automation`
 - [BunnyCDN MCP Server](https://mcp.pipedream.com/app/bunnycdn) - An MCP Server that integrates with BunnyCDN to manage and interact with its content delivery network services through MCP workflows. ([Read more](/details/bunnycdn-mcp-server.md)) `Cdn` `Cloud` `Performance`
 - [ByteNite MCP Server](https://mcp.pipedream.com/app/bytenite) - An MCP Server for ByteNite, exposing its distributed computing resources for high-throughput applications within MCP-based automations. ([Read more](/details/bytenite-mcp-server.md)) `Distributed Computing` `High Performance` `Infrastructure`
@@ -3729,7 +3730,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Crypto Brokers MCP Server](https://github.com/itay1542/crypto-brokers-mcp) - An MCP server that implements popular brokers' APIs and more. Enables AI assistants to interact with cryptocurrency brokerage platforms for trading, portfolio management, and market analysis through the Model Context Protocol. ([Read more](/details/crypto-brokers-mcp-server.md)) `Cryptocurrency` `Trading` `Broker Api`
 - [Crypto Fear and Greed MCP](https://github.com/kukapay/crypto-feargreed-mcp) - Providing real-time and historical Crypto Fear and Greed Index data to AI agents. ([Read more](/details/crypto-fear-and-greed-mcp.md)) `Sentiment` `Fear Greed` `Index`
 - [Crypto MCP](https://github.com/szcharlesji/crypto-mcp) - Real-time access to cryptocurrency data from the CoinMarketCap API. ([Read more](/details/crypto-mcp.md)) `Cryptocurrency` `Coinmarketcap` `Real Time`
-- [Crypto MCP (kiss-kedaya)](https://github.com/kiss-kedaya/crypto_mcp) - ��MCP�h (Crypto MCP server) for cryptocurrency data access and blockchain interaction. ([Read more](/details/crypto-mcp-kiss-kedaya.md)) `Cryptocurrency` `Blockchain` `Chinese`
+- [Crypto MCP (kiss-kedaya)](https://github.com/kiss-kedaya/crypto_mcp) - ��MCP
+�h (Crypto MCP server) for cryptocurrency data access and blockchain interaction. ([Read more](/details/crypto-mcp-kiss-kedaya.md)) `Cryptocurrency` `Blockchain` `Chinese`
 - [Crypto Sentiment MCP](https://github.com/kukapay/crypto-sentiment-mcp) - An MCP server that delivers cryptocurrency sentiment analysis to AI agents. ([Read more](/details/crypto-sentiment-mcp.md)) `Sentiment Analysis` `Crypto` `Ai Agents`
 - [Crypto Trader MCP Claude Desktop](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop) - An MCP tool that provides cryptocurrency market data using the CoinGecko API specifically designed for Claude Desktop. ([Read more](/details/crypto-trader-mcp-claude-desktop.md)) `Cryptocurrency` `Coingecko` `Claude Desktop`
 - [CryptoPanic MCP](https://github.com/kukapay/cryptopanic-mcp-server) - Provides latest cryptocurrency news to AI agents through the CryptoPanic API. ([Read more](/details/cryptopanic-mcp.md)) `Crypto News` `Cryptopanic` `News`

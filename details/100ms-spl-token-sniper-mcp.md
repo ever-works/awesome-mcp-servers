@@ -1,8 +1,8 @@
-# 100ms-spl-token-sniper-mcp
+# 100ms-spl-[redacted secret]
 
 A high-performance MCP server designed for high-speed trading (sniping) of Solana SPL tokens, specifically targeting Raydium AMM pools and Serum markets. It leverages Model Context Protocol (MCP) for integration with Claude AI, enabling natural language interactions and advanced real-time blockchain trading capabilities.
 
-**Source:** [GitHub Repository](https://github.com/monostate/100ms-spl-token-sniper-mcp)
+**Source:** [GitHub Repository](https://github.com/monostate/100ms-spl-[redacted secret])
 
 ## Features
 - **Token Sniping on Raydium DEX:** Enables high-speed, sub-second execution of token trades on Raydium AMM pools.

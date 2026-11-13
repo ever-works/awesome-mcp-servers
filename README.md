@@ -34,10 +34,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [AI Agent & Orchestration MCP Servers (2)](#ai-agent--orchestration-mcp-servers)
 - [API Integration & Gateway MCP Servers (7)](#api-integration--gateway-mcp-servers)
 - [Cloud & DevOps MCP Servers (16)](#cloud--devops-mcp-servers-1)
-- [Cloud & DevOps MCP Servers (30)](#cloud--devops-mcp-servers-2)
+- [Cloud & DevOps MCP Servers (32)](#cloud--devops-mcp-servers-2)
 - [Content Extraction & Summarization Mcp Servers (14)](#content-extraction--summarization-mcp-servers)
 - [Data Visualization (11)](#data-visualization)
-- [Developer Tools (11)](#developer-tools)
+- [Developer Tools (12)](#developer-tools)
 - [DevOps (27)](#devops)
 - [Mcp Server Directories & Lists (2)](#mcp-server-directories--lists)
 - [Reference Implementations & Examples (55)](#reference-implementations--examples)
@@ -67,7 +67,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Search & Discovery Mcp Servers (30)](#search--discovery-mcp-servers)
 - [Security Attestation Mcp Servers (30)](#security-attestation-mcp-servers)
 - [Security MCP Servers (2)](#security-mcp-servers)
-- [Social (6)](#social)
+- [Social (7)](#social)
 - [Testing (1)](#testing)
 - [Travel & Transportation (26)](#travel--transportation)
 - [Version Control (23)](#version-control)
@@ -78,7 +78,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Ai Agents Mcp Servers (1)](#ai-agents-mcp-servers)
 - [AI Agents MCP Servers (1)](#ai-agents-mcp-servers-1)
 - [AI Integration Mcp Servers (33)](#ai-integration-mcp-servers-1)
-- [AI Integration MCP Servers (63)](#ai-integration-mcp-servers-2)
+- [AI Integration MCP Servers (65)](#ai-integration-mcp-servers-2)
 - [AI Integration MCP Servers (28)](#ai-integration-mcp-servers-3)
 - [AI/ML (4)](#aiml)
 - [Analytics (4)](#analytics)
@@ -102,6 +102,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Business Commerce MCP Servers (228)](#business-commerce-mcp-servers)
 - [Business Commerce MCP Servers (6)](#business-commerce-mcp-servers-1)
 - [Business Productivity (2)](#business-productivity)
+- [Business Productivity (2)](#business-productivity-1)
 - [CI/CD (11)](#cicd)
 - [Cloud (2)](#cloud)
 - [Cloud & DevOps Mcp Servers (18)](#cloud--devops-mcp-servers-3)
@@ -134,7 +135,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [CRM (1)](#crm-1)
 - [Customer Support (2)](#customer-support)
 - [Data Access & Integration Mcp Servers (31)](#data-access--integration-mcp-servers)
-- [Data Access Integration MCP Servers (53)](#data-access-integration-mcp-servers)
+- [Data Access Integration MCP Servers (54)](#data-access-integration-mcp-servers)
 - [Data Access Integration MCP Servers (1)](#data-access-integration-mcp-servers-1)
 - [Data Analysis & Exploration MCP Servers (12)](#data-analysis--exploration-mcp-servers-2)
 - [Data Integration (1)](#data-integration)
@@ -155,7 +156,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Developer Tools MCP Servers (3)](#developer-tools-mcp-servers-2)
 - [Development Tools (6)](#development-tools)
 - [Development Tools Mcp Servers (3)](#development-tools-mcp-servers)
-- [Development Tools MCP Servers (21)](#development-tools-mcp-servers-1)
+- [Development Tools MCP Servers (25)](#development-tools-mcp-servers-1)
 - [Development Tools MCP Servers (7)](#development-tools-mcp-servers-2)
 - [DevOps & CI/CD MCP Servers (4)](#devops--cicd-mcp-servers)
 - [DevOps & Cloud MCP Servers (1)](#devops--cloud-mcp-servers)
@@ -177,6 +178,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [File Systems (14)](#file-systems)
 - [Finance & Blockchain MCP Servers (3)](#finance--blockchain-mcp-servers)
 - [Finance & Fintech (19)](#finance--fintech)
+- [Finance & Fintech (1)](#finance--fintech-1)
 - [Finance & Market Data Mcp Servers (141)](#finance--market-data-mcp-servers)
 - [Finance & Market Data MCP Servers (8)](#finance--market-data-mcp-servers-1)
 - [Finance Market Data Mcp Servers (2)](#finance-market-data-mcp-servers)
@@ -217,13 +219,14 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Location Services (30)](#location-services)
 - [Marketing (28)](#marketing)
 - [Marketing & Sales MCP Servers (3)](#marketing--sales-mcp-servers)
+- [Marketing & Sales MCP Servers (3)](#marketing--sales-mcp-servers-1)
 - [MCP DevTools (5)](#mcp-devtools)
 - [MCP Middleware & Orchestration (30)](#mcp-middleware--orchestration-1)
 - [Mcp Middleware Orchestration (16)](#mcp-middleware-orchestration)
 - [MCP Server (1)](#mcp-server)
 - [MCP Server Directories & Lists (1)](#mcp-server-directories--lists-1)
 - [MCP Server Directories Lists (3)](#mcp-server-directories-lists-1)
-- [Media Processing MCP Servers (33)](#media-processing-mcp-servers-1)
+- [Media Processing MCP Servers (36)](#media-processing-mcp-servers-1)
 - [Media Processing MCP Servers (3)](#media-processing-mcp-servers-2)
 - [Messaging (3)](#messaging)
 - [Messaging MCP Servers (56)](#messaging-mcp-servers-1)
@@ -234,7 +237,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Monitoring & Observability (1)](#monitoring--observability)
 - [Monitoring Observability (5)](#monitoring-observability)
 - [Multimedia (20)](#multimedia)
-- [Multimedia (1)](#multimedia-1)
+- [Multimedia (5)](#multimedia-1)
 - [News (2)](#news)
 - [Note Taking (2)](#note-taking)
 - [OS Automation (1)](#os-automation)
@@ -264,7 +267,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Search & RAG (13)](#search--rag)
 - [Search & Web (1)](#search--web)
 - [Search Discovery Mcp Servers (1)](#search-discovery-mcp-servers)
-- [Search Discovery MCP Servers (4)](#search-discovery-mcp-servers-1)
+- [Search Discovery MCP Servers (6)](#search-discovery-mcp-servers-1)
 - [Search Rag (2)](#search-rag)
 - [Search Rag (1)](#search-rag-1)
 - [Search RAG (1)](#search-rag-2)
@@ -276,7 +279,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Smart Home & IoT (1)](#smart-home--iot)
 - [Smart Home & IoT Mcp Servers (38)](#smart-home--iot-mcp-servers)
 - [Smart Home & IoT MCP Servers (2)](#smart-home--iot-mcp-servers-1)
-- [Social Media (1)](#social-media)
+- [Social Media (2)](#social-media)
+- [Social Media (1)](#social-media-1)
 - [Sports & Entertainment (20)](#sports--entertainment)
 - [Sports & Entertainment Mcp Servers (4)](#sports--entertainment-mcp-servers)
 - [Sports Entertainment Mcp Servers (6)](#sports-entertainment-mcp-servers)
@@ -383,7 +387,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Base Free USDC Transfer MCP Server](https://github.com/magnetai/mcp-free-usdc-transfer) - An MCP server that enables LLMs to send USDC on the Base network for free using Coinbase CDP wallet infrastructure, integrating on-chain transfers into AI workflows. ([Read more](/details/base-free-usdc-transfer-mcp-server.md))
 - [CFBD API MCP Server](https://github.com/lenwood/cfbd-mcp-server) - An MCP server for the College Football Data (CFBD) API that lets LLMs query structured college football statistics and related data. ([Read more](/details/cfbd-api-mcp-server.md))
 - [ChatSum MCP Server](https://github.com/mcpso/mcp-server-chatsum) - An MCP server that allows LLMs to query and summarize chat messages, enabling conversational log analysis and condensation. ([Read more](/details/chatsum-mcp-server.md))
-- [Chroma Package Search MCP Server](https://www.mcpnow.io/en/server/chroma-package-search-chroma-core-package-search) - A Chroma-hosted MCP server for package searching at `mcp.trychroma.com`, allowing tools to query packages through the Model Context Protocol. ([Read more](/details/chroma-package-search-mcp-server.md))
+- [Chroma Package Search MCP Server](https://www.mcpnow.io/en/server/chroma-package-search-chroma-core-package-search) - A Chroma-hosted MCP server for package searching at \`mcp.trychroma.com\`, allowing tools to query packages through the Model Context Protocol. ([Read more](/details/chroma-package-search-mcp-server.md))
 - [Cloudinary](https://github.com/felores/cloudinary-mcp-server) - A Cloudinary MCP server that lets MCP clients upload media assets to Cloudinary and retrieve their URLs and metadata. ([Read more](/details/cloudinary.md))
 - [coin_api_mcp](https://github.com/longmans/coin_api_mcp) - An MCP server that exposes CoinMarketCap cryptocurrency market data to MCP-compatible clients for querying prices and market information. ([Read more](/details/coin_api_mcp.md))
 - [Compass](https://github.com/liuyoshio/mcp-compass) - MCP Compass is a discovery and recommendation service that helps AI assistants find and understand MCP servers using natural language queries. It's directly relevant as a tool to locate and interact with MCP servers. ([Read more](/details/compass.md)) `Mcp` `Discovery` `tool-discovery` `Ai Assistant`
@@ -1285,7 +1289,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Cloudflare MCP Servers](https://developers.cloudflare.com/agents) - Cloudflare MCP servers bridging APIs for AI agents to manage Workers, KV, DNS, cache. Features API token auth, remote operations across edge network. Use cases: AI cloud infra mgmt without dashboard, simpler than direct SDKs for agent-driven tasks. ([Read more](/details/cloudflare-mcp-servers.md)) `Cloud` `Devops` `Edge`
 - [Docker Helm MCP Server](https://github.com/zekker6/mcp-helm) - Docker Helm MCP Server enables Infrastructure as Code (IaC) via MCP for Kubernetes application deployments using Helm charts. It provides secure authentication for repositories, chart operations (install/upgrade/list), release management, and real-time ops via SSE, with OCI registry support. Ideal for agentic DevOps workflows automating deployments and management conversationally, unlike verbose CLI tools requiring scripting and manual auth. ([Read more](/details/docker-helm-mcp-server.md)) `Helm` `Kubernetes` `IaC` `Kubernetes`
 - [Google Cloud MCP Server](https://github.com/googleapis/gcloud-mcp) - Provides agentic access to Google Cloud resources such as compute instances, storage buckets, and IAM roles via natural language. ([Read more](/details/google-cloud-mcp-server.md)) `Local` `Google Cloud` `Gcp`
-- [Helm Chart Analyzer MCP](https://github.com/V3RO/helm-chart-mcp) - Helm Chart Analyzer MCP server facilitates IaC validation and optimization via MCP for Kubernetes Helm charts. Features dependency tree analysis, configuration reviews, security scans, version compatibility checks, and best practice recommendations with repo authentication. Supports agent DevOps use cases for pre-deployment audits and issue resolution through LLMs, providing deeper insights than CLI tools like `helm dependency`. ([Read more](/details/helm-chart-analyzer-mcp.md)) `Helm` `Kubernetes` `Analysis` `IaC` `Kubernetes`
+- [Helm Chart Analyzer MCP](https://github.com/V3RO/helm-chart-mcp) - Helm Chart Analyzer MCP server facilitates IaC validation and optimization via MCP for Kubernetes Helm charts. Features dependency tree analysis, configuration reviews, security scans, version compatibility checks, and best practice recommendations with repo authentication. Supports agent DevOps use cases for pre-deployment audits and issue resolution through LLMs, providing deeper insights than CLI tools like \`helm dependency\`. ([Read more](/details/helm-chart-analyzer-mcp.md)) `Helm` `Kubernetes` `Analysis` `IaC` `Kubernetes`
 - [K8s MCP Server Toolkit](https://github.com/alexei-led/k8s-mcp-server) - K8s MCP Server Toolkit offers comprehensive IaC and operational management via MCP, integrating kubectl, Helm, Istio, and ArgoCD for Kubernetes clusters across EKS, GKE, AKS. Includes cloud-native authentication, multi-cluster switching, sandboxed execution, and audit logging for safe ops. Enables agentic DevOps for deployments, troubleshooting, and GitOps workflows through natural language, reducing CLI tool complexity and manual context switching. ([Read more](/details/k8s-mcp-server-toolkit.md)) `Kubernetes` `Helm` `Devops` `IaC` `Kubernetes`
 - [Kubernetes MCP Server](https://github.com/containers/kubernetes-mcp-server) - Wrapper around kubectl for safe interactions with Kubernetes clusters. Allows agents to list pods, describe failures, and restart services securely. ([Read more](/details/kubernetes-mcp-server.md)) `Docker` `Self Hosted` `Kubernetes` `Kubectl`
 - [KubeSphere MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/kubesphere) - Provides MCP access to KubeSphere for cloud operations. Features: cluster management, deployments. Use cases: AI-driven infrastructure automation. Compares to Terraform MCP by native K8s focus. ([Read more](/details/kubesphere-mcp.md)) `Kubernetes` `Devops` `Orchestration`
@@ -1307,12 +1311,14 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [azure-cli-mcp](https://github.com/jdubois/azure-cli-mcp) - Enables direct management of Azure resources through the Azure CLI, allowing users to list resources, fix configuration issues, and create new services using local credentials. Implements the Model Context Protocol (MCP), making it a notable MCP Server. ([Read more](/details/azure-cli-mcp.md)) `Mcp` `Azure` `Cli` `Cloud`
 - [azure-resource-graph-mcp-server](https://github.com/hardik-id/azure-resource-graph-mcp-server) - An MCP server for querying and analyzing Azure resources at scale using Azure Resource Graph, enabling AI assistants to monitor Azure infrastructure via MCP. ([Read more](/details/azure-resource-graph-mcp-server.md)) `Mcp` `Azure` `Cloud` `Monitoring`
 - [bright8192/esxi-mcp-server](https://github.com/bright8192/esxi-mcp-server) - A VMware ESXi/vCenter management server based on MCP, providing REST API interfaces for virtual machine management via the MCP protocol. ([Read more](/details/bright8192esxi-mcp-server.md)) `Mcp` `Cloud` `vmware` `Infrastructure` `Open Source`
+- [Buddy MCP Server](https://buddy.works) - Buddy's remote MCP server lets AI agents run and monitor CI/CD pipelines, deploy apps, and manage sandboxes, domains, and packages. `Development` `Git` `Cloud` `Infrastructure` `Ci Cd` `Devops` `Docker`
+- [Buddy MCP Server](https://buddy.works) - Buddy's remote MCP server lets AI agents run and monitor CI/CD pipelines, deploy apps, and manage sandboxes, domains, and packages. `Development` `Git` `Cloud` `Infrastructure` `Ci Cd` `Devops` `Docker`
 - [Buildkite MCP Server](https://buildkite.com/docs/apis/mcp-server) - An MCP server for Buildkite CI/CD at https://mcp.buildkite.com/mcp, allowing MCP-compatible agents to interact with Buildkite pipelines and builds using OAuth2.1. ([Read more](/details/buildkite-mcp-server.md)) `Cicd` `Pipelines` `Automation`
 - [BunnyCDN MCP Server](https://mcp.pipedream.com/app/bunnycdn) - An MCP Server that integrates with BunnyCDN to manage and interact with its content delivery network services through MCP workflows. ([Read more](/details/bunnycdn-mcp-server.md)) `Cdn` `Cloud` `Performance`
 - [ByteNite MCP Server](https://mcp.pipedream.com/app/bytenite) - An MCP Server for ByteNite, exposing its distributed computing resources for high-throughput applications within MCP-based automations. ([Read more](/details/bytenite-mcp-server.md)) `Distributed Computing` `High Performance` `Infrastructure`
 - [CDK MCP Server](https://aws.amazon.com/cdk) - An MCP server focused on AWS Cloud Development Kit (CDK) workflows, enabling AI assistants to generate and refine infrastructure-as-code implementations that follow AWS best practices and use the latest APIs. ([Read more](/details/cdk-mcp-server.md)) `Aws` `Infrastructure` `Automation`
 - [Cisco Meraki MCP Server](https://mcp.pipedream.com/app/cisco_meraki) - An MCP Server that connects to Cisco Meraki’s cloud-based networking platform, providing access to wireless, switching, security, cameras, sensors, and related APIs via MCP. ([Read more](/details/cisco-meraki-mcp-server.md)) `Networking` `Infrastructure` `Cloud`
-- [Cloudflare (API key) MCP Server](https://mcp.pipedream.com/app/cloudflare_api_key) - An MCP Server for interacting with Cloudflare’s API using an API key, allowing MCP-based tools and workflows to manage CDN, DNS, security, and DDoS protection resources programmatically. ([Read more](/details/cloudflare-api-key-mcp-server.md)) `Cloudflare` `Dns` `Security`
+- [Cloudflare (API key) MCP Server](https://mcp.pipedream.com/app/cloudflare_api_key) - An MCP Server for interacting with Cloudflare’s API using an API key, allowing MCP-based tools and workflows to manage CDN, DNS, security, and DDoS protection resources programmatically. ([Read more](/details/cloudflare-api-[redacted secret].md)) `Cloudflare` `Dns` `Security`
 - [cloudflare-edge-mcp-server](https://thelettertwo.com/2025/05/09/cloudflare-mcp-servers-ai-agents-user-requests-operations/) - An official MCP Server for Cloudflare Edge, providing edge-AI caching and the ability to deploy Cloudflare Workers via MCP integration. ([Read more](/details/cloudflare-edge-mcp-server.md)) `Mcp` `Cloudflare` `Edge` `Ai Integration`
 - [Cloudstack MCP](https://github.com/walteh/cloudstack-mcp) - An MCP server that enables natural language management of Apache CloudStack infrastructure, translating user requests into API calls for VM deployment, resource management, and infrastructure operations without requiring direct API knowledge. Directly relevant as an example of a specialized Model Context Protocol (MCP) server. ([Read more](/details/cloudstack-mcp.md)) `Mcp` `Cloud` `cloudstack` `Infrastructure`
 - [Cloudtasks Mcp](https://github.com/gitskyflux/cloudtasks-mcp) - An MCP server for interacting with Google Cloud Tasks queues and tasks using natural language, allowing management and handling of tasks via Claude Desktop. Illustrates the use of MCP servers for cloud task automation. ([Read more](/details/cloudtasks-mcp.md)) `Mcp` `Cloud` `Google Cloud` `task-automation`
@@ -1365,6 +1371,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Flutter Development](https://mcp.directory/flutter-development) - MCP server for building beautiful cross-platform mobile apps with Flutter and Dart. Covers widgets, state management using Provider or BLoC, navigation, API integration, and Material Design principles. ([Read more](/details/flutter-development.md)) `Flutter` `Dart` `Mobile Development`
 - [MCP Discovery](https://github.com/modelcontextprotocol/servers/tree/main/src/discovery) - MCP Discovery is a lightweight Rust-based CLI service for decentralized discovery and registration of MCP servers, allowing AI agents to dynamically find available tools and resources. It introspects server capabilities without relying on central registries, promoting a distributed ecosystem. Unlike centralized registries, it enables peer-to-peer agent tool discovery for more resilient operations. ([Read more](/details/mcp-discovery.md)) `Discovery` `Registry` `Cli` `Rust`
 - [MCPGen](https://github.com/lyeslab/mcpgen) - Go CLI tool by Lyeslab for single-command creation of fully functional MCP servers. Quick operational server generation. Static, no auth. ([Read more](/details/mcpgen.md)) `Cli` `Static` `Single Command`
+- [OpenAPI-MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/openapi-mcp) - Python package for converting OpenAPI specs to dynamic MCP proxy servers with OAuth2 support. Live proxy for fast-changing APIs without recompilation. Library/proxy, dynamic, OAuth2 auth. ([Read more](/details/openapi-mcp.md)) `Python` `Dynamic` `Proxy` `Oauth2`
 - [openapi-mcp-generator](https://github.com/speakeasy-api/openapi-mcp-generator) - TypeScript CLI tool converting OpenAPI specs to MCP servers with auth, proxy, auto Zod schemas, and typed server generation. Robust for TypeScript users. Static, auth support. ([Read more](/details/openapi-mcp-generator.md)) `Cli` `Static` `Typescript` `Oauth2`
 - [sbb-mcp-server](https://github.com/ralf-boltshauser/sbb-mcp-server) - A TypeScript starter project for building MCP servers with an echo server implementation, supporting both STDIO and SSE communication modes. Ideal for developers starting with MCP server development. ([Read more](/details/sbb-mcp-server.md)) `Typescript` `Starter` `Echo Server`
 - [Zuplo](https://zuplo.com) - Popular API gateway with MCP features including OpenAPI to MCP conversion and native MCP development for compatible AI tools and agents. ([Read more](/details/zuplo.md)) `Api Gateway` `Mcp Native`
@@ -1492,7 +1499,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Lippia](https://github.com/lippia-framework/lippia-mcp) - MCP server to accelerate test automation using the Lippia Framework, enabling AI agents to generate and execute automated tests through natural language. ([Read more](/details/lippia.md)) `Test Automation` `Framework` `Natural Language`
 - [Memalot](https://github.com/anthropics/memalot) - MCP server that finds memory leaks in Python programs, enabling AI agents to detect and diagnose memory management issues. ([Read more](/details/memalot.md)) `Python` `Memory Leaks` `Profiling`
 - [Mockd](https://github.com/getmockd/mockd) - Multi-protocol API mock server with 18 MCP tools supporting HTTP, GraphQL, gRPC, WebSocket, MQTT, SSE, SOAP. Features chaos engineering, stateful CRUD, 8 import formats. Supports multiple platforms. ([Read more](/details/mockd.md)) `Api Mocking` `Multi Protocol` `Chaos Engineering`
-- [MockHero MCP Server](https://github.com/mockherodev/mcp-server) - Generates realistic synthetic test data via MCP with 156 field types, 22 locales, relational data, sub-50ms responses. Free tier: 1,000 records/day. ([Read more](/details/mockhero-mcp-server.md)) `Test Data` `Synthetic Data` `Fast`
+- [MockHero MCP Server](https://github.com/dinosaur24/mockhero) - Agent-first MCP server for realistic synthetic test data with usage estimates, schema detection, loginless Polar checkout, API key claim, and JSON/CSV/SQL generation through a hosted Streamable HTTP endpoint. ([Read more](/details/mockhero-mcp-server.md)) `Test Data` `Synthetic Data` `streamable-http`
 - [Multiplayer](https://multiplayer.dev) - MCP server for analyzing full stack session recordings, enabling AI agents to record bugs, analyze them with LLMs, and get fixes for multi-layer issues. ([Read more](/details/multiplayer.md)) `Session Recording` `Debugging` `Full Stack`
 - [Patronus AI](https://www.patronus.ai) - MCP server for testing, evaluating, and optimizing AI agents and RAG applications, providing comprehensive AI quality assessment. ([Read more](/details/patronus-ai.md)) `Ai Testing` `Evaluation` `Rag`
 - [Puppeteer Python MCP Server](https://github.com/twolven/mcp-server-puppeteer-py) - Python-based Model Context Protocol server providing browser automation via Playwright, enabling LLMs to interact with web pages, capture screenshots, execute JavaScript, and monitor console logs in real browser environments. ([Read more](/details/puppeteer-python-mcp-server.md)) `Testing` `Browser Automation` `Python`
@@ -1914,6 +1921,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Postiz MCP Server](https://postiz.com) - Open-source social media scheduling tool with MCP server support, enabling self-hosted content management across multiple platforms. Features AI-powered content generation, team collaboration tools, calendar content planning views, and an analytics dashboard for multi-platform social media management. ([Read more](/details/postiz-mcp-server.md)) `Open Source` `Self Hosted` `Multi Platform`
 - [TikTok MCP](https://github.com/Seym0n/tiktok-mcp) - MCP server for interacting with TikTok videos. ([Read more](/details/tiktok-mcp.md)) `Tiktok` `Videos` `Social Media`
 - [Xpoz MCP](https://www.xpoz.ai) - MCP server providing comprehensive access to social media data across Twitter/X, Instagram, TikTok, and Reddit through a single integration with over 1.5 billion indexed posts. Enables natural language queries for social media intelligence without API keys or coding. ([Read more](/details/xpoz-mcp.md)) `Social Media` `Natural Language` `Multi Platform`
+- [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper) - Remote Streamable HTTP MCP server that exposes the Xquik X data API through 2 tools, with OAuth 2.1 and API key authentication. ([Read more](/details/xquik-mcp-server.md)) `Social Media` `x-data` `Remote` `Oauth2` `streamable-http`
 
 ## Testing
 
@@ -2129,6 +2137,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Datumbox MCP Server](https://mcp.pipedream.com/app/datumbox) - MCP server for Datumbox, a machine learning platform specialized in natural language processing. ([Read more](/details/datumbox-mcp-server.md)) `Nlp` `Machine Learning` `Api`
 - [DeepL MCP Server](https://mcp.pipedream.com/app/deepl) - MCP server for DeepL that allows MCP-compatible applications to access DeepL’s high-quality machine translation services. ([Read more](/details/deepl-mcp-server.md)) `Translation` `Nlp` `Ai Integration`
 - [DeepLucid3D MCP](https://github.com/MushroomFleet/DeepLucid3D-MCP) - An open-source Model Context Protocol (MCP) server implementing the Unified Cognitive Processing Framework (UCPF). It provides advanced cognitive analysis, creative problem-solving, and structured thinking tools via the MCP protocol. (Merged 'Deeplucid3d Mcp' and 'DeepLucid3D UCPF Server') ([Read more](/details/deeplucid3d-mcp.md)) `Open Source` `cognitive-analysis` `ucpf` `Problem Solving`
+- [Founden](https://founden.ai/?utm_source=mcpserver-ever-works&utm_medium=listing&utm_campaign=directories) - Founden is the engine for autonomous software. Describe the first version and it goes live. Leave it running and it keeps developing itself.
+- [Founden](https://founden.ai/?utm_source=mcpserver-ever-works&utm_medium=listing&utm_campaign=directories) - Founden is the engine for autonomous software. Describe the first version and it goes live. Leave it running and it keeps developing itself.
 
 ## AI Integration MCP Servers
 
@@ -2365,7 +2375,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Blockchain Crypto Mcp Servers
 
-- [100ms-spl-token-sniper-mcp](https://github.com/monostate/100ms-spl-token-sniper-mcp) - An MCP server enabling high-speed trading of Solana blockchain tokens by monitoring Raydium AMM pools and Serum markets with sub-second execution, demonstrating advanced MCP server capabilities for real-time blockchain applications. ([Read more](/details/100ms-spl-token-sniper-mcp.md)) `Solana` `Blockchain` `Trading` `Real Time` `Mcp`
+- [100ms-spl-[redacted secret]](https://github.com/monostate/100ms-spl-[redacted secret]) - An MCP server enabling high-speed trading of Solana blockchain tokens by monitoring Raydium AMM pools and Serum markets with sub-second execution, demonstrating advanced MCP server capabilities for real-time blockchain applications. ([Read more](/details/100ms-spl-[redacted secret].md)) `Solana` `Blockchain` `Trading` `Real Time` `Mcp`
 - [agent-kit-server](https://github.com/sendaifun/solana-mcp) - An MCP server enabling LLMs to interact with the Solana blockchain, supporting 40+ protocol actions. This server exemplifies advanced MCP server capabilities for blockchain integration. ([Read more](/details/agent-kit-server.md)) `Mcp` `Solana` `Blockchain` `Ai Integration`
 - [Agentipy Mcp](https://github.com/niceberginc/agentipy-mcp) - Enables interaction with the Solana blockchain using the AgentiPy framework, allowing MCP server-based blockchain operations like querying account data and sending transactions. ([Read more](/details/agentipy-mcp.md)) `Mcp` `Blockchain` `Solana` `Integration`
 - [Akash Network](https://akash.network/) - Akash Network is a decentralized MCP server solution for hosting open-source analytics tools, live demos, and contributor environments. It offers transparent pricing, blockchain auditability, and community-powered deployments, distinguishing itself in the MCP ecosystem. ([Read more](/details/akash-network.md)) `Decentralized` `Blockchain` `Open Source` `community-powered`
@@ -2701,6 +2711,11 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [PayUp](https://github.com/ShreyeshArangath/pay-up) - PayUp facilitates trip expense management as a MCP server, offering a personalized alternative to Splitwise. Enables splitting and tracking expenses for trips. ([Read more](/details/payup.md)) `Expense Management` `Trip Sharing` `Mcp Server`
 - [Synmerco](https://synmerco.com/) - Fully autonomous AI agent commerce platform with 15 tools for escrow, reputation, spending limits, collateral staking, referrals; ERC-8004 on 4 chains; npx @synmerco/mcp-server. ([Read more](/details/synmerco.md)) `Ecommerce` `Ai Agent` `Blockchain`
 - [UUPT MCP Server](https://github.com/uupt-mcp/uupt-mcp-server) - Facilitates order creation on the uupt.com platform using the MCP protocol, enhancing integration with delivery services. ([Read more](/details/uupt-mcp-server.md)) `E Commerce` `Order Management` `Delivery`
+
+## Business Productivity
+
+- [NeverApply](https://neverapply.co) - AI job-search agent. Finds matching jobs, tailors your resume for each one, and applies for you. Hosted MCP server with OAuth sign-in. `Automation` `Productivity` `Career` `Jobs`
+- [NeverApply](https://neverapply.co) - AI job-search agent. Finds matching jobs, tailors your resume for each one, and applies for you. Hosted MCP server with OAuth sign-in.
 
 ## Business Productivity
 
@@ -3143,7 +3158,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [CloudTables MCP Server](https://mcp.pipedream.com/app/cloudtables) - An MCP Server for CloudTables, providing MCP-based access to its no-code/low-code database-driven application platform for building and managing data tables with live updates and auditing. ([Read more](/details/cloudtables-mcp-server.md)) `No Code` `Database` `Data Management`
 - [cointelegraph-mcp](https://github.com/kukapay/cointelegraph-mcp) - An MCP server offering real-time access to the latest news from Cointelegraph for AI-driven applications. ([Read more](/details/cointelegraph-mcp.md)) `Mcp` `News` `Real Time` `Ai Integration`
 - [Congress.gov MCP Server](https://mcp.pipedream.com/app/congress_gov) - An MCP Server that provides access to the Congress.gov API, enabling retrieval of U.S. legislative data via the Model Context Protocol. ([Read more](/details/congressgov-mcp-server.md)) `Government` `Open Data` `Research`
-- [Context Awesome MCP Server](https://www.context-awesome.com/) - Specialised dataset MCP server at `https://www.context-awesome.com/api/mcp` offering open MCP access to curated datasets from Context Awesome. ([Read more](/details/context-awesome-mcp-server.md)) `Datasets` `Open Data` `Data Access`
+- [Context Awesome MCP Server](https://www.context-awesome.com/) - Specialised dataset MCP server at \`https://www.context-awesome.com/api/mcp\` offering open MCP access to curated datasets from Context Awesome. ([Read more](/details/context-awesome-mcp-server.md)) `Datasets` `Open Data` `Data Access`
 - [CrimeoMeter MCP Server](https://mcp.pipedream.com/app/crimeometer) - An MCP Server that connects to the CrimeoMeter API, making crime statistics and incident data available to MCP tools. ([Read more](/details/crimeometer-mcp-server.md)) `crime` `Open Data` `Api Integration`
 - [DaData.ru MCP Server](https://mcp.pipedream.com/app/dadata_ru) - An MCP Server providing access to DaData.ru’s automated data cleansing services for Russian postal addresses, phone numbers, and customer names. ([Read more](/details/dadataru-mcp-server.md)) `data-cleansing` `address-verification` `Validation`
 - [Data.Police.UK MCP Server](https://mcp.pipedream.com/app/data_police_uk) - An MCP Server that exposes the UK Police open data API through MCP, supporting queries about crime and policing data in England, Wales, and Northern Ireland. ([Read more](/details/datapoliceuk-mcp-server.md)) `Open Data` `Government` `crime`
@@ -3152,6 +3167,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Datagov Mcp](https://github.com/aviveldan/datagov-mcp) - An MCP server for accessing Israeli Government Data from Data.gov.il, allowing structured data retrieval and interaction via the MCP protocol. It is a direct example of a domain-specific Awesome MCP Server. ([Read more](/details/datagov-mcp.md)) `Mcp` `Open Data` `Government` `Data Access`
 - [dbt-mcp](https://github.com/dbt-labs/dbt-mcp) - The official MCP server for dbt (data build tool), providing integration with dbt Core/Cloud, metadata discovery, model info, and semantic layer querying. ([Read more](/details/dbt-mcp.md)) `Mcp` `Dbt` `Data Integration` `Metadata` `Data Analysis`
 - [deepresearchmcp](https://github.com/ameeralns/deepresearchmcp) - A research-focused MCP server that conducts intelligent, iterative research through web searches, analysis, and comprehensive report generation, offering citation-rich research automation. ([Read more](/details/deepresearchmcp.md)) `Mcp` `Research` `Web Search` `Automation`
+- [UnifAPI MCP Server](https://github.com/unifapi-agent/unifapi-mcp-server) - Hosted public-data MCP server for social, search, scrape, news, creator research, and KOL pricing workflows. ([Read more](/details/unifapi-mcp-server.md)) `Public Data` `Social Media` `Web Search` `Web Scraping` `News` `creator-research`
 
 ## Data Access Integration MCP Servers
 
@@ -3477,6 +3493,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Custom Context MCP](https://github.com/omer-ayhan/custom-context-mcp) - A Model Context Protocol (MCP) server that transforms text into structured JSON data using templates with placeholders, directly supporting MCP server ecosystems. ([Read more](/details/custom-context-mcp.md)) `Mcp` `Context Management` `Template` `Json`
 - [CyberChef API MCP Server](https://github.com/slouchd/cyberchef-api-mcp-server) - MCP server for interacting with the CyberChef API, enabling automated use of CyberChef operations via MCP clients. ([Read more](/details/cyberchef-api-mcp-server.md)) `cyberchef` `Api Integration` `Automation` `Mcp`
 - [Elixir MCP Server](https://github.com/y86/elixir-mcp-server) - Test implementation of MCP server in Elixir. ([Read more](/details/elixir-mcp-server.md)) `Elixir` `Open Source` `Mcp Server`
+- [Flash](https://www.getflashmcp.dev) - An MCP server for Claude that submits your app to launch directories and tracks each listing until it is live.
+- [Flash](https://www.getflashmcp.dev) - An MCP server for Claude that submits your app to launch directories and tracks each listing until it is live.
+- [Flash](https://www.getflashmcp.dev) - An MCP server for Claude that submits your app to launch directories and tracks each listing until it is live.
+- [Flash](https://www.getflashmcp.dev) - An MCP server for Claude that submits your app to launch directories and tracks each listing until it is live.
 - [React MCP Server](https://github.com/Streen9/react-mcp-server) - Open-source MCP server bridging Claude AI with React environments for app creation, dev server management, file operations, and command execution. ([Read more](/details/react-mcp-server.md)) `Open Source` `React` `Local`
 
 ## Development Tools MCP Servers
@@ -3577,14 +3597,14 @@ The public-facing website is based on the open-source [Directory Website Templat
 ## Documentation Learning Resources
 
 - [API.Bible MCP Server](https://mcp.pipedream.com/app/api_bible) - API.Bible MCP Server is a Model Context Protocol server that provides access to API.Bible’s collection of Bible translations and related data for use within MCP-enabled AI workflows and tools. ([Read more](/details/apibible-mcp-server.md)) `Api` `Reference` `educational`
-- [Astro Docs MCP Server](https://github.com/withastro/docs-mcp) - Open documentation MCP server at `https://mcp.docs.astro.build/mcp` providing MCP-friendly access to Astro’s framework documentation. ([Read more](/details/astro-docs-mcp-server.md)) `Documentation` `Framework` `web-development`
+- [Astro Docs MCP Server](https://github.com/withastro/docs-mcp) - Open documentation MCP server at \`https://mcp.docs.astro.build/mcp\` providing MCP-friendly access to Astro’s framework documentation. ([Read more](/details/astro-docs-mcp-server.md)) `Documentation` `Framework` `web-development`
 - [atlas-docs-mcp-server](https://github.com/CartographAI/atlas-docs-mcp) - An open-source Model Context Protocol (MCP) server that provides LLMs with clean, markdown documentation for libraries and frameworks. Directly relevant as it is a robust MCP server solution designed for enhancing AI assistant capabilities with up-to-date library docs. ([Read more](/details/atlas-docs-mcp-server.md)) `Mcp` `Documentation` `Open Source` `Ai Assistant`
 - [augments-mcp-server](https://github.com/augmnt/augments-mcp-server) - An MCP server that transforms Claude Code with intelligent, real-time access to 90+ framework documentation sources, enabling accurate code assistance grounded in extensive docs via the Model Context Protocol. ([Read more](/details/augments-mcp-server.md)) `Documentation` `Ai Assistant` `Development`
 - [AWS Diagram MCP Server](https://modelcontextprotocol.io/mcp/servers/aws-diagram-mcp-server) - An MCP server that generates AWS architecture diagrams and technical illustrations to support system design and documentation workflows. ([Read more](/details/aws-diagram-mcp-server.md)) `diagramming` `Aws` `Documentation`
 - [Axis LMS MCP Server](https://mcp.pipedream.com/app/axis_lms) - An MCP Server for Axis LMS that streamlines access to learning management system features from MCP-aware tools and agents. ([Read more](/details/axis-lms-mcp-server.md)) `lms` `course-management` `Education`
 - [Canvas MCP Server](https://mcp.pipedream.com/app/canvas) - Canvas MCP Server is a Model Context Protocol server that integrates with the Canvas learning management system, enabling MCP-based tools to interact with courses, users, and learning data. ([Read more](/details/canvas-mcp-server.md)) `lms` `Education` `courses`
 - [ClickHelp MCP Server](https://mcp.pipedream.com/app/clickhelp) - An MCP server for ClickHelp that lets MCP clients interface with ClickHelp’s AI-powered documentation and knowledge management features via the Pipedream MCP environment. ([Read more](/details/clickhelp-mcp-server.md)) `Documentation` `Knowledge Management` `Ai Assistant`
-- [Cloudflare Docs MCP Server](https://metorial.com/marketplace/s/cloudflare-docs) - Documentation MCP server at `https://docs.mcp.cloudflare.com/sse` that gives MCP agents open access to Cloudflare’s developer documentation. ([Read more](/details/cloudflare-docs-mcp-server.md)) `Documentation` `Web` `Reference`
+- [Cloudflare Docs MCP Server](https://metorial.com/marketplace/s/cloudflare-docs) - Documentation MCP server at \`https://docs.mcp.cloudflare.com/sse\` that gives MCP agents open access to Cloudflare’s developer documentation. ([Read more](/details/cloudflare-docs-mcp-server.md)) `Documentation` `Web` `Reference`
 - [Coassemble MCP Server](https://mcp.pipedream.com/app/coassemble) - Coassemble MCP Server is an MCP integration for the Coassemble online training platform, enabling MCP-aware agents to create and manage engaging SaaS-focused training experiences programmatically. ([Read more](/details/coassemble-mcp-server.md)) `lms` `Training` `courses`
 - [Coding Standards MCP](https://github.com/ggerve/coding-standards-mcp) - An MCP server that provides access to coding style guidelines and best practices for multiple technologies, offering standardized protocol-based retrieval of coding standards. ([Read more](/details/coding-standards-mcp.md)) `Mcp` `Best Practices` `Reference` `Coding Standards`
 - [Context7 MCP](https://github.com/upstash/context7-mcp) - Connects to Context7.com's documentation database as an MCP server, providing intelligent access to library and framework documentation for developers and AI assistants. ([Read more](/details/context7-mcp.md)) `Mcp` `Documentation` `Ai Assistant` `Integration`
@@ -3694,6 +3714,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [QuantConnect MCP Server](https://github.com/QuantConnect/mcp-server) - Dockerized Python MCP server bridging local AI with QuantConnect for algorithmic trading. ([Read more](/details/quantconnect-mcp-server.md)) `Open Source` `Trading` `Docker`
 - [Xero MCP Server](https://github.com/XeroAPI/xero-mcp-server) - MCP server integrating with Xero's API for accounting and business data access. ([Read more](/details/xero-mcp-server.md)) `Open Source` `Accounting` `Xero`
 - [YFinance MCP](https://github.com/narumiruna/yfinance-mcp) - MCP server using yfinance for Yahoo Finance information. ([Read more](/details/yfinance-mcp.md)) `Open Source` `Yahoo Finance` `Stocks`
+
+## Finance & Fintech
+
+- [WealthScout](https://wealthscout.app) - Net worth tracker and financial planning app for households
 
 ## Finance & Market Data Mcp Servers
 
@@ -3824,8 +3848,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Stock Market MCP Server](https://github.com/MCP-100/stock-market-server) - Stock Market MCP Server providing access to stock market data through the Model Context Protocol. ([Read more](/details/stock-market-mcp-server.md)) `Stock Market` `Financial Data` `Market Data`
 - [Tatum MCP Server](https://github.com/tatumio/tatum-mcp) - Official Tatum MCP server for blockchain data, instantly unlocking blockchain access for AI agents across 130+ networks. Connects to any LLM in seconds, providing access to Tatum's blockchain API with RPC Gateway and Blockchain Data insights. ([Read more](/details/tatum-mcp-server.md)) `Blockchain` `Multi Chain` `Rpc Gateway`
 - [The Graph MCP](https://github.com/kukapay/thegraph-mcp) - An MCP server that powers AI agents with indexed blockchain data from The Graph. ([Read more](/details/the-graph-mcp.md)) `The Graph` `Blockchain Data` `Indexing`
-- [Token Minter MCP](https://github.com/kukapay/token-minter-mcp) - An MCP server providing tools for AI agents to mint ERC-20 tokens across multiple blockchains. ([Read more](/details/token-minter-mcp.md)) `Erc20` `Token Minting` `Multi Chain`
-- [Token Revoke MCP](https://github.com/kukapay/token-revoke-mcp) - An MCP server for checking and revoking ERC-20 token allowances across multiple blockchains. ([Read more](/details/token-revoke-mcp.md)) `Erc20` `Security` `Multi Chain`
+- [Token Minter MCP](https://github.com/kukapay/[redacted secret]) - An MCP server providing tools for AI agents to mint ERC-20 tokens across multiple blockchains. ([Read more](/details/[redacted secret].md)) `Erc20` `Token Minting` `Multi Chain`
+- [Token Revoke MCP](https://github.com/kukapay/[redacted secret]) - An MCP server for checking and revoking ERC-20 token allowances across multiple blockchains. ([Read more](/details/[redacted secret].md)) `Erc20` `Security` `Multi Chain`
 - [Trading Simulator MCP](https://github.com/recallnet/trading-simulator-mcp) - An MCP server designed to work with Recall Multi-Chain Trading Simulator for simulated trading operations. ([Read more](/details/trading-simulator-mcp.md)) `Trading` `Simulation` `Multi Chain`
 - [Uniswap PoolSpy MCP](https://github.com/kukapay/uniswap-poolspy-mcp) - An MCP server that tracks newly created liquidity pools on Uniswap across nine blockchain networks. ([Read more](/details/uniswap-poolspy-mcp.md)) `Defi` `Uniswap` `Liquidity`
 - [Uniswap Trader MCP](https://github.com/kukapay/uniswap-trader-mcp) - An MCP server for AI agents to automate token swaps on Uniswap DEX across multiple blockchains. ([Read more](/details/uniswap-trader-mcp.md)) `Defi` `Uniswap` `Token Swap`
@@ -4346,6 +4370,12 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Marketing & Sales MCP Servers
 
+- [Commentkeyword Instagram MCP Server](https://commentkeyword.com/instagram-mcp-server?utm_source=ever.works) - Open-source MCP server that lets Claude, Cursor and Codex set up Instagram comment-to-DM automations via Meta's official API. A ManyChat alternative. `Sales Automation` `Social Automation` `Ai Automation` `marketing-automation`
+- [Instagram MCP Server](https://commentkeyword.com/instagram-mcp-server?utm_source=ever.works) - Open-source MCP server that lets Claude, Cursor and Codex set up Instagram comment-to-DM automations via Meta's official API. A ManyChat alternative. `Sales Automation` `Social Automation` `Ai Automation` `marketing-automation`
+- [NotFair MCP Skills](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data through the Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP to run audits, keyword research, wasted-spend detection, and creative-fatigue analysis directly from the Claude Code CLI. ([Read more](/details/notfair-mcp-skills.md)) `Seo` `Google Ads` `Meta Ads` `Marketing` `Marketing Analytics` `Open Source` `Claude Code`
+
+## Marketing & Sales MCP Servers
+
 - [google-ads-mcp-server](https://github.com/gomarble-ai/google-ads-mcp-server) - MCP server for Google Ads API, programmatic access to data and management. ([Read more](/details/google-ads-mcp-server.md)) `Google Ads` `Python` `Cloud`
 - [rocketreach-mcp-server](https://github.com/Meerkats-Ai/rocketreach-mcp-server) - Integrates with RocketReach API to provide email, phone number finding, and company enrichment capabilities for sales and marketing teams. ([Read more](/details/rocketreach-mcp-server.md)) `Enrichment` `Email` `Open Source`
 - [tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) - MCP server for TikTok Ads API, enabling AI to manage campaigns, analyze metrics, handle audiences and creatives with OAuth. ([Read more](/details/tiktok-ads-mcp-server.md)) `Tiktok Ads` `Python` `Cloud`
@@ -4431,6 +4461,9 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Abyssale MCP Server](https://mcp.pipedream.com/app/abyssale) - An MCP Server for Abyssale that lets MCP-compatible clients programmatically generate banners for social media and online ads in minutes through the Pipedream MCP platform. ([Read more](/details/abyssale-mcp-server.md)) `Image Generation` `Marketing` `banner`
 - [Adobe Photoshop Lightroom MCP Server](https://mcp.pipedream.com/app/adobe_photoshop_lightroom) - Adobe Photoshop Lightroom MCP Server is an MCP-compatible server that exposes Adobe Lightroom photo editing and asset management capabilities to AI agents and tools via the Model Context Protocol. ([Read more](/details/adobe-photoshop-lightroom-mcp-server.md)) `photo-editing` `Media Management` `Creative`
 - [Adobe Photoshop MCP Server](https://mcp.pipedream.com/app/adobe_photoshop) - An MCP Server that exposes Adobe Photoshop APIs, enabling automated and programmatic image editing and creative workflows through the MCP ecosystem. ([Read more](/details/adobe-photoshop-mcp-server.md)) `Image Processing` `Automation` `Creative`
+- [AI Photo Animator](https://aiphotoanimator.ai/) - AI Photo Animator turns still photos into short AI animations and videos. `Video` `Media` `Images` `Animation` `Image Processing` `Video Generation` `Media Processing` `Photos`
+- [AI Photo Animator](https://aiphotoanimator.ai/) - AI Photo Animator turns still photos into short AI animations and videos. `Video` `Media` `Images` `Animation` `Image Processing`
+- [AI Photo Animator](https://aiphotoanimator.ai/) - AI Photo Animator turns still photos into short AI animations and videos. `Video` `Media` `Images` `Animation` `Image Processing`
 - [Aivis Speech MCP](https://github.com/kentaro/aivis-speech-mcp) - MCP server that generates and plays speech audio from text input, demonstrating media and speech integration within the MCP protocol. ([Read more](/details/aivis-speech-mcp.md)) `Text To Speech` `Audio` `Media Processing` `Open Source`
 - [AiVOOV MCP Server](https://mcp.pipedream.com/app/aivoov) - MCP Server for AiVOOV, providing text-to-speech capabilities with AI voices to MCP-based applications and agents. ([Read more](/details/aivoov-mcp-server.md)) `Text To Speech` `Audio` `ai-voices`
 - [All-Images.ai MCP Server](https://mcp.pipedream.com/app/all_images_ai) - MCP server for All-Images.ai that lets AI agents generate unique, royalty-free, and personalized visuals via the Model Context Protocol. ([Read more](/details/all-imagesai-mcp-server.md)) `Image Generation` `Generative Ai` `Media Generation`
@@ -4594,7 +4627,11 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Multimedia
 
+- [Seedeo MCP](https://seedeo.ai/mcp) - Hosted MCP server to generate AI videos, images and music from Claude or Cursor with Veo 3.1, Kling, Seedance and Suno. `Video Generation` `Image Generation` `Music Generation` `Video` `Remote`
+- [Seedeo MCP](https://seedeo.ai/mcp) - Hosted MCP server to generate AI videos, images and music from Claude or Cursor with Veo 3.1, Kling, Seedance and Suno. `Video Generation` `Image Generation` `Music Generation` `Video` `Remote`
+- [Seedeo MCP](https://seedeo.ai/mcp) - Hosted MCP server to generate AI videos, images and music from Claude or Cursor with Veo 3.1, Kling, Seedance and Suno. `Video Generation` `Image Generation` `Music Generation` `Video` `Remote`
 - [vibe-mcp](https://github.com/trevhud/vibe-mcp) - MCP server generating music based on coding context with support for multiple audio backends and seamless playback. ([Read more](/details/vibe-mcp.md)) `Music Generation` `Audio`
+- [VidFlux MCP](https://vidflux.ai/mcp) - Hosted MCP server for AI video: Veo 3.1, Kling 3.0, Seedance 2.0 and more in Claude Code, Cursor and Codex. Pay-as-you-go credits. `Video Generation` `Video` `Remote`
 
 ## News
 
@@ -4870,6 +4907,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [BrandMentions MCP Server](https://mcp.pipedream.com/app/brandmentions) - An MCP Server that integrates with BrandMentions, enabling MCP clients to monitor and query brand mentions across the web. ([Read more](/details/brandmentions-mcp-server.md)) `brand-monitoring` `social-sentiment` `Web Search`
 - [ChuckNorris.io MCP Server](https://mcp.pipedream.com/app/chucknorris) - An MCP Server providing access to the ChuckNorris.io JSON API, allowing retrieval of hand-curated Chuck Norris facts within MCP-compatible applications. ([Read more](/details/chucknorrisio-mcp-server.md)) `Api` `Entertainment`
 - [Crunchbase MCP Server](https://mcp.pipedream.com/app/crunchbase) - An MCP Server for Crunchbase, enabling discovery and querying of innovative companies and people via the MCP protocol. ([Read more](/details/crunchbase-mcp-server.md)) `startup-data` `companies` `investors`
+- [HeroHunt.ai](https://www.herohunt.ai/?utm_source=mcpserver-ever-works&utm_medium=listing&utm_campaign=directories) - HeroHunt.ai is an AI recruiter that searches up to 1 billion public profiles, screens candidates with AI and reaches out to them on autopilot.
+- [HeroHunt.ai](https://www.herohunt.ai/?utm_source=mcpserver-ever-works&utm_medium=listing&utm_campaign=directories) - HeroHunt.ai is an AI recruiter that searches up to 1 billion public profiles, screens candidates with AI and reaches out to them on autopilot.
 
 ## Search Rag
 
@@ -4980,6 +5019,11 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 - [HomeAssistant MCP](https://github.com/tevonsb/homeassistant-mcp) - MCP server to access Home Assistant data and control smart home devices like lights, switches, and thermostats. ([Read more](/details/homeassistant-mcp.md)) `Home Assistant` `Iot` `Smart Home`
 - [thingsboard-mcp](https://github.com/thingsboard/thingsboard-mcp) - Provides a natural language interface for LLMs and AI agents to interact with ThingsBoard IoT platform. ([Read more](/details/thingsboard-mcp.md)) `Open Source` `Iot` `Llm`
+
+## Social Media
+
+- [Commentkeyword Instagram MCP Server](https://commentkeyword.com/instagram-mcp-server?utm_source=ever.works) - Open-source MCP server that lets Claude, Cursor and Codex set up Instagram comment-to-DM automations via Meta's official API. A ManyChat alternative. `Sales Automation` `Social Automation` `Ai Automation` `marketing-automation`
+- [Instagram MCP Server](https://commentkeyword.com/instagram-mcp-server?utm_source=ever.works) - Open-source MCP server that lets Claude, Cursor and Codex set up Instagram comment-to-DM automations via Meta's official API. A ManyChat alternative. `Sales Automation` `Social Automation` `Ai Automation` `marketing-automation`
 
 ## Social Media
 
@@ -5190,7 +5234,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [MCP Puppeteer Server (HomeAssistant Add-on)](https://github.com/rotexhawk/Mcp-Puppeteer-Server) - MCP Puppeteer Server HomeAssistant Add-on, providing browser automation capabilities through a HomeAssistant integration. ([Read more](/details/mcp-puppeteer-server-homeassistant-add-on.md)) `Puppeteer` `Homeassistant` `Browser Automation`
 - [MCP Query Table](https://github.com/wukan1986/mcp_query_table) - Query tables from websites with MCP support, enabling AI assistants to extract tabular data from web pages through the Model Context Protocol. ([Read more](/details/mcp-query-table.md)) `Table Extraction` `Web Scraping` `Data Parsing`
 - [MCP Selenium](https://github.com/angiejones/mcp-selenium) - An MCP implementation for Selenium WebDriver, enabling AI assistants to automate browser interactions and web testing through the Model Context Protocol. ([Read more](/details/mcp-selenium.md)) `Selenium` `Browser Automation` `Web Testing`
-- [MCP Server (Puppeteer + MCP + Steel)](https://github.com/rdvo/mcp-server) - [WIP] MCP server combining Puppeteer and Steel for advanced browser automation capabilities through the Model Context Protocol. ([Read more](/details/mcp-server-puppeteer-mcp-steel.md)) `Puppeteer` `Browser Automation` `Web Scraping`
+- [MCP Server (Puppeteer + MCP + Steel)](https://github.com/rdvo/mcp-server) - \[WIP\] MCP server combining Puppeteer and Steel for advanced browser automation capabilities through the Model Context Protocol. ([Read more](/details/mcp-server-puppeteer-mcp-steel.md)) `Puppeteer` `Browser Automation` `Web Scraping`
 - [MCP Server Jina Java](https://github.com/GARCHENG/mcp-server-jina-java) - MCP server connecting to the Jina Reader API, implemented in Java for integrating web content extraction into LLM workflows. ([Read more](/details/mcp-server-jina-java.md)) `Jina Ai` `Java` `Content Extraction`
 - [MCP Tavily Extract](https://github.com/algonacci/mcp-tavily-extract) - MCP server that gives clients the ability to extract a web page through the Tavily API, providing structured web content for AI processing. ([Read more](/details/mcp-tavily-extract.md)) `Tavily` `Web Extraction` `Content Extraction`
 - [MCP Web Browser](https://github.com/random-robbie/mcp-web-browser) - An advanced web browsing server for the Model Context Protocol powered by Playwright, enabling headless browser interactions through a flexible, secure API. ([Read more](/details/mcp-web-browser.md)) `Playwright` `Headless Browser` `Web Browsing`
@@ -5258,7 +5302,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## ⭐ Star History
 
-[![Star History Chart](https://stats-github.ever.works/svg?repos=ever-works/awesome-mcp-servers&type=Date)](https://stats-github.ever.works/#ever-works/awesome-mcp-servers&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ever-works/awesome-mcp-servers&type=Date)](https://star-history.com/#ever-works/awesome-mcp-servers&Date)
 
 ## ™️ Legal
 

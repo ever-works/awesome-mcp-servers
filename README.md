@@ -1178,6 +1178,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Media Processing Mcp Servers
 
+- [VideoGen MCP](https://videogen.io/videogen-mcp) - Official VideoGen MCP server for creating and editing videos, images, voiceovers, music, and avatars. Local stdio and hosted HTTP with OAuth or API keys. ([Read more](/details/videogen-mcp.md)) `Official` `Video` `Creative`
+
 - [ElevenLabs MCP Server](https://github.com/elevenlabs/elevenlabs-mcp) - Official ElevenLabs MCP server connecting developers to the AI audio platform for text-to-speech, voice cloning, audio transcription, and building conversational voice agents through simple API calls. ([Read more](/details/elevenlabs-mcp-server.md)) `Text To Speech` `Voice Ai` `Audio`
 - [VideoDB MCP Server](https://github.com/video-db/videodb-mcp) - AI-powered video database Model Context Protocol server automatically tagging scenes, generating accurate transcriptions, and enabling quick video moment retrieval through simple queries for intelligent video content management. ([Read more](/details/videodb-mcp-server.md)) `Video` `Ai Assistant` `Media`
 - [Vimeo API MCP Server](https://developer.vimeo.com/api/mcp-server) - Official Vimeo MCP server providing tools for video management, transcript handling, and statistics retrieval through a standardized Model Context Protocol interface. ([Read more](/details/vimeo-api-mcp-server.md)) `Vimeo` `Video` `Official`

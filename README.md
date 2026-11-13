@@ -3636,6 +3636,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [MCP File Navigator](https://github.com/Priyonuj/mcp-file-navigator) - Secure Model Context Protocol server for file system operations enabling AI assistants to access, read, write, and manage files with robust path validation and dynamic storage location management. ([Read more](/details/mcp-file-navigator.md)) `File Operations` `Security` `Navigation`
 - [MCP Go Filesystem Server](https://github.com/mark3labs/mcp-filesystem-server) - Go server implementing Model Context Protocol (MCP) for filesystem operations, enabling AI assistants to read, write, and manage files on the local filesystem. ([Read more](/details/mcp-go-filesystem-server.md)) `Go` `Filesystem` `File Operations`
 - [Platform-Agnostic Filesystem MCP Server](https://github.com/cyanheads/filesystem-mcp-server) - Cross-platform Model Context Protocol server providing advanced file capabilities including sophisticated search/replace operations, directory tree traversal, and comprehensive file management across Windows, macOS, and Linux. ([Read more](/details/platform-agnostic-filesystem-mcp-server.md)) `File Operations` `Cross Platform` `Utilities`
+- [vnsh-mcp](https://github.com/raullenchai/vnsh/tree/main/mcp) - Ephemeral encrypted file sharing for AI. Client-side AES-256 encryption, 24h auto-vaporization. Read vnsh URLs and share large outputs securely. ([Read more](https://vnsh.dev)) `mcp` `file-sharing` `encryption` `ephemeral`
 
 ## File Management MCP Servers
 

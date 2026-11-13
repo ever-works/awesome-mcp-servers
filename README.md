@@ -4645,6 +4645,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## OS Automation
 
+- [ERIUS PHONE MCP](https://github.com/Protremix/erius-phone-mcp) - MIT-licensed Python MCP server for persistent cloud Android devices: UI trees, screenshots, touch input, app management and crash logs; cloud service in early access, by invitation. `Android` `Python` `Stdio`
 - [toolkit-mcp-server](https://github.com/search?q=toolkit-mcp-server) - Model Context Protocol server providing LLM Agents with system utilities including IP geolocation, network diagnostics, system monitoring, cryptographic operations, and QR code generation. ([Read more](/details/toolkit-mcp-server.md)) `Utilities` `Geolocation` `Crypto`
 
 ## Other Tools And Integrations

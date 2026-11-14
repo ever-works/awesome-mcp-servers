@@ -806,6 +806,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Text Analysis MCP Server](https://github.com/qpd-v/mcp-text-analyzer) - A Model Context Protocol server for analyzing text documents with word and character counting capabilities, providing text analysis tools to AI assistants. ([Read more](/details/text-analysis-mcp-server.md)) `Text Analysis` `Counting` `Document Analysis`
 - [Treasure Data CDP MCP Server](https://martechvibe.com/article/treasure-data-launches-mcp-server/) - Customer data platform integration enabling data teams to explore and analyze customer data using plain language queries. Supports segment analysis, table exploration, and natural language data analytics for marketing use cases. ([Read more](/details/treasure-data-cdp-mcp-server.md)) `Cdp` `Customer Data` `Analytics`
 - [Zaturn](https://github.com/kdqed/zaturn) - Link multiple data sources (SQL, CSV, Parquet, etc.) and ask AI to analyze the data for insights and visualizations. Supports home, Windows, Linux, and Apple. ([Read more](/details/zaturn.md)) `Data Analysis` `Visualization` `Multi Platform`
+- [Scrapewise](https://github.com/BEBOTECH-OU/scrapewise-mcp) - Remote MCP server that scrapes, cleans and matches product and price data from any website. `Data Extraction` `Remote`
 
 ## Messaging Mcp Servers
 

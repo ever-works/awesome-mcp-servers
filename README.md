@@ -72,7 +72,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Travel & Transportation (26)](#travel--transportation)
 - [Version Control (23)](#version-control)
 - [Web Scraping (4)](#web-scraping)
-- [Aggregators (19)](#aggregators)
+- [Aggregators (20)](#aggregators)
 - [AI & Machine Learning (9)](#ai--machine-learning)
 - [AI Agents & LLMs MCP Servers (2)](#ai-agents--llms-mcp-servers)
 - [Ai Agents Mcp Servers (1)](#ai-agents-mcp-servers)
@@ -2007,6 +2007,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [MetaMCP](https://github.com/metatool-ai/metamcp) - MetaMCP is the one unified middleware MCP server that manages your MCP connections with GUI. ([Read more](/details/metamcp.md)) `Open Source` `Gui` `Middleware`
 - [MindsDB](https://github.com/mindsdb/mindsdb) - AI's query engine and platform for building AI that answers questions over large-scale federated data. Described as the only MCP server you'll ever need, for aggregators. ([Read more](/details/mindsdb.md)) `Local` `Python` `Ai`
 - [Neurolink](https://github.com/juspay/neurolink) - Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models as an MCP server for aggregators. ([Read more](/details/neurolink.md)) `Open Source` `Enterprise` `Ai Infrastructure`
+- [OpenAny](https://github.com/openanysi/openany-mcp) - The B2A (business to agent) marketplace. One MCP endpoint for 3,200+ APIs and 168+ AI models. Browse free; pay per call. Remote Streamable HTTP: https://mcp.openany.si ([Read more](/details/openany-mcp.md)) `Marketplace` `Remote` `Apis`
 - [OpenAI GPT Image MCP](https://github.com/SureScaleAI/openai-gpt-image-mcp) - OpenAI GPT Image MCP server delivers image generation, editing, and analysis using OpenAI's GPT models and DALL-E via MCP for seamless AI agent integration. Key features include API key auth, vision capabilities, and tool-calling endpoints for images. Use cases span visual content creation in agent workflows; focused on GPT-powered imagery compared to generic image MCP servers. ([Read more](/details/openai-gpt-image-mcp.md)) `OpenAI` `Image Generation` `GPT`
 - [Pipedream](https://pipedream.com) - Connect APIs remarkably fast for developers as an aggregator MCP server in cloud JavaScript environments. ([Read more](/details/pipedream.md)) `Cloud` `Javascript`
 - [PluggedIn MCP Proxy](https://github.com/VeriTeknik/pluggedin-mcp-proxy) - A comprehensive proxy server that combines multiple MCP servers into a single interface with extensive visibility. ([Read more](/details/pluggedin-mcp-proxy.md)) `Open Source` `Proxy` `Visibility`

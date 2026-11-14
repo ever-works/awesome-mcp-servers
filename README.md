@@ -84,6 +84,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Analytics (4)](#analytics)
 - [Analytics & Business Intelligence (1)](#analytics--business-intelligence)
 - [API & OpenAPI MCP Servers (6)](#api--openapi-mcp-servers)
+- [API & OpenAPI MCP Servers (1)](#api--openapi-mcp-servers-1)
 - [Api Integration Mcp Servers (14)](#api-integration-mcp-servers-1)
 - [API Integration Mcp Servers (57)](#api-integration-mcp-servers-2)
 - [API Integration MCP Servers (41)](#api-integration-mcp-servers-3)
@@ -2197,6 +2198,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [OpenAPI-to-MCPServer](https://github.com/higress-group/openapi-to-mcpserver) - Lightweight Go CLI tool by Higress Group converting OpenAPI specs to YAML/JSON for Higress API Gateway deployment. Simple flags for input/output and naming. Perfect for simple conversions without third-party tools, static, no auth. ([Read more](/details/openapi-to-mcpserver.md)) `Cli` `Openapi` `Mcp Server Generation` `Static` `Gateway`
 - [Speakeasy](https://www.speakeasy.com/openapi-to-mcp) - Fully integrated MCP generator that creates MCP servers from OpenAPI definitions and integrates them into SDKs. Offers type-safe validation via Zod for security. Suited for teams using SDKs in the Speakeasy ecosystem, CLI + SDK in TypeScript, static generation. ([Read more](/details/speakeasy.md)) `Openapi` `Mcp Generation` `Sdk` `Typescript` `Static`
 - [Swagger MCP](https://github.com/search?q=swagger-mcp&type=repositories) - Swagger to MCP server for converting Swagger specs to MCP. Supports API specs conversion for AI agent integration. ([Read more](/details/swagger-mcp.md)) `Swagger` `Openapi` `Api Conversion` `Mcp Server`
+
+## API & OpenAPI MCP Servers
+
+- [ParityDiff MCP](https://paritydiff.com/mcp) - Inspect captured API contract changes, SDK mappings, and release evidence in your IDE with a free public MCP server.
 
 ## Api Integration Mcp Servers
 

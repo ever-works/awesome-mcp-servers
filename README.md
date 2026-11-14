@@ -4608,7 +4608,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## OS Automation
 
-- [Ghost in the Droid](https://github.com/ghost-in-the-droid/android-agent) - Give any LLM agent a real Android or iPhone as its body. 62 MCP tools for tap, swipe, screenshot, UI accessibility tree inspection, app launch, ADB shell, and on-device inference (llama.cpp / MediaPipe / MLX). Install: `pip install ghost-in-the-droid`. ([Read more](/details/ghost-in-the-droid.md)) `Mobile` `Android` `Ios` `Python` `On Device Ai`
+- [Ghost in the Droid](https://github.com/ghost-in-the-droid/android-agent) - Give any LLM agent a real Android phone (iPhone is opt-in). 66 MCP tools, a Skill Hub of 117 skills for 113 apps that replay routes with no LLM, and human-in-the-loop captcha solving. Install: `uvx --from ghost-in-the-droid android-agent-mcp`. ([Read more](/details/ghost-in-the-droid.md)) `Mobile` `Android` `Ios` `Python` `On Device Ai`
 - [toolkit-mcp-server](https://github.com/search?q=toolkit-mcp-server) - Model Context Protocol server providing LLM Agents with system utilities including IP geolocation, network diagnostics, system monitoring, cryptographic operations, and QR code generation. ([Read more](/details/toolkit-mcp-server.md)) `Utilities` `Geolocation` `Crypto`
 
 ## Other Tools And Integrations

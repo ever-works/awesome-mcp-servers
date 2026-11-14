@@ -84,7 +84,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Analytics (4)](#analytics)
 - [Analytics & Business Intelligence (1)](#analytics--business-intelligence)
 - [API & OpenAPI MCP Servers (6)](#api--openapi-mcp-servers)
-- [API & OpenAPI MCP Servers (1)](#api--openapi-mcp-servers-1)
+- [API & OpenAPI MCP Servers (3)](#api--openapi-mcp-servers-1)
 - [Api Integration Mcp Servers (14)](#api-integration-mcp-servers-1)
 - [API Integration Mcp Servers (57)](#api-integration-mcp-servers-2)
 - [API Integration MCP Servers (41)](#api-integration-mcp-servers-3)
@@ -2201,6 +2201,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## API & OpenAPI MCP Servers
 
+- [ParityDiff MCP](https://paritydiff.com/mcp) - Inspect captured API contract changes, SDK mappings, and release evidence in your IDE with a free public MCP server.
+- [ParityDiff MCP](https://paritydiff.com/mcp) - Inspect captured API contract changes, SDK mappings, and release evidence in your IDE with a free public MCP server.
 - [ParityDiff MCP](https://paritydiff.com/mcp) - Inspect captured API contract changes, SDK mappings, and release evidence in your IDE with a free public MCP server.
 
 ## Api Integration Mcp Servers

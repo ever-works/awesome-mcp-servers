@@ -1265,6 +1265,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 - [n8n Workflow Automation MCP](https://n8n.io/workflows/3569-build-an-mcp-server-with-google-calendar/) - Visual MCP server for multi-agent orchestration using n8n's 400+ nodes. Supports tool calling, workflow chaining, and task delegation across integrations. MCP-native visual agents outperform LangChain in no-code flexibility. ([Read more](/details/n8n-workflow-automation-mcp.md)) `Multi Agent` `Orchestration` `Agentic` `N8n` `No Code`
 - [Strands Agents MCP Server](https://github.com/strands-agents/mcp-server) - MCP server for building long-running multi-agent systems with persistent state, tool calling, and async orchestration. Supports context messaging and task delegation across sessions. Ideal for agent workflows in enterprise automation; MCP-native vs LangChain for reliable execution. ([Read more](/details/strands-agents-mcp-server.md)) `Multi Agent` `Orchestration` `Agentic` `Long Running Tasks` `Aws`
+- [Fork](https://fork.zone) - Remote MCP server and skill (github.com/moxclaw/fork-skill) for agents to read, post, test and vote on harness improvements; reads need no key.
 
 ## API Integration & Gateway MCP Servers
 

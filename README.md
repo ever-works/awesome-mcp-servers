@@ -72,7 +72,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Travel & Transportation (26)](#travel--transportation)
 - [Version Control (23)](#version-control)
 - [Web Scraping (4)](#web-scraping)
-- [Aggregators (19)](#aggregators)
+- [Aggregators (20)](#aggregators)
 - [AI & Machine Learning (9)](#ai--machine-learning)
 - [AI Agents & LLMs MCP Servers (2)](#ai-agents--llms-mcp-servers)
 - [Ai Agents Mcp Servers (1)](#ai-agents-mcp-servers)
@@ -2007,6 +2007,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [MetaMCP](https://github.com/metatool-ai/metamcp) - MetaMCP is the one unified middleware MCP server that manages your MCP connections with GUI. ([Read more](/details/metamcp.md)) `Open Source` `Gui` `Middleware`
 - [MindsDB](https://github.com/mindsdb/mindsdb) - AI's query engine and platform for building AI that answers questions over large-scale federated data. Described as the only MCP server you'll ever need, for aggregators. ([Read more](/details/mindsdb.md)) `Local` `Python` `Ai`
 - [Neurolink](https://github.com/juspay/neurolink) - Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models as an MCP server for aggregators. ([Read more](/details/neurolink.md)) `Open Source` `Enterprise` `Ai Infrastructure`
+- [OpenAny](https://github.com/openanysi/openany-mcp) - The B2A (business to agent) marketplace. One MCP endpoint for 3,200+ APIs and 168+ AI models. Browse free; pay per call. Remote Streamable HTTP: https://mcp.openany.si ([Read more](/details/openany-mcp.md)) `Marketplace` `Remote` `Apis`
 - [OpenAI GPT Image MCP](https://github.com/SureScaleAI/openai-gpt-image-mcp) - OpenAI GPT Image MCP server delivers image generation, editing, and analysis using OpenAI's GPT models and DALL-E via MCP for seamless AI agent integration. Key features include API key auth, vision capabilities, and tool-calling endpoints for images. Use cases span visual content creation in agent workflows; focused on GPT-powered imagery compared to generic image MCP servers. ([Read more](/details/openai-gpt-image-mcp.md)) `OpenAI` `Image Generation` `GPT`
 - [Pipedream](https://pipedream.com) - Connect APIs remarkably fast for developers as an aggregator MCP server in cloud JavaScript environments. ([Read more](/details/pipedream.md)) `Cloud` `Javascript`
 - [PluggedIn MCP Proxy](https://github.com/VeriTeknik/pluggedin-mcp-proxy) - A comprehensive proxy server that combines multiple MCP servers into a single interface with extensive visibility. ([Read more](/details/pluggedin-mcp-proxy.md)) `Open Source` `Proxy` `Visibility`
@@ -3753,7 +3754,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Crypto Brokers MCP Server](https://github.com/itay1542/crypto-brokers-mcp) - An MCP server that implements popular brokers' APIs and more. Enables AI assistants to interact with cryptocurrency brokerage platforms for trading, portfolio management, and market analysis through the Model Context Protocol. ([Read more](/details/crypto-brokers-mcp-server.md)) `Cryptocurrency` `Trading` `Broker Api`
 - [Crypto Fear and Greed MCP](https://github.com/kukapay/crypto-feargreed-mcp) - Providing real-time and historical Crypto Fear and Greed Index data to AI agents. ([Read more](/details/crypto-fear-and-greed-mcp.md)) `Sentiment` `Fear Greed` `Index`
 - [Crypto MCP](https://github.com/szcharlesji/crypto-mcp) - Real-time access to cryptocurrency data from the CoinMarketCap API. ([Read more](/details/crypto-mcp.md)) `Cryptocurrency` `Coinmarketcap` `Real Time`
-- [Crypto MCP (kiss-kedaya)](https://github.com/kiss-kedaya/crypto_mcp) - ��MCP�h (Crypto MCP server) for cryptocurrency data access and blockchain interaction. ([Read more](/details/crypto-mcp-kiss-kedaya.md)) `Cryptocurrency` `Blockchain` `Chinese`
+- [Crypto MCP (kiss-kedaya)](https://github.com/kiss-kedaya/crypto_mcp) - ��MCP
+�h (Crypto MCP server) for cryptocurrency data access and blockchain interaction. ([Read more](/details/crypto-mcp-kiss-kedaya.md)) `Cryptocurrency` `Blockchain` `Chinese`
 - [Crypto Sentiment MCP](https://github.com/kukapay/crypto-sentiment-mcp) - An MCP server that delivers cryptocurrency sentiment analysis to AI agents. ([Read more](/details/crypto-sentiment-mcp.md)) `Sentiment Analysis` `Crypto` `Ai Agents`
 - [Crypto Trader MCP Claude Desktop](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop) - An MCP tool that provides cryptocurrency market data using the CoinGecko API specifically designed for Claude Desktop. ([Read more](/details/crypto-trader-mcp-claude-desktop.md)) `Cryptocurrency` `Coingecko` `Claude Desktop`
 - [CryptoPanic MCP](https://github.com/kukapay/cryptopanic-mcp-server) - Provides latest cryptocurrency news to AI agents through the CryptoPanic API. ([Read more](/details/cryptopanic-mcp.md)) `Crypto News` `Cryptopanic` `News`

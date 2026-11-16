@@ -157,7 +157,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Developer Tools MCP Servers (3)](#developer-tools-mcp-servers-2)
 - [Development Tools (6)](#development-tools)
 - [Development Tools Mcp Servers (3)](#development-tools-mcp-servers)
-- [Development Tools MCP Servers (25)](#development-tools-mcp-servers-1)
+- [Development Tools MCP Servers (26)](#development-tools-mcp-servers-1)
 - [Development Tools MCP Servers (7)](#development-tools-mcp-servers-2)
 - [DevOps & CI/CD MCP Servers (4)](#devops--cicd-mcp-servers)
 - [DevOps & Cloud MCP Servers (1)](#devops--cloud-mcp-servers)
@@ -3505,6 +3505,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Flash](https://www.getflashmcp.dev) - An MCP server for Claude that submits your app to launch directories and tracks each listing until it is live.
 - [Flash](https://www.getflashmcp.dev) - An MCP server for Claude that submits your app to launch directories and tracks each listing until it is live.
 - [React MCP Server](https://github.com/Streen9/react-mcp-server) - Open-source MCP server bridging Claude AI with React environments for app creation, dev server management, file operations, and command execution. ([Read more](/details/react-mcp-server.md)) `Open Source` `React` `Local`
+- [Serverdex](https://serverdex.io) - A directory of 35,000+ Model Context Protocol (MCP) servers synced from the official registry, with one-click install for Cursor and VS Code and a maintenance status on every listing. `Development`
 
 ## Development Tools MCP Servers
 

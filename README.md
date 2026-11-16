@@ -168,8 +168,9 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Documentation & Knowledge MCP Servers (15)](#documentation--knowledge-mcp-servers)
 - [Documentation & Learning Resources (15)](#documentation--learning-resources)
 - [Documentation Learning Resources (14)](#documentation-learning-resources)
-- [E Commerce (3)](#e-commerce)
-- [E-Commerce (1)](#e-commerce-1)
+- [E Commerce (1)](#e-commerce)
+- [E Commerce (3)](#e-commerce-1)
+- [E-Commerce (1)](#e-commerce-2)
 - [Email Marketing (2)](#email-marketing)
 - [Enterprise Data (4)](#enterprise-data)
 - [Entertainment (1)](#entertainment)
@@ -3618,6 +3619,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Context7 MCP](https://github.com/upstash/context7-mcp) - Connects to Context7.com's documentation database as an MCP server, providing intelligent access to library and framework documentation for developers and AI assistants. ([Read more](/details/context7-mcp.md)) `Mcp` `Documentation` `Ai Assistant` `Integration`
 - [D2L Brightspace MCP Server](https://mcp.pipedream.com/app/d2l_brightspace) - D2L Brightspace MCP Server is an MCP-compatible server that integrates the Brightspace LMS with MCP-based tools, enabling AI-driven access to courses, content, and learner data. ([Read more](/details/d2l-brightspace-mcp-server.md)) `lms` `courses` `Education`
 - [Daipendency MCP](https://github.com/daipendency/daipendency-mcp) - Supplies narrative and API documentation for dependencies (currently Rust), serving as an MCP server for development documentation and dependency insights. ([Read more](/details/daipendency-mcp.md)) `Documentation` `Dependency Management` `Rust` `Api`
+
+## E Commerce
+
+- [EchtCosplay](https://echtcosplay.de) - German online shop for 2000+ cosplay costumes, wigs, shoes & accessories with fast EU shipping.
 
 ## E Commerce
 

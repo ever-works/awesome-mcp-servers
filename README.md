@@ -85,6 +85,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [AI/ML (4)](#aiml)
 - [Analytics (4)](#analytics)
 - [Analytics & Business Intelligence (1)](#analytics--business-intelligence)
+- [Analytics Business Intelligence (1)](#analytics-business-intelligence)
 - [API & OpenAPI MCP Servers (6)](#api--openapi-mcp-servers)
 - [API & OpenAPI MCP Servers (3)](#api--openapi-mcp-servers-1)
 - [Api Integration Mcp Servers (17)](#api-integration-mcp-servers-1)
@@ -267,6 +268,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Repository Code Analysis MCP Servers (4)](#repository-code-analysis-mcp-servers-1)
 - [Research & Academic Mcp Servers (16)](#research--academic-mcp-servers)
 - [Research & Data (2)](#research--data)
+- [Research & Data (1)](#research--data-1)
 - [Science & Research (22)](#science--research)
 - [Scientific & Research Tools (5)](#scientific--research-tools)
 - [Scientific Research Tools (7)](#scientific-research-tools)
@@ -276,7 +278,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Search & RAG (13)](#search--rag)
 - [Search & Web (1)](#search--web)
 - [Search Discovery Mcp Servers (1)](#search-discovery-mcp-servers)
-- [Search Discovery MCP Servers (7)](#search-discovery-mcp-servers-1)
+- [Search Discovery MCP Servers (8)](#search-discovery-mcp-servers-1)
 - [Search Rag (2)](#search-rag)
 - [Search Rag (1)](#search-rag-1)
 - [Search RAG (1)](#search-rag-2)
@@ -2222,6 +2224,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 ## Analytics & Business Intelligence
 
 - [Smartsheet Healthcare Analytics MCP Server](https://github.com/terilios/smartsheet-server) - MCP server providing healthcare analytics capabilities for Smartsheet, including clinical note summarization, patient feedback analysis, and research impact assessment. ([Read more](/details/smartsheet-healthcare-analytics-mcp-server.md)) `Healthcare Analytics` `Clinical Data` `Smartsheet`
+
+## Analytics Business Intelligence
+
+- [CorpusIQ](https://www.corpusiq.io/) - Remote MCP server for business data: 40+ read-only connectors (Stripe, GA4, Shopify, QuickBooks, HubSpot, Google Ads) that answer revenue, customer and analytics questions with source-cited figures. ([Read more](/details/corpusiq.md)) `Analytics` `Business Intelligence` `Stripe` `Shopify` `Read Only` `Oauth` `Remote`
 
 ## API & OpenAPI MCP Servers
 
@@ -4952,6 +4958,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [BuildMCPServer](https://github.com/search?q=BuildMCPServer) - A complete walkthrough on how to build an MCP server to serve a trained Random Forest model and integrate it with Bee Framework for ReAct interactivity. Useful for research and data science applications involving model serving. ([Read more](/details/buildmcpserver.md)) `Tutorial` `Model Serving` `React`
 - [semantic-scholar-fastmcp-mcp-server](https://github.com/semantic-scholar-fastmcp-mcp-server) - A FastMCP server implementation for the Semantic Scholar API providing comprehensive access to academic paper data author information and citation networks. Categorized under Research & Data. ([Read more](/details/semantic-scholar-fastmcp-mcp-server.md)) `Academic` `Papers` `Fastmcp`
 
+## Research & Data
+
+- [FalcoScan](https://falcoscan.com) - Remote MCP server for researching AI products and markets: find tools across 30 markets, compare competitors, and see which AI products shut down or were acquired. ([Read more](/details/falcoscan.md)) `Research` `Ai Tools` `Remote` `Hosted`
+
 ## Science & Research
 
 - [AstroMCP](https://github.com/simpolism/AstroMCP) - Provides AI assistants with astrological chart functionality, integrating seamlessly via the Model Context Protocol. ([Read more](/details/astromcp.md)) `Open Source` `Astrology` `Ai Integration`
@@ -5053,6 +5063,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [HeroHunt.ai](https://www.herohunt.ai/?utm_source=mcpserver-ever-works&utm_medium=listing&utm_campaign=directories) - HeroHunt.ai is an AI recruiter that searches up to 1 billion public profiles, screens candidates with AI and reaches out to them on autopilot.
 - [HeroHunt.ai](https://www.herohunt.ai/?utm_source=mcpserver-ever-works&utm_medium=listing&utm_campaign=directories) - HeroHunt.ai is an AI recruiter that searches up to 1 billion public profiles, screens candidates with AI and reaches out to them on autopilot.
 - [Marketplace Search MCP](https://github.com/lulzasaur9192/marketplace-search-mcp) - MCP server for searching 20+ online marketplaces such as OfferUp, Reverb, TCGPlayer, Craigslist and Poshmark, plus contractor and nurse license checks, PSA card data and NYC building violations. ([Read more](/details/marketplace-search-mcp.md)) `Marketplace` `Search` `E Commerce`
+- [Worklittle Jobs MCP](https://github.com/worklittle/jobs-mcp) - Open-source remote MCP server for searching 4 million+ jobs with visa, salary and distance filters, applying from your AI app and saving roles to a Worklittle account. ([Read more](/details/worklittle-jobs-mcp.md)) `Jobs` `Job Search` `Remote` `Open Source`
 
 ## Search Rag
 

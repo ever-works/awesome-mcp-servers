@@ -101,11 +101,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Browser Automation (1)](#browser-automation-1)
 - [Business & Commerce MCP Servers (2)](#business--commerce-mcp-servers-1)
 - [Business & Productivity (10)](#business--productivity)
-- [Business Commerce MCP Servers (229)](#business-commerce-mcp-servers)
+- [Business Commerce MCP Servers (230)](#business-commerce-mcp-servers)
 - [Business Commerce MCP Servers (6)](#business-commerce-mcp-servers-1)
 - [Business Productivity (2)](#business-productivity)
 - [Business Productivity (2)](#business-productivity-1)
-- [business-data (1)](#business-data)
 - [CI/CD (11)](#cicd)
 - [Cloud (2)](#cloud)
 - [Cloud & DevOps Mcp Servers (18)](#cloud--devops-mcp-servers-3)
@@ -213,11 +212,11 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Knowledge & Note Taking MCP Servers (2)](#knowledge--note-taking-mcp-servers-1)
 - [Knowledge Management (1)](#knowledge-management)
 - [Knowledge Management & Documentation MCP Servers (7)](#knowledge-management--documentation-mcp-servers)
-- [Knowledge Management & Memory (65)](#knowledge-management--memory)
+- [Knowledge Management & Memory (64)](#knowledge-management--memory)
 - [Knowledge Management Mcp Servers (7)](#knowledge-management-mcp-servers)
 - [Knowledge Management Mcp Servers (1)](#knowledge-management-mcp-servers-1)
 - [Knowledge Management MCP Servers (3)](#knowledge-management-mcp-servers-2)
-- [Knowledge Management Memory (1)](#knowledge-management-memory)
+- [Knowledge Management Memory (2)](#knowledge-management-memory)
 - [Knowledge Management Memory (1)](#knowledge-management-memory-1)
 - [Knowledge Mcp Servers (4)](#knowledge-mcp-servers)
 - [Location Services (30)](#location-services)
@@ -2469,7 +2468,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Browser Automation
 
-- [CurlShot MCP Server](https://github.com/SergiuPogor/curlshot-mcp) - Hosted MCP server for the CurlShot screenshot API that lets AI assistants render public web pages in a real browser and get them back as images, PDFs, or scrolling videos. ([Read more](/details/curlshot-mcp.md)) `Screenshot` `Web Screenshot` `Pdf` `Headless Browser` `Hosted` `Api`
+- [CurlShot MCP Server](https://curlshot.com) - Hosted MCP server for the CurlShot screenshot API that lets AI assistants render public web pages in a real browser and get them back as images, PDFs, or scrolling videos. ([Read more](/details/curlshot-mcp.md)) `Screenshot` `Web Screenshot` `Pdf` `Headless Browser` `Hosted` `Api`
 
 ## Business & Commerce MCP Servers
 
@@ -2719,6 +2718,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [DealMachine MCP Server](https://mcp.pipedream.com/app/dealmachine) - An MCP server for DealMachine that surfaces its real estate investor tools for direct-to-seller marketing and deal discovery to MCP clients. ([Read more](/details/dealmachine-mcp-server.md)) `Real Estate` `Marketing` `lead-generation`
 - [dealx/mcp-server](https://github.com/DealExpress/mcp-server) - MCP Server for the DealX platform, enabling integration and data retrieval in accordance with the MCP protocol. ([Read more](/details/dealxmcp-server.md)) `Integration` `Business` `Platform` `Open Source`
 - [DEAR Systems MCP Server](https://mcp.pipedream.com/app/dear) - An MCP Server that connects to DEAR Inventory (DEAR Systems), exposing inventory control, manufacturing, sales, shipping, and payment operations through the MCP interface. ([Read more](/details/dear-systems-mcp-server.md)) `Inventory` `E Commerce` `Orders`
+- [Statsnet MCP](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. ([Read more](/details/statsnet-mcp.md)) `Company Data` `Osint` `background-check` `Remote` `Open Source`
 - [Stripe MCP Server](https://apigene.ai/mcp/official/stripe) - Manage Stripe payments, subscriptions, customers, and invoices through AI agents. Frequently used by SaaS teams for operations like refunds and subscription creation. ([Read more](/details/stripe-mcp-server.md)) `Payments` `Billing` `E Commerce`
 
 ## Business Commerce MCP Servers
@@ -2739,10 +2739,6 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 - [Odoo Accounting MCP](https://github.com/jeevanism/odoo-accounting-mcp) - Facilitates AI-driven analysis of Odoo accounting data through a secure MCP server integration. ([Read more](/details/odoo-accounting-mcp.md)) `Odoo` `Accounting` `Finance`
 - [Offorte Proposal Software](https://offorte.com) - The Offorte Proposal Software MCP server enables creation and sending of business proposals. ([Read more](/details/offorte-proposal-software.md)) `Proposals` `Business` `Mcp Server`
-
-## business-data
-
-- [Statsnet MCP](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. ([Read more](/details/statsnet-mcp.md)) `Company Data` `Osint` `background-check` `Remote` `Open Source`
 
 ## CI/CD
 
@@ -4284,7 +4280,6 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [mengram](https://github.com/alibaizhanov/mengram) - Human-like memory layer for AI agents with semantic, episodic, procedural memory types. Includes Claude Code hooks for auto-save/recall, cognitive profile, 29 MCP tools, knowledge graph, smart triggers, multi-user isolation. Python & JS SDKs. ([Read more](/details/mengram.md)) `Human Like Memory` `Knowledge Graph` `Multi Platform`
 - [Mindmap MCP Server](https://github.com/YuChenSSR/mindmap-mcp-server) - MCP server for generating and managing mindmaps through AI, enabling structured knowledge visualization as artifacts. ([Read more](/details/mindmap-mcp-server.md)) `Mindmap` `Visualization` `Artifacts`
 - [mini_claude](https://github.com/20alexl/mini_claude) - Persistent memory and guardrails for Claude Code with mistake tracking, loop detection, scope guard, and hooks to block risky edits. Runs locally with Ollama. ([Read more](/details/mini_claude.md)) `Persistent Memory` `Guardrails` `Local`
-- [Mnemoverse Memory](https://github.com/mnemoverse/mcp-memory-server) - Hosted memory server for AI agents over MCP; tell it a recalled memory helped or misled, and it re-ranks what comes back next. ([Read more](/details/mnemoverse-memory.md)) `Agent Memory` `Persistent Memory` `Hosted` `Oauth` `Typescript`
 - [Notion API MCP](https://github.com/pbohannon/notion-api-mcp) - A Python-based MCP for exposing Notion functionality to LLMs such as Claude, enabling AI agents to interact with Notion content, databases, and workspace data. ([Read more](/details/notion-api-mcp.md)) `Notion` `Python` `Workspace`
 - [Notion MCP (Badhansen)](https://github.com/Badhansen/notion-mcp) - A simple MCP server that integrates with Notion's API to manage personal todo lists and workspace content for AI assistants. ([Read more](/details/notion-mcp-badhansen.md)) `Notion` `Todo List` `Personal Management`
 - [Notion MCP Server (orbit-logistics)](https://github.com/orbit-logistics/notion-mcp-server) - MCP server for Notion integration, enabling AI assistants to access and manage Notion workspace content. ([Read more](/details/notion-mcp-server-orbit-logistics.md)) `Notion` `Workspace` `Integration`
@@ -4323,6 +4318,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 ## Knowledge Management Memory
 
 - [Knowledge Graph Memory Server](https://apigene.ai/mcp/official/knowledge-graph) - Persistent memory across chat sessions using knowledge graph structure. Allows agents to remember project context and decisions persistently. ([Read more](/details/knowledge-graph-memory-server.md)) `Memory` `Knowledge Graph` `Persistence`
+- [Mnemoverse Memory](https://github.com/mnemoverse/mcp-memory-server) - Hosted memory server for AI agents over MCP; tell it a recalled memory helped or misled, and it re-ranks what comes back next. ([Read more](/details/mnemoverse-memory.md)) `Agent Memory` `Persistent Memory` `Hosted` `Oauth` `Typescript`
 
 ## Knowledge Management Memory
 
@@ -4765,7 +4761,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [linear-mcp](https://github.com/comitest22/linear-mcp) - MCP server facilitating interaction with the Linear API for ticket management and prioritization. ([Read more](/details/linear-mcp.md)) `Open Source` `Ticket Management` `Linear`
 - [mcp-linear](https://github.com/tacticlaunch/mcp-linear) - Integrates with Linear project management system via MCP server. ([Read more](/details/mcp-linear.md)) `Open Source` `Linear` `Issues`
 - [mcp-server-asana](https://github.com/roychri/mcp-server-asana) - Model Context Protocol server for Asana API integration, allowing interaction with Asana from MCP clients. ([Read more](/details/mcp-server-asana.md)) `Open Source` `Asana` `Project Management`
-- [Orbit by Noveum](https://orbit.noveum.ai/mcp) - Hosted MCP for issues, projects, sprints, docs and files with workspace-scoped OAuth. A free Orbit account is required. ([Read more](/details/orbit-by-noveum.md)) `Project Management` `Task Management` `Oauth`
+- [Orbit by Noveum](https://github.com/Noveum/orbit) - Hosted MCP for issues, projects, sprints, docs and files with workspace-scoped OAuth. A free Orbit account is required. ([Read more](/details/orbit-by-noveum.md)) `Project Management` `Task Management` `Oauth`
 
 ## Proxy
 

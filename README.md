@@ -640,6 +640,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 
+- [Zorven](https://github.com/tkodcumpeg4/zorven) - Open-source (AGPL-3.0), self-hostable reverse proxy, CGNAT tunnel, and private networking platform in Go with a built-in MCP server (`zorven mcp`). `Tunneling` `Self Hosted` `Networking`
 - [ESLint MCP Server](https://eslint.org/docs/latest/use/mcp) - Official ESLint Model Context Protocol server enabling AI assistants to run ESLint linting and code analysis in IDEs, assisting developers with automated code quality checks and JavaScript/TypeScript error detection. ([Read more](/details/eslint-mcp-server.md)) `Linting` `Code Analysis` `Javascript`
 - [FastMCP Framework](https://gofastmcp.com/getting-started/welcome) - The fast, Pythonic framework for building MCP servers, clients, and applications with decorator-based API, transforming Python functions into MCP-compatible tools, resources, and prompts. ([Read more](/details/fastmcp-framework.md)) `Python` `Framework` `Sdk`
 - [FastMCP Python Framework](https://fastmcp.me) - A rapid development framework for building MCP servers in Python with decorators instead of JSON schemas. Includes built-in MCP Server Inspector for browser-based testing and debugging, simplifying Python MCP server development. ([Read more](/details/fastmcp-python-framework.md)) `Python` `Framework` `Development`

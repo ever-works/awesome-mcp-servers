@@ -1,19 +1,26 @@
 # HelpSpot MCP Server
 
-**Category:** Business & Commerce – MCP Servers  
-**Slug:** helpspot-mcp-server  
-**Brand:** HelpSpot
+Official HelpSpot MCP server that connects Claude, ChatGPT and other AI agents to a HelpSpot help desk to manage requests, report on support data and work with knowledge bases.
 
-## Description
-HelpSpot MCP Server is an integration that connects your HelpSpot help desk account to AI tools via the Model Context Protocol (MCP), enabling automated and AI-assisted customer support workflows.
+## Basic Info
 
-Source: https://mcp.pipedream.com/app/helpspot
+- **Name:** HelpSpot MCP Server
+- **Category:** Customer Support
+- **Brand:** HelpSpot
+- **Source URL:** https://support.helpspot.com/index.php?pg=kb.page&id=921
+- **Tags:** `customer-support`, `helpdesk`, `knowledge-base`
 
 ## Features
-- Connects a HelpSpot account to AI tools (e.g., Cursor, Claude, Windsurf) via Pipedream’s MCP server
-- Exposes HelpSpot help desk and customer service resources through the Model Context Protocol
-- Enables automated support workflows powered by AI
-- Designed for customer support, helpdesk, and ticketing use cases
 
-## Pricing
-Pricing information is not provided in the available content.
+- **Manage requests:** find, review, prioritize and update support requests; add notes, change status or close items.
+- **Report and analyze:** summaries and breakdowns of request volume, common customers and category trends.
+- **Knowledge bases:** search knowledge books and update articles, including tagging pages in bulk.
+
+## Safeguards
+
+- Agents can be set to ask for confirmation before changing anything in HelpSpot.
+- Individual MCP tools can be turned on or off in the HelpSpot admin.
+
+## Setup
+
+- The HelpSpot knowledge base has guides for connecting ChatGPT and Claude Code to the HelpSpot MCP server, and for the MCP server admin settings.

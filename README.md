@@ -136,7 +136,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [CRM (1)](#crm-1)
 - [Customer Support (2)](#customer-support)
 - [Data Access & Integration Mcp Servers (31)](#data-access--integration-mcp-servers)
-- [Data Access Integration MCP Servers (54)](#data-access-integration-mcp-servers)
+- [Data Access Integration MCP Servers (55)](#data-access-integration-mcp-servers)
 - [Data Access Integration MCP Servers (1)](#data-access-integration-mcp-servers-1)
 - [Data Analysis & Exploration MCP Servers (12)](#data-analysis--exploration-mcp-servers-2)
 - [Data Integration (1)](#data-integration)
@@ -3172,6 +3172,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Data.Police.UK MCP Server](https://mcp.pipedream.com/app/data_police_uk) - An MCP Server that exposes the UK Police open data API through MCP, supporting queries about crime and policing data in England, Wales, and Northern Ireland. ([Read more](/details/datapoliceuk-mcp-server.md)) `Open Data` `Government` `crime`
 - [Databricks MCP Server (OAuth - Service Principal)](https://mcp.pipedream.com/app/databricks_oauth) - An OAuth-enabled MCP Server for Databricks using a Service Principal, allowing secure authenticated access from MCP tools to Databricks resources. ([Read more](/details/databricks-mcp-server-oauth-service-principal.md)) `Databricks` `Data Platform` `Oauth`
 - [databricks-server](https://github.com/RafaelCartenet/mcp-databricks-server) - A Model Context Protocol (MCP) server for executing SQL queries against Databricks using the Statement Execution API. Enables AI assistants to directly query Databricks data warehouses, analyze schemas, and retrieve structured results. ([Read more](/details/databricks-server.md)) `Mcp` `Databricks` `Sql` `Data Exploration` `Ai Assistant`
+- [Datacircle](https://datacircle.dev) - Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website.
 - [Datagov Mcp](https://github.com/aviveldan/datagov-mcp) - An MCP server for accessing Israeli Government Data from Data.gov.il, allowing structured data retrieval and interaction via the MCP protocol. It is a direct example of a domain-specific Awesome MCP Server. ([Read more](/details/datagov-mcp.md)) `Mcp` `Open Data` `Government` `Data Access`
 - [dbt-mcp](https://github.com/dbt-labs/dbt-mcp) - The official MCP server for dbt (data build tool), providing integration with dbt Core/Cloud, metadata discovery, model info, and semantic layer querying. ([Read more](/details/dbt-mcp.md)) `Mcp` `Dbt` `Data Integration` `Metadata` `Data Analysis`
 - [deepresearchmcp](https://github.com/ameeralns/deepresearchmcp) - A research-focused MCP server that conducts intelligent, iterative research through web searches, analysis, and comprehensive report generation, offering citation-rich research automation. ([Read more](/details/deepresearchmcp.md)) `Mcp` `Research` `Web Search` `Automation`

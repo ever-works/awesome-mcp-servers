@@ -7,7 +7,7 @@ A curated list of the best MCP Servers, featuring top solutions, libraries, tool
 This directory was built and is maintained using the [Ever Works](https://ever.works) Directory Builder platform.  
 The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/ever-works-website-template).
 
-> **4,215 items in 186 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [mcpserver.ever.works](https://mcpserver.ever.works).
+> **4,216 items in 186 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [mcpserver.ever.works](https://mcpserver.ever.works).
 
 ## 📑 Categories
 
@@ -20,7 +20,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Api Integration Mcp Servers](categories/api-integration-mcp-servers.md) (133)
 - [Data Analysis & Exploration MCP Servers](categories/data-analysis-exploration-mcp-servers.md) (85)
 - [Messaging MCP Servers](categories/messaging-mcp-servers.md) (95)
-- [Business Commerce MCP Servers](categories/business-commerce-mcp-servers.md) (282)
+- [Business Commerce MCP Servers](categories/business-commerce-mcp-servers.md) (283)
 - [Developer Tools "Developer Tools"amp; IDE MCP Servers](categories/developer-tools-developer-toolsamp-ide-mcp-servers.md) (118)
 - [Monitoring](categories/monitoring.md) (47)
 - [Project Management MCP Servers](categories/project-management-mcp-servers.md) (78)

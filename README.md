@@ -7,7 +7,7 @@ A curated list of the best MCP Servers, featuring top solutions, libraries, tool
 This directory was built and is maintained using the [Ever Works](https://ever.works) Directory Builder platform.  
 The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/ever-works-website-template).
 
-> **4,216 items in 186 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [mcpserver.ever.works](https://mcpserver.ever.works).
+> **4,227 items in 186 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [mcpserver.ever.works](https://mcpserver.ever.works).
 
 ## 📑 Categories
 
@@ -19,10 +19,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [MCP Directories & Registries](categories/mcp-directories-registries.md) (13)
 - [Api Integration Mcp Servers](categories/api-integration-mcp-servers.md) (133)
 - [Data Analysis & Exploration MCP Servers](categories/data-analysis-exploration-mcp-servers.md) (85)
-- [Messaging MCP Servers](categories/messaging-mcp-servers.md) (95)
-- [Business Commerce MCP Servers](categories/business-commerce-mcp-servers.md) (283)
+- [Messaging MCP Servers](categories/messaging-mcp-servers.md) (96)
+- [Business Commerce MCP Servers](categories/business-commerce-mcp-servers.md) (284)
 - [Developer Tools "Developer Tools"amp; IDE MCP Servers](categories/developer-tools-developer-toolsamp-ide-mcp-servers.md) (118)
-- [Monitoring](categories/monitoring.md) (47)
+- [Monitoring](categories/monitoring.md) (48)
 - [Project Management MCP Servers](categories/project-management-mcp-servers.md) (78)
 - [Healthcare & Biotech MCP Servers](categories/healthcare-biotech-mcp-servers.md) (6)
 - [MCP Directories & Marketplaces](categories/mcp-directories-marketplaces.md) (4)
@@ -30,7 +30,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Web Search MCP Servers](categories/web-search-mcp-servers.md) (92)
 - [Cloud Storage](categories/cloud-storage.md) (5)
 - [Mcp Middleware Orchestration](categories/mcp-middleware-orchestration.md) (56)
-- [Media Processing MCP Servers](categories/media-processing-mcp-servers.md) (70)
+- [Media Processing MCP Servers](categories/media-processing-mcp-servers.md) (73)
 - [Repository Code Analysis MCP Servers](categories/repository-code-analysis-mcp-servers.md) (33)
 - [Workflow Automation Mcp Servers](categories/workflow-automation-mcp-servers.md) (38)
 - [AI Agent & Orchestration MCP Servers](categories/ai-agent-orchestration-mcp-servers.md) (2)
@@ -65,7 +65,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Security MCP Servers](categories/security-mcp-servers.md) (2)
 - [Social](categories/social.md) (14)
 - [Testing](categories/testing.md) (1)
-- [Travel Transportation](categories/travel-transportation.md) (61)
+- [Travel Transportation](categories/travel-transportation.md) (62)
 - [Version Control](categories/version-control.md) (23)
 - [Web Scraping](categories/web-scraping.md) (5)
 - [Aggregators](categories/aggregators.md) (20)
@@ -81,7 +81,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Authentication](categories/authentication.md) (3)
 - [Blockchain & Finance MCP Servers](categories/blockchain-finance-mcp-servers.md) (12)
 - [Browser Automation](categories/browser-automation.md) (28)
-- [Business Productivity](categories/business-productivity.md) (15)
+- [Business Productivity](categories/business-productivity.md) (16)
 - [CI/CD](categories/cicd.md) (11)
 - [Cloud](categories/cloud.md) (2)
 - [Cloud Native](categories/cloud-native.md) (1)
@@ -149,8 +149,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Knowledge Management Memory](categories/knowledge-management-memory.md) (71)
 - [Knowledge Mcp Servers](categories/knowledge-mcp-servers.md) (4)
 - [Location Services](categories/location-services.md) (31)
-- [Marketing](categories/marketing.md) (33)
-- [Marketing & Sales MCP Servers](categories/marketing-sales-mcp-servers.md) (6)
+- [Marketing](categories/marketing.md) (34)
+- [Marketing & Sales MCP Servers](categories/marketing-sales-mcp-servers.md) (7)
 - [MCP DevTools](categories/mcp-devtools.md) (5)
 - [MCP Server](categories/mcp-server.md) (1)
 - [Messaging](categories/messaging.md) (3)
@@ -178,7 +178,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Search Rag](categories/search-rag.md) (17)
 - [Security](categories/security.md) (8)
 - [Security & Compliance MCP Servers](categories/security-compliance-mcp-servers.md) (13)
-- [SEO](categories/seo.md) (6)
+- [SEO](categories/seo.md) (7)
 - [Serverless](categories/serverless.md) (4)
 - [Smart Home & IoT](categories/smart-home-iot.md) (1)
 - [Smart Home & IoT MCP Servers](categories/smart-home-iot-mcp-servers.md) (40)

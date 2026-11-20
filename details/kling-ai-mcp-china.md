@@ -1,4 +1,4 @@
-# Kling AI MCP (China)
+# Kling AI China Plugin
 
 Official hosted China-region image and video generation, reference workflows and task tracking through MCP.
 

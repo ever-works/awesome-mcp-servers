@@ -1,4 +1,4 @@
-# Kling AI MCP (Global)
+# Kling AI Global Plugin
 
 Official hosted Global-region image and video generation, reference workflows and task tracking through MCP.
 

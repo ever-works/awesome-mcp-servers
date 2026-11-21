@@ -7,7 +7,7 @@ A curated list of the best MCP Servers, featuring top solutions, libraries, tool
 This directory was built and is maintained using the [Ever Works](https://ever.works) Directory Builder platform.  
 The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/ever-works-website-template).
 
-> **4,227 items in 186 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [mcpserver.ever.works](https://mcpserver.ever.works).
+> **4,228 items in 186 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [mcpserver.ever.works](https://mcpserver.ever.works).
 
 ## 📑 Categories
 
@@ -94,7 +94,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Communication Mcp Servers](categories/communication-mcp-servers.md) (22)
 - [Container Orchestration](categories/container-orchestration.md) (1)
 - [Containers](categories/containers.md) (2)
-- [Content Creation Generation MCP Servers](categories/content-creation-generation-mcp-servers.md) (34)
+- [Content Creation Generation MCP Servers](categories/content-creation-generation-mcp-servers.md) (35)
 - [Content Management MCP Servers](categories/content-management-mcp-servers.md) (25)
 - [CRM](categories/crm.md) (22)
 - [Customer Support](categories/customer-support.md) (3)

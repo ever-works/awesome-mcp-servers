@@ -7,7 +7,7 @@ A curated list of the best MCP Servers, featuring top solutions, libraries, tool
 This directory was built and is maintained using the [Ever Works](https://ever.works) Directory Builder platform.  
 The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/ever-works-website-template).
 
-> **4,230 items in 183 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [mcpserver.ever.works](https://mcpserver.ever.works).
+> **4,231 items in 183 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [mcpserver.ever.works](https://mcpserver.ever.works).
 
 ## 📑 Categories
 
@@ -179,7 +179,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Serverless](categories/serverless.md) (4)
 - [Smart Home & IoT](categories/smart-home-iot.md) (1)
 - [Smart Home & IoT MCP Servers](categories/smart-home-iot-mcp-servers.md) (40)
-- [Social Media](categories/social-media.md) (3)
+- [Social Media](categories/social-media.md) (4)
 - [Sports & Entertainment](categories/sports-entertainment.md) (21)
 - [Sports Entertainment Mcp Servers](categories/sports-entertainment-mcp-servers.md) (10)
 - [Spreadsheets](categories/spreadsheets.md) (2)

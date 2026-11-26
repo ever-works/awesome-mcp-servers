@@ -7,7 +7,7 @@ A curated list of the best MCP Servers, featuring top solutions, libraries, tool
 This directory was built and is maintained using the [Ever Works](https://ever.works) Directory Builder platform.  
 The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/ever-works-website-template).
 
-> **4,232 items in 183 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [mcpserver.ever.works](https://mcpserver.ever.works).
+> **4,239 items in 184 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [mcpserver.ever.works](https://mcpserver.ever.works).
 
 ## 📑 Categories
 
@@ -20,7 +20,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Api Integration Mcp Servers](categories/api-integration-mcp-servers.md) (133)
 - [Data Analysis & Exploration MCP Servers](categories/data-analysis-exploration-mcp-servers.md) (85)
 - [Messaging MCP Servers](categories/messaging-mcp-servers.md) (96)
-- [Business Commerce MCP Servers](categories/business-commerce-mcp-servers.md) (284)
+- [Business Commerce MCP Servers](categories/business-commerce-mcp-servers.md) (287)
 - [Monitoring](categories/monitoring.md) (48)
 - [Project Management MCP Servers](categories/project-management-mcp-servers.md) (78)
 - [Healthcare & Biotech MCP Servers](categories/healthcare-biotech-mcp-servers.md) (6)
@@ -29,12 +29,12 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Web Search MCP Servers](categories/web-search-mcp-servers.md) (92)
 - [Cloud Storage](categories/cloud-storage.md) (5)
 - [Mcp Middleware Orchestration](categories/mcp-middleware-orchestration.md) (56)
-- [Media Processing MCP Servers](categories/media-processing-mcp-servers.md) (74)
+- [Media Processing MCP Servers](categories/media-processing-mcp-servers.md) (76)
 - [Repository Code Analysis MCP Servers](categories/repository-code-analysis-mcp-servers.md) (33)
 - [Workflow Automation Mcp Servers](categories/workflow-automation-mcp-servers.md) (38)
 - [AI Agent & Orchestration MCP Servers](categories/ai-agent-orchestration-mcp-servers.md) (2)
 - [API Integration & Gateway MCP Servers](categories/api-integration-gateway-mcp-servers.md) (7)
-- [Content Extraction & Summarization MCP Servers](categories/content-extraction-summarization-mcp-servers.md) (42)
+- [Content Extraction & Summarization MCP Servers](categories/content-extraction-summarization-mcp-servers.md) (43)
 - [Data Visualization](categories/data-visualization.md) (13)
 - [Developer Tools](categories/developer-tools.md) (13)
 - [DevOps](categories/devops.md) (27)
@@ -162,6 +162,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Package Management](categories/package-management.md) (1)
 - [Payments](categories/payments.md) (1)
 - [PDF](categories/pdf.md) (2)
+- [Productivity & Collaboration MCP Servers](categories/productivity-collaboration-mcp-servers.md) (1)
 - [Productivity Business Tools](categories/productivity-business-tools.md) (1)
 - [Project Management](categories/project-management.md) (4)
 - [Proxy](categories/proxy.md) (3)

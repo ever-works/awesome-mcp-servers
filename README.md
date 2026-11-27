@@ -7,7 +7,7 @@ A curated list of the best MCP Servers, featuring top solutions, libraries, tool
 This directory was built and is maintained using the [Ever Works](https://ever.works) Directory Builder platform.  
 The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/ever-works-website-template).
 
-> **4,239 items in 184 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [mcpserver.ever.works](https://mcpserver.ever.works).
+> **4,240 items in 184 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [mcpserver.ever.works](https://mcpserver.ever.works).
 
 ## 📑 Categories
 
@@ -29,7 +29,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Web Search MCP Servers](categories/web-search-mcp-servers.md) (92)
 - [Cloud Storage](categories/cloud-storage.md) (5)
 - [Mcp Middleware Orchestration](categories/mcp-middleware-orchestration.md) (56)
-- [Media Processing MCP Servers](categories/media-processing-mcp-servers.md) (76)
+- [Media Processing MCP Servers](categories/media-processing-mcp-servers.md) (77)
 - [Repository Code Analysis MCP Servers](categories/repository-code-analysis-mcp-servers.md) (33)
 - [Workflow Automation Mcp Servers](categories/workflow-automation-mcp-servers.md) (38)
 - [AI Agent & Orchestration MCP Servers](categories/ai-agent-orchestration-mcp-servers.md) (2)

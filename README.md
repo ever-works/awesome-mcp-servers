@@ -7,7 +7,7 @@ A curated list of the best MCP Servers, featuring top solutions, libraries, tool
 This directory was built and is maintained using the [Ever Works](https://ever.works) Directory Builder platform.  
 The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/ever-works-website-template).
 
-> **4,240 items in 184 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [mcpserver.ever.works](https://mcpserver.ever.works).
+> **4,241 items in 184 categories.** The full list is too large for one GitHub page, so each category has its own page. You can also browse and search everything on [mcpserver.ever.works](https://mcpserver.ever.works).
 
 ## 📑 Categories
 
@@ -138,7 +138,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [Home Automation MCP Servers](categories/home-automation-mcp-servers.md) (5)
 - [Image & Video Processing](categories/image-video-processing.md) (4)
 - [IoT & Hardware MCP Servers](categories/iot-hardware-mcp-servers.md) (1)
-- [Knowledge & Memory](categories/knowledge-memory.md) (2)
+- [Knowledge & Memory](categories/knowledge-memory.md) (3)
 - [Knowledge & Note Taking MCP Servers](categories/knowledge-note-taking-mcp-servers.md) (6)
 - [Knowledge Management](categories/knowledge-management.md) (1)
 - [Knowledge Management & Documentation MCP Servers](categories/knowledge-management-documentation-mcp-servers.md) (7)
